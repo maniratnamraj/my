@@ -90,10 +90,10 @@ https://user-images.githubusercontent.com/68803611/147410390-5e982e3b-59fe-4166-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://i.imgur.com/qy5kXwb.jpg" group-title="Telugu Video songs",Sathruvu
 https://user-images.githubusercontent.com/68803611/147410530-014640b3-1467-4e4b-9d9c-a929b26a32c8.mp4
 
-#EXTINF:-1 tvg-id="GARUDA HD" tvg-logo="https://i.imgur.com/seg69lt.png" group-title="", GARUDA HD
+#EXTINF:-1 tvg-id="GARUDA HD" tvg-logo="https://i.imgur.com/W8CFuqx.jpg" group-title="", GARUDA HD
 https://rtmp.streamwell.in/hls/garudatv.m3u8
 
-#EXTINF:-1 tvg-id="GARUDA " tvg-logo="https://i.imgur.com/seg69lt.png" group-title="", GARUDA BHAKTI
+#EXTINF:-1 tvg-id="GARUDA " tvg-logo="https://i.imgur.com/iv01fEs.jpg" group-title="", GARUDA BHAKTI
 https://server.streamwell.in/hls/bhaktigaruda.m3u8
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://i.imgur.com/seg69lt.png" group-title="Entertainment",ETV 
