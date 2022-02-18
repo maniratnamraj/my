@@ -100,13 +100,13 @@ https://server.streamwell.in/hls/bhaktigaruda.m3u8
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/385
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="Movies",ETV Cinema
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1500
+http://qqtv.nl:8080/Airport111/Airport111/60948
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="https://i.imgur.com/khXUqw6.png" group-title="Lifestyle",ETV Life
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1507
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://i.imgur.com/i62bBx9.png" group-title="Lifestyle",ETV PLUS
-http://starshare.live:8080/live/10191817/10191817/242.ts
+http://api.gostartv.com:8080/mag00:1A:79:51:42:8B/gvtzrgPdSk/3264
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="Lifestyle",ETV ABHIRUCHI
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/372
