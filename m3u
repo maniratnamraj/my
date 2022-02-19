@@ -145,7 +145,7 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/380
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/376
 
 #EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TVAsia HD
-http://localhost/hls-server/master.m3u8
+http://hdhd.tk:80/tmj/tmj/7050
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="Music", Raj Music Telugu
 http://localhost/hls-server/v720p/index.m3u8
