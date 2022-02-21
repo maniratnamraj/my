@@ -151,6 +151,9 @@ http://hdhd.tk:80/tmj/tmj/7050
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="Music", Raj Music Telugu
 http://localhost/hls-server/v720p/index.m3u8
 
+#EXTINF:-1 tvg-id="Studio Yuva" tvg-logo="https://i.imgur.com/zkfdAiB.jpg" group-title="Movies",Studio Yuva
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
+
 #EXTINF:-1 tvg-id="studio one" tvg-logo="https://i.imgur.com/fRJLbG1.png" group-title="Movies",studio one
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in_480p/index.m3u8
 
@@ -173,7 +176,7 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1637
 http://carre.flysat.live:80/152062083303767/152048915586075/74294
 
 #EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="https://i.imgur.com/9ZNRL8N.png" group-title="Infotainment",History TV18 HD Telugu
-http://carre.flysat.live:80/152062083303767/152048915586075/74288
+http://carre.flysat.live:80/152062083303767/152048915586075/74286
 
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="https://i.imgur.com/VKKfoZQ.png" group-title="Infotainment",Travel XP HD
 
@@ -212,10 +215,10 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/368
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/387
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://i.imgur.com/3QEc2uP.png" group-title="News",ETV Telangana
-http://starshare.live:8080/live/10191817/10191817/9050.ts
+
 
 EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="https://i.imgur.com/JCRBOkF.png" group-title="News",ETV Andhra Pradesh
-http://starshare.live:8080/live/Imran123/Imran123/9046.ts
+
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://i.imgur.com/9UOgkwD.png" group-title="News",10 TV HD
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1495
@@ -265,8 +268,11 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/367
 #EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://i.imgur.com/0v2wUtY.png" group-title="Lifestyle",Hindu Dharmam
 https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
 
-#EXTINF:-1 tvg-name="IND vs NZ Cricket" tvg-logo="https://i.imgur.com/0v2wUtY.png" group-title="SPORTS",
+#EXTINF:-1 tvg-name="YuppTV RECORDED" tvg-logo="https://i.imgur.com/KJqV5z4.jpg" group-title="SPORTS",YuppTV Recorded
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1070
+
+#EXTINF:-1 tvg-name="D SPORTS HD" tvg-logo="https://i.imgur.com/6NMsg7I.jpg" group-title="SPORTS",D SPORTS HD
+http://carre.flysat.live:80/152062083303767/152048915586075/74262
 
 #EXTINF:-1 tvg-name="WILLOW CRICKET HD" tvg-logo="https://i.imgur.com/VIuVI3P.png" group-title="SPORTS",WILLOW CRICKET HD
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/517
