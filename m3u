@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/68803611/131243600-e04cd12d-ba00-4e15-
 https://user-images.githubusercontent.com/68803611/147745598-61607bc4-a0f9-43af-a62e-fce3cd173bae.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://i.imgur.com/XG2gPbx.jpg" group-title="Telugu Video songs",Aravinda Sametha Veera Raghava
-http://cludestreamplay.com:1935/vhtv/vhtv/playlist.m3u8
+https://user-images.githubusercontent.com/68803611/147823215-954613a5-570b-46c2-9270-1bf52aa049d1.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://i.imgur.com/t0fuMBQ.jpg" group-title="Telugu Video songs",Baahubali  
 https://user-images.githubusercontent.com/68803611/147823211-0d38343a-aaad-4258-90bd-f1a8c1e970d5.mp4
@@ -79,7 +79,8 @@ https://user-images.githubusercontent.com/68803611/147385034-c845e427-d91e-4c2f-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://i.imgur.com/KW74HQc.jpg" group-title="Telugu Video songs",State Rowdy
 https://user-images.githubusercontent.com/68803611/147385039-7b0e6812-d8be-472c-b6ec-8e5c1fdf8b62.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Telugu" tvg-logo="" group-title="Telugu Video songs",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://i.imgur.com/R9OnxCQ.jpg" group-title="Telugu Video songs",Jalsa
+https://user-images.githubusercontent.com/68803611/147823134-9ee03f85-a6b3-4b84-9561-da50bd441743.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://i.imgur.com/tKBSzta.jpg" group-title="Telugu Video songs",Pasivadi Pranam
 https://user-images.githubusercontent.com/68803611/147410387-ee288d7b-8ac7-4eab-8fd7-9ccc544cb85f.mp4
@@ -169,22 +170,22 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1633
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1637
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="Infotainment",DISCOVERY HD
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1639
+http://carre.flysat.live:80/152062083303767/152048915586075/74294
 
 #EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="https://i.imgur.com/9ZNRL8N.png" group-title="Infotainment",History TV18 HD Telugu
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1629
+http://carre.flysat.live:80/152062083303767/152048915586075/74288
 
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="https://i.imgur.com/VKKfoZQ.png" group-title="Infotainment",Travel XP HD
-http://starshare.live:8080/live/Imran123/Imran123/1623.ts
+
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/yJvPTWj.png" group-title="Entertainment",DD Yadagiri
-http://rv.imax.re:80/khalid2022/2022khalid/198006
+http://carre.flysat.live:80/152062083303767/152048915586075/74267
 
 EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://i.imgur.com/qR0OST2.png" group-title="Kids",Kushi TV
-http://rv.imax.re:80/khalid2022/2022khalid/198003
+http://carre.flysat.live:80/152062083303767/152048915586075/74264
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="Kids",Sonic Telugu
-http://starshare.live:8080/live/Imran123/Imran123/207.ts
+
 
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/ZN4JoWk.png" group-title="Kids",Cartoon Network HD+
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1635
@@ -219,7 +220,7 @@ http://starshare.live:8080/live/Imran123/Imran123/9046.ts
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://i.imgur.com/9UOgkwD.png" group-title="News",10 TV HD
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1495
 
-#EXTINF:-1 tvg-id="Maha News" tvg-logo="https://i.imgur.com/ryeXr9v.jpg" group-title="News",Maha News
+#EXTINF:-1 tvg-id="Maha News" tvg-logo="https://i.imgur.com/2uKGvfV.png" group-title="News",Maha News
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1101
 
 #EXTINF:-1 tvg-id="HM TV" tvg-logo="https://i.imgur.com/NFy5hie.png" group-title="News",HM TV
@@ -227,9 +228,6 @@ http://14.199.164.20:4001/play/a0ib/index.m3u8
 
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://i.imgur.com/YSwEaUs.jpg" group-title="Lifestyle",CVR Health
 https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRHealth.in.m3u8
-
-#EXTINF:-1 tvg-id="MAHAA TV" tvg-logo="https://i.imgur.com/2uKGvfV.png"  group-title="NEWS",Telegu: MAHAA TV
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/381
 
 #EXTINF:-1 tvg-id="CVR English" tvg-logo="https://i.imgur.com/BG1RuYn.jpg" group-title="News",CVR English
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/377
@@ -267,7 +265,7 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/367
 #EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://i.imgur.com/0v2wUtY.png" group-title="Lifestyle",Hindu Dharmam
 https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
 
-#EXTINF:-1 tvg-name="IND vs NZ Cricket" group-title="SPORTS",IND vs NZ Cricket
+#EXTINF:-1 tvg-name="IND vs NZ Cricket" tvg-logo="https://i.imgur.com/0v2wUtY.png" group-title="SPORTS",
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1070
 
 #EXTINF:-1 tvg-name="WILLOW CRICKET HD" tvg-logo="https://i.imgur.com/VIuVI3P.png" group-title="SPORTS",WILLOW CRICKET HD
