@@ -510,7 +510,7 @@ https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="Infotainment",Discovery Science
-https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
+http://iptvtree.net:8080/15247/6bc4e63e/1370
 
 #EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Infotainment",Discovery Turbo
 http://prox.x86.co.uk/index.php/http://idvd.multitvsolution.com/idvo/turboeng.m3u8
@@ -526,12 +526,6 @@ https://cutt.ly/4nn6j0L
 
 #EXTINF:-1 tvg-name="PTC Chak De" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Chak-De-1.png" group-title="Music",PTC Chak De
 https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/chunklist_w372446408_b1396000_sleng.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-name="SONY SET HD"tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Movies", SONY SET HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
@@ -1142,54 +1136,6 @@ http://sundaylive.livebox.co.in/jltvhls/jltvtv.m3u8
 #EXTINF:-1 tvg-id="Reshya TV" tvg-logo="http://prfibers.com/assets/images/reshya%20125.png" group-title="Movies",Reshya TV
 http://sundaylive.livebox.co.in/reshyahls/reshyatv.m3u8
 
-#EXTINF:-1 tvg-id="Mirchi Love Radio Telugu" tvg-logo="https://radiosindia.com/images/mirchiloveradio.jpg" tvg-cover="https://radiosindia.com/images/mirchiloveradio.jpg"group-title="Radio",Mirchi Love Radio Telugu
-https://mirchilovetelugu-lh.akamaihd.net/i/Mirchi_love_telugu_1@504635/master.m3u8
-
-#EXTINF:-1 tvg-id="Telugu Hits Radio Telangana" tvg-logo="https://radiosindia.com/images/teluguhits.jpg" group-title="Radio",Telugu Hits Radio Telangana
-https://mirchitapakahd-lh.akamaihd.net/i/mirchitapakahdlive_1_1@322572/master.m3u8
-
-#EXTINF:-1 tvg-id="Hungama Telugu" tvg-logo="https://radiosindia.com/images/hungama.jpg" group-title="Radio",Hungama Telugu
-https://node-25.zeno.fm/7uqw15yd3qzuv?rj-ttl=5&rj-tok=AAABd585tbcA_hV7JpDwGszk2g
-
-#EXTINF:-1 tvg-id="Telugu One" tvg-logo="https://radiosindia.com/images/teluguone.jpg" group-title="Radio",Telugu One
-https://node-19.zeno.fm/7kbt507d3qzuv?rj-ttl=5&rj-tok=AAABd586aPgA4Ro3Uz3yfmWYqg
-
-#EXTINF:-1 tvg-id="Telugu Fm" tvg-logo="https://radiosindia.com/images/telugufm.jpg" group-title="Radio",Telugu Fm
-https://node-01.zeno.fm/k6ec9dygey5tv?1521615895=&rj-tok=AAABd58-MVcAwp01j7dHzNwpwQ&rj-ttl=5
-
-#EXTINF:-1 tvg-id="Melody Radio Telugu" tvg-logo="https://radiosindia.com/images/melodyradio.jpg" group-title="Radio",Melody Radio Telugu
-https://n13.radiojar.com/z4qyckhr9druv?rj-ttl=5&rj-tok=AAABd58-3Y0A6rCaQWvuT1WWOw
-
-#EXTINF:-1 tvg-id="Nuke Telugu old hits" tvg-logo="https://radiosindia.com/images/nuketeluguoldhits.jpg" group-title="Radio",Nuke Telugu old hits
-https://n12.radiojar.com/z4qyckhr9druv?rj-ttl=5&rj-tok=AAABd58_HSEA_JkRzY6DwSTfqg
-
-#EXTINF:-1 tvg-id="Kokila Radio" tvg-logo="https://radiosindia.com/images/telugukokilaradio.jpg" group-title="Radio",Kokila Radio
-https://node-24.zeno.fm/suv4q1m26qzuv?rj-ttl=5&rj-tok=AAABd58_Xq8A_lAceqMSsoiI0w
-
-#EXTINF:-1 tvg-id="Telugu NRI Radio" tvg-logo="https://radiosindia.com/images/telugunriradio.jpg" group-title="Radio",Telugu NRI Radio
-https://node-29.zeno.fm/5negyx4w8qzuv?rj-ttl=5&rj-tok=AAABd58_wdoAB-hLaoc2Ty9L4w
-
-#EXTINF:-1 tvg-id="Mana radio" tvg-logo="https://radiosindia.com/images/manaradio.jpg" group-title="Radio",Mana radio
-https://node-35.zeno.fm/fnew6u7d3qzuv?rj-ttl=5&rj-tok=AAABd59AEu8A2XNSPVWQh7uB_A
-
-#EXTINF:-1 tvg-id="Radio Vani" tvg-logo="https://radiosindia.com/images/radiovani.jpg" group-title="Radio",Radio Vani
-https://s3.radio.co/s80849dda6/listen
-
-#EXTINF:-1 tvg-id="Gelupu Telugu" tvg-logo="https://radiosindia.com/images/gelupuradio.jpg" group-title="Radio",Gelupu Telugu
-https://node-29.zeno.fm/c97xa7936qzuv?rj-ttl=5&rj-tok=AAABd59C1ZcAHg7iPB7bxg_ZpA
-
-#EXTINF:-1 tvg-id="Radio city bhakti" tvg-logo="https://radiosindia.com/images/radiocitybhakti.jpg" group-title="Radio",Radio city bhakti
-https://prclive4.listenon.in/Bhakti
-
-#EXTINF:-1 tvg-id="Radio Sai FM" tvg-logo="https://cdn.webrad.io/images/logos/onlineradios-in/sai-telugu.png" group-title="Radio",Radio Sai FM
-http://stream.radiosai.org:8020/asiastreamfortelugu
-
-#EXTINF:-1 tvg-id="Telugu One Tori FM UK GMT" tvg-logo="https://cdn.webrad.io/images/logos/onlineradios-in/teluguone-tori.png" group-title="Radio",Telugu One Tori FM UK GMT
-https://node-12.zeno.fm/g3n7atcg09duv?rj-ttl=5&rj-tok=AAABd59Lp7AA7PjrEtdvlWbAug
-
-#EXTINF:-1 tvg-id="Swar Madhuri Telugu Radio" tvg-logo="https://cdn.webrad.io/images/logos/onlineradios-in/swar-madhuri.png" group-title="Radio",Swar Madhuri Telugu Radio
-https://node-20.zeno.fm/zman3kqfzeruv.aac?rj-ttl=5&rj-tok=AAABd59NHzAA4ZQgH5GsWH0MTA
-
 
 
 #EXTINF:-1 tvg-name="9xm" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9xm
@@ -1201,14 +1147,26 @@ https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 #EXTINF:-1 tvg-name="Zoom" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0069.Zoom.in/en/1x1/208x208/test_pic1550666525581.jpg" group-title="Music",Zoom
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 
+#EXTINF:-1,AXN HD+
+http://xcui.vitvabc.xyz:8880/287994003501/287994003501/16695
+
+#EXTINF:-1,HBO FAMILY HD
+http://xcui.vitvabc.xyz:8880/287994003501/287994003501/31462
+
+#EXTINF:-1,HBO 2 HD
+http://xcui.vitvabc.xyz:8880/287994003501/287994003501/31460
+
+#EXTINF:-1,HBO 1 HD
+http://xcui.vitvabc.xyz:8880/287994003501/287994003501/31465
+
 #EXTINF:-1 tvg-id="Animal Planet English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.png" group-title="Infotainment",Animal Planet English
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist.m3u8
+http://xcui.vitvabc.xyz:8880/287994003501/287994003501/16693
 
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="Infotainment",Discovery Science
-https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
+http://xcui.vitvabc.xyz:8880/287994003501/287994003501/16705
 
 #EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Infotainment",Discovery Turbo
-http://prox.x86.co.uk/index.php/http://idvd.multitvsolution.com/idvo/turboeng.m3u8
+http://xcui.vitvabc.xyz:8880/287994003501/287994003501/16711
 
 #EXTINF:-1 tvg-id="TLC English" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Infotainment",TLC English
 http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
@@ -1265,62 +1223,7 @@ https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1
-http://starshare.live:8080/live/21432143/21432143/148.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2
-http://starshare.live:8080/live/21432143/21432143/239.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 3
-http://starshare.live:8080/live/21432143/21432143/1080.ts
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20171105031607" group-title="Sports",STAR SPORTS HINDI HD
-http://starshare.live:8080/live/21432143/21432143/211.ts
-
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="CRI: STAR SPORTS SELECT 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="CRICKET",CRI: STAR SPORTS SELECT 1 HD
-http://starshare.live:8080/live/21432143/21432143/238.ts
-
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="CRI: STAR SPORTS SELECT 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="CRICKET",CRI: STAR SPORTS SELECT 2 HD
-http://starshare.live:8080/live/21432143/21432143/200.ts
-
-#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="CRI: STAR SPORTS TAMIL 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716" group-title="CRICKET",CRI: STAR SPORTS TAMIL 1
-http://starshare.live:8080/live/21432143/21432143/9722.ts
-
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="CRI: SONY TEN 1 HD" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" group-title="CRICKET",CRI: SONY TEN 1 HD
-http://starshare.live:8080/live/21432143/21432143/154.ts
-
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="CRI: SONY Ten 2 HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="CRICKET",CRI: SONY Ten 2 HD
-http://starshare.live:8080/live/21432143/21432143/192.ts
-
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="CRI: SONY TEN 3 HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" group-title="CRICKET",CRI: SONY TEN 3 HD
-http://starshare.live:8080/live/21432143/21432143/146.ts
-
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="CRI: Six HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-six-hd-large.jpg" group-title="CRICKET",CRI: Six HD
-http://starshare.live:8080/live/21432143/21432143/176.ts
-
-#EXTINF:-1 tvg-id="sonyespnhd.in" tvg-name="CRI: SONY ESPN HD" tvg-logo="https://pluspng.com/img-png/sony-hd-png-http-www-indigital-co-in-upload-channellogo-channellogo-635901932420648964-png-sony-espn-hd-300.png" group-title="CRICKET",CRI: SONY ESPN HD
-http://starshare.live:8080/live/21432143/21432143/155.ts
-
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRI: WILLOW CRICKET XTRA" tvg-logo="data:image/png;base64,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" group-title="CRICKET",CRI: WILLOW CRICKET XTRA
-http://starshare.live:8080/live/21432143/21432143/5040.ts
-
-#EXTINF:-1 tvg-name="Boo horror" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyX3xou2bGuzqDxwZePib6kSZZSmcYya8Cg&usqp=CAU" group-title="Movies",BOO Horror Movies
-https://cutt.ly/inEizyW
-
-#EXTINF:-1 tvg-name="Sony Ten 1 Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1 Hd
-https://cdn.nowhdtime.com.bd/SonyTen1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="Sony Ten 2 Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="Sports",Sony Ten 2 Hd
-https://cdn.nowhdtime.com.bd/SonyTen2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="Sony Ten 3 Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png" group-title="Sports",Sony Ten 3 Hd
-https://cdn.nowhdtime.com.bd/SonyTen3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Sony Ten 4 Telugu HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="Sports",Star Ten 4 Telugu HD
-https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/202106/sony-ten4.png.jpg" group-title="Sports",Sony Ten 4 Telugu
-https://cutt.ly/lmDy0j5
 
 #EXTINF:-1 tvg-name="Sony Six Sd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIX_Masthead_Logo.png" group-title="Sports",Sony Six Sd
 https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
