@@ -149,7 +149,7 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/376
 http://hdhd.tk:80/tmj/tmj/7050
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="Music", Raj Music Telugu
-http://localhost/hls-server/v720p/index.m3u8
+http://carre.flysat.live:80/152062083303767/152048915586075/74284
 
 #EXTINF:-1 tvg-id="Studio Yuva" tvg-logo="https://i.imgur.com/zkfdAiB.jpg" group-title="Movies",Studio Yuva
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
@@ -167,10 +167,10 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1498
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1496
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="https://i.imgur.com/Hv4kNbt.png" group-title="Infotainment",SONY BBC EARTH HD
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1633
+http://carre.flysat.live:80/152062083303767/152048915586075/74283
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/uSc5bkC.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1637
+http://carre.flysat.live:80/152062083303767/152048915586075/74286
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="Infotainment",DISCOVERY HD
 http://carre.flysat.live:80/152062083303767/152048915586075/74294
@@ -197,7 +197,7 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1635
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/378
 
 #EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="https://i.imgur.com/Q5t7FP7.png" group-title="Kids",Sony Yay Telugu
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1640
+http://carre.flysat.live:80/152062083303767/152048915586075/74270
 
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://i.imgur.com/Oz7KOjP.jpg" group-title="News",T News
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/370
@@ -215,7 +215,7 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/368
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/387
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://i.imgur.com/3QEc2uP.png" group-title="News",ETV Telangana
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
 
 EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="https://i.imgur.com/JCRBOkF.png" group-title="News",ETV Andhra Pradesh
 
@@ -239,19 +239,19 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/377
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1508
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://i.imgur.com/KVLxDzb.png" group-title="News",Raj News Telugu
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/384
+http://carre.flysat.live:80/152062083303767/152048915586075/74284
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://i.imgur.com/ecEPVk9.png" group-title="News",Sakshi TV
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1494
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="https://i.imgur.com/96ejE7i.jpg" group-title="News",ABN Andhra Jyothi
-http://starshare.live:8080/live/Imran123/Imran123/234.ts
+
 
 #EXTINF:-1,tvg-id="I News" tvg-logo="https://i.imgur.com/D30JrAC.png" group-title="News",I News
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1505
 
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://i.imgur.com/abq83Lr.png" group-title="News",BBC World News
-http://starshare.live:8080/live/Imran123/Imran123/284.ts
+
 
 #EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://i.imgur.com/ZPeZZ8K.png" group-title="Lifestyle",CVR OM Spiritual
 
@@ -377,54 +377,6 @@ http://sundaylive.livebox.co.in/jltvhls/jltvtv.m3u8
 
 #EXTINF:-1 tvg-id="Reshya TV" tvg-logo="http://prfibers.com/assets/images/reshya%20125.png" group-title="Movies",Reshya TV
 http://sundaylive.livebox.co.in/reshyahls/reshyatv.m3u8
-
-#EXTINF:-1 tvg-id="Mirchi Love Radio Telugu" tvg-logo="https://radiosindia.com/images/mirchiloveradio.jpg" tvg-cover="https://radiosindia.com/images/mirchiloveradio.jpg"group-title="Radio",Mirchi Love Radio Telugu
-https://mirchilovetelugu-lh.akamaihd.net/i/Mirchi_love_telugu_1@504635/master.m3u8
-
-#EXTINF:-1 tvg-id="Telugu Hits Radio Telangana" tvg-logo="https://radiosindia.com/images/teluguhits.jpg" group-title="Radio",Telugu Hits Radio Telangana
-https://mirchitapakahd-lh.akamaihd.net/i/mirchitapakahdlive_1_1@322572/master.m3u8
-
-#EXTINF:-1 tvg-id="Hungama Telugu" tvg-logo="https://radiosindia.com/images/hungama.jpg" group-title="Radio",Hungama Telugu
-https://node-25.zeno.fm/7uqw15yd3qzuv?rj-ttl=5&rj-tok=AAABd585tbcA_hV7JpDwGszk2g
-
-#EXTINF:-1 tvg-id="Telugu One" tvg-logo="https://radiosindia.com/images/teluguone.jpg" group-title="Radio",Telugu One
-https://node-19.zeno.fm/7kbt507d3qzuv?rj-ttl=5&rj-tok=AAABd586aPgA4Ro3Uz3yfmWYqg
-
-#EXTINF:-1 tvg-id="Telugu Fm" tvg-logo="https://radiosindia.com/images/telugufm.jpg" group-title="Radio",Telugu Fm
-https://node-01.zeno.fm/k6ec9dygey5tv?1521615895=&rj-tok=AAABd58-MVcAwp01j7dHzNwpwQ&rj-ttl=5
-
-#EXTINF:-1 tvg-id="Melody Radio Telugu" tvg-logo="https://radiosindia.com/images/melodyradio.jpg" group-title="Radio",Melody Radio Telugu
-https://n13.radiojar.com/z4qyckhr9druv?rj-ttl=5&rj-tok=AAABd58-3Y0A6rCaQWvuT1WWOw
-
-#EXTINF:-1 tvg-id="Nuke Telugu old hits" tvg-logo="https://radiosindia.com/images/nuketeluguoldhits.jpg" group-title="Radio",Nuke Telugu old hits
-https://n12.radiojar.com/z4qyckhr9druv?rj-ttl=5&rj-tok=AAABd58_HSEA_JkRzY6DwSTfqg
-
-#EXTINF:-1 tvg-id="Kokila Radio" tvg-logo="https://radiosindia.com/images/telugukokilaradio.jpg" group-title="Radio",Kokila Radio
-https://node-24.zeno.fm/suv4q1m26qzuv?rj-ttl=5&rj-tok=AAABd58_Xq8A_lAceqMSsoiI0w
-
-#EXTINF:-1 tvg-id="Telugu NRI Radio" tvg-logo="https://radiosindia.com/images/telugunriradio.jpg" group-title="Radio",Telugu NRI Radio
-https://node-29.zeno.fm/5negyx4w8qzuv?rj-ttl=5&rj-tok=AAABd58_wdoAB-hLaoc2Ty9L4w
-
-#EXTINF:-1 tvg-id="Mana radio" tvg-logo="https://radiosindia.com/images/manaradio.jpg" group-title="Radio",Mana radio
-https://node-35.zeno.fm/fnew6u7d3qzuv?rj-ttl=5&rj-tok=AAABd59AEu8A2XNSPVWQh7uB_A
-
-#EXTINF:-1 tvg-id="Radio Vani" tvg-logo="https://radiosindia.com/images/radiovani.jpg" group-title="Radio",Radio Vani
-https://s3.radio.co/s80849dda6/listen
-
-#EXTINF:-1 tvg-id="Gelupu Telugu" tvg-logo="https://radiosindia.com/images/gelupuradio.jpg" group-title="Radio",Gelupu Telugu
-https://node-29.zeno.fm/c97xa7936qzuv?rj-ttl=5&rj-tok=AAABd59C1ZcAHg7iPB7bxg_ZpA
-
-#EXTINF:-1 tvg-id="Radio city bhakti" tvg-logo="https://radiosindia.com/images/radiocitybhakti.jpg" group-title="Radio",Radio city bhakti
-https://prclive4.listenon.in/Bhakti
-
-#EXTINF:-1 tvg-id="Radio Sai FM" tvg-logo="https://cdn.webrad.io/images/logos/onlineradios-in/sai-telugu.png" group-title="Radio",Radio Sai FM
-http://stream.radiosai.org:8020/asiastreamfortelugu
-
-#EXTINF:-1 tvg-id="Telugu One Tori FM UK GMT" tvg-logo="https://cdn.webrad.io/images/logos/onlineradios-in/teluguone-tori.png" group-title="Radio",Telugu One Tori FM UK GMT
-https://node-12.zeno.fm/g3n7atcg09duv?rj-ttl=5&rj-tok=AAABd59Lp7AA7PjrEtdvlWbAug
-
-#EXTINF:-1 tvg-id="Swar Madhuri Telugu Radio" tvg-logo="https://cdn.webrad.io/images/logos/onlineradios-in/swar-madhuri.png" group-title="Radio",Swar Madhuri Telugu Radio
-https://node-20.zeno.fm/zman3kqfzeruv.aac?rj-ttl=5&rj-tok=AAABd59NHzAA4ZQgH5GsWH0MTA
 
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDWqN_t8q9FCukTAaiVDFJCiWEGmgzWhh9g&usqp=CAU" group-title="Movies" ,Sony Pix HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
@@ -577,21 +529,9 @@ https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/chunklist_w372446408
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1369
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1370
 
 
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/202106/sony-ten4.png.jpg" group-title="Sports",Sony Ten 4 Telugu
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1367
 
-#EXTINF:-1 tvg-name="Sony Six Sd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIX_Masthead_Logo.png" group-title="Sports",Sony Six Sd
-https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
-
-#EXTINF:-1 tvg-name="Sony Six HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIX_Masthead_Logo.png" group-title="Sports",Sony Six HD
-http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18805
 
 #EXTINF:-1 tvg-name="SONY SET HD"tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Movies", SONY SET HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
