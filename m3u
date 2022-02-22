@@ -291,29 +291,20 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/513
 #EXTINF:-1 tvg-name="TEN 3 FHD" tvg-logo="https://i.imgur.com/TL7cbfr.png" group-title="SPORTS",TEN 3
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/518
 
-#EXTINF:-1 tvg-name="S TAR SPRTS 1 FHD" tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="SPORTS",STAR SPORTS
+#EXTINF:-1 tvg-name="STAR SPRTS 1 FHD" tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="SPORTS", STAR SPORTS 1 HD
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1369
 
-#EXTINF:-1 tvg-name="S tar sprts 1 FHD" tvg-logo="" group-title="SPORTS",STAR SPORTS 1 
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1063
-
-#EXTINF:-1 tvg-name="S TAR SPRTS 1 FHD Hindi" tvg-logo="https://i.imgur.com/w7rO6yI.jpg" group-title="SPORTS",STAR SPORTS 1  Hindi
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1371
-
-#EXTINF:-1 tvg-name="S tar sprts 1 FHD HINDI" tvg-logo=" group-title="SPORTS",STAR SPORTS 1 HINDI
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1065
-
-#EXTINF:-1 tvg-name="S TAR SPRTS 2 FHD" tvg-logo="" group-title="SPORTS",STAR SPORTS 2 
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1370
-
-#EXTINF:-1 tvg-name="ind: S tar sprts HD2" tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="SPORTS",STAR SPORTS HD2
+#EXTINF:-1 tvg-name="ind: Star sprts HD2" tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="SPORTS",STAR SPORTS HD2
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1066
 
-#EXTINF:-1 tvg-name="S TAR SPRTS SELECT 1 FHD" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="SPORTS",STAR SPORTS SELECT 1 
+#EXTINF:-1 tvg-name="STAR SPRTS SELECT 1 FHD" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="SPORTS",STAR SPORTS SELECT 1 
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1125
 
-#EXTINF:-1 tvg-name="S tar sprts select 2 FHD" tvg-logo="" group-title="SPORTS",STAR SPORTS select 2 
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1315
+#EXTINF:-1 tvg-name="STAR SPRTS 1 FHD Hindi" tvg-logo="https://i.imgur.com/w7rO6yI.jpg" group-title="SPORTS", STAR SPORTS HINDI
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1371
+
+#EXTINF:-1 tvg-name="S tar sprts Telugu" tvg-logo="https://i.imgur.com/DU23jup.jpg" group-title="SPORTS",STAR SPORTS Telugu
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/500
 
 #EXTINF:-1 tvg-name="S TAR SPRTS 1 TAMIL" tvg-logo="https://i.imgur.com/PuVcUhU.png" group-title="SPORTS",STAR SPORTS 1 TAMIL
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1529
@@ -323,11 +314,6 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/502
 
 #EXTINF:-1 tvg-name="S tar sprts Kanada" tvg-logo="https://i.imgur.com/CICG8go.jpg" group-title="SPORTS",STAR SPORTS Kanada
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/501
-
-#EXTINF:-1 tvg-name="S tar sprts Telugu" tvg-logo="https://i.imgur.com/DU23jup.jpg" group-title="SPORTS",STAR SPORTS Telugu
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/500
-
-
 
 #EXTINF:-1 tvg-id="BCN Channel" tvg-logo="https://i.imgur.com/u74NyIw.jpg" group-title="Movies",BCN
 http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
