@@ -146,7 +146,7 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/376
 http://hdhd.tk:80/tmj/tmj/7050
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="Music", Raj Music Telugu
-http://carre.flysat.live:80/152062083303767/152048915586075/74284
+http://carre.flysat.live:80/152062083303767/152048915586075/74285
 
 #EXTINF:-1 tvg-id="Studio Yuva" tvg-logo="https://i.imgur.com/zkfdAiB.jpg" group-title="Movies",Studio Yuva
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
@@ -178,10 +178,12 @@ http://carre.flysat.live:80/152062083303767/152048915586075/74286
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="https://i.imgur.com/VKKfoZQ.png" group-title="Infotainment",Travel XP HD
 
 
-#EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/yJvPTWj.png" group-title="Entertainment",DD Yadagiri
+#EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="Entertainment",DD Saptagiri
 http://carre.flysat.live:80/152062083303767/152048915586075/74267
 
-EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://i.imgur.com/qR0OST2.png" group-title="Kids",Kushi TV
+#EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/yJvPTWj.png" group-title="Entertainment",DD Yadagiri
+
+#EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://i.imgur.com/qR0OST2.png" group-title="Kids",Kushi TV
 http://carre.flysat.live:80/152062083303767/152048915586075/74264
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="Kids",Sonic Telugu
@@ -214,7 +216,7 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/387
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://i.imgur.com/3QEc2uP.png" group-title="News",ETV Telangana
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
 
-EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="https://i.imgur.com/JCRBOkF.png" group-title="News",ETV Andhra Pradesh
+#EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="https://i.imgur.com/JCRBOkF.png" group-title="News",ETV Andhra Pradesh
 
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://i.imgur.com/9UOgkwD.png" group-title="News",10 TV HD
