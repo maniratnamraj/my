@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 #url-tvg="http://rstream.me/epg.xml.gz"
+http://epg.streamstv.me/epg/guide-india.xml.gz
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://i.imgur.com/3dgl8QD.jpg" group-title="Telugu Video songs",HELLO BROTHER
 https://user-images.githubusercontent.com/68803611/131240661-3368df7d-7f4e-4854-bb6b-370f3ae22dfb.mp4
