@@ -269,52 +269,52 @@ https://snehapi.in1.bitmana.io/jioapi/tsjio1200/Aastha_Telugu.m3u8
 #EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://i.imgur.com/0v2wUtY.png" group-title="Lifestyle", Hindu Dharmam
 https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
 
-#EXTINF:-1 tvg-name="YuppTV RECORDED" tvg-logo="https://i.imgur.com/KJqV5z4.jpg" group-title="SPORTS", YuppTV Recorded
+#EXTINF:-1 tvg-id="YuppTV RECORDED" tvg-logo="https://i.imgur.com/KJqV5z4.jpg" group-title="SPORTS", YuppTV Recorded
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1070
 
-#EXTINF:-1 tvg-name="D SPORTS HD" tvg-logo="https://i.imgur.com/6NMsg7I.jpg" group-title="SPORTS", D SPORTS HD
+#EXTINF:-1 tvg-id="D SPORTS HD" tvg-logo="https://i.imgur.com/6NMsg7I.jpg" group-title="SPORTS", D SPORTS HD
 http://carre.flysat.live:80/152062083303767/152048915586075/74262
 
-#EXTINF:-1 tvg-name="WILLOW CRICKET HD" tvg-logo="https://i.imgur.com/VIuVI3P.png" group-title="SPORTS", WILLOW CRICKET HD
+#EXTINF:-1 tvg-id="WILLOW CRICKET HD" tvg-logo="https://i.imgur.com/VIuVI3P.png" group-title="SPORTS", WILLOW CRICKET HD
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/517
 
-#EXTINF:-1 tvg-name="WILLOW CRICKET XTRA" tvg-logo=" group-title="SPORTS", WILLOW CRICKET XTRA
+#EXTINF:-1 tvg-id="WILLOW CRICKET XTRA" tvg-logo=" group-title="SPORTS", WILLOW CRICKET XTRA
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/2581
 
-#EXTINF:-1 tvg-name="SONY SIX FHD" tvg-logo="https://i.imgur.com/eQPAGeJ.jpg" group-title="SPORTS", SONY SIX 
+#EXTINF:-1 tvg-id="SONY SIX FHD" tvg-logo="https://i.imgur.com/eQPAGeJ.jpg" group-title="SPORTS", SONY SIX 
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1367
 
-#EXTINF:-1 tvg-name="TEN 1 FHD" tvg-logo="https://i.imgur.com/uCOfGxn.jpg" group-title="SPORTS", TEN 1 
+#EXTINF:-1 tvg-id="TEN 1 FHD" tvg-logo="https://i.imgur.com/uCOfGxn.jpg" group-title="SPORTS", TEN 1 
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/497
 
-#EXTINF:-1 tvg-name="TEN 2 FHD" tvg-logo="https://i.imgur.com/eXc5dS2.png" group-title="SPORTS", TEN 2
+#EXTINF:-1 tvg-id="TEN 2 FHD" tvg-logo="https://i.imgur.com/eXc5dS2.png" group-title="SPORTS", TEN 2
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/513
 
-#EXTINF:-1 tvg-name="TEN 3 FHD" tvg-logo="https://i.imgur.com/TL7cbfr.png" group-title="SPORTS", TEN 3
+#EXTINF:-1 tvg-id="TEN 3 FHD" tvg-logo="https://i.imgur.com/TL7cbfr.png" group-title="SPORTS", TEN 3
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/518
 
-#EXTINF:-1 tvg-name="STAR SPRTS 1 FHD" tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="SPORTS", STAR SPORTS 1 HD
+#EXTINF:-1 tvg-id="STAR SPRTS 1 FHD" tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="SPORTS", STAR SPORTS 1 HD
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1369
 
-#EXTINF:-1 tvg-name="ind: Star sprts HD2" tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="SPORTS", STAR SPORTS HD2
+#EXTINF:-1 tvg-id="STAR SPORTS HD2" tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="SPORTS", STAR SPORTS HD2
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1066
 
-#EXTINF:-1 tvg-name="STAR SPRTS SELECT 1 FHD" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="SPORTS", STAR SPORTS SELECT 1 
+#EXTINF:-1 tvg-id="STAR SPORTS SELECT 1 FHD" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="SPORTS", STAR SPORTS SELECT 1 
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1125
 
-#EXTINF:-1 tvg-name="STAR SPRTS 1 FHD Hindi" tvg-logo="https://i.imgur.com/w7rO6yI.jpg" group-title="SPORTS", STAR SPORTS HINDI
+#EXTINF:-1 tvg-id="STAR SPORTS 1 FHD Hindi" tvg-logo="https://i.imgur.com/w7rO6yI.jpg" group-title="SPORTS", STAR SPORTS HINDI
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1371
 
-#EXTINF:-1 tvg-name="S tar sprts Telugu" tvg-logo="https://i.imgur.com/DU23jup.jpg" group-title="SPORTS", STAR SPORTS Telugu
+#EXTINF:-1 tvg-id="STAR SPORTS Telugu" tvg-logo="https://i.imgur.com/DU23jup.jpg" group-title="SPORTS", STAR SPORTS Telugu
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/500
 
-#EXTINF:-1 tvg-name="S TAR SPRTS 1 TAMIL" tvg-logo="https://i.imgur.com/PuVcUhU.png" group-title="SPORTS", STAR SPORTS 1 TAMIL
+#EXTINF:-1 tvg-id="STAR SPORTS 1 TAMIL" tvg-logo="https://i.imgur.com/PuVcUhU.png" group-title="SPORTS", STAR SPORTS 1 TAMIL
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1529
 
-#EXTINF:-1 tvg-name="S tar Sports Bangla" tvg-logo="https://i.imgur.com/EdnIqRG.png" group-title="SPORTS", STAR SPORTS Bangla
+#EXTINF:-1 tvg-id="STAR SPORTS Bangla" tvg-logo="https://i.imgur.com/EdnIqRG.png" group-title="SPORTS", STAR SPORTS Bangla
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/502
 
-#EXTINF:-1 tvg-name="S tar sprts Kanada" tvg-logo="https://i.imgur.com/CICG8go.jpg" group-title="SPORTS", STAR SPORTS Kanada
+#EXTINF:-1 tvg-id="STAR SPORTS Kanada" tvg-logo="https://i.imgur.com/CICG8go.jpg" group-title="SPORTS", STAR SPORTS Kanada
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/501
 
 #EXTINF:-1 tvg-id="BCN Channel" tvg-logo="https://i.imgur.com/u74NyIw.jpg" group-title="Movies", BCN
