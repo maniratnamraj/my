@@ -149,7 +149,7 @@ http://hdhd.tk:80/tmj/tmj/7050
 http://carre.flysat.live:80/152062083303767/152048915586075/74285
 
 #EXTINF:-1 tvg-id="Studio Yuva" tvg-logo="https://i.imgur.com/zkfdAiB.jpg" group-title="Movies",Studio Yuva
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
+https://snehapi.in1.bitmana.io/jioapi/tsjio1200/Studio_Yuva_Alpha.m3u8
 
 #EXTINF:-1 tvg-id="studio one" tvg-logo="https://i.imgur.com/fRJLbG1.png" group-title="Movies",studio one
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in_480p/index.m3u8
@@ -176,18 +176,19 @@ http://carre.flysat.live:80/152062083303767/152048915586075/74294
 http://carre.flysat.live:80/152062083303767/152048915586075/74286
 
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="https://i.imgur.com/VKKfoZQ.png" group-title="Infotainment",Travel XP HD
-
+https://snehapi.in1.bitmana.io/jioapi/tsjioautoq/Travel_XP_HD.m3u8
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="Entertainment",DD Saptagiri
-http://carre.flysat.live:80/152062083303767/152048915586075/74267
+https://snehapi.in1.bitmana.io/jioapi/tsjioautoq/DD_Saptagiri.m3u8
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/yJvPTWj.png" group-title="Entertainment",DD Yadagiri
+https://snehapi.in1.bitmana.io/z5api/snehz5api/ddyadagiri.m3u8
 
 #EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://i.imgur.com/qR0OST2.png" group-title="Kids",Kushi TV
 http://carre.flysat.live:80/152062083303767/152048915586075/74264
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="Kids",Sonic Telugu
-
+https://snehapi.in1.bitmana.io/jioapi/tsjioautoq/Sonic_Telugu.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/ZN4JoWk.png" group-title="Kids",Cartoon Network HD+
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1635
@@ -214,10 +215,10 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/368
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/387
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://i.imgur.com/3QEc2uP.png" group-title="News",ETV Telangana
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
+https://snehapi.in1.bitmana.io/jioapi/tsjioautoq/ETV_Telangana.m3u8
 
 #EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="https://i.imgur.com/JCRBOkF.png" group-title="News",ETV Andhra Pradesh
-
+https://snehapi.in1.bitmana.io/jioapi/tsjioautoq/ETV_Andhra_pradesh.m3u8
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://i.imgur.com/9UOgkwD.png" group-title="News",10 TV HD
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1495
@@ -244,16 +245,16 @@ http://carre.flysat.live:80/152062083303767/152048915586075/74284
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1494
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="https://i.imgur.com/96ejE7i.jpg" group-title="News",ABN Andhra Jyothi
-
+https://snehapi.in1.bitmana.io/jioapi/tsjioautoq/ABN_Andhra_Jyothi.m3u8
 
 #EXTINF:-1,tvg-id="I News" tvg-logo="https://i.imgur.com/D30JrAC.png" group-title="News",I News
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1505
 
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://i.imgur.com/abq83Lr.png" group-title="News",BBC World News
-
+https://snehapi.in1.bitmana.io/jioapi/tsjioautoq/BBC_World_News.m3u8
 
 #EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://i.imgur.com/ZPeZZ8K.png" group-title="Lifestyle",CVR OM Spiritual
-
+https://snehapi.in1.bitmana.io/jioapi/tsjio1200/CVR_OM_Spiritual.m3u8
 
 #EXTINF:-1 tvg-id="SVBC2" tvg-logo="https://i.imgur.com/Zlb1Z2Z.jpg" group-title="Lifestyle",SVBC Telugu
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/371
@@ -262,7 +263,7 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/371
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/367
 
 #EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA" tvg-logo="https://i.imgur.com/6lqHYh2.png" group-title="Lifestyle",AASTHA Telugu
-
+https://snehapi.in1.bitmana.io/jioapi/tsjio1200/Aastha_Telugu.m3u8
 
 #EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://i.imgur.com/0v2wUtY.png" group-title="Lifestyle",Hindu Dharmam
 https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
