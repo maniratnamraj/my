@@ -762,6 +762,7 @@ https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
 #EXTINF:-1 tvg-id="BansalNews" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0777.BansalNews.in/1x1/1x/test_pic1543816563312.jpg" group-title="News",Bansal News
 https://m-c03-j2apps.s.llnwi.net/hls/0777.BansalNews.in.m3u8
 
+
 #EXTINF:-1 tvg-id="KashishNews" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1606.KashishNews.in/1x1/1x/test_pic1544684711658.jpg" group-title="News",Kashish News
 https://m-c03-j2apps.s.llnwi.net/hls/1606.KashishNews.in.m3u8
 
@@ -779,7 +780,6 @@ https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
 
 #EXTINF:-1 tvg-id="Filmy" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0079.Filmy.in/1x1/1x/test_pic1535463753952.jpg" group-title="Movies",Filmy
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
-
 
 #EXTINF:-1 tvg-id="MahaMovie" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2820.MahaMovie.in/1x1/1x/test_pic1535464244460.jpg" group-title="Movies",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
@@ -871,7 +871,9 @@ https://m-c01-j2apps.s.llnwi.net/hls/0432.SangeetBhojpuri.in.m3u8
 #EXTINF:-1 tvg-id="IndiaNewsGujarat" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5730.IndiaNewsGujarat.in/1x1/1x/test_pic1552392553997.jpg" group-title="News",India News Gujarat
 https://m-c17-j2apps.s.llnwi.net/hls/5730.IndiaNewsGujarat.in.m3u8
 
-#EXTINF:-1 tvg-id="MantavyaNews" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5389.MantavyaNews.in/1x1/1x/test_pic1554722569246.jpg" group-title="News",Mantavya News
+#EXTINF:-1 tvg-id="MantavyaNews" tvg-logo="https://qqcdnpicweb.mxpl
+
+ay.com/media/images/5389.MantavyaNews.in/1x1/1x/test_pic1554722569246.jpg" group-title="News",Mantavya News
 https://m-c01-j2apps.s.llnwi.net/hls/5389.MantavyaNews.in.m3u8
 
 #EXTINF:-1 tvg-id="IndiaNewsHaryana" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1692.IndiaNewsHaryana.in/1x1/1x/test_pic1535463908195.jpg" group-title="News",India News Haryana
@@ -1114,13 +1116,6 @@ https://m-c07-j2apps.s.llnwi.net/hls/7052.SanjhaTV.in.m3u8
 #EXTINF:-1 tvg-id="PBNMusic" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7056.PBNMusic.in/1x1/1x/test_pic1590761038771.jpg" group-title="Music",PBN Music
 https://m-c03-j2apps.s.llnwi.net/hls/7056.PBNMusic.in.m3u8
 
-_________________________VOD____________________________________________________________________________________________
-
-#EXTINF:-1 tvg-name="9xm" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9xm
-https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-id="Mastiii.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmRsR8dtcVQGo2PaAeP49OFW6OvQRMNxVHw&usqp=CAU" group-title="Music",Mastiii
-https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-name="Zoom" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0069.Zoom.in/en/1x1/208x208/test_pic1550666525581.jpg" group-title="Music",Zoom
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
