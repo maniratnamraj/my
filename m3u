@@ -365,67 +365,67 @@ http://sundaylive.livebox.co.in/jltvhls/jltvtv.m3u8
 #EXTINF:-1 tvg-id="Reshya TV" tvg-logo="http://prfibers.com/assets/images/reshya%20125.png" group-title="Movies", Reshya TV
 http://sundaylive.livebox.co.in/reshyahls/reshyatv.m3u8
 
-#EXTINF: -1 tvg-id="STAR PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", STAR PLUS HD 
+#EXTINF: -1 tvg-id="STAR PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", STAR PLUS HD 
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="STAR BHARAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", STAR BHARAT HD 
+#EXTINF: -1 tvg-id="STAR BHARAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", STAR BHARAT HD 
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
-#EXTINF: -1 tvg-id="STAR PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", STAR PLUS HD 
+#EXTINF: -1 tvg-id="STAR PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", STAR PLUS HD 
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
-#EXTINF: -1 tvg-id="ZEE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", ZEE TV 
+#EXTINF: -1 tvg-id="ZEE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", ZEE TV 
 http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
-#EXTINF: -1 tvg-id="ZEE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", ZEE TV HD 
+#EXTINF: -1 tvg-id="ZEE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", ZEE TV HD 
 http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
-#EXTINF: -1 tvg-id="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", COLORS HD 
+#EXTINF: -1 tvg-id="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", COLORS HD 
 http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
-#EXTINF: -1 tvg-id="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", COLORS HD 
+#EXTINF: -1 tvg-id="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", COLORS HD 
 http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8
-#EXTINF: -1 tvg-id="SAHARA ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", SAHARA ONE 
+#EXTINF: -1 tvg-id="SAHARA ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", SAHARA ONE 
 http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
-#EXTINF: -1 tvg-id="UTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", UTV HD 
+#EXTINF: -1 tvg-id="UTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", UTV HD 
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="STAR GOLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", STAR GOLD HD 
+#EXTINF: -1 tvg-id="STAR GOLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", STAR GOLD HD 
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="STAR GOLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", STAR GOLD HD 
+#EXTINF: -1 tvg-id="STAR GOLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", STAR GOLD HD 
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="STAR GOLD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", STAR GOLD 2 
+#EXTINF: -1 tvg-id="STAR GOLD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", STAR GOLD 2 
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="ZEE CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", ZEE CINEMA HD 
+#EXTINF: -1 tvg-id="ZEE CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", ZEE CINEMA HD 
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="ZEE CLASSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", ZEE CLASSIC 
+#EXTINF: -1 tvg-id="ZEE CLASSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", ZEE CLASSIC 
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="ZEE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", ZEE ACTION 
+#EXTINF: -1 tvg-id="ZEE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", ZEE ACTION 
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="ZEE ANMOL CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", ZEE ANMOL CINEMA 
+#EXTINF: -1 tvg-id="ZEE ANMOL CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", ZEE ANMOL CINEMA 
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="SONY MAX 2" group-title="Star Network BJ TECH", SONY MAX 2 
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="B4U MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", B4U MOVIES 
+#EXTINF: -1 tvg-id="B4U MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", B4U MOVIES 
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="E24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", E24 
+#EXTINF: -1 tvg-id="E24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", E24 
 http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="ZOOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", ZOOM 
+#EXTINF: -1 tvg-id="ZOOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", ZOOM 
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", MTV 
+#EXTINF: -1 tvg-id="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", MTV 
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="MTV BEATS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network BJ TECH", MTV BEATS HD 
+#EXTINF: -1 tvg-id="MTV BEATS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="", MTV BEATS HD 
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Star Network BJ TECH", Star Gold SelHD
+#EXTINF: -1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="", Star Gold SelHD
 http://103.153.39.36:8000/play/a014
-#EXTINF: -1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Star Network BJ TECH", Star Plus HD 
+#EXTINF: -1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="", Star Plus HD 
 http://103.153.39.36:8000/play/a00m
-#EXTINF: -1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Star Network BJ TECH", Star S Hin 1 HD
+#EXTINF: -1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="", Star S Hin 1 HD
 http://103.153.39.36:8000/play/a026
-#EXTINF: -1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Star Network BJ TECH", Star Spo 1 HD
+#EXTINF: -1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="", Star Spo 1 HD
 http://103.153.39.36:8000/play/a00c
-#EXTINF: -1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Star Network BJ TECH", Star Spo 2 HD
+#EXTINF: -1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="", Star Spo 2 HD
 http://103.153.39.36:8000/play/a00d
-#EXTINF: -1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Star Network BJ TECH", Star Sports 3 
+#EXTINF: -1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="", Star Sports 3 
 http://103.153.39.36:8000/play/a00l
-#EXTINF: -1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Star Network BJ TECH", Star Sports S 1 
+#EXTINF: -1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="", Star Sports S 1 
 http://103.153.39.36:8000/play/a018
-#EXTINF: -1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Star Network BJ TECH", Star Sports S 2 
+#EXTINF: -1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="", Star Sports S 2 
 http://103.153.39.36:8000/play/a019
-#EXTINF: -1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Star Network BJ TECH", StarMov S 
+#EXTINF: -1 tvg-id="001" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="", StarMov S 
 
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDWqN_t8q9FCukTAaiVDFJCiWEGmgzWhh9g&usqp=CAU" group-title="Movies" ,Sony Pix HD
 
