@@ -431,28 +431,28 @@ http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="MTV BEATS HD" tvg-logo="https://i.imgur.com/K5MG0BA.jpg" group-title="", MTV BEATS HD 
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-id="001" tvg-logo="" group-title="https://i.imgur.com/t0MR35T.jpg", Star Gold SelHD
+#EXTINF: -1 tvg-id="001" tvg-logo="" group-title="https://i.imgur.com/t0MR35T.jpg" group-title="", Star Gold SelHD
 http://103.153.39.36:8000/play/a014
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/cmgjIaN.jpg" group-title="", Star Plus HD 
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/cmgjIaN.jpg" group-title="" group-title="", Star Plus HD 
 http://103.153.39.36:8000/play/a00m
 
 #EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/w7rO6yI.jpg" group-title="", Star S Hin 1 HD
 http://103.153.39.36:8000/play/a026
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="", Star Spo 1 HD
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="" group-title="", Star Spo 1 HD
 http://103.153.39.36:8000/play/a00c
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="", Star Spo 2 HD
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="" group-title="", Star Spo 2 HD
 http://103.153.39.36:8000/play/a00d
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/zT2SW28.png" group-title="", Star Sports 3 
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/zT2SW28.png" group-title="" group-title="", Star Sports 3 
 http://103.153.39.36:8000/play/a00l
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="", Star Sports S 1 
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="" group-title="", Star Sports S 1 
 http://103.153.39.36:8000/play/a018
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="", Star Sports S 2 
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="" group-title="", Star Sports S 2 
 http://103.153.39.36:8000/play/a019
 
 
