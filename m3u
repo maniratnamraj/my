@@ -374,10 +374,10 @@ http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 #EXTINF: -1 tvg-id="STAR PLUS HD" tvg-logo="https://i.imgur.com/cmgjIaN.jpg" group-title="", STAR PLUS HD 
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
 
-#EXTINF: -1 tvg-id="ZEE TV HD" tvg-logo="https://i.imgur.com/CfRW6eD.png" group-title="", ZEE TV 
+#EXTINF: -1 tvg-id="ZEE TV HD" tvg-logo="https://i.imgur.com/ONVZJas.png" group-title="", ZEE TV 
 http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
 
-#EXTINF: -1 tvg-id="ZEE TV HD" tvg-logo="https://i.imgur.com/CfRW6eD.png" group-title="", ZEE TV HD 
+#EXTINF: -1 tvg-id="ZEE TV HD" tvg-logo="https://i.imgur.com/ONVZJas.png" group-title="", ZEE TV HD 
 http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
 
 #EXTINF: -1 tvg-id="COLORS HD" tvg-logo="https://i.imgur.com/Z5IqTb6.jpg" group-title="", COLORS HD 
@@ -431,31 +431,31 @@ http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="MTV BEATS HD" tvg-logo="https://i.imgur.com/K5MG0BA.jpg" group-title="", MTV BEATS HD 
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-id="001" tvg-logo="" group-title="https://i.imgur.com/amDwDo9.jpg", Star Gold SelHD
+#EXTINF: -1 tvg-id="001" tvg-logo="" group-title="https://i.imgur.com/t0MR35T.jpg", Star Gold SelHD
 http://103.153.39.36:8000/play/a014
 
 #EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/cmgjIaN.jpg" group-title="", Star Plus HD 
 http://103.153.39.36:8000/play/a00m
 
-#EXTINF: -1 tvg-id="001" tvg-logo="" group-title="", Star S Hin 1 HD
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/w7rO6yI.jpg" group-title="", Star S Hin 1 HD
 http://103.153.39.36:8000/play/a026
 
-#EXTINF: -1 tvg-id="001" tvg-logo="" group-title="", Star Spo 1 HD
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="", Star Spo 1 HD
 http://103.153.39.36:8000/play/a00c
 
-#EXTINF: -1 tvg-id="001" tvg-logo="" group-title="", Star Spo 2 HD
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="", Star Spo 2 HD
 http://103.153.39.36:8000/play/a00d
 
-#EXTINF: -1 tvg-id="001" tvg-logo="" group-title="", Star Sports 3 
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/zT2SW28.png" group-title="", Star Sports 3 
 http://103.153.39.36:8000/play/a00l
 
-#EXTINF: -1 tvg-id="001" tvg-logo="" group-title="", Star Sports S 1 
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="", Star Sports S 1 
 http://103.153.39.36:8000/play/a018
 
-#EXTINF: -1 tvg-id="001" tvg-logo="" group-title="", Star Sports S 2 
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="", Star Sports S 2 
 http://103.153.39.36:8000/play/a019
 
-#EXTINF: -1 tvg-id="001" tvg-logo="" group-title="", StarMov S 
+
 
 
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDWqN_t8q9FCukTAaiVDFJCiWEGmgzWhh9g&usqp=CAU" group-title="Movies" ,Sony Pix HD
