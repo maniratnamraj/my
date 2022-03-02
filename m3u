@@ -383,7 +383,7 @@ http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
 #EXTINF: -1 tvg-id="COLORS HD" tvg-logo="https://i.imgur.com/Z5IqTb6.jpg" group-title="", COLORS HD 
 http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
 
-#EXTINF: -1 tvg-id="COLORS HD" tvg-logo="" group-title="https://i.imgur.com/Z5IqTb6.jpg" group-title="", COLORS HD 
+#EXTINF: -1 tvg-id="COLORS HD" tvg-logo="https://i.imgur.com/Z5IqTb6.jpg" group-title="", COLORS HD 
 http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8
 
 #EXTINF: -1 tvg-id="SAHARA ONE" tvg-logo="https://i.imgur.com/khVnNIz.png" group-title="" group-title="", SAHARA ONE 
@@ -431,7 +431,7 @@ http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="MTV BEATS HD" tvg-logo="https://i.imgur.com/K5MG0BA.jpg" group-title="", MTV BEATS HD 
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-id="001" tvg-logo="" group-title="https://i.imgur.com/t0MR35T.jpg" group-title="", Star Gold SelHD
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/t0MR35T.jpg" group-title="", Star Gold SelHD
 http://103.153.39.36:8000/play/a014
 
 #EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/cmgjIaN.jpg" group-title="" group-title="", Star Plus HD 
