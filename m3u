@@ -359,12 +359,6 @@ http://singamcloud.in:1935/rasinetwork/rasitelugu/playlist.m3u8
 #EXTINF:-1 tvg-id="Rashi HOLLYWOOD HD" tvg-logo="https://i.imgur.com/7EvUwRF.jpg"group-title="Movies", Rasi Hollywood HD
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JL TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/JLtv.jpg" group-title="Movies", JL TV
-http://sundaylive.livebox.co.in/jltvhls/jltvtv.m3u8
-
-#EXTINF:-1 tvg-id="Reshya TV" tvg-logo="http://prfibers.com/assets/images/reshya%20125.png" group-title="Movies", Reshya TV
-http://sundaylive.livebox.co.in/reshyahls/reshyatv.m3u8
-
 #EXTINF:-1 tvg-id="STAR MOVIES HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAbKerd0Gbn5LQFt5q1iwDgaUL6cpYC8DrMxTBDjxYKngnOlSf4lKqzjBD&s=10" group-title="Movies" ,STAR MOVIES HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
@@ -488,10 +482,10 @@ http://carre.flysat.live:80/152062083303767/152048915586075/73933
 #EXTINF:-1 tvg-name="SONY WAH" tvg-logo="https://i.imgur.com/3YLklC3.png" group-title="Movies", SONY WAH
 http://carre.flysat.live:80/152062083303767/152048915586075/73928
 
-#EXTINF:-1 tvg-id="Sony Yay Hindi" tvg-logo="https://i.imgur.com/njyLbdt.png" group-title="Kids",Sony Yay Hindi
+#EXTINF:-1 tvg-id="SONY Yay Hindi" tvg-logo="https://i.imgur.com/njyLbdt.png" group-title="Kids",Sony Yay Hindi
 http://carre.flysat.live:80/152062083303767/152048915586075/73927
 
-#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://i.imgur.com/wZFctxP.png" group-title="Movies" ,Sony Pix HD
+#EXTINF:-1 tvg-id="SONY Pix HD" tvg-logo="https://i.imgur.com/wZFctxP.png" group-title="Movies" ,Sony Pix HD
 http://carre.flysat.live:80/152062083303767/152048915586075/73932
 
 #EXTINF:-1 tvg-name="Zee Tv Hd" tvg-logo="https://i.imgur.com/Xu8X68x.png" group-title="Entertainment",Zee Tv Hd
