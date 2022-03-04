@@ -324,7 +324,7 @@ http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="ZEE ANMOL CINEMA" tvg-logo="https://i.imgur.com/4pe5n0Q.png" group-title="", ZEE ANMOL CINEMA 
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="SONY MAX 2" tvg-logo="https://i.imgur.com/noIqSZq.png" group-title="", SONY MAX 2 
+#EXTINF: -1 tvg-id="SONY MAX 2" tvg-logo="https://i.imgur.com/noIqSZq.png" group-title="", SONY MAX 2 
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="B4U MOVIES" tvg-logo="https://i.imgur.com/hRONHSE.jpg" group-title="", B4U MOVIES 
