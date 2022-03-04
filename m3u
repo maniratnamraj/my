@@ -309,9 +309,6 @@ http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="STAR GOLD HD" tvg-logo="https://i.imgur.com/FjDIKc2.jpg" group-title="", STAR GOLD HD 
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-id="STAR GOLD HD" tvg-logo="https://i.imgur.com/FjDIKc2.jpg" group-title="", STAR GOLD HD 
-http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
-
 #EXTINF: -1 tvg-id="STAR GOLD 2" tvg-logo="https://i.imgur.com/yGkYlAI.jpg" group-title="", STAR GOLD 2 
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 
