@@ -270,7 +270,7 @@ http://singamcloud.in:1935/rasinetwork/rasitelugu/playlist.m3u8
 #EXTINF:-1 tvg-id="Rashi HOLLYWOOD HD" tvg-logo="https://i.imgur.com/7EvUwRF.jpg"group-title="Movies", Rasi Hollywood HD
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 
-#EXTINF:-1 tvg-id="STAR MOVIES HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAbKerd0Gbn5LQFt5q1iwDgaUL6cpYC8DrMxTBDjxYKngnOlSf4lKqzjBD&s=10" group-title="Movies" ,STAR MOVIES HD
+#EXTINF:-1 tvg-id="STAR MOVIES HD" tvg-logo="https://i.imgur.com/crrndU1.png" group-title="Movies" ,STAR MOVIES HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="STAR PLUS HD" tvg-logo="https://i.imgur.com/cmgjIaN.jpg" group-title="", STAR PLUS HD 
@@ -437,14 +437,14 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 http://watchindia.net:8880/live/33253/72963/2102.ts
 
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",Cartoon Network HD+
-https://jio.instream.ml/jio.php?c=CN_HD_Telugu&q=800&e=.m3u8
+http://iptvmedia.live:8080/12810/7f788911/82584
 
 #EXTINF:-1 tvg-name="FashionTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png" group-title="Lifestyle",Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+http://iptvmedia.live:8080/12810/7f788911/851208
 
 
 #EXTINF:-1 tvg-id="ZEE CAFE HD" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="Entertainment",ZEE CAFE HD
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+http://iptvmedia.live:8080/12810/7f788911/49561
 
 
 
@@ -459,39 +459,39 @@ https://y5w8j4a9.ssl.hwcdn.net/canadahd/index.m3u8
 http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
 
 #EXTINF:-1 tvg-name="Big Magic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Big_Magic.jpg" group-title="Entertainment",Big Magic
-https://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
+http://iptvmedia.live:8080/12810/7f788911/49548
 
 #EXTINF:-1 tvg-name="Big Ganga" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-bigganga/list/09biggangabigganga.jpg" group-title="Entertainment",Big Ganga
-https://y5w8j4a9.ssl.hwcdn.net/bigganga/index.m3u8
+http://iptvmedia.live:8080/12810/7f788911/49573
 
 #EXTINF:-1 tvg-name="Zing" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zing/list/09zingzing.jpg" group-title="Music",Zing
-https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
+http://iptvmedia.live:8080/12810/7f788911/1347
 
 
 
-#EXTINF:-1 tvg-name="Rishtey Cineplex" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Movies",Rishtey Cineplex
-https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+#EXTINF:-1 tvg-name="Rishtey Cineplex" tvg-logo="https://i.imgur.com/lcw6p6o.png" group-title="Movies",Rishtey Cineplex
+http://iptvmedia.live:8080/12810/7f788911/71074
 
 #EXTINF:-1 tvg-name="Shemaroo TV" tvg-logo="https://www.exchange4media.com/news-photo/104312-ShemarooTV.jpg" group-title="Entertainment",Shemaroo TV
-https://voot.shemaroo.com/shemarootv/smil:shemarootvadp.smil/chunklist_b1628000_sleng.m3u8
+http://iptvmedia.live:8080/12810/7f788911/192955
 
 #EXTINF:-1 tvg-name="DD National" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Dd_national.jpg" group-title="Entertainment",DD National
-http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+http://iptvmedia.live:8080/12810/7f788911/192197
 
 #EXTINF:-1 tvg-name="DD Retro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/DD_Retro.jpg" group-title="Entertainment",DD Retro
 
 
 #EXTINF:-1 tvg-name="Bflix Movies" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-bflix-movies-2320.jpg" group-title="Movies",Bflix Movies
-
+http://iptvmedia.live:8080/12810/7f788911/73791
 
 #EXTINF:-1 tvg-name="Pitaara Tv" tvg-logo="https://i.ytimg.com/vi/D_uMtpDJdlw/maxresdefault.jpg" group-title="Movies",Pitaara Tv
 https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/chunklist_w322362321.m3u8
 
 #EXTINF:-1 tvg-name="Ptc Punjabi Gold" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptc-punjabi-gold-in.png" group-title="Movies",Ptc Punjabi Gold
-https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w1855918665_b1396000_sleng.m3u8
+
 
 #EXTINF:-1 tvg-name="Ptc Punjabi" tvg-logo="https://exchange4media.gumlet.io/news-photo/100312.ptcMain.jpg" group-title="Movies",Ptc Punjabi
-https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w1389871650_b1396000_sleng.m3u8
+http://iptvmedia.live:8080/12810/7f788911/82616
 
 #EXTINF:-1 tvg-name="9xm" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9xm
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
@@ -500,16 +500,16 @@ https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-name="Zoom" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0069.Zoom.in/en/1x1/208x208/test_pic1550666525581.jpg" group-title="Music",Zoom
-https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+http://iptvmedia.live:8080/12810/7f788911/192069
 
 #EXTINF:-1 tvg-id="Animal Planet English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.png" group-title="Infotainment",Animal Planet English
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist.m3u8
+http://iptvmedia.live:8080/12810/7f788911/1370
 
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="Infotainment",Discovery Science
-http://iptvtree.net:8080/15247/6bc4e63e/1370
+http://iptvmedia.live:8080/12810/7f788911/282784
 
 #EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Infotainment",Discovery Turbo
-http://prox.x86.co.uk/index.php/http://idvd.multitvsolution.com/idvo/turboeng.m3u8
+http://iptvmedia.live:8080/12810/7f788911/3023
 
 #EXTINF:-1 tvg-id="TLC English" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Infotainment",TLC English
 http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
@@ -603,7 +603,7 @@ https://abp-i.akamaihd.net/hls/live/765533/abpsanjha/master_764.m3u8
 https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w997952832_b1396000_sleng.m3u8
 
 #EXTINF:-1 tvg-name="Zee Business" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zeebusiness/list/09zeebusinesszeebusiness.jpg" group-title="News",Zee Business
-https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeebusiness
+http://iptvmedia.live:8080/12810/7f788911/16984
 
 #EXTINF:-1 tvg-id="9XJalwa" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0781.9XJalwa.in/1x1/1x/test_pic1545220867249.jpg" group-title="Music",9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
