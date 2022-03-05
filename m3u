@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://epg.streamstv.me/epg/guide-india.xml.gz"
 
-#EXTINF:-1 tvg-id="GARUDA HD" tvg-logo="https://i.imgur.com/W8CFuqx.jpg" group-title="", GARUDA HD
+#EXTINF:-1 tvg-id="GARUDA HD" tvg-logo="https://i.imgur.com/W8CFuqx.jpg" group-title="Entertainment", GARUDA HD
 https://rtmp.streamwell.in/hls/garudatv.m3u8
 
-#EXTINF:-1 tvg-id="GARUDA " tvg-logo="https://i.imgur.com/iv01fEs.jpg" group-title="", GARUDA BHAKTI
+#EXTINF:-1 tvg-id="GARUDA " tvg-logo="https://i.imgur.com/iv01fEs.jpg" group-title="Entertainment", GARUDA BHAKTI
 https://server.streamwell.in/hls/bhaktigaruda.m3u8
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://i.imgur.com/Xh3uqz6.png" group-title="Entertainment", ETV 
@@ -35,27 +35,28 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1504
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://i.imgur.com/lXOazJn.png" group-title="Entertainment", Gemini TV HD
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1120
+http://qqtv.nl:8080/Airport111/Airport111/60933
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://i.imgur.com/rnrcCfY.png" group-title="Movies", Gemini Movies HD
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/382
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://i.imgur.com/bo1OSbd.png" group-title="Entertainment", Gemini Comedy
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/383
+http://qqtv.nl:8080/Airport111/Airport111/60936
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://i.imgur.com/z6USUEc.png" group-title="Music", Gemini Music HD
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1506
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://i.imgur.com/6TbzJRA.png" group-title="Entertainment", Gemini Life
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1503
+http://qqtv.nl:8080/Airport111/Airport111/60935
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://i.imgur.com/OPrJHo4.png" group-title="Movies", Zee Telugu HD
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/380
+http://qqtv.nl:8080/Airport111/Airport111/60931
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://i.imgur.com/Kv6U228.jpg" group-title="Movies", Zee Cinemalu HD
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/376
-
-#EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://i.imgur.com/fHiOddR.png" group-title="Movies",TVAsia HD
-http://hdhd.tk:80/tmj/tmj/7050
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="Music", Raj Music Telugu
 http://carre.flysat.live:80/152062083303767/152048915586075/74285
@@ -502,26 +503,25 @@ https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 #EXTINF:-1 tvg-name="Zoom" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0069.Zoom.in/en/1x1/208x208/test_pic1550666525581.jpg" group-title="Music",Zoom
 http://iptvmedia.live:8080/12810/7f788911/192069
 
-#EXTINF:-1 tvg-id="Animal Planet English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.png" group-title="Infotainment",Animal Planet English
+#EXTINF:-1 tvg-id="Animal Planet English" tvg-logo="https://i.imgur.com/bqXmG0j.png" group-title="Infotainment",Animal Planet English
 http://iptvmedia.live:8080/12810/7f788911/1370
 
-#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="Infotainment",Discovery Science
-http://iptvmedia.live:8080/12810/7f788911/282784
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/VF3ejns.png" group-title="Infotainment",Discovery Science
+http://iptvmedia.live:8080/12810/7f788911/1363
 
-#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Infotainment",Discovery Turbo
+#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/B7X8wGx.png" group-title="Infotainment",Discovery Turbo
 http://iptvmedia.live:8080/12810/7f788911/3023
 
-#EXTINF:-1 tvg-id="TLC English" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Infotainment",TLC English
+#EXTINF:-1 tvg-id="TLC English" tvg-logo="https://i.imgur.com/TcpspGO.jpg" group-title="Infotainment",TLC English
 http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
 
-#EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Family/Kids",Discovery Kids
-https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
+#EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://i.imgur.com/72MEKWu.png" group-title="Family/Kids",Discovery Kids
+http://iptvmedia.live:8080/12810/7f788911/82683
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_599,h_337,c_scale,f_webp,q_auto:eco/resources/0-9-290/list/1170x658_zee5kid_983708240.jpg" group-title="Family/Kids",Kids
-https://cutt.ly/4nn6j0L
 
-#EXTINF:-1 tvg-name="PTC Chak De" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Chak-De-1.png" group-title="Music",PTC Chak De
-https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/chunklist_w372446408_b1396000_sleng.m3u8
+
+#EXTINF:-1 tvg-name="PTC Chak De" tvg-logo="https://i.imgur.com/mXKllh1.jpg" group-title="Music",PTC Chak De
+
 
 
 #EXTINF:-1 tvg-name="Aaj Tak Hd" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg" group-title="News",Aaj Tak Hd
