@@ -346,6 +346,9 @@ http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/t0MR35T.jpg" group-title="", Star Gold SelHD
 http://103.153.39.36:8000/play/a014
 
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Sports HD" tvg-logo="" group-title="India",IN: DD Sports HD
+http://iptvmedia.live:8080/12810/7f788911/56153
+
 #EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/cmgjIaN.jpg" group-title="" group-title="", Star Plus HD 
 http://103.153.39.36:8000/play/a00m
 
@@ -424,48 +427,31 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Andflixhd.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
-
-#EXTINF:-1 tvg-id="Andflixhd.in" tvg-name="&Flix Sd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="Movies",&Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflix/index.m3u8
-
-#EXTINF:-1 tvg-id="&flix HD" tvg-name="&Flix Hd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="Movies",&Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-
+#EXTINF:-1 tvg-id="Andflixhd.in" tvg-logo="https://i.imgur.com/3XW2ayy.png" group-title="Movies", &Flix HD
+http://iptvmedia.live:8080/12810/7f788911/45506
 
 #EXTINF:-1 tvg-id="Hbo.in" tvg-name="HBO" tvg-logo="" group-title="Movies",Movies Now HD
 http://watchindia.net:8880/live/33253/72963/2102.ts
 
-#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",Cartoon Network HD+
+#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="" group-title="Family/Kids",Cartoon Network HD+
 http://iptvmedia.live:8080/12810/7f788911/82584
 
-#EXTINF:-1 tvg-name="FashionTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png" group-title="Lifestyle",Fashion TV
+#EXTINF:-1 tvg-name="FashionTV.in" tvg-logo="https://i.imgur.com/Wy3HE6w.png" group-title="Lifestyle",Fashion TV
 http://iptvmedia.live:8080/12810/7f788911/851208
 
-
-#EXTINF:-1 tvg-id="ZEE CAFE HD" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="Entertainment",ZEE CAFE HD
+#EXTINF:-1 tvg-id="ZEE CAFE HD" tvg-logo="https://i.imgur.com/Hj5zw62.jpg" group-title="Entertainment",ZEE CAFE HD
 http://iptvmedia.live:8080/12810/7f788911/49561
 
+#EXTINF:-1 tvg-name="&Tv Sd" tvg-logo="https://i.imgur.com/dAVBtaR.png" group-title="Entertainment",&Tv Sd
+http://iptvmedia.live:8080/12810/7f788911/16964
 
-
-
-
-
-
-#EXTINF:-1 tvg-name="Zee Tv Canada" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg" group-title="Entertainment",Zee Tv Canada
-https://y5w8j4a9.ssl.hwcdn.net/canadahd/index.m3u8
-
-#EXTINF:-1 tvg-name="&Tv Sd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/270x152/09tvhd_0tvhd.jpg" group-title="Entertainment",&Tv Sd
-http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
-
-#EXTINF:-1 tvg-name="Big Magic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Big_Magic.jpg" group-title="Entertainment",Big Magic
+#EXTINF:-1 tvg-name="Big Magic" tvg-logo="https://i.imgur.com/0Kx3kh4.png" group-title="Entertainment",Big Magic
 http://iptvmedia.live:8080/12810/7f788911/49548
 
-#EXTINF:-1 tvg-name="Big Ganga" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-bigganga/list/09biggangabigganga.jpg" group-title="Entertainment",Big Ganga
+#EXTINF:-1 tvg-name="Big Ganga" tvg-logo="https://i.imgur.com/e99P4Nb.png" group-title="Entertainment",Big Ganga
 http://iptvmedia.live:8080/12810/7f788911/49573
 
-#EXTINF:-1 tvg-name="Zing" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zing/list/09zingzing.jpg" group-title="Music",Zing
+#EXTINF:-1 tvg-name="Zing" tvg-logo="https://i.imgur.com/4GPGG6Z.png" group-title="Music",Zing
 http://iptvmedia.live:8080/12810/7f788911/1347
 
 
@@ -476,17 +462,16 @@ http://iptvmedia.live:8080/12810/7f788911/71074
 #EXTINF:-1 tvg-name="Shemaroo TV" tvg-logo="https://www.exchange4media.com/news-photo/104312-ShemarooTV.jpg" group-title="Entertainment",Shemaroo TV
 http://iptvmedia.live:8080/12810/7f788911/192955
 
-#EXTINF:-1 tvg-name="DD National" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Dd_national.jpg" group-title="Entertainment",DD National
+#EXTINF:-1 tvg-name="DD National" tvg-logo="https://i.imgur.com/mOCVjKf.png" group-title="Entertainment",DD National
 http://iptvmedia.live:8080/12810/7f788911/192197
 
 #EXTINF:-1 tvg-name="DD Retro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/DD_Retro.jpg" group-title="Entertainment",DD Retro
 
 
-#EXTINF:-1 tvg-name="Bflix Movies" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-bflix-movies-2320.jpg" group-title="Movies",Bflix Movies
-http://iptvmedia.live:8080/12810/7f788911/73791
+#EXTINF:-1 tvg-name="Bflix Movies" tvg-logo="https://i.imgur.com/jUeuOGJ.png" group-title="Movies",Bflix Movies
 
-#EXTINF:-1 tvg-name="Pitaara Tv" tvg-logo="https://i.ytimg.com/vi/D_uMtpDJdlw/maxresdefault.jpg" group-title="Movies",Pitaara Tv
-https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/chunklist_w322362321.m3u8
+
+
 
 #EXTINF:-1 tvg-name="Ptc Punjabi Gold" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptc-punjabi-gold-in.png" group-title="Movies",Ptc Punjabi Gold
 
@@ -513,7 +498,7 @@ http://iptvmedia.live:8080/12810/7f788911/1363
 http://iptvmedia.live:8080/12810/7f788911/3023
 
 #EXTINF:-1 tvg-id="TLC English" tvg-logo="https://i.imgur.com/TcpspGO.jpg" group-title="Infotainment",TLC English
-http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
+http://iptvmedia.live:8080/12810/7f788911/192996
 
 #EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://i.imgur.com/72MEKWu.png" group-title="Family/Kids",Discovery Kids
 http://iptvmedia.live:8080/12810/7f788911/82683
