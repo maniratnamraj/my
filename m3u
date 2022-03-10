@@ -1,22 +1,18 @@
 #EXTM3U url-tvg="http://epg.streamstv.me/epg/guide-india.xml.gz"
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://i.imgur.com/Xh3uqz6.png" group-title="Entertainment", ETV 
-http://qqtv.nl:8080/Airport111/Airport111/60948
 https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/ETV_Telugu.m3u8
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="Movies", ETV Cinema
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1500
 https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/ETV_Cinema.m3u8
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="https://i.imgur.com/khXUqw6.png" group-title="Lifestyle", ETV Life
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1507
 https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/ETV_Plus.m3u8
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://i.imgur.com/i62bBx9.png" group-title="Lifestyle", ETV PLUS
 http://api.gostartv.com:8080/mag00:1A:79:51:42:8B/gvtzrgPdSk/3263
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="Lifestyle", ETV ABHIRUCHI
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/372
 https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/ETV_Abhiruchi.m3u8
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://i.imgur.com/xuiLlnw.png" group-title="Entertainment",STAR MAA HD
