@@ -157,10 +157,10 @@ https://snehapi.in1.bitmana.io/jioapi/tsjioautoq/ABN_Andhra_Jyothi.m3u8
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1505
 
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://i.imgur.com/abq83Lr.png" group-title="News", BBC World News
-https://snehapi.in1.bitmana.io/jioapi/tsjioautoq/BBC_World_News.m3u8
+
 
 #EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://i.imgur.com/ZPeZZ8K.png" group-title="Lifestyle", CVR OM Spiritual
-https://snehapi.in1.bitmana.io/jioapi/tsjio1200/CVR_OM_Spiritual.m3u8
+http://14.199.164.20:4001/play/a0hr/index.m3u8
 
 #EXTINF:-1 tvg-id="SVBC2" tvg-logo="https://i.imgur.com/Zlb1Z2Z.jpg" group-title="Lifestyle", SVBC Telugu
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/371
@@ -168,11 +168,20 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/371
 #EXTINF:-1 tvg-id="Bhakti Tv" tvg-logo="https://i.imgur.com/RdZF3RB.png" group-title="Lifestyle", Bhakti TV
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/367
 
-#EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA" tvg-logo="https://i.imgur.com/6lqHYh2.png" group-title="Lifestyle", AASTHA Telugu
+#EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA" tvg-logo="https://i.imgur.com/62f5Wf6.png" group-title="Lifestyle", AASTHA Telugu
 https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/Aastha_Telugu.m3u8
 
 #EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://i.imgur.com/0v2wUtY.png" group-title="Lifestyle", Hindu Dharmam
-https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
+http://14.199.164.20:4001/play/a0ku/index.m3u8
+
+#EXTINF:-1 tvg-id="Aradana TV" tvg-logo="https://i.imgur.com/YkQlVfQ.png" group-title="",Aradana TV
+http://pprotv.com:80/06169559/06169559/61116
+
+#EXTINF:-1 tvg-id="Calvary TV" tvg-logo="https://i.imgur.com/1OPKF8j.jpg" group-title="",Calvary TV
+http://pprotv.com:80/06169559/06169559/61117
+
+#EXTINF:-1 tvg-id="Subhavartha TV" tvg-logo="https://i.imgur.com/QqZOBdC.png" group-title="",Subhavartha TV
+http://14.199.164.20:4001/play/a0l8/index.m3u8
 
 #EXTINF:-1 tvg-id="YuppTV RECORDED" tvg-logo="https://i.imgur.com/KJqV5z4.jpg" group-title="SPORTS", YuppTV Recorded
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1070
@@ -393,7 +402,7 @@ http://carre.flysat.live:80/152062083303767/152048915586075/73927
 #EXTINF:-1 tvg-id="SONY Pix HD" tvg-logo="https://i.imgur.com/wZFctxP.png" group-title="Movies" ,Sony Pix HD
 http://carre.flysat.live:80/152062083303767/152048915586075/73932
 
-#EXTINF:-1 tvg-name="Zee Tv Hd" tvg-logo="https://i.imgur.com/Xu8X68x.png" group-title="Entertainment",Zee Tv Hd
+#EXTINF:-1 tvg-name="Zee Tv Hd" tvg-logo="https://i.imgur.com/prgjUPI.jpg" group-title="Entertainment",Zee Tv Hd
 http://carre.flysat.live:80/152062083303767/152048915586075/73944
 
 #EXTINF:-1 tvg-id="Zee Cinema Hd" tvg-logo="https://i.imgur.com/fTOoGIr.jpg" group-title="Movies",Zee Cinema Hd
