@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="http://epg.streamstv.me/epg/guide-india.xml.gz"
 
+#EXTINF:-1 tvg-id="svn" tvg-logo="" group-title="Entertainment", SVN
+https://studio.youtube.com/video/kr6yzoWpW6I/edit
+
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://i.imgur.com/Xh3uqz6.png" group-title="Entertainment", ETV 
 https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/ETV_Telugu.m3u8
 
