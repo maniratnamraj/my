@@ -82,7 +82,7 @@ http://carre.flysat.live:80/152062083303767/152048915586075/74286
 https://snehapi.in1.bitmana.io/jioapi/tsjioautoq/Travel_XP_HD.m3u8
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="Entertainment", DD Saptagiri
-https://snehapi.in1.bitmana.io/jioapi/tsjioautoq/DD_Saptagiri.m3u8
+https://m-c15-j2apps.s.llnwi.net/hls/0286.DDSaptagiri.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/yJvPTWj.png" group-title="Entertainment", DD Yadagiri
 https://snehapi.in1.bitmana.io/z5api/snehz5api/ddyadagiri.m3u8
@@ -118,8 +118,7 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/368
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/387
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://i.imgur.com/3QEc2uP.png" group-title="News", ETV Telangana
-https://snehapi.in1.bitmana.io/jioapi/tsjioautoq/ETV_Telangana.m3u8
-https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/ETV_Telangana.m3u8
+
 
 #EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="https://i.imgur.com/JCRBOkF.png" group-title="News", ETV Andhra Pradesh
 https://snehapi.in1.bitmana.io/jioapi/tsjioautoq/ETV_Andhra_pradesh.m3u8
