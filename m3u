@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.streamstv.me/epg/guide-india.xml.gz"
 
 #EXTINF:-1 tvg-id="svn" tvg-logo="https://i.imgur.com/Ya5EyY5.jpg" group-title="NEWS", SVN NEWS
-https://www.youtube.com/watch?v=c6MySfUPeBo
+https://m-c03-j2apps.s.llnwi.net/hls/7059.SailLeela.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://i.imgur.com/Xh3uqz6.png" group-title="Entertainment", ETV 
 https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/ETV_Telugu.m3u8
