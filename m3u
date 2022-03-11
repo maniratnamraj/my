@@ -384,7 +384,7 @@ http://carre.flysat.live:80/152062083303767/152048915586075/73929
 http://carre.flysat.live:80/152062083303767/152048915586075/73930
 
 #EXTINF:-1 tvg-name="SONY AATH" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Movies", SONY AATH
-
+https://live.durbinlive.com/hls/Sony_Aath.m3u8
 
 #EXTINF:-1 tvg-name="SONY MAX HD" tvg-logo="https://i.imgur.com/QJXXhRP.png" group-title="Movies", SONY MAX HD
 http://carre.flysat.live:80/152062083303767/152048915586075/73934
