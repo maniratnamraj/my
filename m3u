@@ -181,101 +181,14 @@ http://pprotv.com:80/06169559/06169559/61117
 #EXTINF:-1 tvg-id="Subhavartha TV" tvg-logo="https://i.imgur.com/QqZOBdC.png" group-title="",Subhavartha TV
 http://14.199.164.20:4001/play/a0l8/index.m3u8
 
-#EXTINF:-1 tvg-id="YuppTV RECORDED" tvg-logo="https://i.imgur.com/KJqV5z4.jpg" group-title="SPORTS", YuppTV Recorded
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1070
-
-#EXTINF:-1 tvg-id="D SPORTS HD" tvg-logo="https://i.imgur.com/6NMsg7I.jpg" group-title="SPORTS", D SPORTS HD
-http://carre.flysat.live:80/152062083303767/152048915586075/74262
-
-#EXTINF:-1 tvg-id="WILLOW CRICKET HD" tvg-logo="https://i.imgur.com/VIuVI3P.png" group-title="SPORTS", WILLOW CRICKET HD
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/517
-
-#EXTINF:-1 tvg-id="WILLOW CRICKET XTRA" tvg-logo="https://i.imgur.com/6al4X9t.png" group-title="SPORTS", WILLOW CRICKET XTRA
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/2581
-
-#EXTINF:-1 tvg-id="SONY SIX FHD" tvg-logo="https://i.imgur.com/eQPAGeJ.jpg" group-title="SPORTS", SONY SIX 
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1367
-
-#EXTINF:-1 tvg-id="TEN 1 FHD" tvg-logo="https://i.imgur.com/uCOfGxn.jpg" group-title="SPORTS", TEN 1 
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/497
-
-#EXTINF:-1 tvg-id="TEN 2 FHD" tvg-logo="https://i.imgur.com/eXc5dS2.png" group-title="SPORTS", TEN 2
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/513
-
-#EXTINF:-1 tvg-id="TEN 3 FHD" tvg-logo="https://i.imgur.com/TL7cbfr.png" group-title="SPORTS", TEN 3
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/518
-
-#EXTINF:-1 tvg-id="STAR SPRTS 1 FHD" tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="SPORTS", STAR SPORTS 1 HD
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1369
-
-#EXTINF:-1 tvg-id="STAR SPORTS HD2" tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="SPORTS", STAR SPORTS HD2
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1066
-
-#EXTINF:-1 tvg-id="STAR SPORTS SELECT 1 FHD" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="SPORTS", STAR SPORTS SELECT 1 
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1125
-
-#EXTINF:-1 tvg-id="STAR SPORTS 1 FHD Hindi" tvg-logo="https://i.imgur.com/w7rO6yI.jpg" group-title="SPORTS", STAR SPORTS HINDI
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1371
-
-#EXTINF:-1 tvg-id="STAR SPORTS Telugu" tvg-logo="https://i.imgur.com/DU23jup.jpg" group-title="SPORTS", STAR SPORTS Telugu
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/500
-
-#EXTINF:-1 tvg-id="STAR SPORTS 1 TAMIL" tvg-logo="https://i.imgur.com/PuVcUhU.png" group-title="SPORTS", STAR SPORTS 1 TAMIL
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1529
-
-#EXTINF:-1 tvg-id="STAR SPORTS Bangla" tvg-logo="https://i.imgur.com/EdnIqRG.png" group-title="SPORTS", STAR SPORTS Bangla
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/502
-
-#EXTINF:-1 tvg-id="STAR SPORTS Kanada" tvg-logo="https://i.imgur.com/CICG8go.jpg" group-title="SPORTS", STAR SPORTS Kanada
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/501
-
-#EXTINF:-1 tvg-id="BCN Channel" tvg-logo="https://i.imgur.com/u74NyIw.jpg" group-title="Movies", BCN
-http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
-
-#EXTINF:-1 tvg-id="YSR tv" tvg-logo="https://i.imgur.com/ujk7jw7.jpg" group-title="Movies", YSR tv
-https://teluguwebsolutions.com/hls/ysrtv/ysrtv.m3u8
-
-#EXTINF:-1 tvg-id="Mana TV" tvg-logo="https://i.imgur.com/tEnYfTw.png" group-title="Movies", Mana TV
-http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://i.imgur.com/YPziXOq.jpg" group-title="News", Metro TV
-https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Shreyas TV" tvg-logo="https://i.imgur.com/otudaLu.jpg" group-title="Movies", Shreyas TV
-https://tv.capitalfi.net:4403/Shreyas/live/index.m3u8
-
-#EXTINF:-1 tvg-id="saranyatv" tvg-logo="https://i.imgur.com/n3drnWz.jpg" group-title="Movies", Saranya TV
-http://blmtech.in:8086/hls/saranyatv/index.m3u8
-
-#EXTINF:-1 tvg-id="Sathya News" tvg-logo="https://i.imgur.com/TtsU5Vc.jpg" group-title="News", Sathya News
-http://blmtech.in:8086/hls/satyanews/index.m3u8
-
-#EXTINF:-1 tvg-id="Vihari TV" tvg-logo="https://i.imgur.com/T4wgq0a.jpg" group-title="News", Vihari TV
-http://blmtech.in:8086/hls/viharitv/index.m3u8
-
-#EXTINF:-1 tvg-id="City News TV" tvg-logo="https://i.imgur.com/hP8OBXI.png" group-title="Movies", City News TV
-http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Public TV" tvg-logo="https://i.imgur.com/32BlEW3.jpg" group-title="Music", Public TV
-http://msoout.freedocast.com/vgpt/publictv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="STV Telugu" tvg-logo="https://i.imgur.com/bXZoG1P.png" group-title="News", STV Telugu
-http://blmtech.in:8086/hls/stvtelugu/index.m3u8
-
-#EXTINF:-1 tvg-id="Cowa TV" tvg-logo="https://i.imgur.com/JUuVBMx.jpg" group-title="News", Cowa TV
-http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rashi Telugu HD" tvg-logo="https://i.imgur.com/9GjEAny.jpg?1"group-title="Movies", Rasi Telugu HD
-http://singamcloud.in:1935/rasinetwork/rasitelugu/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rashi HOLLYWOOD HD" tvg-logo="https://i.imgur.com/7EvUwRF.jpg"group-title="Movies", Rasi Hollywood HD
-http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
-
 #EXTINF:-1 tvg-id="STAR MOVIES HD" tvg-logo="https://i.imgur.com/crrndU1.png" group-title="Movies" ,STAR MOVIES HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="STAR PLUS HD" tvg-logo="https://i.imgur.com/cmgjIaN.jpg" group-title="", STAR PLUS HD 
-http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
+
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/t0MR35T.jpg" group-title="", Star Gold SelHD
+http://103.153.39.36:8000/play/a014
 
 #EXTINF: -1 tvg-id="STAR BHARAT HD" tvg-logo="https://i.imgur.com/ggjzzbu.png" group-title="", STAR BHARAT HD 
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
@@ -286,32 +199,14 @@ http://carre.flysat.live:80/152062083303767/152048915586075/73937
 #EXTINF: -1 tvg-id="STAR UTSAV MOVIES " tvg-logo="https://i.imgur.com/fT4ibZW.jpg" group-title="", STAR UTSAV MOVIES
 http://carre.flysat.live:80/152062083303767/152048915586075/73936
 
-#EXTINF: -1 tvg-id="STAR PLUS HD" tvg-logo="https://i.imgur.com/cmgjIaN.jpg" group-title="", STAR PLUS HD 
-http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
-
-#EXTINF: -1 tvg-id="ZEE TV HD" tvg-logo="https://i.imgur.com/ONVZJas.png" group-title="", ZEE TV 
-http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
-
-#EXTINF: -1 tvg-id="ZEE TV HD" tvg-logo="https://i.imgur.com/ONVZJas.png" group-title="", ZEE TV HD 
-http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
-
-#EXTINF: -1 tvg-id="COLORS HD" tvg-logo="https://i.imgur.com/Z5IqTb6.jpg" group-title="", COLORS HD 
-http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
-
-#EXTINF: -1 tvg-id="COLORS HD" tvg-logo="https://i.imgur.com/Z5IqTb6.jpg" group-title="", COLORS HD 
-http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8
-
-#EXTINF: -1 tvg-id="SAHARA ONE" tvg-logo="https://i.imgur.com/khVnNIz.png" group-title="" group-title="", SAHARA ONE 
-http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
-
-#EXTINF: -1 tvg-id="UTV HD" tvg-logo="https://i.imgur.com/OyMRpBB.png" group-title="" group-title="", UTV HD 
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-
 #EXTINF: -1 tvg-id="STAR GOLD HD" tvg-logo="https://i.imgur.com/FjDIKc2.jpg" group-title="", STAR GOLD HD 
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="STAR GOLD 2" tvg-logo="https://i.imgur.com/yGkYlAI.jpg" group-title="", STAR GOLD 2 
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-id="ZEE TV HD" tvg-logo="https://i.imgur.com/ONVZJas.png" group-title="", ZEE TV 
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
 
 #EXTINF: -1 tvg-id="ZEE CINEMA HD" tvg-logo="https://i.imgur.com/ucszpcH.jpg" group-title="", ZEE CINEMA HD 
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
@@ -324,6 +219,16 @@ http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="ZEE ANMOL CINEMA" tvg-logo="https://i.imgur.com/g03Txna.png" group-title="", ZEE ANMOL CINEMA 
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-id="COLORS HD" tvg-logo="https://i.imgur.com/Z5IqTb6.jpg" group-title="", COLORS HD 
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
+
+
+#EXTINF: -1 tvg-id="SAHARA ONE" tvg-logo="https://i.imgur.com/khVnNIz.png" group-title="" group-title="", SAHARA ONE 
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
+
+#EXTINF: -1 tvg-id="UTV HD" tvg-logo="https://i.imgur.com/OyMRpBB.png" group-title="" group-title="", UTV HD 
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="SONY MAX 2" tvg-logo="https://i.imgur.com/noIqSZq.png" group-title="", SONY MAX 2 
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
@@ -343,14 +248,20 @@ http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="MTV BEATS HD" tvg-logo="https://i.imgur.com/K5MG0BA.jpg" group-title="", MTV BEATS HD 
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/t0MR35T.jpg" group-title="", Star Gold SelHD
-http://103.153.39.36:8000/play/a014
-
-#EXTINF:-1 tvg-id="" tvg-name="IN: DD Sports HD" tvg-logo="https://i.imgur.com/IYYEVAb.png" group-title="India",IN: DD Sports HD
+#EXTINF:-1 tvg-id="DD Sports HD" tvg-logo="https://i.imgur.com/IYYEVAb.png" group-title="India",IN: DD Sports HD
 http://iptvmedia.live:8080/12810/7f788911/56153
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/cmgjIaN.jpg" group-title="" group-title="SPORTS", Star Plus HD 
-http://103.153.39.36:8000/play/a00m
+#EXTINF:-1 tvg-id="YuppTV RECORDED" tvg-logo="https://i.imgur.com/KJqV5z4.jpg" group-title="SPORTS", YuppTV Recorded
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1070
+
+#EXTINF:-1 tvg-id="D SPORTS HD" tvg-logo="https://i.imgur.com/6NMsg7I.jpg" group-title="SPORTS", D SPORTS HD
+http://carre.flysat.live:80/152062083303767/152048915586075/74262
+
+#EXTINF:-1 tvg-id="WILLOW CRICKET HD" tvg-logo="https://i.imgur.com/VIuVI3P.png" group-title="SPORTS", WILLOW CRICKET HD
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/517
+
+#EXTINF:-1 tvg-id="WILLOW CRICKET XTRA" tvg-logo="https://i.imgur.com/6al4X9t.png" group-title="SPORTS", WILLOW CRICKET XTRA
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/2581
 
 #EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/w7rO6yI.jpg" group-title="SPORTS", Star S Hin 1 HD
 http://103.153.39.36:8000/play/a026
@@ -369,6 +280,33 @@ http://103.153.39.36:8000/play/a018
 
 #EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="" group-title="SPORTS", Star Sports S 2 
 http://103.153.39.36:8000/play/a019
+
+#EXTINF:-1 tvg-id="STAR SPORTS Telugu" tvg-logo="https://i.imgur.com/DU23jup.jpg" group-title="SPORTS", STAR SPORTS Telugu
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/500
+
+#EXTINF:-1 tvg-id="STAR SPORTS 1 TAMIL" tvg-logo="https://i.imgur.com/PuVcUhU.png" group-title="SPORTS", STAR SPORTS 1 TAMIL
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1529
+
+#EXTINF:-1 tvg-id="STAR SPORTS Bangla" tvg-logo="https://i.imgur.com/EdnIqRG.png" group-title="SPORTS", STAR SPORTS Bangla
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/502
+
+#EXTINF:-1 tvg-id="STAR SPORTS Kanada" tvg-logo="https://i.imgur.com/CICG8go.jpg" group-title="SPORTS", STAR SPORTS Kanada
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/501
+
+#EXTINF:-1 tvg-id="SONY SIX FHD" tvg-logo="https://i.imgur.com/eQPAGeJ.jpg" group-title="SPORTS", SONY SIX 
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1367
+
+#EXTINF:-1 tvg-id="TEN 1 FHD" tvg-logo="https://i.imgur.com/uCOfGxn.jpg" group-title="SPORTS", TEN 1 
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/497
+
+#EXTINF:-1 tvg-id="TEN 2 FHD" tvg-logo="https://i.imgur.com/eXc5dS2.png" group-title="SPORTS", TEN 2
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/513
+
+#EXTINF:-1 tvg-id="TEN 3 FHD" tvg-logo="https://i.imgur.com/TL7cbfr.png" group-title="SPORTS", TEN 3
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/518
+
+
+
 
 #EXTINF:-1 tvg-name="SONY SET HD"tvg-logo="https://i.imgur.com/12orxdQ.png.png" group-title="Movies", SONY SET HD
 http://carre.flysat.live:80/152062083303767/152048915586075/73935
