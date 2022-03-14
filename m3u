@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="http://epg.streamstv.me/epg/guide-india.xml.gz"
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://i.imgur.com/Xh3uqz6.png" group-title="Entertainment", ETV 
-https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/ETV_Telugu.m3u8
+http://carre.flysat.live:80/152093572340759/152066486941965/74292
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="Movies", ETV Cinema
-https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/ETV_Cinema.m3u8
+http://carre.flysat.live:80/152093572340759/152066486941965/74293
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="https://i.imgur.com/khXUqw6.png" group-title="Lifestyle", ETV Life
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1507
+http://carre.flysat.live:80/152093572340759/152066486941965/74272
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://i.imgur.com/i62bBx9.png" group-title="Lifestyle", ETV PLUS
-https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/ETV_Plus.m3u8
+http://carre.flysat.live:80/152093572340759/152066486941965/74293
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="Lifestyle", ETV ABHIRUCHI
 https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/ETV_Abhiruchi.m3u8
@@ -28,13 +28,13 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/375
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1504
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://i.imgur.com/lXOazJn.png" group-title="Entertainment", Gemini TV HD
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1120
+http://carre.flysat.live:80/152093572340759/152066486941965/74291
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://i.imgur.com/rnrcCfY.png" group-title="Movies", Gemini Movies HD
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/382
+http://carre.flysat.live:80/152093572340759/152066486941965/74290
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://i.imgur.com/bo1OSbd.png" group-title="Entertainment", Gemini Comedy
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/383
+http://carre.flysat.live:80/152093572340759/152066486941965/74289
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://i.imgur.com/z6USUEc.png" group-title="Music", Gemini Music HD
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1506
