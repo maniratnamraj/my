@@ -7,7 +7,7 @@ http://carre.flysat.live:80/152093572340759/152066486941965/74292
 http://carre.flysat.live:80/152093572340759/152066486941965/74293
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="https://i.imgur.com/khXUqw6.png" group-title="Lifestyle", ETV Life
-http://carre.flysat.live:80/152093572340759/152066486941965/74272
+
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://i.imgur.com/i62bBx9.png" group-title="Lifestyle", ETV PLUS
 http://carre.flysat.live:80/152093572340759/152066486941965/74293
@@ -269,16 +269,16 @@ http://103.153.39.36:8000/play/a026
 #EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="" group-title="SPORTS", Star Spo 1 HD
 http://103.153.39.36:8000/play/a00c
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="" group-title="SPORTS", Star Spo 2 HD
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="" group-title="SPORTS", STAR SPORTS 2 HD
 http://103.153.39.36:8000/play/a00d
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/zT2SW28.png" group-title="" group-title="SPORTS", Star Sports 3 
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/zT2SW28.png" group-title="" group-title="SPORTS", STAR SPORTS 3 
 http://103.153.39.36:8000/play/a00l
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="" group-title="SPORTS", Star Sports S 1 
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 1 
 http://103.153.39.36:8000/play/a018
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="" group-title="SPORTS", Star Sports S 2 
+#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 2 
 http://103.153.39.36:8000/play/a019
 
 #EXTINF:-1 tvg-id="STAR SPORTS Telugu" tvg-logo="https://i.imgur.com/DU23jup.jpg" group-title="SPORTS", STAR SPORTS Telugu
@@ -402,7 +402,7 @@ http://watchindia.net:8880/live/33253/72963/2102.ts
 http://iptvmedia.live:8080/12810/7f788911/82584
 
 #EXTINF:-1 tvg-name="FashionTV.in" tvg-logo="https://i.imgur.com/Wy3HE6w.png" group-title="Lifestyle",Fashion TV
-http://iptvmedia.live:8080/12810/7f788911/851208
+http://757362040361265984.nicesun.xyz:80/m06102/8707476415/265984
 
 #EXTINF:-1 tvg-id="ROMEDY NOW HD" tvg-logo="https://i.imgur.com/7Mvz07k.png" group-title="", ROMEDY NOW HD
 http://757362040361246180.nicesun.xyz:80/m06102/8707476415/246180
