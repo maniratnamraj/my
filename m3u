@@ -988,9 +988,6 @@ https://m-c07-j2apps.s.llnwi.net/hls/7052.SanjhaTV.in.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/7056.PBNMusic.in.m3u8
 
 
-#EXTINF:-1 tvg-name="Zoom" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0069.Zoom.in/en/1x1/208x208/test_pic1550666525581.jpg" group-title="Music",Zoom
-https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
-
 #EXTINF:-1,AXN HD+
 http://xcui.vitvabc.xyz:8880/287994003501/287994003501/16695
 
@@ -1106,16 +1103,16 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_4/chunklist.m
 https://m-c02-j2apps.s.loris.llnwd.net/hls/1062.NewsNation.in_360p/index.m3u8
 
 #EXTINF:-1 tvg-name="India Today" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/India_Today_TV_Channel_logo.jpg" group-title="News",India Today
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+http://iptvmedia.live:8080/12810/7f788911/16970
 
 #EXTINF:-1 tvg-name="NDTV 24x7" tvg-logo="https://cdn.ndtv.com/static/images/ndtv_default_image_livetv.png" group-title="News",NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+http://iptvmedia.live:8080/12810/7f788911/21664
 
 #EXTINF:-1 tvg-name="NDTV Profit" tvg-logo="https://www.ndtv.com/business/content/images/profit_logo2017.png" group-title="News",NDTV Profit
 https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
 
 #EXTINF:-1 tvg-name="Times Now" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="News",Times Now
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+http://iptvmedia.live:8080/12810/7f788911/76961
 
 #EXTINF:-1 tvg-name="Et Now" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/ET_Now.png" group-title="News",Et Now
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&rebase=on
@@ -1133,7 +1130,7 @@ https://abp-i.akamaihd.net/hls/live/765533/abpsanjha/master_764.m3u8
 https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w997952832_b1396000_sleng.m3u8
 
 #EXTINF:-1 tvg-name="Zee Business" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zeebusiness/list/09zeebusinesszeebusiness.jpg" group-title="News",Zee Business
-https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeebusiness
+http://iptvmedia.live:8080/12810/7f788911/16984
 
 
 _________________________VOD____________________________________________________________________________________________
