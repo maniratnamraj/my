@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.streamstv.me/epg/guide-india.xml.gz"
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://i.imgur.com/Xh3uqz6.png" group-title="Entertainment", ETV 
-http://qqtv.nl:8080/Airport111/Airport111/60948
+http://carre.flysat.live:80/152093572340759/152066486941965/74292
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="Movies", ETV Cinema
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1500
