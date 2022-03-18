@@ -79,9 +79,9 @@ http://carre.flysat.live:80/152062083303767/152048915586075/74294
 http://carre.flysat.live:80/152062083303767/152048915586075/74286
 
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="https://i.imgur.com/VKKfoZQ.png" group-title="Infotainment", Travel XP HD
-https://snehapi.in1.bitmana.io/jioapi/tsjioautoq/Travel_XP_HD.m3u8
+http://nasaiptv.com:8080/Hatem2021/Hatem2022/213853
 
-#EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="Entertainment", DD Saptagiri
+#EXTINF:-1 tvg-id="DDSaptagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="Entertainment", DD Saptagiri
 https://m-c15-j2apps.s.llnwi.net/hls/0286.DDSaptagiri.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/yJvPTWj.png" group-title="Entertainment", DD Yadagiri
@@ -91,7 +91,7 @@ https://snehapi.in1.bitmana.io/z5api/snehz5api/ddyadagiri.m3u8
 http://carre.flysat.live:80/152062083303767/152048915586075/74264
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="Kids", Sonic Telugu
-https://snehapi.in1.bitmana.io/jioapi/tsjioautoq/Sonic_Telugu.m3u8
+http://nasaiptv.com:8080/Hatem2021/Hatem2022/213752
 
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="Kids", Cartoon Network HD+
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1635
@@ -154,7 +154,7 @@ https://snehapi.in1.bitmana.io/jioapi/tsjioautoq/ABN_Andhra_Jyothi.m3u8
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1505
 
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://i.imgur.com/abq83Lr.png" group-title="News", BBC World News
-
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8 
 
 #EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://i.imgur.com/ZPeZZ8K.png" group-title="Lifestyle", CVR OM Spiritual
 http://14.199.164.20:4001/play/a0hr/index.m3u8
@@ -395,9 +395,9 @@ http://757362040361276539.nicesun.xyz:80/m06102/8707476415/276539
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies", HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+http://nasaiptv.com:8080/Hatem2021/Hatem2022/157886
 
-#EXTINF:-1 tvg-id="Hbo.in" tvg-name="HBO" tvg-logo="" group-title="Movies", Movies Now HD
+#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="HBO" tvg-logo="" group-title="Movies", Movies Now HD
 http://watchindia.net:8880/live/33253/72963/2102.ts
 
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="" group-title="Family/Kids", Cartoon Network HD+
