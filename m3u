@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://epg.streamstv.me/epg/guide-india.xml.gz"
 
-#EXTINF:-1 tvg-id="GARUDA HD" tvg-logo="https://i.imgur.com/seg69lt.png" group-title="", GARUDA HD
+#EXTINF:-1 tvg-id="GARUDA HD" tvg-logo="https://i.imgur.com/W8CFuqx.jpg" group-title="", GARUDA HD
 https://rtmp.streamwell.in/hls/garudatv.m3u8
 
-#EXTINF:-1 tvg-id="GARUDA " tvg-logo="https://i.imgur.com/seg69lt.png" group-title="", GARUDA BHAKTI
+#EXTINF:-1 tvg-id="GARUDA " tvg-logo="https://i.imgur.com/iv01fEs.jpg" group-title="", GARUDA BHAKTI
 https://server.streamwell.in/hls/bhaktigaruda.m3u8
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://i.imgur.com/Xh3uqz6.png" group-title="Entertainment", ETV 
