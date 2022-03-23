@@ -219,7 +219,7 @@ http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="ZEE CLASSIC" tvg-logo="https://i.imgur.com/S4pCUZA.jpg" group-title="", ZEE CLASSIC 
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-id="ZEE ACTION" tvg-logo="https://i.imgur.com/OhUOiXN.jpg" group-title="", ZEE ACTION 
+#EXTINF: -1 tvg-id="ZEE ACTION" tvg-logo="https://i.imgur.com/qwGvyGN.png" group-title="", ZEE ACTION 
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="ZEE ANMOL CINEMA" tvg-logo="https://i.imgur.com/g03Txna.png" group-title="", ZEE ANMOL CINEMA 
@@ -250,7 +250,7 @@ http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="ZOOM" tvg-logo="https://i.imgur.com/1z2YNNW.jpg" group-title="", ZOOM 
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-id="MTV" tvg-logo="https://i.imgur.com/TTcn3g4.png" group-title="", MTV 
+#EXTINF: -1 tvg-id="MTV" tvg-logo="https://i.imgur.com/Tucg2AK.png" group-title="", MTV 
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="MTV BEATS HD" tvg-logo="https://i.imgur.com/K5MG0BA.jpg" group-title="", MTV BEATS HD 
@@ -403,10 +403,10 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies", HBO
 http://nasaiptv.com:8080/Hatem2021/Hatem2022/157886
 
-#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="HBO" tvg-logo="" group-title="Movies", Movies Now HD
+#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="HBO" tvg-logo="https://i.imgur.com/VJqprct.png" group-title="Movies", Movies Now HD
 http://watchindia.net:8880/live/33253/72963/2102.ts
 
-#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="" group-title="Family/Kids", Cartoon Network HD+
+#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/JyvV96v.png" group-title="Kids", Cartoon Network HD+
 http://iptvmedia.live:8080/12810/7f788911/82584
 
 #EXTINF:-1 tvg-name="FashionTV.in" tvg-logo="https://i.imgur.com/Wy3HE6w.png" group-title="Lifestyle", Fashion TV
@@ -752,11 +752,6 @@ https://m-c01-j2apps.s.llnwi.net/hls/0432.SangeetBhojpuri.in.m3u8
 
 #EXTINF:-1 tvg-id="IndiaNewsGujarat" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5730.IndiaNewsGujarat.in/1x1/1x/test_pic1552392553997.jpg" group-title="News",India News Gujarat
 https://m-c17-j2apps.s.llnwi.net/hls/5730.IndiaNewsGujarat.in.m3u8
-
-#EXTINF:-1 tvg-id="MantavyaNews" tvg-logo="https://qqcdnpicweb.mxpl
-
-ay.com/media/images/5389.MantavyaNews.in/1x1/1x/test_pic1554722569246.jpg" group-title="News",Mantavya News
-https://m-c01-j2apps.s.llnwi.net/hls/5389.MantavyaNews.in.m3u8
 
 #EXTINF:-1 tvg-id="IndiaNewsHaryana" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1692.IndiaNewsHaryana.in/1x1/1x/test_pic1535463908195.jpg" group-title="News",India News Haryana
 https://m-c17-j2apps.s.llnwi.net/hls/1692.IndiaNewsHaryana.in.m3u8
