@@ -271,22 +271,22 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/517
 #EXTINF:-1 tvg-id="WILLOW CRICKET XTRA" tvg-logo="https://i.imgur.com/6al4X9t.png" group-title="SPORTS", WILLOW CRICKET XTRA
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/2581
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/w7rO6yI.jpg" group-title="SPORTS", STAR SPORTS HINDI 1 HD
+#EXTINF: -1 tvg-id="STAR SPORTS HINDI" tvg-logo="https://i.imgur.com/w7rO6yI.jpg" group-title="SPORTS", STAR SPORTS HINDI 1 HD
 http://103.153.39.36:8000/play/a026
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="" group-title="SPORTS", STAR SPORTS 1 HD
+#EXTINF: -1 tvg-id="STAR SPORTS 1 " tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="" group-title="SPORTS", STAR SPORTS 1 HD
 http://103.153.39.36:8000/play/a00c
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="" group-title="SPORTS", STAR SPORTS 2 HD
+#EXTINF: -1 tvg-id="STAR SPORTS 1 " tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="" group-title="SPORTS", STAR SPORTS 1  HD
 http://103.153.39.36:8000/play/a00d
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/zT2SW28.png" group-title="" group-title="SPORTS", STAR SPORTS 3 
+#EXTINF: -1 tvg-id="STAR SPORTS 3 " tvg-logo="https://i.imgur.com/zT2SW28.png" group-title="" group-title="SPORTS", STAR SPORTS 3 
 http://103.153.39.36:8000/play/a00l
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 1 
+#EXTINF: -1 tvg-id="STAR SPORTS SELECTED 1" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 1 
 http://103.153.39.36:8000/play/a018
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 2 
+#EXTINF: -1 tvg-id="STAR SPORTS SELECTED 2 " tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 2 
 http://103.153.39.36:8000/play/a019
 
 #EXTINF:-1 tvg-id="STAR SPORTS Telugu" tvg-logo="https://i.imgur.com/DU23jup.jpg" group-title="SPORTS", STAR SPORTS TELUGU
@@ -298,7 +298,7 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1529
 #EXTINF:-1 tvg-id="STAR SPORTS Bangla" tvg-logo="https://i.imgur.com/EdnIqRG.png" group-title="SPORTS", STAR SPORTS BANGLA
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/502
 
-#EXTINF:-1 tvg-id="STAR SPORTS Kanada" tvg-logo="https://i.imgur.com/CICG8go.jpg" group-title="SPORTS", STAR SPORTS Kanada
+#EXTINF:-1 tvg-id="STAR SPORTS Kanada" tvg-logo="https://i.imgur.com/CICG8go.jpg" group-title="SPORTS", STAR SPORTS KANADA
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/501
 
 #EXTINF:-1 tvg-id="SONY SIX FHD" tvg-logo="https://i.imgur.com/eQPAGeJ.jpg" group-title="SPORTS", SONY SIX 
@@ -352,7 +352,7 @@ http://757362040361246277.nicesun.xyz:80/m06102/8707476415/246277
 #EXTINF:-1 tvg-id="Zee Cinema Hd" tvg-logo="https://i.imgur.com/fTOoGIr.jpg" group-title="Movies",Zee Cinema Hd
 http://carre.flysat.live:80/152062083303767/152048915586075/73943
 
-#EXTINF:-1 tvg-name="Zee Anmol" tvg-logo="https://i.imgur.com/RiA71tA.png" group-title="Entertainment",Zee Anmol
+#EXTINF:-1 tvg-name="Zee Anmol" tvg-logo="https://i.imgur.com/RiA71tA.png" group-title="Entertainment",Zee ANMOL
 http://carre.flysat.live:80/152062083303767/152048915586075/73857
 
 #EXTINF:-1 tvg-id="ZEE BOLLYWOOD HD" tvg-logo="https://i.imgur.com/ocqB7gg.png" group-title="Movies", ZEE BOLLYWOOD HD
@@ -400,8 +400,8 @@ http://757362040361276539.nicesun.xyz:80/m06102/8707476415/276539
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="Movies", HBO Hits HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies", HBO
-http://nasaiptv.com:8080/Hatem2021/Hatem2022/157886
+#EXTINF:-1 tvg-id="HBO 1 HD" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies", HBO 1 HD
+http://xcui.vitvabc.xyz:8880/287994015129/287994015129/31465
 
 #EXTINF:-1 tvg-id="Movies Now HD" tvg-name="HBO" tvg-logo="https://i.imgur.com/VJqprct.png" group-title="Movies", Movies Now HD
 http://watchindia.net:8880/live/33253/72963/2102.ts
