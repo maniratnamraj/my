@@ -21,11 +21,11 @@ http://carre.flysat.live:80/152062083303767/152048915586075/74277
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="Lifestyle", ETV ABHIRUCHI
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/372
 
-#EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://i.imgur.com/xuiLlnw.png" group-title="Entertainment",STAR MAA HD
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/374
+#EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://i.imgur.com/xuiLlnw.png" group-title="Entertainment", STAR MAA HD
+http://carre.flysat.live:80/152062083303767/152048915586075/74281
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://i.imgur.com/FpaGXzV.png" group-title="Movies", STAR MAA GOLD
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1123
+http://carre.flysat.live:80/152062083303767/152048915586075/74282
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://i.imgur.com/4j6yDKH.png" group-title="Movies", Star Maa Movies HD
 http://carre.flysat.live:80/152062083303767/152048915586075/74287
@@ -33,25 +33,25 @@ http://carre.flysat.live:80/152062083303767/152048915586075/74287
 #EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="https://i.imgur.com/bfqRfB4.png" group-title="Music", Star Maa Music
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1504
 
-#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://i.imgur.com/lXOazJn.png" group-title="Entertainment", Gemini TV HD
+#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://i.imgur.com/lXOazJn.png" group-title="Entertainment", GEMINI HD
 http://carre.flysat.live:80/152062083303767/152048915586075/74291
 
-#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://i.imgur.com/rnrcCfY.png" group-title="Movies", Gemini Movies HD
+#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://i.imgur.com/rnrcCfY.png" group-title="Movies", GEMINI MOVIES HD
 http://carre.flysat.live:80/152093572340759/152066486941965/74290
 
-#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://i.imgur.com/bo1OSbd.png" group-title="Entertainment", Gemini Comedy
+#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://i.imgur.com/bo1OSbd.png" group-title="Entertainment", GEMINI COMEDY HD
 http://carre.flysat.live:80/152062083303767/152048915586075/74289
 
-#EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://i.imgur.com/z6USUEc.png" group-title="Music", Gemini Music HD
+#EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://i.imgur.com/z6USUEc.png" group-title="Music", GEMINI MUSIC HD
 http://carre.flysat.live:80/152062083303767/152048915586075/74274
 
-#EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://i.imgur.com/6TbzJRA.png" group-title="Entertainment", Gemini Life
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1503
+#EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://i.imgur.com/6TbzJRA.png" group-title="Entertainment", GEMINI LIFE
+http://carre.flysat.live:80/152062083303767/152048915586075/74273
 
-#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://i.imgur.com/OPrJHo4.png" group-title="Movies", Zee Telugu HD
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/380
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://i.imgur.com/OPrJHo4.png" group-title="Movies", ZEE TELUGU HD
+http://carre.flysat.live:80/152062083303767/152048915586075/74275
 
-#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://i.imgur.com/Kv6U228.jpg" group-title="Movies", Zee Cinemalu HD
+#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://i.imgur.com/Kv6U228.jpg" group-title="Movies", ZEE CINEMALU HD
 http://carre.flysat.live:80/152062083303767/152048915586075/74276
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="Music", Raj Music Telugu
