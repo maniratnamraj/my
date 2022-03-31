@@ -9,10 +9,10 @@ https://server.streamwell.in/hls/bhaktigaruda.m3u8
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://i.imgur.com/Xh3uqz6.png" group-title="Entertainment", ETV 
 http://carre.flysat.live:80/152062083303767/152048915586075/74292
 
-#EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="Movies", ETV Cinema
+#EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="Movies", ETV CINEMA
 http://carre.flysat.live:80/152062083303767/152048915586075/74293
 
-#EXTINF:-1 tvg-id="ETV Life" tvg-logo="https://i.imgur.com/khXUqw6.png" group-title="Lifestyle", ETV Life
+#EXTINF:-1 tvg-id="ETV Life" tvg-logo="https://i.imgur.com/khXUqw6.png" group-title="Lifestyle", ETV LIFE
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1507
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://i.imgur.com/i62bBx9.png" group-title="Lifestyle", ETV PLUS
@@ -27,10 +27,10 @@ http://carre.flysat.live:80/152062083303767/152048915586075/74281
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://i.imgur.com/FpaGXzV.png" group-title="Movies", STAR MAA GOLD
 http://carre.flysat.live:80/152062083303767/152048915586075/74282
 
-#EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://i.imgur.com/4j6yDKH.png" group-title="Movies", Star Maa Movies HD
+#EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://i.imgur.com/4j6yDKH.png" group-title="Movies", STAR MAA MOVIES HD
 http://carre.flysat.live:80/152062083303767/152048915586075/74287
 
-#EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="https://i.imgur.com/bfqRfB4.png" group-title="Music", Star Maa Music
+#EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="https://i.imgur.com/bfqRfB4.png" group-title="Music", STAR MAA MUSIC
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1504
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://i.imgur.com/lXOazJn.png" group-title="Entertainment", GEMINI HD
@@ -54,19 +54,19 @@ http://carre.flysat.live:80/152062083303767/152048915586075/74275
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://i.imgur.com/Kv6U228.jpg" group-title="Movies", ZEE CINEMALU HD
 http://carre.flysat.live:80/152062083303767/152048915586075/74276
 
-#EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="Music", Raj Music Telugu
+#EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="Music", RAJ MUSIC TELUGU
 http://carre.flysat.live:80/152062083303767/152048915586075/74285
 
-#EXTINF:-1 tvg-id="Studio Yuva" tvg-logo="https://i.imgur.com/9voJWed.png" group-title="Movies", Studio Yuva
+#EXTINF:-1 tvg-id="Studio Yuva" tvg-logo="https://i.imgur.com/9voJWed.png" group-title="Movies", STUDIO YUVA
 https://snehapi.in1.bitmana.io/jioapi/tsjio1200/Studio_Yuva_Alpha.m3u8
 
-#EXTINF:-1 tvg-id="studio one" tvg-logo="https://i.imgur.com/fRJLbG1.png" group-title="Movies", Studio one
+#EXTINF:-1 tvg-id="studio one" tvg-logo="https://i.imgur.com/fRJLbG1.png" group-title="Movies", STUDIO ONE
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="manatv" tvg-logo="https://i.imgur.com/GwIAk55.png" group-title="Entertainment ", Mana TV
+#EXTINF:-1 tvg-id="manatv" tvg-logo="https://i.imgur.com/GwIAk55.png" group-title="Entertainment ", MANA TV
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1501
 
-#EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://i.imgur.com/u40uu3r.png" group-title="Entertainment", Vissa TV
+#EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://i.imgur.com/u40uu3r.png" group-title="Entertainment", VISSA TV
 http://carre.flysat.live:80/152062083303767/152048915586075/74265
 
 #EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://i.imgur.com/GiKojgU.png" group-title="Entertainment", VANITHA TV
