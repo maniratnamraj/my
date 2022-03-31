@@ -277,7 +277,7 @@ http://103.153.39.36:8000/play/a026
 #EXTINF: -1 tvg-id="STAR SPORTS 1 " tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="" group-title="SPORTS", STAR SPORTS 1 HD
 http://103.153.39.36:8000/play/a00c
 
-#EXTINF: -1 tvg-id="STAR SPORTS 1 " tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="" group-title="SPORTS", STAR SPORTS 1  HD
+#EXTINF: -1 tvg-id="STAR SPORTS 1 " tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="" group-title="SPORTS", STAR SPORTS 2 HD
 http://103.153.39.36:8000/play/a00d
 
 #EXTINF: -1 tvg-id="STAR SPORTS 3 " tvg-logo="https://i.imgur.com/zT2SW28.png" group-title="" group-title="SPORTS", STAR SPORTS 3 
@@ -292,7 +292,7 @@ http://103.153.39.36:8000/play/a019
 #EXTINF:-1 tvg-id="STAR SPORTS Telugu" tvg-logo="https://i.imgur.com/DU23jup.jpg" group-title="SPORTS", STAR SPORTS TELUGU
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/500
 
-#EXTINF:-1 tvg-id="STAR SPORTS 1 TAMIL" tvg-logo="https://i.imgur.com/PuVcUhU.png" group-title="SPORTS", STAR SPORTS 1 TAMIL
+#EXTINF:-1 tvg-id="STAR SPORTS 1 TAMIL" tvg-logo="https://i.imgur.com/PuVcUhU.png" group-title="SPORTS", STAR SPORTS TAMIL
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1529
 
 #EXTINF:-1 tvg-id="STAR SPORTS Bangla" tvg-logo="https://i.imgur.com/EdnIqRG.png" group-title="SPORTS", STAR SPORTS BANGLA
@@ -397,19 +397,19 @@ http://757362040361245988.nicesun.xyz:80/m06102/8707476415/245988
 #EXTINF:-1 tvg-id="& FLIX HD" tvg-logo="https://i.imgur.com/t3hlREx.png" group-title="Movies", & FLIX HD
 http://757362040361276539.nicesun.xyz:80/m06102/8707476415/276539
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="Movies", HBO Hits HD
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="Movies", HBO HITS HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO 1 HD" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies", HBO 1 HD
 http://xcui.vitvabc.xyz:8880/287994015129/287994015129/31465
 
-#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="HBO" tvg-logo="https://i.imgur.com/VJqprct.png" group-title="Movies", Movies Now HD
+#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="HBO" tvg-logo="https://i.imgur.com/VJqprct.png" group-title="Movies", MOVIES NOW HD
 http://watchindia.net:8880/live/33253/72963/2102.ts
 
-#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/JyvV96v.png" group-title="Kids", Cartoon Network HD+
+#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/JyvV96v.png" group-title="Kids", CARTOON NETWORK HD+
 http://iptvmedia.live:8080/12810/7f788911/82584
 
-#EXTINF:-1 tvg-name="FashionTV.in" tvg-logo="https://i.imgur.com/Wy3HE6w.png" group-title="Lifestyle", Fashion TV
+#EXTINF:-1 tvg-name="FashionTV.in" tvg-logo="https://i.imgur.com/Wy3HE6w.png" group-title="Lifestyle", FASHION TV
 http://757362040361265984.nicesun.xyz:80/m06102/8707476415/265984
 
 #EXTINF:-1 tvg-id="ROMEDY NOW HD" tvg-logo="https://i.imgur.com/7Mvz07k.png" group-title="", ROMEDY NOW HD
@@ -424,7 +424,7 @@ http://757362040361246280.nicesun.xyz:80/m06102/8707476415/246280
 #EXTINF:-1 tvg-name="RISHTEY CINEPLEX HD" tvg-logo="https://i.imgur.com/0AnqemI.png" group-title="Movies", RISHTEY CINEPLEX HD
 http://757362040361246179.nicesun.xyz:80/m06102/8707476415/246179
 
-#EXTINF:-1 tvg-name="Shemaroo TV" tvg-logo="https://www.exchange4media.com/news-photo/104312-ShemarooTV.jpg" group-title="Entertainment", Shemaroo TV
+#EXTINF:-1 tvg-name="Shemaroo TV" tvg-logo="https://www.exchange4media.com/news-photo/104312-ShemarooTV.jpg" group-title="Entertainment", SHEMAROO TV
 http://iptvmedia.live:8080/12810/7f788911/192955
 
 #EXTINF:-1 tvg-name="DHINCHAAK 1" tvg-logo="https://i.imgur.com/Ft0ssEg.jpg" group-title="Entertainment",DHINCHAAK 1
@@ -437,19 +437,19 @@ http://14.199.164.20:4001/play/a0tm/index.m3u8
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 
 
-#EXTINF:-1 tvg-name="DD National" tvg-logo="https://i.imgur.com/mOCVjKf.png" group-title="Entertainment",DD National
+#EXTINF:-1 tvg-name="DD National" tvg-logo="https://i.imgur.com/mOCVjKf.png" group-title="Entertainment",DD NATIONAL
 http://757362040361288143.nicesun.xyz:80/m06102/8707476415/288143
 
-#EXTINF:-1 tvg-name="DD Retro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/DD_Retro.jpg" group-title="Entertainment",DD Retro
+#EXTINF:-1 tvg-name="DD Retro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/DD_Retro.jpg" group-title="Entertainment",DD RETRO
 https://idvd.multitvsolution.com/idvo/ddretro.m3u8
 
-#EXTINF:-1 tvg-name="Bflix Movies" tvg-logo="https://i.imgur.com/0rWDKS2.png" group-title="Movies",Bflix Movies
+#EXTINF:-1 tvg-name="Bflix Movies" tvg-logo="https://i.imgur.com/0rWDKS2.png" group-title="Movies",BFLIX MOVIES
 http://757362040361273455.nicesun.xyz:80/m06102/8707476415/273455
 
-#EXTINF:-1 tvg-name="Ptc Punjabi Gold" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptc-punjabi-gold-in.png" group-title="Movies",Ptc Punjabi Gold
+#EXTINF:-1 tvg-name="Ptc Punjabi Gold" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptc-punjabi-gold-in.png" group-title="Movies", PTC PUNJABI GOLD
 https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/PTC_Punjabi_Gold.m3u8
 
-#EXTINF:-1 tvg-name="Ptc Punjabi" tvg-logo="https://exchange4media.gumlet.io/news-photo/100312.ptcMain.jpg" group-title="Movies",Ptc Punjabi
+#EXTINF:-1 tvg-name="Ptc Punjabi" tvg-logo="https://exchange4media.gumlet.io/news-photo/100312.ptcMain.jpg" group-title="Movies", PTC PUNJABI
 http://iptvmedia.live:8080/12810/7f788911/82616
 
 #EXTINF:-1 tvg-name="ZOOM HD" tvg-logo="https://i.imgur.com/1z2YNNW.jpg" group-title="Music", ZOOM HD
@@ -458,7 +458,7 @@ http://757362040361246281.nicesun.xyz:80/m06102/8707476415/246281
 #EXTINF:-1 tvg-id="DHOOM MUSIC HD" tvg-logo="https://i.imgur.com/eptZU3Z.png" group-title="", DHOOM MUSIC HD
 http://757362040361266032.nicesun.xyz:80/m06102/8707476415/266032
 
-#EXTINF:-1 tvg-id="Animal Planet English" tvg-logo="https://i.imgur.com/xnsB0QL.png" group-title="Infotainment",Animal Planet English
+#EXTINF:-1 tvg-id="Animal Planet English" tvg-logo="https://i.imgur.com/xnsB0QL.png" group-title="Infotainment",ANIMAL PLANET ENGLISH
 http://iptvmedia.live:8080/12810/7f788911/1370
 
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/VF3ejns.png" group-title="Infotainment",Discovery Science
@@ -506,22 +506,22 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
 #EXTINF:-1 tvg-name="India News" tvg-logo="https://static.businessworld.in/article/article_extra_large_image/1563014361_0ywduU_india_news.jpg" group-title="News",India News
 https://itvorigin.multitvsolution.com/hls/inkhabar_720p/index.m3u8
 
-#EXTINF:-1 tvg-name="News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="News",News 24
+#EXTINF:-1 tvg-name="News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="News",NEWS 24
 http://757362040361246157.nicesun.xyz:80/m06102/8707476415/246157
 
 #EXTINF:-1 tvg-name="SANSAD TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Lok_Sabha_TV_logo.jpg" group-title="News",SANSAD TV
 https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-name="DD News" tvg-logo="https://i.imgur.com/kgyuN9s.png" group-title="News",DD News
+#EXTINF:-1 tvg-name="DD News" tvg-logo="https://i.imgur.com/kgyuN9s.png" group-title="News",DD NEWS
 http://757362040361246059.nicesun.xyz:80/m06102/8707476415/246059
 
 #EXTINF:-1 tvg-name="Tv9 Bharatvarsh" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-251/list/09251tv9bharatvarsh.jpg" group-title="News",Tv9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Aaj Tak Sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News",Aaj Tak Sd
+#EXTINF:-1 tvg-name="Aaj Tak Sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News",AAJ TAK
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="गुड न्यूज़ टुडे" tvg-logo="https://i.imgur.com/FjMYD6i.png" group-title="News",गुड न्यूज़ टुडे
+#EXTINF:-1 tvg-name="GOOD NEWS TODAY" tvg-logo="https://i.imgur.com/FjMYD6i.png" group-title="News",GOOD NEWS TODAY
 https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_4/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="News Nation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg" group-title="News",News Nation
