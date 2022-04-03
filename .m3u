@@ -7,55 +7,55 @@ https://rtmp.streamwell.in/hls/garudatv.m3u8
 https://server.streamwell.in/hls/bhaktigaruda.m3u8
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://i.imgur.com/Xh3uqz6.png" group-title="Entertainment", ETV 
-http://carre.flysat.live:80/152062083303767/152048915586075/74292
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/385
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="Movies", ETV CINEMA
-http://carre.flysat.live:80/152062083303767/152048915586075/74293
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1500
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="https://i.imgur.com/khXUqw6.png" group-title="Lifestyle", ETV LIFE
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1507
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://i.imgur.com/i62bBx9.png" group-title="Lifestyle", ETV PLUS
-http://carre.flysat.live:80/152062083303767/152048915586075/74277
+http://starshare.live:8080/live/10191817/10191817/242.ts
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="Lifestyle", ETV ABHIRUCHI
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/372
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://i.imgur.com/xuiLlnw.png" group-title="Entertainment", STAR MAA HD
-http://carre.flysat.live:80/152062083303767/152048915586075/74281
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/374
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://i.imgur.com/FpaGXzV.png" group-title="Movies", STAR MAA GOLD
-http://carre.flysat.live:80/152062083303767/152048915586075/74282
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1123
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://i.imgur.com/4j6yDKH.png" group-title="Movies", STAR MAA MOVIES HD
-http://carre.flysat.live:80/152062083303767/152048915586075/74287
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/375
 
 #EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="https://i.imgur.com/bfqRfB4.png" group-title="Music", STAR MAA MUSIC
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1504
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://i.imgur.com/lXOazJn.png" group-title="Entertainment", GEMINI HD
-http://carre.flysat.live:80/152062083303767/152048915586075/74291
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1120
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://i.imgur.com/rnrcCfY.png" group-title="Movies", GEMINI MOVIES HD
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/382
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://i.imgur.com/bo1OSbd.png" group-title="Entertainment", GEMINI COMEDY HD
-http://carre.flysat.live:80/152062083303767/152048915586075/74289
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/383
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://i.imgur.com/z6USUEc.png" group-title="Music", GEMINI MUSIC HD
-http://carre.flysat.live:80/152062083303767/152048915586075/74274
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1506
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://i.imgur.com/6TbzJRA.png" group-title="Entertainment", GEMINI LIFE
-http://carre.flysat.live:80/152062083303767/152048915586075/74273
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1503
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://i.imgur.com/OPrJHo4.png" group-title="Movies", ZEE TELUGU HD
-http://carre.flysat.live:80/152062083303767/152048915586075/74275
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/380
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://i.imgur.com/Kv6U228.jpg" group-title="Movies", ZEE CINEMALU HD
-http://carre.flysat.live:80/152062083303767/152048915586075/74276
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/376
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="Music", RAJ MUSIC TELUGU
-http://carre.flysat.live:80/152062083303767/152048915586075/74285
+
 
 #EXTINF:-1 tvg-id="Studio Yuva" tvg-logo="https://i.imgur.com/9voJWed.png" group-title="Movies", STUDIO YUVA
 https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
@@ -70,31 +70,31 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1501
 http://carre.flysat.live:80/152062083303767/152048915586075/74265
 
 #EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://i.imgur.com/GiKojgU.png" group-title="Entertainment", VANITHA TV
-http://carre.flysat.live:80/152062083303767/152048915586075/74266
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1498
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="https://i.imgur.com/Hv4kNbt.png" group-title="Infotainment", SONY BBC EARTH HD
-http://carre.flysat.live:80/152062083303767/152048915586075/74283
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1633
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/uSc5bkC.png" group-title="Infotainment", NATIONAL GEOGRAPHIC HD
-http://carre.flysat.live:80/152062083303767/152048915586075/74286
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1637
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="Infotainment", DISCOVERY HD
-http://carre.flysat.live:80/152062083303767/152048915586075/74294
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1639
 
-#EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="https://i.imgur.com/9ZNRL8N.png" group-title="Infotainment", History TV18 HD Telugu
-http://carre.flysat.live:80/152062083303767/152048915586075/74286
+#EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="https://i.imgur.com/9ZNRL8N.png" group-title="Infotainment", HISTORY TV18 HD TELUGU
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1629
 
-#EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="https://i.imgur.com/VKKfoZQ.png" group-title="Infotainment", Travel XP HD
+#EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="https://i.imgur.com/VKKfoZQ.png" group-title="Infotainment", TRAVEL XP HD
 http://nasaiptv.com:8080/Hatem2021/Hatem2022/213853
 
-#EXTINF:-1 tvg-id="DDSaptagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="Entertainment", DD Saptagiri
+#EXTINF:-1 tvg-id="DDSaptagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="Entertainment", DD SAPTAGIRI
 https://m-c15-j2apps.s.llnwi.net/hls/0286.DDSaptagiri.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/yJvPTWj.png" group-title="Entertainment", DD Yadagiri
+#EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/yJvPTWj.png" group-title="Entertainment", DD YADAGIRI
 https://snehapi.in1.bitmana.io/z5api/snehz5api/ddyadagiri.m3u8
 
 #EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="Kids", KUSHI TV
-http://carre.flysat.live:80/152062083303767/152048915586075/74264
+
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="Kids", Sonic TELUGU
 http://nasaiptv.com:8080/Hatem2021/Hatem2022/213752
