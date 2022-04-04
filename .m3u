@@ -123,11 +123,17 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/368
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://i.imgur.com/rBmV30d.png" group-title="News", V6 NEWS
 http://carre.flysat.live:80/152062083303767/152048915586075/74278
 
-#EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://i.imgur.com/3QEc2uP.png" group-title="News", ETV Telangana
+#EXTINF:-1 tvg-id="TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prime-9-news-in.png" group-title="News", Prime9 News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649062944/ei/wF9KYujNH76DsfIPscuzwAE/ip/13.64.243.219/id/a5d2RNafXN0.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC1uHSbuYDSdhOYY2dk4PopGs/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgRvK_5r832QrCPvmxosbkT5eBZTKzikwvs-MlYwvq0KICIEPz_j71QrYDIcv5eGGni6EDFlaYN09FlzKfd_eQFJdL/file/index.m3u8
 
+#EXTINF:-1  tvg-id="99TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/99tv-in.png" group-title="News", 99TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649062940/ei/vF9KYpDiFI7-kgbg-IbABA/ip/13.64.243.219/id/qAYW4BpW42w.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC7xAYIoBAnMAvZdB2R9G4SKK/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgZRTiyRwX4zNg1nWsXP6l3BoThBtWo1gpNYmaDsxI-C0CIEgPlIBR_YEZU0zhRb2bJR-ygZukernkAUFeL5RmarWG/file/index.m3u8
+
+#EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://i.imgur.com/3QEc2uP.png" group-title="News", ETV Telangana
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649062938/ei/ul9KYpzQNIKYkwaoh56wAw/ip/13.64.243.219/id/JIIK4WzXnAw.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCxFuMRhXJmFnRc3RI2aXsCt4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgMwxDfhrSdWcB0jQmTmJk8S5TVW4dNpoX6IXUHtJt8h0CIQD_K-cRQp5AoWe-nKKN8AouuKrueKwpyNEjp8LlgSw9vA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="https://i.imgur.com/JCRBOkF.png" group-title="News", ETV Andhra Pradesh
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649062939/ei/u19KYvmtItrXkgagx6iQAQ/ip/13.64.243.219/id/2pr2oR60jyg.19/source/yt_live_broadcast/requiressl/yes/tx/24027702/txs/24027699%2C24027700%2C24027701%2C24027702%2C24067854/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC8MGaGgAsM2vCP-1SpMYhWyV/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgC1ioCcGcAmmURfua1cumTx5mo9srFww6WIYMKg5jlLwCICT5GZXFaUGrT0SZla4QSuj_Dsu8fPUigi57D8IJ2WHz/file/index.m3u8
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://i.imgur.com/9UOgkwD.png" group-title="News", 10 TV HD
 http://carre.flysat.live:80/152062083303767/152048915586075/74269
@@ -154,7 +160,7 @@ http://carre.flysat.live:80/152062083303767/152048915586075/74284
 http://carre.flysat.live:80/152062083303767/152048915586075/74263
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="https://i.imgur.com/96ejE7i.jpg" group-title="News", ABN Andhra Jyothi NEWS
-https://snehapi.in1.bitmana.io/jioapi/tsjioautoq/ABN_Andhra_Jyothi.m3u8
+
 
 #EXTINF:-1 tvg-id="I News" tvg-logo="https://i.imgur.com/D30JrAC.png" group-title="News", I NEWS
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1505
