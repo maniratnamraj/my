@@ -127,7 +127,7 @@ http://carre.flysat.live:80/152062083303767/152048915586075/74278
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649062944/ei/wF9KYujNH76DsfIPscuzwAE/ip/13.64.243.219/id/a5d2RNafXN0.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC1uHSbuYDSdhOYY2dk4PopGs/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgRvK_5r832QrCPvmxosbkT5eBZTKzikwvs-MlYwvq0KICIEPz_j71QrYDIcv5eGGni6EDFlaYN09FlzKfd_eQFJdL/file/index.m3u8
 
 #EXTINF:-1  tvg-id="99TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/99tv-in.png" group-title="News", 99TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649062940/ei/vF9KYpDiFI7-kgbg-IbABA/ip/13.64.243.219/id/qAYW4BpW42w.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC7xAYIoBAnMAvZdB2R9G4SKK/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgZRTiyRwX4zNg1nWsXP6l3BoThBtWo1gpNYmaDsxI-C0CIEgPlIBR_YEZU0zhRb2bJR-ygZukernkAUFeL5RmarWG/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649153966/ei/TsNLYvCEOYevkgb0-IjgBA/ip/20.106.127.62/id/qAYW4BpW42w.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC2orn05Gh6EbBXHBYjpcrv4R/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJk1rJ95-RWwPVrNfucj75yyKvGtXpuEV5bdz-iWYWigAiEAyB18-sHURG2P7QJB_2iQn0TXef48SL-vBOuRyPA31G0%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://i.imgur.com/3QEc2uP.png" group-title="News", ETV Telangana
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649062938/ei/ul9KYpzQNIKYkwaoh56wAw/ip/13.64.243.219/id/JIIK4WzXnAw.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCxFuMRhXJmFnRc3RI2aXsCt4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgMwxDfhrSdWcB0jQmTmJk8S5TVW4dNpoX6IXUHtJt8h0CIQD_K-cRQp5AoWe-nKKN8AouuKrueKwpyNEjp8LlgSw9vA%3D%3D/file/index.m3u8
@@ -281,10 +281,10 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/2581
 http://103.153.39.36:8000/play/a026
 
 #EXTINF: -1 tvg-id="STAR SPORTS 1 " tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="" group-title="SPORTS", STAR SPORTS 1 HD
-http://103.153.39.36:8000/play/a00c
+http://iptv12k.com:35461/8022022301/468985/2315
 
 #EXTINF: -1 tvg-id="STAR SPORTS 1 " tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="" group-title="SPORTS", STAR SPORTS 2 HD
-http://103.153.39.36:8000/play/a00d
+http://iptv12k.com:35461/8022022301/468985/2333
 
 #EXTINF: -1 tvg-id="STAR SPORTS 3 " tvg-logo="https://i.imgur.com/zT2SW28.png" group-title="" group-title="SPORTS", STAR SPORTS 3 
 http://103.153.39.36:8000/play/a00l
