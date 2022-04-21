@@ -7,19 +7,19 @@ https://rtmp.streamwell.in/hls/garudatv.m3u8
 https://server.streamwell.in/hls/bhaktigaruda.m3u8
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://i.imgur.com/Xh3uqz6.png" group-title="Entertainment", ETV 
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/385
+https://test101.in1.bitmana.io/ROOT-457/amar.php?id=629
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="Movies", ETV CINEMA
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1500
+https://test101.in1.bitmana.io/ROOT-457/amar.php?id=252
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="https://i.imgur.com/khXUqw6.png" group-title="Lifestyle", ETV LIFE
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1507
+https://test101.in1.bitmana.io/ROOT-457/amar.php?id=570
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://i.imgur.com/i62bBx9.png" group-title="Lifestyle", ETV PLUS
-http://starshare.live:8080/live/10191817/10191817/242.ts
+https://test101.in1.bitmana.io/ROOT-457/amar.php?id=692
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="Lifestyle", ETV ABHIRUCHI
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/372
+https://test101.in1.bitmana.io/ROOT-457/amar.php?id=565
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://i.imgur.com/xuiLlnw.png" group-title="Entertainment", STAR MAA HD
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/374
