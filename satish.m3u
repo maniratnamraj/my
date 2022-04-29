@@ -1,0 +1,195 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV
+http://starshare.live:8080/live/748522/748522/23312.ts
+
+#EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
+http://starshare.live:8080/live/748522/748522/9045.ts
+
+#EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
+http://starshare.live:8080/live/748522/748522/9052.ts
+
+#EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
+http://starshare.live:8080/live/748522/748522/242.ts
+
+#EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
+http://starshare.live:8080/live/748522/748522/9053.ts
+
+#EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
+http://starshare.live:8080/live/748522/748522/214.ts
+
+#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
+http://starshare.live:8080/live/748522/748522/212.ts
+
+#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
+http://starshare.live:8080/live/748522/748522/9042.ts
+
+#EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
+http://starshare.live:8080/live/748522/748522/9044.ts
+
+#EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
+http://starshare.live:8080/live/748522/748522/213.ts
+
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
+http://starshare.live:8080/live/748522/748522/1605.ts
+
+#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
+http://starshare.live:8080/live/748522/748522/9016.ts
+
+#EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
+http://starshare.live:8080/live/748522/748522/168.ts
+
+#EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
+http://starshare.live:8080/live/748522/748522/9043.ts
+
+#EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
+http://starshare.live:8080/live/748522/748522/9015.ts
+
+#EXTINF:-1 tvg-id="STAR MAA MUSIC HD" TVG-logo="https://i.imgur.com/8iB1uQt.png" tvg-name="Maa MUSIC TELEGU" group-title="Music",Maa MUSIC TELEGU
+http://starshare.live:8080/live/748522/748522/57772.ts
+
+#EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
+http://starshare.live:8080/live/748522/748522/243.ts
+
+#EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
+http://starshare.live:8080/live/748522/748522/244.ts
+
+#EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vanitha_tv.png" group-title="Entertainment",VANITHA TV
+https://luckonline.eu/SnnoMuWi8n/w3kI4xaE8d/1496
+
+#EXTINF:-1 tvg-id="Mana TV" tvg-logo="https://i.imgur.com/Hlzssf9.png" group-title="Entertainment",Mana TV
+https://luckonline.eu/SnnoMuWi8n/w3kI4xaE8d/1501
+
+#EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
+http://starshare.live:8080/live/748522/748522/223.ts
+
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
+http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY HD
+https://luckonline.eu/KjPypddrq4/8p1pLrAVDh/1639
+
+#EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_tv18.png" group-title="Infotainment",History TV18 HD Telugu
+https://jio.instream.ml/jio.php?c=History_18_Telugu&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-id="DD Yadagiri" tvg-logo="https://i.imgur.com/yJvPTWj.png" group-title="Entertainment",DD Yadagiri
+https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in_480p/index.m3u8
+http://starshare.live:8080/live/748522/748522/4053.ts
+
+#EXTINF:-1 tvg-id="DD sapthagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="Entertainment",DD SAPTAGIRI
+https://m-c15-j2apps.s.llnwi.net/hls/0286.DDSaptagiri.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="studio one" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="Movies",studio one
+https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
+
+
+#EXTINF:-1 tvg-id="KushiTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",Kushi TV
+https://luckonline.eu/KjPypddrq4/8p1pLrAVDh/2306
+
+#EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Family/Kids",Sonic Telugu
+https://jio.instream.ml/jio.php?c=Sonic_Telugu&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",Cartoon Network HD+
+https://luckonline.eu/KjPypddrq4/8p1pLrAVDh/1635
+
+#EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="https://i.imgur.com/n996gwW.png" group-title="Family/Kids",Nick Telugu
+https://luckonline.eu/KjPypddrq4/8p1pLrAVDh/378
+
+#EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Family/Kids",Sony Yay Telugu
+https://jio.instream.ml/jio.php?c=Sony_Yay_Telugu&q=800&e=.m3u8
+
+#EXTINF:-1,TELUGU RAJ NEWS
+http://api.gostartv.com:8080/COfRIZ3UEj/X0XEhd9LKG/3272
+
+
+#EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/T_News_logo.png/150px-T_News_logo.png" group-title="News",T News
+http://starshare.live:8080/live/748522/748522/9049.ts
+
+#EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
+http://starshare.live:8080/live/748522/748522/235.ts
+
+#EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
+http://starshare.live:8080/live/748522/748522/170.ts
+
+#EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 Telugu
+http://starshare.live:8080/live/748522/748522/9047.ts
+
+#EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
+http://starshare.live:8080/live/748522/748522/228.ts
+
+#EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News",ETV Telangana
+http://starshare.live:8080/live/748522/748522/9050.ts
+
+#EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://ky-iptv.com:25461/images/829808af5beba75d93ad08dee71ddb48.png" group-title="News",ETV Andhra Pradesh
+http://starshare.live:8080/live/748522/748522/9046.ts
+
+#EXTINF:-1 tvg-id="10 TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10 TV
+https://luckonline.eu/KjPypddrq4/8p1pLrAVDh/1495
+
+#EXTINF:-1 tvg-id="MAHAA NEWS" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",MAHAA NEWS
+https://luckonline.eu/KjPypddrq4/8p1pLrAVDh/1101
+
+#EXTINF:-1 tvg-id="HM TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" group-title="News",HM TV
+https://cutt.ly/wnzi3Pe
+
+#EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
+https://luckonline.eu/KjPypddrq4/8p1pLrAVDh/377
+
+#EXTINF:-1 tvg-id="CVR English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news_english.png" group-title="News",CVR English
+https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
+
+#EXTINF:-1 tvg-id="CVR News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news.png" group-title="News",CVR News
+https://luckonline.eu/KjPypddrq4/8p1pLrAVDh/1508
+
+#EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News Telugu
+https://luckonline.eu/KjPypddrq4/8p1pLrAVDh/384
+
+#EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
+http://starshare.live:8080/live/748522/748522/9048.ts
+
+#EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
+http://starshare.live:8080/live/748522/748522/234.ts
+
+
+
+#EXTINF:-1,tvg-id="I News" tvg-logo="" group-title="News",I News
+https://luckonline.eu/KjPypddrq4/8p1pLrAVDh/1505
+
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",BBC World News
+https://jio.instream.ml/jio.php?c=BBC_World_News&q=800&e=.m3u8
+
+
+#EXTINF:-1 tvg-id="CVR OM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM
+https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
+
+#EXTINF:-1 tvg-name="Telegu:SVBC" group-title="TELEGU & KANNADA",SVBC TELUGU
+http://starshare.live:8080/live/748522/748522/9054.ts
+
+#EXTINF:-1 tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="Lifestyle",Bhakthi TV
+http://starshare.live:8080/live/748522/748522/34581.ts
+
+#EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA TV" tvg-logo="http://dmtn.tv:8080/images/1e6717a86e00d8db52b85e41894719c2.png" group-title="Lifestyle",AASTHA TV
+http://14.199.164.20:4001/play/a0pz/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="Lifestyle",Hindu Dharmam
+https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1
+http://starshare.live:8080/live/748522/748522/148.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2
+http://starshare.live:8080/live/748522/748522/239.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 3
+http://starshare.live:8080/live/748522/748522/1080.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports HINDI
+http://starshare.live:8080/live/748522/748522/211.ts
+
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="CRI: STAR SPORTS SELECT 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="Sports",STAR SPORTS SELECT 1 HD
+http://starshare.live:8080/live/748522/748522/238.ts
+
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Sports",Star Sports Select 2
+http://starshare.live:8080/live/748522/748522/200.ts
