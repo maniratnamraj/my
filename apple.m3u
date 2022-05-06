@@ -21,6 +21,55 @@ http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 #EXTINF:-1 tvg-id="BCN Channel" tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Movies",BCN
 http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
 
+#EXTINF:-1 tvg-id="Sai leela" group-title="Lifestyle" tvg-logo="https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg",Sai leela
+https://m-c03-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
+
+#EXTINF:-1 tvg-id="Sai leela" group-title="Lifestyle" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/V7Music.jpg",V7Music
+rtmp://cloud.streamplay.in/taazanews/taazanews
+
+#EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Powertv.jpg" group-title="News",Power TV
+http://live.mrstream.in:1935/powertv/powertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Powertv.jpg" group-title="News",CTV News
+http://blmtech.in:8086/hls/ctv/index.m3u8
+
+#EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Powertv.jpg" group-title="News",HN9TV
+http://blmtech.in:8086/hls/hn9tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Msdigitaltv.jpg" group-title="News",MS Digital
+http://telugusolutions.com/msdigitaltv/msdigitaltv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Msdigitaltv.jpg" group-title="News",Sity
+http://cloud.streamplay.in:1935/ccc/ccc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Msdigitaltv.jpg" group-title="News",Vizag Local News
+http://live.streamplay.in:1935/vlnews/vlnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AB5 News" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ab5news.jpg" group-title="News",AB5 News
+http://183.87.51.10/hls/sungroup.m3u8
+
+#EXTINF:-1 tvg-id="Teja Tv" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Tejatv.jpg" group-title="News",Teja TV
+http://telugusolutions.com/tejatv/tejatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/9tvtelangana.jpg" group-title="Music",9TV Telangana
+http://server.streamplay.in:1935/9tv/9tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Dbrnews.jpg" group-title="Movies",DBR News
+http://telugusolutions.com/dbr12/dbr12/index.m3u8
+
+EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yadadritv.jpg" group-title="Movies",Sriyadadri
+http://live.streamplay.in:1935/sriyadadri/sriyadadri/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Rk9news.jpg" group-title="Movies",RK9 News
+http://telugusolutions.com/rk9news/rk9news/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ammanews.jpg" group-title="Movies",Amma News
+http://server.streamplay.in:1935/ammanews/ammanews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bhavya_tv" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Bhavya_tv.jpg" group-title="Movies",Bhavya TV
+http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV
 http://103.132.16.98:8080/etvhd/mpegts
 
@@ -81,7 +130,7 @@ http://starshare.live:8080/live/748522/748522/223.ts
 
 #EXTINF:-1 tvg-id="DD Yadagiri" tvg-logo="https://i.imgur.com/yJvPTWj.png" group-title="Entertainment",DD Yadagiri
 https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in_480p/index.m3u8
-http://starshare.live:8080/live/748522/748522/4053.ts
+
 
 #EXTINF:-1 tvg-id="DD sapthagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="Entertainment",DD SAPTAGIRI
 https://m-c15-j2apps.s.llnwi.net/hls/0286.DDSaptagiri.in_480p/index.m3u8
@@ -94,16 +143,29 @@ https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
 http://starshare.live:8080/live/748522/748522/9049.ts
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
-http://starshare.live:8080/live/748522/748522/235.ts
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HUiHKse-YgM/live
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
 http://starshare.live:8080/live/748522/748522/170.ts
 
 #EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 Telugu
-http://starshare.live:8080/live/748522/748522/9047.ts
+https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
-http://starshare.live:8080/live/748522/748522/228.ts
+https://m-c08-j2apps.s.llnwi.net/hls/8034.V6News.in.m3u8
+
+#EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
+https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRHealth.in.m3u8
+
+#EXTINF:-1 tvg-id="CVR English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news_english.png" group-title="News",CVR English
+https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
+
+#EXTINF:-1 tvg-id="CVR News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news.png" group-title="News",CVR News
+https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
+
+
+#EXTINF:-1 tvg-id="Maha News" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",Maha News
+https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News",ETV Telangana
 http://starshare.live:8080/live/748522/748522/9050.ts
@@ -118,16 +180,22 @@ http://starshare.live:8080/live/748522/748522/9048.ts
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
 http://starshare.live:8080/live/748522/748522/234.ts
 
-#EXTINF:-1 tvg-id="CVR OM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM
+#EXTINF:-1 tvg-id="CVR OM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="DEVOTIONAL",CVR OM
 https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
 
-#EXTINF:-1 tvg-name="Telegu:SVBC" group-title="TELEGU & KANNADA",SVBC TELUGU
-http://starshare.live:8080/live/748522/748522/9054.ts
+#EXTINF:-1 tvg-id="Sai TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/FB_IMG_1634725008032.jpg" group-title="DEVOTIONAL",Sai TV
+http://decode.streamplay.in:1935/srisai/srisai/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="Lifestyle",Bhakthi TV
-http://starshare.live:8080/live/748522/748522/34581.ts
+#EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="DEVOTIONAL",CVR OM Spiritual
+http://iptv.hdsindia.com:2574/udp/228.10.10.171:4640
 
-#EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="Lifestyle",Hindu Dharmam
+#EXTINF:-1 tvg-name="Telegu:SVBC" group-title="DEVOTIONAL",SVBC TELUGU
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="DEVOTIONAL",Bhakthi TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/d0dB3kSCMmM/live
+
+#EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="DEVOTIONAL",Hindu Dharmam
 https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1
