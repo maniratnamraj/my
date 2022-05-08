@@ -107,13 +107,13 @@ http://appleiptv.com:80/good/good/146749
 http://appleiptv.com:80/good/good/146747
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
-http://appleiptv.com:80/good/good/146757
+http://ptgoldtv.io:8080/ValenteTiago/irIfczu8m2/40396
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
 http://appleiptv.com:80/good/good/146759
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://appleiptv.com:80/good/good/146751
+http://ptgoldtv.io:8080/ValenteTiago/irIfczu8m2/40445
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 http://appleiptv.com:80/good/good/146753
@@ -220,25 +220,13 @@ http://appleiptv.com:80/good/good/42950
 http://appleiptv.com:80/good/good/42951
 
 #EXTINF: -1 tvg-id="STAR SPORTS 3 " tvg-logo="https://i.imgur.com/zT2SW28.png" group-title="" group-title="SPORTS", STAR SPORTS 3 
-http://rv.bleutv.net:80/152080486405933/152050121779921/203429
+http://ptgoldtv.io:8080/ValenteTiago/irIfczu8m2/40424
 
 #EXTINF: -1 tvg-id="STAR SPORTS SELECTED 1" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 1 
 http://appleiptv.com:80/good/good/42948
 
 #EXTINF: -1 tvg-id="STAR SPORTS SELECTED 2 " tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 2 
 http://appleiptv.com:80/good/good/42949
-
-#EXTINF:-1 tvg-id="STAR SPORTS Telugu" tvg-logo="https://i.imgur.com/DU23jup.jpg" group-title="SPORTS", STAR SPORTS TELUGU
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/500
-
-#EXTINF:-1 tvg-id="STAR SPORTS 1 TAMIL" tvg-logo="https://i.imgur.com/PuVcUhU.png" group-title="SPORTS", STAR SPORTS TAMIL
-http://rv.bleutv.net:80/152080486405933/152050121779921/203421
-
-#EXTINF:-1 tvg-id="STAR SPORTS Bangla" tvg-logo="https://i.imgur.com/EdnIqRG.png" group-title="SPORTS", STAR SPORTS BANGLA
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/502
-
-#EXTINF:-1 tvg-id="STAR SPORTS Kanada" tvg-logo="https://i.imgur.com/CICG8go.jpg" group-title="SPORTS", STAR SPORTS KANADA
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/501
 
 #EXTINF:-1 tvg-id="SONY SIX FHD" tvg-logo="https://i.imgur.com/eQPAGeJ.jpg" group-title="SPORTS", SONY SIX 
 http://rv.bleutv.net:80/152080486405933/152050121779921/203434
