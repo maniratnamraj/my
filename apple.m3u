@@ -80,7 +80,7 @@ http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 http://appleiptv.com:80/good/good/146754
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://starshare.live:8080/live/748522/748522/9045.ts
+http://rv.bleutv.net:80/152080486405933/152050121779921/198032
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
 http://appleiptv.com:80/good/good/146755
@@ -92,10 +92,10 @@ http://appleiptv.com:80/good/good/146756
 http://89.187.162.109/GEMINIHD/mono.m3u8
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://appleiptv.com:80/good/good/146746
+http://rv.bleutv.net:80/152080486405933/152050121779921/198030
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-http://appleiptv.com:80/good/good/146748
+http://rv.bleutv.net:80/152080486405933/152050121779921/198028
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
 http://appleiptv.com:80/good/good/146750
@@ -116,10 +116,10 @@ http://appleiptv.com:80/good/good/146759
 http://ptgoldtv.io:8080/ValenteTiago/irIfczu8m2/40445
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-http://appleiptv.com:80/good/good/146753
+http://rv.bleutv.net:80/152080486405933/152050121779921/198021
 
 #EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://appleiptv.com:80/good/good/146752
+http://rv.bleutv.net:80/152080486405933/152050121779921/198026
 
 #EXTINF:-1 tvg-id="STAR MAA MUSIC HD" TVG-logo="https://i.imgur.com/8iB1uQt.png" tvg-name="Maa MUSIC TELEGU" group-title="Music",Maa MUSIC TELEGU
 http://starshare.live:8080/live/748522/748522/57772.ts
