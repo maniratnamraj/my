@@ -77,19 +77,19 @@ http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV
-http://appleiptv.com:80/good/good/146754
+http://103.132.16.98:8080/etvhd/mpegts
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
 http://rv.bleutv.net:80/152080486405933/152050121779921/198032
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-http://appleiptv.com:80/good/good/146755
+http://node97425-techmax-live.in1.bitmana.io/ROOT-978/live.php?c=ETV_Life&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
 http://appleiptv.com:80/good/good/146756
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
-http://89.187.162.109/GEMINIHD/mono.m3u8
+http://techmaxpro005.in1.bitmana.io/live.php?c=ETV_Abhiruchi&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 http://rv.bleutv.net:80/152080486405933/152050121779921/198030
@@ -110,7 +110,7 @@ http://appleiptv.com:80/good/good/146747
 http://ptgoldtv.io:8080/ValenteTiago/irIfczu8m2/40396
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
-http://appleiptv.com:80/good/good/146759
+http://node97425-techmax-live.in1.bitmana.io/ROOT-978/live.php?c=Zee_Cinemalu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 http://ptgoldtv.io:8080/ValenteTiago/irIfczu8m2/40445
