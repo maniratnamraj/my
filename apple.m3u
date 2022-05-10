@@ -83,10 +83,10 @@ http://103.132.16.98:8080/etvhd/mpegts
 http://rv.bleutv.net:80/152080486405933/152050121779921/198032
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-http://node97425-techmax-live.in1.bitmana.io/ROOT-978/live.php?c=ETV_Life&q=1200&e=junk.m3u8
+http://appleiptv.com:80/good/good/146756
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-http://appleiptv.com:80/good/good/146756
+http://node97425-techmax-live.in1.bitmana.io/ROOT-978/live.php?c=ETV_Life&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
 http://techmaxpro005.in1.bitmana.io/live.php?c=ETV_Abhiruchi&q=1200&e=junk.m3u8
@@ -95,7 +95,7 @@ http://techmaxpro005.in1.bitmana.io/live.php?c=ETV_Abhiruchi&q=1200&e=junk.m3u8
 http://rv.bleutv.net:80/152080486405933/152050121779921/198030
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-http://rv.bleutv.net:80/152080486405933/152050121779921/198028
+https://snehtv-may-01.in1.bitmana.io/snehapi/snxtgo/ts-snxt/26570.m3u8
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
 http://appleiptv.com:80/good/good/146750
@@ -174,17 +174,17 @@ https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News",ETV Telangana
-http://starshare.live:8080/live/748522/748522/9050.ts
+http://node97425-techmax-live.in1.bitmana.io/ROOT-978/live.php?c=ETV_Telangana&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://ky-iptv.com:25461/images/829808af5beba75d93ad08dee71ddb48.png" group-title="News",ETV Andhra Pradesh
-http://starshare.live:8080/live/748522/748522/9046.ts
+http://node97425-techmax-live.in1.bitmana.io/ROOT-978/live.php?c=ETV_Andhra_pradesh&q=1200&e=junk.m3u8
 
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
-http://starshare.live:8080/live/748522/748522/9048.ts
+https://snehtv-may-01.in1.bitmana.io/snehapi/snxtgo/ts-snxt/26570.m3u8
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
-http://starshare.live:8080/live/748522/748522/234.ts
+http://node97425-techmax-live.in1.bitmana.io/ROOT-978/live.php?c=ABN_Andhra_Jyothi&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="CVR OM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="DEVOTIONAL",CVR OM
 https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
