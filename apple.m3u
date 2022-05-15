@@ -214,10 +214,10 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/2581
 http://appleiptv.com:80/good/good/42947
 
 #EXTINF: -1 tvg-id="STAR SPORTS 1 " tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="" group-title="SPORTS", STAR SPORTS 1 HD
-http://appleiptv.com:80/good/good/42950
+http://103.132.16.98:8080/starsports1hd/mpegts
 
 #EXTINF: -1 tvg-id="STAR SPORTS 2 " tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="" group-title="SPORTS", STAR SPORTS 2 HD
-http://appleiptv.com:80/good/good/42951
+http://103.132.16.98:8080/starsports2hd/mpegts
 
 #EXTINF: -1 tvg-id="STAR SPORTS 3 " tvg-logo="https://i.imgur.com/zT2SW28.png" group-title="" group-title="SPORTS", STAR SPORTS 3 
 http://ptgoldtv.io:8080/ValenteTiago/irIfczu8m2/40424
