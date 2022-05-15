@@ -92,7 +92,7 @@ http://node97425-techmax-live.in1.bitmana.io/ROOT-978/live.php?c=ETV_Life&q=1200
 http://techmaxpro005.in1.bitmana.io/live.php?c=ETV_Abhiruchi&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://rv.bleutv.net:80/152080486405933/152050121779921/198030
+http://89.187.162.109/GEMINIHD/mono.m3u8
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
 https://snehtv-may-01.in1.bitmana.io/snehapi/snxtgo/ts-snxt/26570.m3u8
@@ -205,7 +205,7 @@ http://appleiptv.com:80/good/good/146795
 https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
 
 #EXTINF:-1 tvg-id="WILLOW CRICKET HD" tvg-logo="https://i.imgur.com/VIuVI3P.png" group-title="SPORTS", WILLOW CRICKET HD
-http://appleiptv.com:80/good/good/42952
+http://103.124.110.34:8082/WILLOW-CRICKET-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="WILLOW CRICKET XTRA" tvg-logo="https://i.imgur.com/6al4X9t.png" group-title="SPORTS", WILLOW CRICKET XTRA
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/2581
