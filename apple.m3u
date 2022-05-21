@@ -63,7 +63,7 @@ http://server.streamplay.in:1935/9tv/9tv/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Dbrnews.jpg" group-title="Movies",DBR News
 http://telugusolutions.com/dbr12/dbr12/index.m3u8
 
-EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yadadritv.jpg" group-title="Movies",Sriyadadri
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yadadritv.jpg" group-title="Movies",Sriyadadri
 http://live.streamplay.in:1935/sriyadadri/sriyadadri/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Rk9news.jpg" group-title="Movies",RK9 News
@@ -83,7 +83,7 @@ http://103.132.16.98:8080/etvhd/mpegts
 http://rv.bleutv.net:80/152080486405933/152050121779921/198032
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-http://appleiptv.com:80/good/good/146756
+http://rv.bleutv.net:80/152080486405933/152050121779921/198011
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
 http://rv.bleutv.net:80/152080486405933/152050121779921/198016
@@ -98,7 +98,7 @@ http://89.187.162.109/GEMINIHD/mono.m3u8
 http://rv.bleutv.net:80/152080486405933/152050121779921/198029
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-http://appleiptv.com:80/good/good/146750
+http://rv.bleutv.net:80/152080486405933/152050121779921/198028
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
 http://appleiptv.com:80/good/good/146749
@@ -107,7 +107,7 @@ http://appleiptv.com:80/good/good/146749
 http://rv.bleutv.net:80/152080486405933/152050121779921/198013
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
-http://ptgoldtv.io:8080/ValenteTiago/irIfczu8m2/40396
+http://rv.bleutv.net:80/152080486405933/152050121779921/198014
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
 http://rv.bleutv.net:80/152080486405933/152050121779921/198015
