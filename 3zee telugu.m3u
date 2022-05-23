@@ -1,0 +1,14 @@
+#EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Zee Telugu HD
+http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5593
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", ZEE TELUGU HD
+http://rv.bleutv.net:80/152080486405933/152050121779921/198014
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", ZEE TELUGU HD
+http://txm.flysat.live:80/152042370124826/152086514931144/198014
+
+
+
+
