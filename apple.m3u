@@ -80,8 +80,7 @@ http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV
-http://txm.flysat.live:80/152042370124826/152086514931144/198031
-http://103.132.16.98:8080/etvhd/mpegts
+http://sultan-iptv.com:80/102030405060/605040302010/74292
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
 http://rv.bleutv.net:80/152080486405933/152050121779921/198032
@@ -96,7 +95,7 @@ http://rv.bleutv.net:80/152080486405933/152050121779921/198016
 http://techmaxpro-id01.in1.bitmana.io/live.php?c=ETV_Abhiruchi&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://89.187.162.109/GEMINIHD/mono.m3u8
+http://sultan-iptv.com:80/102030405060/605040302010/74291
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
 http://rv.bleutv.net:80/152080486405933/152050121779921/198029
@@ -117,7 +116,7 @@ http://rv.bleutv.net:80/152080486405933/152050121779921/198014
 http://txm.flysat.live:80/152079181811724/152010864086508/198015
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://ptgoldtv.io:8080/ValenteTiago/irIfczu8m2/40445
+http://sultan-iptv.com:80/102030405060/605040302010/74281
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 http://rv.bleutv.net:80/152080486405933/152050121779921/198021
