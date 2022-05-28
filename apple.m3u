@@ -211,7 +211,7 @@ http://appleiptv.com:80/good/good/146795
 https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
 
 #EXTINF:-1 tvg-id="WILLOW CRICKET HD" tvg-logo="https://i.imgur.com/VIuVI3P.png" group-title="SPORTS", WILLOW CRICKET HD
-http://103.124.110.34:8082/WILLOW-CRICKET-HD/index.m3u8
+http://mains.services:2086/clayboy/65Jssx1yS9/94797
 
 #EXTINF:-1 tvg-id="WILLOW CRICKET XTRA" tvg-logo="https://i.imgur.com/6al4X9t.png" group-title="SPORTS", WILLOW CRICKET XTRA
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/2581
@@ -220,7 +220,7 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/2581
 http://appleiptv.com:80/good/good/42947
 
 #EXTINF: -1 tvg-id="STAR SPORTS 1 " tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="" group-title="SPORTS", STAR SPORTS 1 HD
-http://103.132.16.98:8080/starsports1hd/mpegts
+http://mains.services:2086/clayboy/65Jssx1yS9/94780
 
 #EXTINF: -1 tvg-id="STAR SPORTS 2 " tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="" group-title="SPORTS", STAR SPORTS 2 HD
 http://103.132.16.98:8080/starsports2hd/mpegts
@@ -232,7 +232,7 @@ http://ptgoldtv.io:8080/ValenteTiago/irIfczu8m2/40424
 http://appleiptv.com:80/good/good/42948
 
 #EXTINF: -1 tvg-id="STAR SPORTS SELECTED 2 " tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 2 
-http://42.201.253.14:4090/play/a097/index.m3u8
+http://mains.services:2086/clayboy/65Jssx1yS9/94790
 
 #EXTINF:-1 tvg-id="SONY SIX FHD" tvg-logo="https://i.imgur.com/eQPAGeJ.jpg" group-title="SPORTS", SONY SIX 
 http://rv.bleutv.net:80/152080486405933/152050121779921/203434
