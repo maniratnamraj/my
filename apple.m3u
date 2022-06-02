@@ -183,7 +183,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6ickpgDIsltU_-8CbZaksQ/live
 
 #EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://ky-iptv.com:25461/images/829808af5beba75d93ad08dee71ddb48.png" group-title="News",ETV Andhra Pradesh
-http://techmaxpro-id01.in1.bitmana.io/live.php?c=ETV_Andhra_pradesh&q=1200&e=junk.m3u8
+http://node101473-ishanjiotv.in1.bitmana.io/live.php?c=ETV_Andhra_pradesh&q=800&e=Ishan.m3u8
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
 http://rv.bleutv.net:80/152080486405933/152050121779921/198002
