@@ -128,13 +128,28 @@ http://sultan-iptv.com:80/102030405060/605040302010/74287
 http://starshare.live:8080/live/748522/748522/57772.ts
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
-http://rv.bleutv.net:80/152080486405933/152050121779921/198024
+http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=Raj_Music_Telugu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
 http://appleiptv.com:80/good/good/146760
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 http://rv.bleutv.net:80/152080486405933/152050121779921/198022
+
+#EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="Kids", KUSHI TV
+http://rv.bleutv.net:80/152080486405933/152050121779921/198003
+
+#EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="Kids", Sonic TELUGU
+http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=Sonic_Telugu&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="Kids", Cartoon Network HD+ TELUGU
+http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=CN_HD_Telugu&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="Kids", Nick TELUGU
+http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=Nick_Telugu&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="Kids", SONY YAY TELUGU
+http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=Sony_Yay_Telugu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://i.imgur.com/KVLxDzb.png" group-title="News", RAJ NEWS TELUGU
 http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro1/live.php?c=Raj_News_Telugu&q=1200&e=junk.m3u8
@@ -151,6 +166,9 @@ https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
 #EXTINF:-1 tvg-id="Studio Yuva" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies",Studio Yuva
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
 
+#EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://i.imgur.com/KVLxDzb.png" group-title="News", RAJ NEWS TELUGU
+http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=Raj_News_Telugu&q=1200&e=junk.m3u8
+
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News",ETV Telangana
 http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=ETV_Telangana&q=1200&e=junk.m3u8
 
@@ -164,13 +182,13 @@ http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=I_News&q=1
 http://starshare.live:8080/live/748522/748522/9049.ts
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HUiHKse-YgM/live
+http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=NTV&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
-http://rv.bleutv.net:80/152080486405933/152050121779921/198010
+http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=TV_5_News&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 Telugu
-http://rv.bleutv.net:80/152080486405933/152050121779921/198018
+http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=TV9_Telugu_News&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
 https://m-c08-j2apps.s.llnwi.net/hls/8034.V6News.in.m3u8
