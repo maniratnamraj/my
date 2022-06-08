@@ -89,7 +89,7 @@ http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=ETV_Cinema
 http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=ETV_Life&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=ETV_Cinema&q=1200&e=junk.m3u8
+http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=ETV_Plus&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
 http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=ETV_Abhiruchi&q=1200&e=junk.m3u8
