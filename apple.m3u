@@ -189,7 +189,7 @@ http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=TV_5_News&
 http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=TV9_Telugu_News&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
-https://m-c08-j2apps.s.llnwi.net/hls/8034.V6News.in.m3u8
+https://telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeemparvez-jioplus-autoq40.php?id=769
 
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
 https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRHealth.in.m3u8
@@ -209,6 +209,12 @@ http://rv.bleutv.net:80/152080486405933/152050121779921/198002
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
 http://node97425-techmax-live.in1.bitmana.io/ROOT-978/live.php?c=ABN_Andhra_Jyothi&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="10 TV" tvg-logo="https://i.imgur.com/9UOgkwD.png" group-title="News", 10 TV HD
+https://telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeemparvez-jioplus-autoq40.php?id=832
+
+#EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://i.imgur.com/Oz7KOjP.jpg" group-title="News", T News
+https://telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeemparvez-jioplus-autoq40.php?id=667
 
 #EXTINF:-1 tvg-id="Sai leela" group-title="Lifestyle" tvg-logo="https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg",Sai leela
 https://telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeemparvez-jioplus-autoq40.php?id=1407
