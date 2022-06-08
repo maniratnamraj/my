@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="GARUDA HD" tvg-logo="https://i.imgur.com/W8CFuqx.jpg" group-title="", GARUDA HD
 https://rtmp.streamwell.in/hls/garudatv.m3u8
