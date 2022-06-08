@@ -30,10 +30,8 @@ http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 #EXTINF:-1 tvg-id="BCN Channel" tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Movies",BCN
 http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
 
-#EXTINF:-1 tvg-id="Sai leela" group-title="Lifestyle" tvg-logo="https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg",Sai leela
-https://m-c03-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
 
-#EXTINF:-1 tvg-id="Sai leela" group-title="Lifestyle" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/V7Music.jpg",V7Music
+#EXTINF:-1 tvg-id="V7Music" group-title="Lifestyle" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/V7Music.jpg",V7Music
 rtmp://cloud.streamplay.in/taazanews/taazanews
 
 #EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Powertv.jpg" group-title="News",Power TV
@@ -101,10 +99,10 @@ http://sultan-iptv.com:80/102030405060/605040302010/74291
 http://sultan-iptv.com:80/102030405060/605040302010/74290
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-http://rv.bleutv.net:80/152080486405933/152050121779921/198028
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2663
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
-http://txm.flysat.live:80/152079181811724/152010864086508/198012
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2647
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
 http://sultan-iptv.com:80/102030405060/605040302010/74274
@@ -206,13 +204,15 @@ https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 #EXTINF:-1 tvg-id="Maha News" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",Maha News
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
 http://rv.bleutv.net:80/152080486405933/152050121779921/198002
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
 http://node97425-techmax-live.in1.bitmana.io/ROOT-978/live.php?c=ABN_Andhra_Jyothi&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="Sai leela" group-title="Lifestyle" tvg-logo="https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg",Sai leela
+https://telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeemparvez-jioplus-autoq40.php?id=1407
+
 
 #EXTINF:-1 tvg-id="CVR OM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="DEVOTIONAL",CVR OM
 https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
@@ -227,10 +227,10 @@ http://iptv.hdsindia.com:2574/udp/228.10.10.171:4640
 http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=Aastha_Telugu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-name="Telegu:SVBC" group-title="DEVOTIONAL",SVBC TELUGU
-https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
+https://telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeemparvez-jioplus-autoq40.php?id=598
 
 #EXTINF:-1 tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="DEVOTIONAL",Bhakthi TV
-http://appleiptv.com:80/good/good/146795
+https://telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeemparvez-jioplus-autoq40.php?id=776
 
 #EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="DEVOTIONAL",Hindu Dharmam
 http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=Hindu_Dharmam&q=1200&e=junk.m3u8
