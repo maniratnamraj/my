@@ -18,8 +18,18 @@ http://blmtech.in:8086/hls/satyanews/index.m3u8
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="News",Metro TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Shreyas TV" tvg-logo="https://play-lh.googleusercontent.com/MPWG4eX_b9nUE7hFEL54faL0QZrGCN_vb1f4rPMBEmgKyydSSinwUI3ku7Lb7cGrhlA=s180-rw" group-title="Movies",Shreyas TV
-https://tv.capitalfi.net:4403/Shreyas/live/index.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prime-9-news-in.png" tvg-id="", Prime9 News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1654885910/ei/tjmjYu_GIsjukgb48q-ICQ/ip/20.125.136.202/id/oifb7gILVUI.1/source/yt_live_broadcast/requiressl/yes/tx/24161927/txs/24161927%2C24161928/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCzJ_U9PSlZe5U1OuZnt3r_fNsh0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOTHI8w8qETMxkTBexecS9EwxcJ-UiVynU6dK2-R-RH2AiBEOLi-pR5X4YH4J2kBarx3QxfTjNvSrhFIrpmoWtyTqw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/eI2lDo1.png" tvg-id="", ABP Desam
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1654885862/ei/hjmjYsmOM4GTkwbazoiwCA/ip/20.125.136.202/id/exBrJsqjzX8.1/source/yt_live_broadcast/requiressl/yes/tx/24190961/txs/24190960%2C24190961/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCzS5DVhLADQ9xqeZ1vfB9EKZlZM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIj-Pj339Jgh47p7Uex39n7FMCwydWVsrLo7QikHRv2YAiEAoHFLOJ9D0dmcS7xifLk3v-1_froOyGTwBeQSW7UrOQk%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/j24bBRs.jpg" tvg-id="", Zee Telugu News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1654885863/ei/hzmjYo_mEcz_kgaeyQU/ip/20.125.136.202/id/mU7XXmYUQg4.1/source/yt_live_broadcast/requiressl/yes/tx/24027700/txs/24027699%2C24027700%2C24027701%2C24027702%2C24067854/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC83lACt0r8sjlc5gif5lWvBsi6Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgHxe56lv70EIaNt9vTDC3po2nxdqyDNs9EJccpTmve4ACIQDFfLqNoKT3-MykWSXnbmkq0fTSz4_SYSQQQYT7iE0LGw%3D%3D/file/index.m3u8
+
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/IGwor8T.png" tvg-id="", News Now Telugu Digital
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1654885880/ei/mDmjYqCrIs-WsfIP14mwwA0/ip/20.125.136.202/id/__0_l4SE39o.1/source/yt_live_broadcast/requiressl/yes/tx/24190960/txs/24190960%2C24190961/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC1zrGjGFB4iNJ2ZMGDhAibaMH3E/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgNOyfIC5Dcsy6fsWogCtxpgfHKC1mHXjUnlZsQc4ylUECIH9fI9C4aLg2gYrHuDnyQ045Fh7fauTsQcUCWDSr5YCP/file/index.m3u8
 
 #EXTINF:-1 tvg-id="saranyatv" tvg-logo="https://play-lh.googleusercontent.com/y7nG2foe5dSlc9atI01_uKg0737PdUXVE-SFYDTuH56-tLc7PP2TVHnCsEUn_cjPGkY=s180-rw" group-title="Movies",Saranya TV
 http://blmtech.in:8086/hls/saranyatv/index.m3u8
