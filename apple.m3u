@@ -243,7 +243,7 @@ http://iptv.hdsindia.com:2574/udp/228.10.10.171:4640
 http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=Aastha_Telugu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-name="Telegu:SVBC" group-title="DEVOTIONAL",SVBC TELUGU
-https://telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeemparvez-jioplus-autoq40.php?id=598
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
 
 #EXTINF:-1 tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="DEVOTIONAL",Bhakthi TV
 https://telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeemparvez-jioplus-autoq40.php?id=776
