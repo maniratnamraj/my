@@ -103,12 +103,11 @@ http://env-648455-hoss.in1.bitmana.io/live.php?c=ETV_Plus&q=800&e=junk.m3u8
 http://env-648455-hoss.in1.bitmana.io/live.php?c=ETV_Abhiruchi&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://sultan-iptv.com:80/102030405060/605040302010/74291
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76702
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-http://sultan-iptv.com:80/102030405060/605040302010/74290
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76687
+
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2663
