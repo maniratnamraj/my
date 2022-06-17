@@ -104,9 +104,11 @@ http://env-648455-hoss.in1.bitmana.io/live.php?c=ETV_Abhiruchi&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 http://sultan-iptv.com:80/102030405060/605040302010/74291
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76702
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
 http://sultan-iptv.com:80/102030405060/605040302010/74290
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76687
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2663
@@ -262,33 +264,39 @@ http://appleiptv.com:80/good/good/42947
 
 #EXTINF: -1 tvg-id="STAR SPORTS 1 " tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="" group-title="SPORTS", STAR SPORTS 1 HD
 http://sultan-iptv.com:80/102030405060/605040302010/74258
+http://quality-restream.com:8080/Miglioriptv/9meicgdec6/3630
 
 #EXTINF: -1 tvg-id="STAR SPORTS 2 " tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="" group-title="SPORTS", STAR SPORTS 2 HD
 http://sultan-iptv.com:80/102030405060/605040302010/74257
+http://quality-restream.com:8080/Miglioriptv/9meicgdec6/3631
 
 #EXTINF: -1 tvg-id="STAR SPORTS 3 " tvg-logo="https://i.imgur.com/zT2SW28.png" group-title="" group-title="SPORTS", STAR SPORTS 3 
 http://sultan-iptv.com:80/102030405060/605040302010/74256
+http://quality-restream.com:8080/Miglioriptv/9meicgdec6/62584
 
 #EXTINF: -1 tvg-id="STAR SPORTS SELECTED 1" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 1 
 http://appleiptv.com:80/good/good/42948
+http://quality-restream.com:8080/Miglioriptv/9meicgdec6/82628
 
 #EXTINF: -1 tvg-id="STAR SPORTS SELECTED 2 " tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 2 
 http://mains.services:2086/clayboy/65Jssx1yS9/94790
+http://quality-restream.com:8080/Miglioriptv/9meicgdec6/16619
 
 #EXTINF:-1 tvg-id="SONY SIX FHD" tvg-logo="https://i.imgur.com/eQPAGeJ.jpg" group-title="SPORTS", SONY SIX 
 https://node103074-join-us-on-telegram-streamkinglive.in1.bitmana.io/autoq.php?c=Sony_Six_SD
 
-#EXTINF:-1 tvg-id="TEN 1 FHD" tvg-logo="https://i.imgur.com/uCOfGxn.jpg" group-title="SPORTS", TEN 1 
+#EXTINF:-1 tvg-id="TEN 1 FHD" tvg-logo="https://i.imgur.com/uCOfGxn.jpg" group-title="SPORTS", Sony Ten 1
 http://mytv.fun:8080/i6kgl5ush/5lmb4irdzr/672325
+http://quality-restream.com:8080/Miglioriptv/9meicgdec6/16622
 
-#EXTINF:-1 tvg-id="TEN 2 FHD" tvg-logo="https://i.imgur.com/eXc5dS2.png" group-title="SPORTS", TEN 2
+#EXTINF:-1 tvg-id="TEN 2 FHD" tvg-logo="https://i.imgur.com/eXc5dS2.png" group-title="SPORTS", Sony Ten 2
 http://mytv.fun:8080/i6kgl5ush/5lmb4irdzr/672444
+http://quality-restream.com:8080/Miglioriptv/9meicgdec6/16621
 
-#EXTINF:-1 tvg-id="TEN 3 FHD" tvg-logo="https://i.imgur.com/TL7cbfr.png" group-title="SPORTS", TEN 3
+#EXTINF:-1 tvg-id="TEN 3 FHD" tvg-logo="https://i.imgur.com/TL7cbfr.png" group-title="SPORTS", Sony Ten 3
 http://mytv.fun:8080/i6kgl5ush/5lmb4irdzr/672445
+http://quality-restream.com:8080/Miglioriptv/9meicgdec6/56191
 
-#EXTINF:-1 tvg-id="" tvg-name="*--- INDIA ---*" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="|IN| INDIA",*--- INDIA ---*
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76482
 #EXTINF:-1 tvg-id="" tvg-name="|IN| &TV FHD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="|IN| INDIA",|IN| &TV FHD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76483
 #EXTINF:-1 tvg-id="" tvg-name="|IN| 9X Jhakaas" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="|IN| INDIA",|IN| 9X Jhakaas
