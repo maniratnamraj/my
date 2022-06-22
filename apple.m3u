@@ -88,19 +88,19 @@ http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV
-http://env-648455-hoss.in1.bitmana.io/live.php?c=ETV_Telugu&q=800&e=junk.m3u8
+
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://env-648455-hoss.in1.bitmana.io/live.php?c=ETV_Cinema&q=800&e=junk.m3u8
+http://103.179.246.243:8000/play/a052/index.m3u8
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-http://env-648455-hoss.in1.bitmana.io/live.php?c=ETV_Life&q=800&e=junk.m3u8
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76794
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
 http://env-648455-hoss.in1.bitmana.io/live.php?c=ETV_Plus&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
-http://env-648455-hoss.in1.bitmana.io/live.php?c=ETV_Abhiruchi&q=800&e=junk.m3u8
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76793
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76702
