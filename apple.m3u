@@ -88,7 +88,7 @@ http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV
-
+http://rv.bleutv.net:80/152080486405933/152050121779921/198031
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
 http://103.179.246.243:8000/play/a052/index.m3u8
@@ -97,7 +97,7 @@ http://103.179.246.243:8000/play/a052/index.m3u8
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76794
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-http://env-648455-hoss.in1.bitmana.io/live.php?c=ETV_Plus&q=800&e=junk.m3u8
+http://rv.bleutv.net:80/152080486405933/152050121779921/198016
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76793
@@ -119,7 +119,7 @@ http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2647
 http://sultan-iptv.com:80/102030405060/605040302010/74274
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
-http://ranapk-june2.in1.bitmana.io/livez.php?c=Zee_Telugu&q=1200&e=junk.m3u8
+http://rv.bleutv.net:80/152080486405933/152050121779921/198014
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
 http://sultan-iptv.com:80/102030405060/605040302010/74276
