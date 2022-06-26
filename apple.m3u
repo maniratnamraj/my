@@ -117,10 +117,10 @@ http://sultan-iptv.com:80/102030405060/605040302010/74281
 http://sultan-iptv.com:80/102030405060/605040302010/74282
 
 #EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://sultan-iptv.com:80/102030405060/605040302010/74287
+http://89.187.179.108:8080/MaaMovies-telu/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="STAR MAA MUSIC HD" TVG-logo="https://i.imgur.com/8iB1uQt.png" tvg-name="Maa MUSIC TELEGU" group-title="Music",Maa MUSIC TELEGU
-http://starshare.live:8080/live/748522/748522/57772.ts
+http://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=testhttp://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
 http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=Raj_Music_Telugu&q=1200&e=junk.m3u8
