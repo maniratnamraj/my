@@ -126,7 +126,7 @@ http://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=testhttp://89.187.179.
 http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=Raj_Music_Telugu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
-http://txm.flysat.live:80/152079181811724/152010864086508/198004
+http://live.geoiptv.org:8880/live/86869915/919108446769/587811.ts
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 http://rv.bleutv.net:80/152080486405933/152050121779921/198022
@@ -162,7 +162,7 @@ https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://i.imgur.com/KVLxDzb.png" group-title="News", RAJ NEWS TELUGU
-http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=Raj_News_Telugu&q=1200&e=junk.m3u8
+http://live.geoiptv.org:8880/live/86869915/919108446769/588029.ts
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News",ETV Telangana
 http://env-648455-hoss.in1.bitmana.io/live.php?c=ETV_Telangana&q=800&e=junk.m3u8
@@ -177,7 +177,7 @@ http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=I_News&q=1
 http://starshare.live:8080/live/748522/748522/9049.ts
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
-http://env-648455-hoss.in1.bitmana.io/live.php?c=NTV&q=800&e=junk.m3u8
+http://live.geoiptv.org:8880/live/86869915/919108446769/587637.ts
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
 http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=TV_5_News&q=1200&e=junk.m3u8
@@ -186,7 +186,7 @@ http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=TV_5_News&
 http://env-648455-hoss.in1.bitmana.io/live.php?c=TV9_Telugu_News&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
-https://telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeemparvez-jioplus-autoq40.php?id=769
+http://live.geoiptv.org:8880/live/86869915/919108446769/587859.ts
 
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
 https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRHealth.in.m3u8
@@ -197,23 +197,25 @@ https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
 #EXTINF:-1 tvg-id="CVR News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news.png" group-title="News",CVR News
 https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 
+#EXTINF:-1 tvg-id="HMTV" tvg-logo="https://i.imgur.com/NFy5hie.png" group-title="News", HMTV NEWS
+http://live.geoiptv.org:8880/live/86869915/919108446769/587918.ts
 
-#EXTINF:-1 tvg-id="Maha News" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",Maha News
-https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
+#EXTINF:-1 tvg-id="Maha News" tvg-logo="https://i.imgur.com/2uKGvfV.png" group-title="News", Maha NEWS
+http://live.geoiptv.org:8880/live/86869915/919108446769/587917.ts
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="https://i.imgur.com/96ejE7i.jpg" group-title="News", ABN Andhra Jyothi NEWS
+http://live.geoiptv.org:8880/live/86869915/919108446769/587833.ts
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
-http://env-648455-hoss.in1.bitmana.io/live.php?c=Sakshi_tv&q=800&e=junk.m3u8
+http://live.geoiptv.org:8880/live/86869915/919108446769/587635.ts
 
-#EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
-http://node97425-techmax-live.in1.bitmana.io/ROOT-978/live.php?c=ABN_Andhra_Jyothi&q=1200&e=junk.m3u8
+
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://i.imgur.com/9UOgkwD.png" group-title="News", 10 TV HD
 https://telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeemparvez-jioplus-autoq40.php?id=832
 
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://i.imgur.com/Oz7KOjP.jpg" group-title="News", T News
-https://telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeemparvez-jioplus-autoq40.php?id=667
+http://live.geoiptv.org:8880/live/86869915/919108446769/587903.ts
 
 #EXTINF:-1 tvg-id="Sai leela" group-title="Lifestyle" tvg-logo="https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg",Sai leela
 https://telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeemparvez-jioplus-autoq40.php?id=1407
@@ -250,8 +252,7 @@ http://sultan-iptv.com:80/102030405060/605040302010/74259
 http://appleiptv.com:80/good/good/42947
 
 #EXTINF: -1 tvg-id="STAR SPORTS 1 " tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="" group-title="SPORTS", STAR SPORTS 1 HD
-http://sultan-iptv.com:80/102030405060/605040302010/74258
-http://quality-restream.com:8080/Miglioriptv/9meicgdec6/3630
+http://live.geoiptv.org:8880/live/86869915/919108446769/588095.ts
 
 #EXTINF: -1 tvg-id="STAR SPORTS 2 " tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="" group-title="SPORTS", STAR SPORTS 2 HD
 http://sultan-iptv.com:80/102030405060/605040302010/74257
@@ -283,4 +284,36 @@ http://quality-restream.com:8080/Miglioriptv/9meicgdec6/16621
 #EXTINF:-1 tvg-id="TEN 3 FHD" tvg-logo="https://i.imgur.com/TL7cbfr.png" group-title="SPORTS", Sony Ten 3
 http://mytv.fun:8080/i6kgl5ush/5lmb4irdzr/672445
 http://quality-restream.com:8080/Miglioriptv/9meicgdec6/56191
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: Sony Six HD" tvg-logo="http://tvstar.live:8880/jio_icon/32765222401.png" group-title="SPORTS", Sony Six HD
+http://live.geoiptv.org:8880/live/86869915/919108446769/587548.ts
+#EXTINF:-1 tvg-id="" tvg-name="IND: Sony Six SD" tvg-logo="http://tvstar.live:8880/jio_icon/37748006941.png" group-title="SPORTS", Sony Six SD
+http://live.geoiptv.org:8880/live/86869915/919108446769/587656.ts
+#EXTINF:-1 tvg-id="" tvg-name="IND: Star Sports 1 FHD" tvg-logo="http://tvstar.live:8880/jio_icon/35909120561.png" group-title="SPORTS", Star Sports 1 FHD
+http://live.geoiptv.org:8880/live/86869915/919108446769/588095.ts
+#EXTINF:-1 tvg-id="" tvg-name="IND: Star Sports 2 FHD" tvg-logo="http://tvstar.live:8880/jio_icon/13345462651.png" group-title="SPORTS", Star Sports 2 FHD
+http://live.geoiptv.org:8880/live/86869915/919108446769/588096.ts
+#EXTINF:-1 tvg-id="" tvg-name="IND: Star Sports Hindi 1 FHD" tvg-logo="http://tvstar.live:8880/jio_icon/27985895541.png" group-title="SPORTS", Star Sports Hindi 1 FHD
+http://live.geoiptv.org:8880/live/86869915/919108446769/588097.ts
+#EXTINF:-1 tvg-id="" tvg-name="IND: Star Sports Select 1 FHD" tvg-logo="http://tvstar.live:8880/jio_icon/15731652611.png" group-title="SPORTS", Star Sports Select 1 FHD
+http://live.geoiptv.org:8880/live/86869915/919108446769/588094.ts
+#EXTINF:-1 tvg-id="" tvg-name="IND: Star Sports Select 2 FHD" tvg-logo="http://tvstar.live:8880/jio_icon/52633492111.png" group-title="SPORTS", Star Sports Select 2 FHD
+http://live.geoiptv.org:8880/live/86869915/919108446769/588098.ts
+#EXTINF:-1 tvg-id="" tvg-name="IND: Ten 1" tvg-logo="http://tvstar.live:8880/jio_icon/79597051171.png" group-title="SPORTS", Ten 1
+http://live.geoiptv.org:8880/live/86869915/919108446769/587653.ts
+#EXTINF:-1 tvg-id="" tvg-name="IND: Ten 1 HD" tvg-logo="http://tvstar.live:8880/jio_icon/87730338441.png" group-title="SPORTSl", Ten 1 HD
+http://live.geoiptv.org:8880/live/86869915/919108446769/587551.ts
+#EXTINF:-1 tvg-id="" tvg-name="IND: Ten 2" tvg-logo="http://tvstar.live:8880/jio_icon/31545022641.png" group-title="SPORTS", Ten 2
+http://live.geoiptv.org:8880/live/86869915/919108446769/587654.ts
+#EXTINF:-1 tvg-id="" tvg-name="IND: Ten 2 HD" tvg-logo="http://tvstar.live:8880/jio_icon/62561342911.png" group-title="SPORTS", Ten 2 HD
+http://live.geoiptv.org:8880/live/86869915/919108446769/587555.ts
+#EXTINF:-1 tvg-id="" tvg-name="IND: Ten 3" tvg-logo="http://tvstar.live:8880/jio_icon/79552999661.png" group-title="SPORTS",IND: Ten 3
+http://live.geoiptv.org:8880/live/86869915/919108446769/587655.ts
+#EXTINF:-1 tvg-id="" tvg-name="IND: Ten 3 HD" tvg-logo="http://tvstar.live:8880/jio_icon/84452873981.png" group-title="SPORTS", Ten 3 HD
+http://live.geoiptv.org:8880/live/86869915/919108446769/587644.ts
+#EXTINF:-1 tvg-id="" tvg-name="IND: Ten 4" tvg-logo="http://tvstar.live:8880/jio_icon/65601458081.png" group-title="SPORTS", Ten 4
+http://live.geoiptv.org:8880/live/86869915/919108446769/588228.ts
+#EXTINF:-1 tvg-id="" tvg-name="IND: Ten 4 HD" tvg-logo="http://tvstar.live:8880/jio_icon/75522590001.png" group-title="SPORTS", Ten 4 HD
+http://live.geoiptv.org:8880/live/86869915/919108446769/588227.ts
+
 
