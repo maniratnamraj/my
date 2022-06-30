@@ -6,7 +6,7 @@ https://rtmp.streamwell.in/hls/garudatv.m3u8
 #EXTINF:-1 tvg-id="GARUDA " tvg-logo="https://i.imgur.com/iv01fEs.jpg" group-title="Entertainment", GARUDA BHAKTI
 https://server.streamwell.in/hls/bhaktigaruda.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News " tvg-logo="https://tavapi.inditechman.com/extras/images/v9s.jpg" group-title="Entertainment", V9 Studio News
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-logo="https://tavapi.inditechman.com/extras/images/v9s.jpg" group-title="Entertainment", V9 Studio News
 http://183.87.51.10/hls/V9studio.m3u8
 
 #EXTINF:-1 tvg-id="City News TV" tvg-logo="https://play-lh.googleusercontent.com/JX__NKk0RMa5P00ROEnftE1hxcA78rMFny0_hdf5YNrLIRx3lEq03tVMgZ7O5a5ffq8=s180-rw" group-title="Movies",City News TV
@@ -1093,7 +1093,7 @@ http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=Garv_Swaminaraya&q=800&
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=Shubhsandesh_TV&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="606" group-title="Devotional" tvg-language="Malayalam" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shalom.png",Shalom
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=Shalom&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="1159" group-title="JioDarshan" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tulja_Bhavani.png",Tulja Bhavani
+#EXTINF:-1 tvg-id="1159" group-title="Darshan" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tulja_Bhavani.png",Tulja Bhavani
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=Tulja_Bhavani&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="972" group-title="Devotional" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarv_Dharam_Sangam.png",Sarv Dharam Sangam
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=Sarv_Dharam_Sangam&q=800&e=junk.m3u8
@@ -1817,7 +1817,7 @@ http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=ABZY_Dhakad&q=800&e=jun
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=ABZY_Cool&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="1270" group-title="Movies" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Movies.png",ABZY Movies
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=ABZY_Movies&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="1271" group-title="JioDarshan" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udupi_Krishna_Temple.png",Sh Krishna Matta Adamaru Paryaya UDUPI
+#EXTINF:-1 tvg-id="1271" group-title="Darshan" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udupi_Krishna_Temple.png",Sh Krishna Matta Adamaru Paryaya UDUPI
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=Udupi_Krishna_Temple&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="1273" group-title="Lifestyle" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sugran.png",Sugran
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=Sugra&q=800&e=junk.m3u8
@@ -1845,7 +1845,7 @@ http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=Vignesh_TV.PNG&q=800&e=
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=Insync&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="1287" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ANB_News.png",ANB News
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=ANB_News&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="1288" group-title="JioDarshan" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Omkareshwar_Temple.png",Shri Omkareshwar Mandir
+#EXTINF:-1 tvg-id="1288" group-title="Darshan" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Omkareshwar_Temple.png",Shri Omkareshwar Mandir
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=Omkareshwar_Temple&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="1290" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/StarTell.png",Stars Tell
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=StarTell&q=800&e=junk.m3u8
@@ -1867,7 +1867,7 @@ http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=TV_Bangla&q=800&e=junk.
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=Manjari_TV&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="1315" group-title="Devotional" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HHDL.png",HHDL
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=HHDL&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="1317" group-title="JioDarshan" tvg-language="Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Patna_Sahib.png",Takht Sri Patna Sahib - Patna
+#EXTINF:-1 tvg-id="1317" group-title="Darshan" tvg-language="Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Patna_Sahib.png",Takht Sri Patna Sahib - Patna
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=Sri_Patna_Sahib&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="1320" group-title="Music" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VH1_HD.png",VH1 HD
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=VH1_HD&q=800&e=junk.m3u8
@@ -2081,7 +2081,7 @@ http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=Namasthe_TV&q=800&e=jun
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=MH1_DilSe&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="1926" group-title="Devotional" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskriti_24x7.png",Sanskriti 24x7
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=Sanskriti_24x7&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="1933" group-title="JioDarshan" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shri_Trimbakeshwar_Devasthan.png",Shri Trimbakeshwar Devasthan Trust
+#EXTINF:-1 tvg-id="1933" group-title="Darshan" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shri_Trimbakeshwar_Devasthan.png",Shri Trimbakeshwar Devasthan Trust
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=Shri_Trimbakeshwar_Devastha&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="1954" group-title="News" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Tamil_24x7.png",News Tamil 24x7
 http://yashraj-mod-09.in1.bitmana.io/yashraj/autoq.php?c=News_Tamil_24x7&q=800&e=junk.m3u8
