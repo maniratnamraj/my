@@ -29,7 +29,7 @@ http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
 
 
-#EXTINF:-1 tvg-id="V7Music" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/V7Music.jpg" group-title="Entertainment" V7Music
+#EXTINF:-1 tvg-id="V7Music" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/V7Music.jpg" group-title="Entertainment", V7Music
 rtmp://cloud.streamplay.in/taazanews/taazanews
 
 #EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Powertv.jpg" group-title="Entertainment",Power TV
