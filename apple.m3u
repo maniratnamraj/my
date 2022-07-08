@@ -78,7 +78,7 @@ http://yashraj-mod-06.in1.bitmana.io//live.php?c=ETV_Telugu&q=1200&e=junk.m3u8
 http://yashraj-mod-06.in1.bitmana.io/ROOT-146/autoq.php?c=ETV_Telugu&q=250&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://yashraj-mod-06.in1.bitmana.io//live.php?c=ETV_Cinema&q=1200&e=junk.m3u8
+http://89.187.179.108:8080/ETVHD/LOCAL/TEL/index.m3u8?token=test
 http://yashraj-mod-06.in1.bitmana.io/ROOT-146/autoq.php?c=ETV_Cinema&q=250&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
@@ -119,13 +119,14 @@ https://nayeem-parvez.tk/zeppytv/m3u8.php?c=0-9-zeecinemalu
 http://sultan-iptv.com:80/102030405060/605040302010/74281
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-http://sultan-iptv.com:80/102030405060/605040302010/74282
+http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 http://89.187.179.108:8080/MaaMovies-telu/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="STAR MAA MUSIC HD" TVG-logo="https://i.imgur.com/8iB1uQt.png" tvg-name="Maa MUSIC TELEGU" group-title="Music",Maa MUSIC TELEGU
-http://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=testhttp://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=test
+http://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=test
+
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
 http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=Raj_Music_Telugu&q=1200&e=junk.m3u8
