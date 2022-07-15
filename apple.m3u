@@ -6,44 +6,6 @@ https://rtmp.streamwell.in/hls/garudatv.m3u8
 #EXTINF:-1 tvg-id="GARUDA " tvg-logo="https://i.imgur.com/iv01fEs.jpg" group-title="Entertainment", GARUDA BHAKTI
 https://server.streamwell.in/hls/bhaktigaruda.m3u8
 
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 1 HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/74809.ts
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 2 HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/74810.ts
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 3 HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/74811.ts
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 4 HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/74812.ts
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 5 HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/74813.ts
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 6 HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/74814.ts
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 7 HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/74815.ts
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 8 HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/74816.ts
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 9 HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/74817.ts
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 10 HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/74818.ts
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 11 HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/74819.ts
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 12 HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/74820.ts
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 13 HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/74821.ts
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 14 HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/74822.ts
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 15 HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/74823.ts
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 17 HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/74824.ts
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 18 HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/74825.ts
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 19 HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/74826.ts
-#EXTINF:-1,TELUGU | TOLLYWOOD MOVIES 16 HD
-
 #EXTINF:-1 tvg-id="V9 Studio News" tvg-logo="https://tavapi.inditechman.com/extras/images/v9s.jpg" group-title="Entertainment", V9 Studio News
 http://183.87.51.10/hls/V9studio.m3u8
 
@@ -112,7 +74,7 @@ http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment", ETV Telugu
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/98885.ts
+http://103.139.171.5:5001/live.php?c=ETV_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
 http://103.139.171.5:5001/live.php?c=ETV_Cinema&q=800&e=junk.m3u8
@@ -131,7 +93,7 @@ http://103.139.171.5:5001/live.php?c=ETV_Abhiruchi&q=800&e=junk.m3u8
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76702
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76687
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76702
 
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
@@ -141,22 +103,22 @@ http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/9042.ts
 http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/9044.ts
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/213.ts
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76780
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
-https://nayeem-parvez.tk/zeppytv/m3u8.php?c=0-9-zeetelugu
+http://iptvtree.net:8080/iptvromania2020/31e75bff/21561
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
-https://nayeem-parvez.tk/zeppytv/m3u8.php?c=0-9-zeecinemalu
+http://iptvtree.net:8080/iptvromania2020/31e75bff/45504
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/98886.ts
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76669
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/98887.ts
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76668
 
 #EXTINF:-1 tvg-id="STAR MAA MUSIC HD" TVG-logo="https://i.imgur.com/8iB1uQt.png" tvg-name="Maa MUSIC TELEGU" group-title="Music",Maa MUSIC TELEGU
 http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/57772.ts
@@ -320,8 +282,7 @@ http://appleiptv.com:80/good/good/42947
 http://live.geoiptv.org:8880/live/86869915/919108446769/588095.ts
 
 #EXTINF: -1 tvg-id="STAR SPORTS 2 " tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="" group-title="SPORTS", STAR SPORTS 2 HD
-http://sultan-iptv.com:80/102030405060/605040302010/74257
-http://quality-restream.com:8080/Miglioriptv/9meicgdec6/3631
+http://103.55.144.46:80/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF: -1 tvg-id="STAR SPORTS 3 " tvg-logo="https://i.imgur.com/zT2SW28.png" group-title="" group-title="SPORTS", STAR SPORTS 3 
 http://sultan-iptv.com:80/102030405060/605040302010/74256
@@ -343,12 +304,10 @@ http://mytv.fun:8080/i6kgl5ush/5lmb4irdzr/672325
 http://quality-restream.com:8080/Miglioriptv/9meicgdec6/16622
 
 #EXTINF:-1 tvg-id="TEN 2 FHD" tvg-logo="https://i.imgur.com/eXc5dS2.png" group-title="SPORTS", Sony Ten 2
-http://mytv.fun:8080/i6kgl5ush/5lmb4irdzr/672444
-http://quality-restream.com:8080/Miglioriptv/9meicgdec6/16621
+http://103.55.144.46/hls/sonyten2.m3u8
 
 #EXTINF:-1 tvg-id="TEN 3 FHD" tvg-logo="https://i.imgur.com/TL7cbfr.png" group-title="SPORTS", Sony Ten 3
-http://mytv.fun:8080/i6kgl5ush/5lmb4irdzr/672445
-http://quality-restream.com:8080/Miglioriptv/9meicgdec6/56191
+http://103.55.144.46/hls/sonyten3.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://telegra.ph/file/88fca86386b5c024a7b4d.jpg" group-title="SonyLiv",LIV HINDI
 https://CRICKET-KING.TK/SONY_LIV/HINDI.m3u8
