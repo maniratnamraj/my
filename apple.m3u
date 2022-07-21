@@ -90,26 +90,26 @@ http://103.139.171.5:5001/live.php?c=ETV_Plus&q=800&e=junk.m3u8
 http://103.139.171.5:5001/live.php?c=ETV_Abhiruchi&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://iptvtree.net:8080/Miglioriptv/9meicgdec6/165794
+https://iamsom5.vercel.app/api/sunnxt.php?id=14019&e=.m3u8
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76702
+https://iamsom5.vercel.app/api/sunnxt.php?id=26570&e=.m3u8
 
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/9042.ts
+https://iamsom5.vercel.app/api/sunnxt.php?id=9027&e=.m3u8
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/9044.ts
+https://iamsom5.vercel.app/api/sunnxt.php?id=26572&e=.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76780
+https://iamsom5.vercel.app/api/sunnxt.php?id=9026&e=.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
-http://iptvtree.net:8080/iptvromania2020/31e75bff/21561
+http://103.139.171.5:5001/live.php?c=Zee_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
-http://iptvtree.net:8080/iptvromania2020/31e75bff/45504
+http://103.139.171.5:5001/live.php?c=Zee_Cinemalu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76669
@@ -143,7 +143,7 @@ http://103.139.171.5:5001/live.php?c=Discovery_Channel_Telugu&q=800&e=junk.m3u8
 http://103.139.171.5:5001/live.php?c=History_18_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="Kids", KUSHI TV
-http://txm.flysat.live:80/152079181811724/152010864086508/198003
+https://iamsom5.vercel.app/api/sunnxt.php?id=26571&e=.m3u8
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="Kids", Sonic Telugu
 http://103.139.171.5:5001/live.php?c=Sonic_Telugu&q=800&e=junk.m3u8
@@ -164,7 +164,7 @@ http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro1/live.php?c=Raj_News_T
 https://maxpro-live-new.000webhostapp.com/zee-maxpro2.php?c=0-9-ddyadagiri
 
 #EXTINF:-1 tvg-id="DD sapthagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="Entertainment",DD SAPTAGIRI
-https://m-c15-j2apps.s.llnwi.net/hls/0286.DDSaptagiri.in_480p/index.m3u8
+http://103.139.171.5:5001/live.php?c=DD_Saptagiri&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="studio one" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="Movies",studio one
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
@@ -191,13 +191,13 @@ http://starshare.live:8080/live/748522/748522/9049.ts
 http://103.139.171.5:5001/live.php?c=NTV&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
-http://iptvtree.net:8080/Miglioriptv/9meicgdec6/296486
+http://103.139.171.5:5001/live.php?c=TV_5_News&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 Telugu
-http://iptvtree.net:8080/Miglioriptv/9meicgdec6/163256
+http://103.139.171.5:5001/live.php?c=TV9_Telugu_News&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
-http://iptvtree.net:8080/Miglioriptv/9meicgdec6/192185
+http://103.139.171.5:5001/live.php?c=V6_News&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
 https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRHealth.in.m3u8
@@ -273,6 +273,9 @@ http://sultan-iptv.com:80/102030405060/605040302010/74250
 
 #EXTINF:-1 tvg-id="WILLOW CRICKET XTRA" tvg-logo="" group-title="SPORTS", WILLOW CRICKET XTRA
 http://sultan-iptv.com:80/102030405060/605040302010/74259
+
+#EXTINF: -1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title=" Sports", DD Sports
+http://103.139.171.5:5001/live.php?c=DD_Sports&q=800&e=junk.m3u8
 
 #EXTINF: -1 tvg-id="STAR SPORTS HINDI" tvg-logo="https://i.imgur.com/w7rO6yI.jpg" group-title="SPORTS", STAR SPORTS HINDI 1 HD
 http://appleiptv.com:80/good/good/42947
