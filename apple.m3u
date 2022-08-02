@@ -118,10 +118,10 @@ http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76669
 http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76668
+http://89.187.179.108:8080/MaaMovies-telu/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="STAR MAA MUSIC HD" TVG-logo="https://i.imgur.com/8iB1uQt.png" tvg-name="Maa MUSIC TELEGU" group-title="Music",Maa MUSIC TELEGU
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/57772.ts
+http://starshare.live:8080/live/usman007/usman007/57772.ts
 
 #EXTINF: -1 tvg-id="775" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title=" ", Vanitha
 http://103.139.171.5:5001/live.php?c=Vanitha&q=800&e=junk.m3u8
