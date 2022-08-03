@@ -77,14 +77,14 @@ http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 http://103.139.171.5:5001/live.php?c=ETV_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://103.139.171.5:5001/live.php?c=ETV_Cinema&q=800&e=junk.m3u8
+http://20062016.com:80/turki/turki/114497
 
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-http://103.139.171.5:5001/live.php?c=ETV_Life&q=800&e=junk.m3u8
+http://20062016.com:80/turki/turki/114498
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-http://103.139.171.5:5001/live.php?c=ETV_Plus&q=800&e=junk.m3u8
+
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV Abhiruchi
 http://103.139.171.5:5001/live.php?c=ETV_Abhiruchi&q=800&e=junk.m3u8
@@ -96,22 +96,22 @@ https://jiotvlive.vercel.app/api/sunnxt.php?id=14019&e=.m3u8
 https://jiotvlive.vercel.app/api/sunnxt.php?id=14019&e=.m3u8
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-https://jiotvlive.vercel.app/api/sunnxt.php?id=9027&e=.m3u8
+http://20062016.com:80/turki/turki/114499
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
-https://jiotvlive.vercel.app/api/sunnxt.php?id=26572&e=.m3u8
+http://20062016.com:80/turki/turki/114500
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
 https://jiotvlive.vercel.app/api/sunnxt.php?id=26568&e=.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
-http://103.139.171.5:5001/live.php?c=Zee_Telugu&q=800&e=junk.m3u8
+http://20062016.com:80/turki/turki/114371
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
 http://103.139.171.5:5001/live.php?c=Zee_Cinemalu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76669
+http://20062016.com:80/turki/turki/114513
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
@@ -214,7 +214,7 @@ http://103.139.171.5:5001/live.php?c=HM_TV&q=800&e=junk.m3u8
 http://103.139.171.5:5001/live.php?c=Maha_News&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="https://i.imgur.com/96ejE7i.jpg" group-title="News", ABN Andhra Jyothi
-http://iptvtree.net:8080/Miglioriptv/9meicgdec6/296482
+http://20062016.com:80/turki/turki/114520
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi tv
 http://103.139.171.5:5001/live.php?c=Sakshi_tv&q=800&e=junk.m3u8
@@ -271,40 +271,40 @@ http://103.139.171.5:5001/live.php?c=Subhavartha_TV&q=800&e=junk.m3u8
 http://sultan-iptv.com:80/102030405060/605040302010/74250
 
 #EXTINF:-1 tvg-id="WILLOW CRICKET XTRA" tvg-logo="" group-title="SPORTS", WILLOW CRICKET XTRA
-http://sultan-iptv.com:80/102030405060/605040302010/74259
+http://20062016.com:80/turki/turki/114404
 
 #EXTINF: -1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title=" Sports", DD Sports
 http://103.139.171.5:5001/live.php?c=DD_Sports&q=800&e=junk.m3u8
 
 #EXTINF: -1 tvg-id="STAR SPORTS HINDI" tvg-logo="https://i.imgur.com/w7rO6yI.jpg" group-title="SPORTS", STAR SPORTS HINDI 1 HD
-http://appleiptv.com:80/good/good/42947
+http://20062016.com:80/turki/turki/114346
 
 #EXTINF: -1 tvg-id="STAR SPORTS 1 " tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="" group-title="SPORTS", STAR SPORTS 1 HD
-http://iptvtree.net:8080/Miglioriptv/9meicgdec6/3630
+http://20062016.com:80/turki/turki/114345
 
 #EXTINF: -1 tvg-id="STAR SPORTS 2 " tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="" group-title="SPORTS", STAR SPORTS 2 HD
-http://iptvtree.net:8080/Miglioriptv/9meicgdec6/3631
+http://20062016.com:80/turki/turki/114346
 
 #EXTINF: -1 tvg-id="STAR SPORTS 3 " tvg-logo="https://i.imgur.com/zT2SW28.png" group-title="" group-title="SPORTS", STAR SPORTS 3 
-http://iptvtree.net:8080/Miglioriptv/9meicgdec6/62584
+http://20062016.com:80/turki/turki/114347
 
 #EXTINF: -1 tvg-id="STAR SPORTS SELECTED 1" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 1 
-http://iptvtree.net:8080/Miglioriptv/9meicgdec6/82628
+http://20062016.com:80/turki/turki/114349
 
 #EXTINF: -1 tvg-id="STAR SPORTS SELECTED 2 " tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 2 
-http://iptvtree.net:8080/Miglioriptv/9meicgdec6/16619
+http://20062016.com:80/turki/turki/114350
 
 #EXTINF:-1 tvg-id="SONY SIX FHD" tvg-logo="https://i.imgur.com/eQPAGeJ.jpg" group-title="SPORTS", SONY SIX 
-https://node103074-join-us-on-telegram-streamkinglive.in1.bitmana.io/autoq.php?c=Sony_Six_SD
+http://20062016.com:80/turki/turki/114379
 
 #EXTINF:-1 tvg-id="TEN 1 FHD" tvg-logo="https://i.imgur.com/uCOfGxn.jpg" group-title="SPORTS", Sony Ten 1
-http://channelstv.online:8080/ashraf2020/2020ashraf/278181
+http://20062016.com:80/turki/turki/114380
 
 #EXTINF:-1 tvg-id="TEN 2 FHD" tvg-logo="https://i.imgur.com/eXc5dS2.png" group-title="SPORTS", Sony Ten 2
-http://channelstv.online:8080/ashraf2020/2020ashraf/261735
+http://20062016.com:80/turki/turki/114381
 
 #EXTINF:-1 tvg-id="TEN 3 FHD" tvg-logo="https://i.imgur.com/TL7cbfr.png" group-title="SPORTS", Sony Ten 3
-http://channelstv.online:8080/ashraf2020/2020ashraf/261736
+http://20062016.com:80/turki/turki/114382
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://telegra.ph/file/88fca86386b5c024a7b4d.jpg" group-title="SonyLiv",LIV HINDI
 https://CRICKET-KING.TK/SONY_LIV/HINDI.m3u8
