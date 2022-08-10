@@ -74,7 +74,7 @@ http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment", ETV Telugu
-http://103.139.171.5:5001/live.php?c=ETV_Telugu&q=800&e=junk.m3u8
+http://iptv12k.com:35461/80301070602/456776/2269
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
 http://20062016.com:80/turki/turki/114497
@@ -90,7 +90,7 @@ http://20062016.com:80/turki/turki/114498
 http://103.139.171.5:5001/live.php?c=ETV_Abhiruchi&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-https://jiotvlive.vercel.app/api/sunnxt.php?id=14019&e=.m3u8
+http://iptv12k.com:35461/80301070602/456776/5036
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
 https://jiotvlive.vercel.app/api/sunnxt.php?id=14019&e=.m3u8
@@ -105,22 +105,22 @@ http://20062016.com:80/turki/turki/114500
 https://jiotvlive.vercel.app/api/sunnxt.php?id=26568&e=.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
-http://20062016.com:80/turki/turki/114371
+http://iptv12k.com:35461/80301070602/456776/5028
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
 http://103.139.171.5:5001/live.php?c=Zee_Cinemalu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://20062016.com:80/turki/turki/114513
+http://iptv12k.com:35461/80301070602/456776/4965
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://89.187.179.108:8080/MaaMovies-telu/index.m3u8?token=test
+http://iptv12k.com:35461/80301070602/456776/5038
 
 #EXTINF:-1 tvg-id="STAR MAA MUSIC HD" TVG-logo="https://i.imgur.com/8iB1uQt.png" tvg-name="Maa MUSIC TELEGU" group-title="Music",Maa MUSIC TELEGU
-http://starshare.live:8080/live/usman007/usman007/57772.ts
+http://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=test
 
 #EXTINF: -1 tvg-id="775" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title=" ", Vanitha
 http://103.139.171.5:5001/live.php?c=Vanitha&q=800&e=junk.m3u8
@@ -157,7 +157,7 @@ http://103.139.171.5:5001/live.php?c=Nick_Telugu&q=800&e=junk.m3u8
 
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://i.imgur.com/KVLxDzb.png" group-title="News", RAJ NEWS TELUGU
-http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro1/live.php?c=Raj_News_Telugu&q=1200&e=junk.m3u8
+http://iptv12k.com:35461/80301070602/456776/5032
 
 #EXTINF:-1 tvg-id="DD Yadagiri" tvg-logo="https://i.imgur.com/yJvPTWj.png" group-title="Entertainment",DD Yadagiri
 https://maxpro-live-new.000webhostapp.com/zee-maxpro2.php?c=0-9-ddyadagiri
@@ -187,13 +187,13 @@ http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=I_News&q=1
 http://starshare.live:8080/live/748522/748522/9049.ts
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",NTV Telugu
-http://103.139.171.5:5001/live.php?c=NTV&q=800&e=junk.m3u8
+http://iptv12k.com:35461/80301070602/456776/5033
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
 http://103.139.171.5:5001/live.php?c=TV_5_News&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 Telugu
-http://103.139.171.5:5001/live.php?c=TV9_Telugu_News&q=800&e=junk.m3u8
+http://iptv12k.com:35461/80301070602/456776/5029
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
 http://103.139.171.5:5001/live.php?c=V6_News&q=800&e=junk.m3u8
@@ -250,7 +250,7 @@ http://103.139.171.5:5001/live.php?c=Vidya&q=800&e=junk.m3u8
 http://103.139.171.5:5001/live.php?c=Nipuna&q=800&e=junk.m3u8
 
 #EXTINF: -1 tvg-id="598" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title=" DEVOTIONAL", Sri Venkateshwar Bhakti
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/9054.ts
+http://iptv12k.com:35461/80301070602/456776/5031
 
 #EXTINF: -1 tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="DEVOTIONAL", Bhakti TV
 http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/34581.ts
@@ -277,7 +277,7 @@ http://20062016.com:80/turki/turki/114404
 http://103.139.171.5:5001/live.php?c=DD_Sports&q=800&e=junk.m3u8
 
 #EXTINF: -1 tvg-id="STAR SPORTS HINDI" tvg-logo="https://i.imgur.com/w7rO6yI.jpg" group-title="SPORTS", STAR SPORTS HINDI 1 HD
-http://20062016.com:80/turki/turki/114346
+
 
 #EXTINF: -1 tvg-id="STAR SPORTS 1 " tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="" group-title="SPORTS", STAR SPORTS 1 HD
 http://20062016.com:80/turki/turki/114345
@@ -320,4 +320,147 @@ https://dai.google.com/linear/hls/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SonyLiv",SONY HD
 https://dai.google.com/linear/hls/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1,&PRIVE HD-Rs 19
+http://103.179.246.243:8000/play/a01d
+#EXTINF:-1,&flix HD-Rs19
+http://103.179.246.243:8000/play/a00p
+#EXTINF:-1,&pictures HD -Rs19
+http://103.179.246.243:8000/play/a017
+#EXTINF:-1,&tv HD - Rs 19
+http://103.179.246.243:8000/play/a01u
+#EXTINF:-1,ANIMAL PLAN HD-Rs3
+http://103.179.246.243:8000/play/a011
+#EXTINF:-1,BBC WORLD - Rs 1
+http://103.179.246.243:8000/play/a01f
+#EXTINF:-1,CARTOON-Rs4.25
+http://103.179.246.243:8000/play/a01w
+#EXTINF:-1,CNN INTL - 50p
+http://103.179.246.243:8000/play/a01e
+#EXTINF:-1,COMEDY CEN-Rs 5
+http://103.179.246.243:8000/play/a01g
+#EXTINF:-1,Colors HD-Rs 19
+http://103.179.246.243:8000/play/a00o
+#EXTINF:-1,DISCOVERY K-Rs3
+http://103.179.246.243:8000/play/a024
+#EXTINF:-1,Discovery HD-Rs6
+http://103.179.246.243:8000/play/a00y
+#EXTINF:-1,Discovery S-Rs1
+http://103.179.246.243:8000/play/a01k
+#EXTINF:-1,Discovery T-Rs1
+http://103.179.246.243:8000/play/a01l
+#EXTINF:-1,Disney Chan-Rs8
+http://103.179.246.243:8000/play/a01y
+#EXTINF:-1,Disney Jr.-Rs 4
+http://103.179.246.243:8000/play/a020
+#EXTINF:-1,EuroSports HD-Rs 6
+http://103.179.246.243:8000/play/a00r
+#EXTINF:-1,FOX Life HD-Rs1
+http://103.179.246.243:8000/play/a01t
+#EXTINF:-1,HISTORY TV18 HD-Rs7
+http://103.179.246.243:8000/play/a013
+#EXTINF:-1,MAX HD -Rs 17
+http://103.179.246.243:8000/play/a00h
+#EXTINF:-1,MN+ HD-Rs 10
+http://103.179.246.243:8000/play/a00u
+#EXTINF:-1,MNX - Rs 6
+http://103.179.246.243:8000/play/a01h
+#EXTINF:-1,MOVIES NO-Rs 10
+http://103.179.246.243:8000/play/a01i
+#EXTINF:-1,MTV - Rs 3
+http://103.179.246.243:8000/play/a05q
+#EXTINF:-1,NAT Geo Wild HD-Rs 5
+http://103.179.246.243:8000/play/a00i
+#EXTINF:-1,National G HD-Rs10
+http://103.179.246.243:8000/play/a00x
+#EXTINF:-1,Nick Jr. - Rs1
+http://103.179.246.243:8000/play/a023
+#EXTINF:-1,PIX HD - Rs 15
+http://103.179.246.243:8000/play/a016
+#EXTINF:-1,Pogo - Rs 4.25
+http://103.179.246.243:8000/play/a022
+#EXTINF:-1,Romedy NOW-Rs 6
+http://103.179.246.243:8000/play/a01j
+#EXTINF:-1,SAB HD - Rs 19
+http://103.179.246.243:8000/play/a01v
+#EXTINF:-1,SET HD - Rs 19
+http://103.179.246.243:8000/play/a00q
+#EXTINF:-1,SIX HD - Rs 19
+http://103.179.246.243:8000/play/a00f
+#EXTINF:-1,SONIC- Rs 2
+http://103.179.246.243:8000/play/a021
+#EXTINF:-1,SONY MAX 2 - Rs 1
+http://103.179.246.243:8000/play/a01s
+#EXTINF:-1,SONY PAL -Rs 1
+http://103.179.246.243:8000/play/a036
+#EXTINF:-1,STAR BHARAT HD-Rs19
+http://103.179.246.243:8000/play/a010
+#EXTINF:-1,STAR MOV HD-Rs 19
+http://103.179.246.243:8000/play/a00v
+#EXTINF:-1,STAR WOR P HD-Rs9
+http://103.179.246.243:8000/play/a00a
+#EXTINF:-1,STAR WORLD HD -Rs9
+http://103.179.246.243:8000/play/a00b
+#EXTINF:-1,Sony BBC EarHD-Rs10
+http://103.179.246.243:8000/play/a015
+#EXTINF:-1,Sony Ten 1 HD- Rs 19
+http://103.179.246.243:8000/play/a00e
+#EXTINF:-1,Sony Ten 2 HD- Rs 17
+http://103.179.246.243:8000/play/a01a
+#EXTINF:-1,Sony Ten 3 HD- Rs 17
+http://103.179.246.243:8000/play/a00k
+#EXTINF:-1,Star GOLD HD -Rs10
+http://103.179.246.243:8000/play/a012
+#EXTINF:-1,Star Gold 2- Rs 1
+http://103.179.246.243:8000/play/a01q
+#EXTINF:-1,Star Gold SelHD-Rs10
+http://103.179.246.243:8000/play/a014
+#EXTINF:-1,Star Plus HD -Rs19
+http://103.179.246.243:8000/play/a00m
+#EXTINF:-1,Star S Hin 1 HD- Rs19
+http://103.179.246.243:8000/play/a026
+#EXTINF:-1,Star Spo 1 HD-Rs19
+http://103.179.246.243:8000/play/a00c
+#EXTINF:-1,Star Spo 2 HD- Rs19
+http://103.179.246.243:8000/play/a00d
+#EXTINF:-1,Star Sports 3 Rs 4
+http://103.179.246.243:8000/play/a00l
+#EXTINF:-1,Star Sports S 1 HD-Rs19
+http://103.179.246.243:8000/play/a018
+#EXTINF:-1,Star Sports S 2 HD-Rs10
+http://103.179.246.243:8000/play/a019
+#EXTINF:-1,Star Utsav-Rs 1
+http://103.179.246.243:8000/play/a05m
+#EXTINF:-1,StarMov S HD-Rs 10
+http://103.179.246.243:8000/play/a00w
+#EXTINF:-1,TLC HD- Rs3
+http://103.179.246.243:8000/play/a027
+#EXTINF:-1,UTV ACTION-Rs 2
+http://103.179.246.243:8000/play/a01p
+#EXTINF:-1,UTV MOVIES-Rs 2
+http://103.179.246.243:8000/play/a01o
+#EXTINF:-1,ZEE ANMOL-Rs 10p
+http://103.179.246.243:8000/play/a00s
+#EXTINF:-1,ZEE BOLLYWO-Rs2
+http://103.179.246.243:8000/play/a01r
+#EXTINF:-1,ZEE CINEMA HD-Rs19
+http://103.179.246.243:8000/play/a00z
+#EXTINF:-1,ZEE Cafe H-Rs19
+http://103.179.246.243:8000/play/a00t
+#EXTINF:-1,ZEE TV HD-Rs 19
+http://103.179.246.243:8000/play/a00n
+#EXTINF:-1,Zoom - 50p
+http://103.179.246.243:8000/play/a025
+#EXTINF:-1,colors CINEPLEX-Rs 3
+http://103.179.246.243:8000/play/a04h
+#EXTINF:-1,colors INFIN HD-Rs9
+http://103.179.246.243:8000/play/a01b
+#EXTINF:-1,colors rishtey -Rs 1
+http://103.179.246.243:8000/play/a03i
+#EXTINF:-1,hungama tv-Rs 6
+http://103.179.246.243:8000/play/a01x
+#EXTINF:-1,nick - Rs 6
+http://103.179.246.243:8000/play/a01z
+#EXTINF:-1,nick HD+- Rs 10
+http://103.179.246.243:8000/play/a01c
+
 
