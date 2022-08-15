@@ -77,8 +77,7 @@ http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 http://iptv12k.com:35461/80301070602/456776/2269
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://20062016.com:80/turki/turki/114497
-
+http://ku03.wanicelife.com:8880/12d0014/47518383/55254
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
 http://20062016.com:80/turki/turki/114498
@@ -90,13 +89,13 @@ http://20062016.com:80/turki/turki/114498
 http://103.139.171.5:5001/live.php?c=ETV_Abhiruchi&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://iptv12k.com:35461/80301070602/456776/5036
+http://ku03.wanicelife.com:8880/12d0014/47518383/55242
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-https://jiotvlive.vercel.app/api/sunnxt.php?id=14019&e=.m3u8
+http://ku03.wanicelife.com:8880/12d0014/47518383/55243
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-http://20062016.com:80/turki/turki/114499
+http://ku03.wanicelife.com:8880/12d0014/47518383/66812
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
 http://20062016.com:80/turki/turki/114500
@@ -105,13 +104,13 @@ http://20062016.com:80/turki/turki/114500
 https://jiotvlive.vercel.app/api/sunnxt.php?id=26568&e=.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
-http://iptv12k.com:35461/80301070602/456776/5028
+http://ku03.wanicelife.com:8880/12d0014/47518383/55324
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
 http://103.139.171.5:5001/live.php?c=Zee_Cinemalu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://iptv12k.com:35461/80301070602/456776/4965
+http://ku03.wanicelife.com:8880/12d0014/47518383/55220
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
@@ -127,13 +126,13 @@ http://103.139.171.5:5001/live.php?c=Vanitha&q=800&e=junk.m3u8
 
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
-http://103.139.171.5:5001/live.php?c=Raj_Music_Telugu&q=800&e=junk.m3u8
+http://ku03.wanicelife.com:8880/12d0014/47518383/66810
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
-http://103.139.171.5:5001/live.php?c=Vissa_TV&q=800&e=junk.m3u8
+http://ku03.wanicelife.com:8880/12d0014/47518383/66835
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
-http://103.139.171.5:5001/live.php?c=Sony_BBC_Earth_HD_Telugu&q=800&e=junk.m3u8
+http://ku03.wanicelife.com:8880/12d0014/47518383/66830
 
 #EXTINF: -1 tvg-id="576" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title=" ", Discovery Channel Telugu
 http://103.139.171.5:5001/live.php?c=Discovery_Channel_Telugu&q=800&e=junk.m3u8
@@ -172,7 +171,7 @@ https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://i.imgur.com/KVLxDzb.png" group-title="News", RAJ NEWS TELUGU
-http://live.geoiptv.org:8880/live/86869915/919108446769/588029.ts
+http://ku03.wanicelife.com:8880/12d0014/47518383/66806
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News", ETV Telangana
 http://103.139.171.5:5001/live.php?c=ETV_Telangana&q=800&e=junk.m3u8
@@ -187,16 +186,16 @@ http://node102357-maxpro-live.in1.bitmana.io/Jiotv-maxpro2/live.php?c=I_News&q=1
 http://starshare.live:8080/live/748522/748522/9049.ts
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",NTV Telugu
-http://iptv12k.com:35461/80301070602/456776/5033
+http://ku03.wanicelife.com:8880/12d0014/47518383/66802
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
-http://103.139.171.5:5001/live.php?c=TV_5_News&q=800&e=junk.m3u8
+http://ku03.wanicelife.com:8880/12d0014/47518383/66831
 
 #EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 Telugu
-http://iptv12k.com:35461/80301070602/456776/5029
+http://ku03.wanicelife.com:8880/12d0014/47518383/66814
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
-http://103.139.171.5:5001/live.php?c=V6_News&q=800&e=junk.m3u8
+http://ku03.wanicelife.com:8880/12d0014/47518383/66834
 
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
 https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRHealth.in.m3u8
@@ -208,7 +207,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 
 #EXTINF:-1 tvg-id="HMTV" tvg-logo="https://i.imgur.com/NFy5hie.png" group-title="News", HMTV NEWS
-http://103.139.171.5:5001/live.php?c=HM_TV&q=800&e=junk.m3u8
+http://ku03.wanicelife.com:8880/12d0014/47518383/66815
 
 #EXTINF:-1 tvg-id="Maha News" tvg-logo="https://i.imgur.com/2uKGvfV.png" group-title="News", Maha NEWS
 http://103.139.171.5:5001/live.php?c=Maha_News&q=800&e=junk.m3u8
@@ -268,7 +267,7 @@ http://103.139.171.5:5001/live.php?c=Divya_Vani&q=800&e=junk.m3u8
 http://103.139.171.5:5001/live.php?c=Subhavartha_TV&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="WILLOW CRICKET HD" tvg-logo="https://i.imgur.com/VIuVI3P.png" group-title="SPORTS", WILLOW CRICKET HD
-http://sultan-iptv.com:80/102030405060/605040302010/74250
+http://ku03.wanicelife.com:8880/12d0014/47518383/55017
 
 #EXTINF:-1 tvg-id="WILLOW CRICKET XTRA" tvg-logo="" group-title="SPORTS", WILLOW CRICKET XTRA
 http://20062016.com:80/turki/turki/114404
@@ -280,13 +279,13 @@ http://103.139.171.5:5001/live.php?c=DD_Sports&q=800&e=junk.m3u8
 
 
 #EXTINF: -1 tvg-id="STAR SPORTS 1 " tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="" group-title="SPORTS", STAR SPORTS 1 HD
-http://20062016.com:80/turki/turki/114345
+http://ku03.wanicelife.com:8880/12d0014/47518383/1893
 
 #EXTINF: -1 tvg-id="STAR SPORTS 2 " tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="" group-title="SPORTS", STAR SPORTS 2 HD
-http://20062016.com:80/turki/turki/114346
+http://ku03.wanicelife.com:8880/12d0014/47518383/1892
 
 #EXTINF: -1 tvg-id="STAR SPORTS 3 " tvg-logo="https://i.imgur.com/zT2SW28.png" group-title="" group-title="SPORTS", STAR SPORTS 3 
-http://20062016.com:80/turki/turki/114347
+http://ku03.wanicelife.com:8880/12d0014/47518383/55225
 
 #EXTINF: -1 tvg-id="STAR SPORTS SELECTED 1" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 1 
 http://20062016.com:80/turki/turki/114349
@@ -295,172 +294,14 @@ http://20062016.com:80/turki/turki/114349
 http://20062016.com:80/turki/turki/114350
 
 #EXTINF:-1 tvg-id="SONY SIX FHD" tvg-logo="https://i.imgur.com/eQPAGeJ.jpg" group-title="SPORTS", SONY SIX 
-http://20062016.com:80/turki/turki/114379
+http://ku03.wanicelife.com:8880/12d0014/47518383/1905
 
 #EXTINF:-1 tvg-id="TEN 1 FHD" tvg-logo="https://i.imgur.com/uCOfGxn.jpg" group-title="SPORTS", Sony Ten 1
-http://20062016.com:80/turki/turki/114380
+http://ku03.wanicelife.com:8880/12d0014/47518383/1903
 
 #EXTINF:-1 tvg-id="TEN 2 FHD" tvg-logo="https://i.imgur.com/eXc5dS2.png" group-title="SPORTS", Sony Ten 2
-http://20062016.com:80/turki/turki/114381
+http://ku03.wanicelife.com:8880/12d0014/47518383/1904
 
 #EXTINF:-1 tvg-id="TEN 3 FHD" tvg-logo="https://i.imgur.com/TL7cbfr.png" group-title="SPORTS", Sony Ten 3
-http://20062016.com:80/turki/turki/114382
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://telegra.ph/file/88fca86386b5c024a7b4d.jpg" group-title="SonyLiv",LIV HINDI
-https://CRICKET-KING.TK/SONY_LIV/HINDI.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://telegra.ph/file/809c5c707c9cea80e6d8d.jpg" group-title="SonyLiv",LIV ENGLISH
-https://CRICKET-KING.TK/SONY_LIV/ENGLISH.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://telegra.ph/file/17adbe2152621ad5cc9cf.jpg" group-title="SonyLiv",LIV ENGLISH 2
-https://CRICKET-KING.TK/SONY_LIV/ENGLISH_2.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://telegra.ph/file/6c24cbf105e21ee7e4c7b.jpg" group-title="SonyLiv",LIV COMEDY
-https://dai.google.com/linear/hls/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SonyLiv",SONY HD
-https://dai.google.com/linear/hls/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-#EXTINF:-1,&PRIVE HD-Rs 19
-http://103.179.246.243:8000/play/a01d
-#EXTINF:-1,&flix HD-Rs19
-http://103.179.246.243:8000/play/a00p
-#EXTINF:-1,&pictures HD -Rs19
-http://103.179.246.243:8000/play/a017
-#EXTINF:-1,&tv HD - Rs 19
-http://103.179.246.243:8000/play/a01u
-#EXTINF:-1,ANIMAL PLAN HD-Rs3
-http://103.179.246.243:8000/play/a011
-#EXTINF:-1,BBC WORLD - Rs 1
-http://103.179.246.243:8000/play/a01f
-#EXTINF:-1,CARTOON-Rs4.25
-http://103.179.246.243:8000/play/a01w
-#EXTINF:-1,CNN INTL - 50p
-http://103.179.246.243:8000/play/a01e
-#EXTINF:-1,COMEDY CEN-Rs 5
-http://103.179.246.243:8000/play/a01g
-#EXTINF:-1,Colors HD-Rs 19
-http://103.179.246.243:8000/play/a00o
-#EXTINF:-1,DISCOVERY K-Rs3
-http://103.179.246.243:8000/play/a024
-#EXTINF:-1,Discovery HD-Rs6
-http://103.179.246.243:8000/play/a00y
-#EXTINF:-1,Discovery S-Rs1
-http://103.179.246.243:8000/play/a01k
-#EXTINF:-1,Discovery T-Rs1
-http://103.179.246.243:8000/play/a01l
-#EXTINF:-1,Disney Chan-Rs8
-http://103.179.246.243:8000/play/a01y
-#EXTINF:-1,Disney Jr.-Rs 4
-http://103.179.246.243:8000/play/a020
-#EXTINF:-1,EuroSports HD-Rs 6
-http://103.179.246.243:8000/play/a00r
-#EXTINF:-1,FOX Life HD-Rs1
-http://103.179.246.243:8000/play/a01t
-#EXTINF:-1,HISTORY TV18 HD-Rs7
-http://103.179.246.243:8000/play/a013
-#EXTINF:-1,MAX HD -Rs 17
-http://103.179.246.243:8000/play/a00h
-#EXTINF:-1,MN+ HD-Rs 10
-http://103.179.246.243:8000/play/a00u
-#EXTINF:-1,MNX - Rs 6
-http://103.179.246.243:8000/play/a01h
-#EXTINF:-1,MOVIES NO-Rs 10
-http://103.179.246.243:8000/play/a01i
-#EXTINF:-1,MTV - Rs 3
-http://103.179.246.243:8000/play/a05q
-#EXTINF:-1,NAT Geo Wild HD-Rs 5
-http://103.179.246.243:8000/play/a00i
-#EXTINF:-1,National G HD-Rs10
-http://103.179.246.243:8000/play/a00x
-#EXTINF:-1,Nick Jr. - Rs1
-http://103.179.246.243:8000/play/a023
-#EXTINF:-1,PIX HD - Rs 15
-http://103.179.246.243:8000/play/a016
-#EXTINF:-1,Pogo - Rs 4.25
-http://103.179.246.243:8000/play/a022
-#EXTINF:-1,Romedy NOW-Rs 6
-http://103.179.246.243:8000/play/a01j
-#EXTINF:-1,SAB HD - Rs 19
-http://103.179.246.243:8000/play/a01v
-#EXTINF:-1,SET HD - Rs 19
-http://103.179.246.243:8000/play/a00q
-#EXTINF:-1,SIX HD - Rs 19
-http://103.179.246.243:8000/play/a00f
-#EXTINF:-1,SONIC- Rs 2
-http://103.179.246.243:8000/play/a021
-#EXTINF:-1,SONY MAX 2 - Rs 1
-http://103.179.246.243:8000/play/a01s
-#EXTINF:-1,SONY PAL -Rs 1
-http://103.179.246.243:8000/play/a036
-#EXTINF:-1,STAR BHARAT HD-Rs19
-http://103.179.246.243:8000/play/a010
-#EXTINF:-1,STAR MOV HD-Rs 19
-http://103.179.246.243:8000/play/a00v
-#EXTINF:-1,STAR WOR P HD-Rs9
-http://103.179.246.243:8000/play/a00a
-#EXTINF:-1,STAR WORLD HD -Rs9
-http://103.179.246.243:8000/play/a00b
-#EXTINF:-1,Sony BBC EarHD-Rs10
-http://103.179.246.243:8000/play/a015
-#EXTINF:-1,Sony Ten 1 HD- Rs 19
-http://103.179.246.243:8000/play/a00e
-#EXTINF:-1,Sony Ten 2 HD- Rs 17
-http://103.179.246.243:8000/play/a01a
-#EXTINF:-1,Sony Ten 3 HD- Rs 17
-http://103.179.246.243:8000/play/a00k
-#EXTINF:-1,Star GOLD HD -Rs10
-http://103.179.246.243:8000/play/a012
-#EXTINF:-1,Star Gold 2- Rs 1
-http://103.179.246.243:8000/play/a01q
-#EXTINF:-1,Star Gold SelHD-Rs10
-http://103.179.246.243:8000/play/a014
-#EXTINF:-1,Star Plus HD -Rs19
-http://103.179.246.243:8000/play/a00m
-#EXTINF:-1,Star S Hin 1 HD- Rs19
-http://103.179.246.243:8000/play/a026
-#EXTINF:-1,Star Spo 1 HD-Rs19
-http://103.179.246.243:8000/play/a00c
-#EXTINF:-1,Star Spo 2 HD- Rs19
-http://103.179.246.243:8000/play/a00d
-#EXTINF:-1,Star Sports 3 Rs 4
-http://103.179.246.243:8000/play/a00l
-#EXTINF:-1,Star Sports S 1 HD-Rs19
-http://103.179.246.243:8000/play/a018
-#EXTINF:-1,Star Sports S 2 HD-Rs10
-http://103.179.246.243:8000/play/a019
-#EXTINF:-1,Star Utsav-Rs 1
-http://103.179.246.243:8000/play/a05m
-#EXTINF:-1,StarMov S HD-Rs 10
-http://103.179.246.243:8000/play/a00w
-#EXTINF:-1,TLC HD- Rs3
-http://103.179.246.243:8000/play/a027
-#EXTINF:-1,UTV ACTION-Rs 2
-http://103.179.246.243:8000/play/a01p
-#EXTINF:-1,UTV MOVIES-Rs 2
-http://103.179.246.243:8000/play/a01o
-#EXTINF:-1,ZEE ANMOL-Rs 10p
-http://103.179.246.243:8000/play/a00s
-#EXTINF:-1,ZEE BOLLYWO-Rs2
-http://103.179.246.243:8000/play/a01r
-#EXTINF:-1,ZEE CINEMA HD-Rs19
-http://103.179.246.243:8000/play/a00z
-#EXTINF:-1,ZEE Cafe H-Rs19
-http://103.179.246.243:8000/play/a00t
-#EXTINF:-1,ZEE TV HD-Rs 19
-http://103.179.246.243:8000/play/a00n
-#EXTINF:-1,Zoom - 50p
-http://103.179.246.243:8000/play/a025
-#EXTINF:-1,colors CINEPLEX-Rs 3
-http://103.179.246.243:8000/play/a04h
-#EXTINF:-1,colors INFIN HD-Rs9
-http://103.179.246.243:8000/play/a01b
-#EXTINF:-1,colors rishtey -Rs 1
-http://103.179.246.243:8000/play/a03i
-#EXTINF:-1,hungama tv-Rs 6
-http://103.179.246.243:8000/play/a01x
-#EXTINF:-1,nick - Rs 6
-http://103.179.246.243:8000/play/a01z
-#EXTINF:-1,nick HD+- Rs 10
-http://103.179.246.243:8000/play/a01c
-
+http://ku03.wanicelife.com:8880/12d0014/47518383/1902
 
