@@ -74,7 +74,7 @@ http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment", ETV Telugu
-http://iptv12k.com:35461/80301070602/456776/2269
+http://89.187.179.108:8080/ETVHD/LOCAL/TEL/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
 http://ku03.wanicelife.com:8880/12d0014/47518383/55254
@@ -116,7 +116,7 @@ http://ku03.wanicelife.com:8880/12d0014/47518383/55220
 http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://iptv12k.com:35461/80301070602/456776/5038
+http://89.187.179.108:8080/MaaMovies-telu/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="STAR MAA MUSIC HD" TVG-logo="https://i.imgur.com/8iB1uQt.png" tvg-name="Maa MUSIC TELEGU" group-title="Music",Maa MUSIC TELEGU
 http://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=test
@@ -288,10 +288,10 @@ http://ku03.wanicelife.com:8880/12d0014/47518383/1892
 http://ku03.wanicelife.com:8880/12d0014/47518383/55225
 
 #EXTINF: -1 tvg-id="STAR SPORTS SELECTED 1" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 1 
-http://20062016.com:80/turki/turki/114349
+http://103.127.92.38:81/play/select1
 
 #EXTINF: -1 tvg-id="STAR SPORTS SELECTED 2 " tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 2 
-http://20062016.com:80/turki/turki/114350
+http://103.127.92.38:81/play/select2
 
 #EXTINF:-1 tvg-id="SONY SIX FHD" tvg-logo="https://i.imgur.com/eQPAGeJ.jpg" group-title="SPORTS", SONY SIX 
 http://ku03.wanicelife.com:8880/12d0014/47518383/1905
