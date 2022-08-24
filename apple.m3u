@@ -74,47 +74,46 @@ http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment", ETV Telugu
-http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=ETV_Telugu
-http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=ETV_HD
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198031
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=ETV_Cinema
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198032
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=ETV_Life
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198011
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=ETV_Plus
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198016
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV Abhiruchi
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=ETV_Abhiruchi
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://stariptv.org:8080/khadija2022/123456/99426
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198030
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-http://stariptv.org:8080/khadija2022/123456/99437
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198029
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-http://ku03.wanicelife.com:8880/12d0014/47518383/66812
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198028
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
-http://20062016.com:80/turki/turki/114500
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198012
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
-https://jiotvlive.vercel.app/api/sunnxt.php?id=26568&e=.m3u8
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198013
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
-http://stariptv.org:8080/khadija2022/123456/99421
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198014
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
-http://103.139.171.5:5001/live.php?c=Zee_Cinemalu&q=800&e=junk.m3u8
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198015
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Maa_TV
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198020
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-http://stariptv.org:8080/khadija2022/123456/99373
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198021
 
 #EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Maa_Movies
@@ -127,22 +126,22 @@ http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Vanitha
 
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
-http://ku03.wanicelife.com:8880/12d0014/47518383/66810
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198005
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
-http://ku03.wanicelife.com:8880/12d0014/47518383/66835
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198004
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
-http://ku03.wanicelife.com:8880/12d0014/47518383/66830
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198022
 
 #EXTINF: -1 tvg-id="576" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title=" ", Discovery Channel Telugu
-http://103.139.171.5:5001/live.php?c=Discovery_Channel_Telugu&q=800&e=junk.m3u8
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198033
 
 #EXTINF: -1 tvg-id="577" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title=" ", History TV18 HD Telugu
 http://103.139.171.5:5001/live.php?c=History_18_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="Kids", KUSHI TV
-https://jiotvlive.vercel.app/api/sunnxt.php?id=26571&e=.m3u8
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198003
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="Kids", Sonic Telugu
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Sonic_Telugu
@@ -157,7 +156,7 @@ http://103.139.171.5:5001/live.php?c=Nick_Telugu&q=800&e=junk.m3u8
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Pogo_Telugu
 
 #EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="Kids", SONY YAY TELUGU
-http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Sony_Yay_Telugu
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198009
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://i.imgur.com/KVLxDzb.png" group-title="News", RAJ NEWS TELUGU
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Raj_News_Telugu
@@ -166,7 +165,7 @@ http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Raj_News_Telugu
 https://maxpro-live-new.000webhostapp.com/zee-maxpro2.php?c=0-9-ddyadagiri
 
 #EXTINF:-1 tvg-id="DD sapthagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="Entertainment",DD SAPTAGIRI
-http://103.139.171.5:5001/live.php?c=DD_Saptagiri&q=800&e=junk.m3u8
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198006
 
 #EXTINF:-1 tvg-id="studio one" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="Movies",studio one
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Studio_One
@@ -178,7 +177,7 @@ http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Studio_Yuva_Alpha
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Sattva_TV
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://i.imgur.com/KVLxDzb.png" group-title="News", RAJ NEWS TELUGU
-http://ku03.wanicelife.com:8880/12d0014/47518383/66806
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198023
 
 #EXTINF:-1 tvg-id="1975" group-title="Devotional" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png",PMC Telugu
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=PMC_Telugu
@@ -206,13 +205,13 @@ http://ku03.wanicelife.com:8880/12d0014/47518383/66802
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Bhaarat_Today
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
-http://ku03.wanicelife.com:8880/12d0014/47518383/66831
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198010
 
 #EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 Telugu
-http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=TEST9_HD
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198018
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
-http://ku03.wanicelife.com:8880/12d0014/47518383/66834
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198017
 
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=CVR_Health
@@ -233,12 +232,12 @@ http://103.139.171.5:5001/live.php?c=Maha_News&q=800&e=junk.m3u8
 http://20062016.com:80/turki/turki/114520
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi tv
-http://103.139.171.5:5001/live.php?c=Sakshi_tv&q=800&e=junk.m3u8
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198002
 
 
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://i.imgur.com/9UOgkwD.png" group-title="News", 10 TV HD
-http://iptvtree.net:8080/Miglioriptv/9meicgdec6/296485
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198008
 
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://i.imgur.com/Oz7KOjP.jpg" group-title="News", T News
 http://iptvtree.net:8080/Miglioriptv/9meicgdec6/296490
@@ -270,7 +269,7 @@ http://103.139.171.5:5001/live.php?c=Nipuna&q=800&e=junk.m3u8
 http://iptv12k.com:35461/80301070602/456776/5031
 
 #EXTINF: -1 tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="DEVOTIONAL", Bhakti TV
-http://webhop.xyz:8080/live/sharifulhaquehomna/Pass1234/34581.ts
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198034
 
 #EXTINF: -1 tvg-id="955" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" group-title=" DEVOTIONAL", Hindu Dharmam
 http://103.139.171.5:5001/live.php?c=Hindu_Dharmam&q=800&e=junk.m3u8
@@ -292,37 +291,37 @@ http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Nireekshana_TV
 http://ku03.wanicelife.com:8880/12d0014/47518383/55017
 
 #EXTINF:-1 tvg-id="WILLOW CRICKET XTRA" tvg-logo="" group-title="SPORTS", WILLOW CRICKET XTRA
-http://20062016.com:80/turki/turki/114404
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203423
 
 #EXTINF: -1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title=" Sports", DD Sports
-http://103.139.171.5:5001/live.php?c=DD_Sports&q=800&e=junk.m3u8
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203422
 
 #EXTINF: -1 tvg-id="STAR SPORTS HINDI" tvg-logo="https://i.imgur.com/w7rO6yI.jpg" group-title="SPORTS", STAR SPORTS HINDI 1 HD
-
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203431
 
 #EXTINF: -1 tvg-id="STAR SPORTS 1 " tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="" group-title="SPORTS", STAR SPORTS 1 HD
-http://ku03.wanicelife.com:8880/12d0014/47518383/1893
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203432
 
 #EXTINF: -1 tvg-id="STAR SPORTS 2 " tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="" group-title="SPORTS", STAR SPORTS 2 HD
-http://ku03.wanicelife.com:8880/12d0014/47518383/1892
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203430
 
 #EXTINF: -1 tvg-id="STAR SPORTS 3 " tvg-logo="https://i.imgur.com/zT2SW28.png" group-title="" group-title="SPORTS", STAR SPORTS 3 
-http://ku03.wanicelife.com:8880/12d0014/47518383/55225
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203429
 
 #EXTINF: -1 tvg-id="STAR SPORTS SELECTED 1" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 1 
-http://103.127.92.38:81/play/select1
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203428
 
 #EXTINF: -1 tvg-id="STAR SPORTS SELECTED 2 " tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 2 
-http://103.127.92.38:81/play/select2
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203427
 
 #EXTINF:-1 tvg-id="SONY SIX FHD" tvg-logo="https://i.imgur.com/eQPAGeJ.jpg" group-title="SPORTS", SONY SIX 
-http://ku03.wanicelife.com:8880/12d0014/47518383/1905
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203434
 
 #EXTINF:-1 tvg-id="TEN 1 FHD" tvg-logo="https://i.imgur.com/uCOfGxn.jpg" group-title="SPORTS", Sony Ten 1
-http://ku03.wanicelife.com:8880/12d0014/47518383/1903
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203426
 
 #EXTINF:-1 tvg-id="TEN 2 FHD" tvg-logo="https://i.imgur.com/eXc5dS2.png" group-title="SPORTS", Sony Ten 2
-http://ku03.wanicelife.com:8880/12d0014/47518383/1904
+http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203424
 
 #EXTINF:-1 tvg-id="TEN 3 FHD" tvg-logo="https://i.imgur.com/TL7cbfr.png" group-title="SPORTS", Sony Ten 3
 http://ku03.wanicelife.com:8880/12d0014/47518383/1902
