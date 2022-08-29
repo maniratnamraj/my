@@ -6,7 +6,7 @@ https://rtmp.streamwell.in/hls/garudatv.m3u8
 #EXTINF:-1 tvg-id="GARUDA " tvg-logo="https://i.imgur.com/iv01fEs.jpg" group-title="Entertainment", GARUDA BHAKTI
 https://server.streamwell.in/hls/bhaktigaruda.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-logo="https://i.imgur.com/awY5e4U.jpg" group-title="Entertainment", Adari Murali TV
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-logo="https://i.imgur.com/awY5e4U.jpg" group-title="Entertainment", v9 studio news
 http://183.87.51.10/hls/V9studio.m3u8
 
 #EXTINF:-1 tvg-id="City News TV" tvg-logo="https://play-lh.googleusercontent.com/JX__NKk0RMa5P00ROEnftE1hxcA78rMFny0_hdf5YNrLIRx3lEq03tVMgZ7O5a5ffq8=s180-rw" group-title="Movies",City News TV
@@ -297,35 +297,38 @@ http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203423
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203422
 
 #EXTINF: -1 tvg-id="STAR SPORTS HINDI" tvg-logo="https://i.imgur.com/w7rO6yI.jpg" group-title="SPORTS", STAR SPORTS HINDI 1 HD
-http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203431
+http://103.151.43.102:8000/play/a007/index.m3u8
 
 #EXTINF: -1 tvg-id="STAR SPORTS 1 " tvg-logo="https://i.imgur.com/ktnK6N9.png" group-title="" group-title="SPORTS", STAR SPORTS 1 HD
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203432
 
 #EXTINF: -1 tvg-id="STAR SPORTS 2 " tvg-logo="https://i.imgur.com/OfMK8d2.png" group-title="" group-title="SPORTS", STAR SPORTS 2 HD
-http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203430
+http://103.151.43.102:8000/play/a008/index.m3u8
 
 #EXTINF: -1 tvg-id="STAR SPORTS 3 " tvg-logo="https://i.imgur.com/zT2SW28.png" group-title="" group-title="SPORTS", STAR SPORTS 3 
-http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203429
+http://103.151.43.102:8000/play/a00r/index.m3u8
 
 #EXTINF: -1 tvg-id="STAR SPORTS SELECTED 1" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 1 
-http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203428
+http://103.151.43.102:8000/play/a03b/index.m3u8
 
 #EXTINF: -1 tvg-id="STAR SPORTS SELECTED 2 " tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="" group-title="SPORTS", STAR SPORTS SELECTED 2 
-http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203427
+http://103.151.43.102:8000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY SIX FHD" tvg-logo="https://i.imgur.com/eQPAGeJ.jpg" group-title="SPORTS", SONY SIX 
-http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203434
+https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #EXTINF:-1 tvg-id="TEN 1 FHD" tvg-logo="https://i.imgur.com/uCOfGxn.jpg" group-title="SPORTS", Sony Ten 1
 http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203426
 
 #EXTINF:-1 tvg-id="TEN 2 FHD" tvg-logo="https://i.imgur.com/eXc5dS2.png" group-title="SPORTS", Sony Ten 2
-http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/203424
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 
 #EXTINF:-1 tvg-id="TEN 3 FHD" tvg-logo="https://i.imgur.com/TL7cbfr.png" group-title="SPORTS", Sony Ten 3
-http://ku03.wanicelife.com:8880/12d0014/47518383/1902
-#EXTM3U
+https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+
+#EXTINF:-1,Sony Ten 4 HD
+https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+
 #EXTINF:-1,&PRIVE HD
 http://103.151.43.102:8000/play/a03g/index.m3u8
 #EXTINF:-1,&flix HD
