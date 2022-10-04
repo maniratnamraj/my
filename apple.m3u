@@ -90,7 +90,7 @@ https://tv.googledrivelinks.com/live.php?c=ETV_Plus&q=1200&e=.m3u8
 https://tv.googledrivelinks.com/live.php?c=ETV_Abhiruchi&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://103.147.87.13:8000/play/a004/index.m3u8
+http://89.187.179.108:8080/GEMINITVHD/LOCAL/TEL/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
 http://89.187.179.108:8080/GeminiMovies-telu/index.m3u8?token=test
@@ -111,16 +111,16 @@ http://starshare.live:8080/live/usman007/usman007/98894.ts
 http://starshare.live:8080/live/usman007/usman007/98896.ts
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
+http://50.7.237.4:8080/STARMAAHD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
+http://50.7.237.4:8080/STARMAAGOLD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 http://starshare.live:8080/live/usman007/usman007/98887.ts
 
 #EXTINF:-1 tvg-id="STAR MAA MUSIC HD" TVG-logo="https://i.imgur.com/8iB1uQt.png" tvg-name="Maa MUSIC TELEGU" group-title="Music",Maa MUSIC TELEGU
-http://starshare.live:8080/live/usman007/usman007/57772.ts
+http://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=test
 
 #EXTINF: -1 tvg-id="775" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title=" ", Vanitha
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Vanitha
@@ -224,7 +224,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 
 #EXTINF:-1 tvg-id="HMTV" tvg-logo="https://i.imgur.com/NFy5hie.png" group-title="News", HMTV NEWS
-http://ku03.wanicelife.com:8880/12d0014/47518383/66815
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193056
 
 #EXTINF:-1 tvg-id="Maha News" tvg-logo="https://i.imgur.com/2uKGvfV.png" group-title="News", Maha NEWS
 http://103.139.171.5:5001/live.php?c=Maha_News&q=800&e=junk.m3u8
