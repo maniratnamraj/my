@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="GARUDA HD" tvg-logo="https://i.imgur.com/W8CFuqx.jpg" group-title="Entertainment", GARUDA HD
-http://watchindia.net:8880/live/vvv/vvv/2155.ts
+https://rtmp.streamwell.in/hls/garudatv.m3u8
 
 #EXTINF:-1 tvg-id="GARUDA " tvg-logo="https://i.imgur.com/iv01fEs.jpg" group-title="Entertainment", GARUDA BHAKTI
 https://server.streamwell.in/hls/bhaktigaruda.m3u8
