@@ -78,7 +78,7 @@ http://89.187.179.108:8080/ETVHD/LOCAL/TEL/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://tptv.cz:80/30007F9FAC49669/0ar3wlkLjv/34444
+https://tv.googledrivelinks.com/live.php?c=ETV_Cinema&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
 http://watchindia.net:8880/live/vvv/vvv/938.ts
