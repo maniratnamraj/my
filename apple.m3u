@@ -285,5 +285,41 @@ http://starshare.live:8080/live/usman007/usman007/9055.ts
 #EXTINF:-1 tvg-id="1277" group-title="Devotional" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nireekshana_TV.png",Nireekshana TV
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Nireekshana_TV
 
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| SONY SIX HD" tvg-logo="" group-title="AS| INDIA SPORT", SONY SIX HD
+http://carre.flysat.live:80/152062083303767/152048915586075/74261
+
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS FIRST" tvg-logo="" group-title="AS| INDIA SPORT", STAR SPORTS FIRST
+http://goodtv.niceapy.xyz:80/play/goldiptv-EX/0366574385/318861.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 1 HD ENGLISH" tvg-logo="" group-title="AS| INDIA SPORT", STAR SPORTS 1 HD ENGLISH
+http://goodtv.niceapy.xyz:80/play/goldiptv-EX/0366574385/318859.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 1 HD HINDI" tvg-logo="" group-title="AS| INDIA SPORT", STAR SPORTS 1 HD HINDI
+http://carre.flysat.live:80/152062083303767/152048915586075/74258
+
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 2 HD" tvg-logo="" group-title="AS| INDIA SPORT", STAR SPORTS 2 HD
+http://carre.flysat.live:80/152062083303767/152048915586075/74257
+
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 3" tvg-logo="" group-title="AS| INDIA SPORT", STAR SPORTS 3
+http://carre.flysat.live:80/152062083303767/152048915586075/74256
+
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS SELECT 1 HD" tvg-logo="" group-title="AS| INDIA SPORT", STAR SPORTS SELECT 1 HD
+http://goodtv.niceapy.xyz:80/play/goldiptv-EX/0366574385/318861.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS SELECT 2 HD" tvg-logo="" group-title="AS| INDIA SPORT", STAR SPORTS SELECT 2 HD
+http://goodtv.niceapy.xyz:80/play/goldiptv-EX/0366574385/318862.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| TEN 1 HD" tvg-logo="" group-title="AS| INDIA SPORT", TEN 1 HD
+http://goodtv.niceapy.xyz:80/play/goldiptv-EX/0366574385/318863.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| TEN 2 HD" tvg-logo="" group-title="AS| INDIA SPORT", TEN 2 HD
+http://goodtv.niceapy.xyz:80/play/goldiptv-EX/0366574385/318903.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| TEN 3 HD" tvg-logo="" group-title="AS| INDIA SPORT", TEN 3 HD
+http://carre.flysat.live:80/152062083303767/152048915586075/74251
+
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| WILLOW CRICKET HD" tvg-logo="" group-title="AS| INDIA SPORT", WILLOW CRICKET HD
+http://carre.flysat.live:80/152062083303767/152048915586075/74250
+
 
 
