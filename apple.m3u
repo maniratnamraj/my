@@ -74,7 +74,7 @@ http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment", ETV Telugu
-http://89.187.179.108:8080/ETVHD/LOCAL/TEL/index.m3u8?token=test
+http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/363924
 
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
@@ -111,10 +111,10 @@ http://watchindia.net:8880/live/vvv/vvv/940.ts
 http://watchindia.net:8880/live/vvv/vvv/941.ts
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://50.7.237.4:8080/STARMAAHD/tracks-v1a1/index.m3u8
+http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/363921
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-http://50.7.237.4:8080/STARMAAGOLD/tracks-v1a1/index.m3u8
+http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/363923
 
 #EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 http://watchindia.net:8880/live/vvv/vvv/934.ts
@@ -212,7 +212,7 @@ http://starshare.live:8080/live/usman007/usman007/170.ts
 http://watchindia.net:8880/live/vvv/vvv/945.ts
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
-http://watchindia.net:8880/live/vvv/vvv/943.ts
+http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/364152
 
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=CVR_Health
@@ -230,18 +230,18 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193056
 http://103.139.171.5:5001/live.php?c=Maha_News&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="https://i.imgur.com/96ejE7i.jpg" group-title="News", ABN Andhra Jyothi
-http://watchindia.net:8880/live/vvv/vvv/980.ts
+http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/364187
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi tv
 http://watchindia.net:8880/live/vvv/vvv/955.ts
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://i.imgur.com/9UOgkwD.png" group-title="News", 10 TV HD
-http://watchindia.net:8880/live/vvv/vvv/981.ts
+http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/364188
 
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://i.imgur.com/Oz7KOjP.jpg" group-title="News", T News
-http://starshare.live:8080/live/usman007/usman007/9049.ts
+http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/364158
 
-#EXTINF: -1 tvg-id="1591" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saileela_TV_Telugu.png" group-title=" ", Saileela TV Telugu
+#EXTINF: -1 tvg-id="1591" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saileela_TV_Telugu.png" group-title="DEVOTIONAL", Saileela TV Telugu
 http://103.139.171.5:5001/live.php?c=Saileela_TV_Telugu&q=800&e=junk.m3u8
 
 
@@ -258,17 +258,17 @@ http://iptv.hdsindia.com:2574/udp/228.10.10.171:4640
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Aastha_Telugu
 
 
-#EXTINF: -1 tvg-id="1461" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vidya.png" group-title=" ", Vidya
+#EXTINF: -1 tvg-id="1461" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vidya.png" group-title="DEVOTIONAL", Vidya
 http://103.139.171.5:5001/live.php?c=Vidya&q=800&e=junk.m3u8
 
-#EXTINF: -1 tvg-id="1462" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nipuna.png" group-title=" ", Nipuna
+#EXTINF: -1 tvg-id="1462" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nipuna.png" group-title="DEVOTIONAL", Nipuna
 http://103.139.171.5:5001/live.php?c=Nipuna&q=800&e=junk.m3u8
 
-#EXTINF: -1 tvg-id="598" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title=" DEVOTIONAL", Sri Venkateshwar Bhakti
+#EXTINF: -1 tvg-id="598" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title=" ", Sri Venkateshwar Bhakti
 http://starshare.live:8080/live/usman007/usman007/233.ts
 
 #EXTINF: -1 tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="DEVOTIONAL", Bhakti TV
-http://watchindia.net:8880/live/vvv/vvv/977.ts
+http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/364184
 
 #EXTINF: -1 tvg-id="955" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" group-title=" DEVOTIONAL", Hindu Dharmam
 http://103.139.171.5:5001/live.php?c=Hindu_Dharmam&q=800&e=junk.m3u8
@@ -285,41 +285,39 @@ http://starshare.live:8080/live/usman007/usman007/9055.ts
 #EXTINF:-1 tvg-id="1277" group-title="Devotional" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nireekshana_TV.png",Nireekshana TV
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Nireekshana_TV
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| SONY SIX HD" tvg-logo="" group-title="AS| INDIA SPORT", SONY SIX HD
-http://carre.flysat.live:80/152062083303767/152048915586075/74261
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS FIRST" tvg-logo="" group-title="AS| INDIA SPORT", STAR SPORTS FIRST
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS FIRST" tvg-logo="" group-title="SPORTS", STAR SPORTS FIRST
 http://goodtv.niceapy.xyz:80/play/goldiptv-EX/0366574385/318861.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 1 HD ENGLISH" tvg-logo="" group-title="AS| INDIA SPORT", STAR SPORTS 1 HD ENGLISH
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 1 HD ENGLISH" tvg-logo="" group-title="SPORTS", STAR SPORTS 1 HD ENGLISH
 http://goodtv.niceapy.xyz:80/play/goldiptv-EX/0366574385/318859.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 1 HD HINDI" tvg-logo="" group-title="AS| INDIA SPORT", STAR SPORTS 1 HD HINDI
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 1 HD HINDI" tvg-logo="" group-title="SPORTS", STAR SPORTS 1 HD HINDI
 http://carre.flysat.live:80/152062083303767/152048915586075/74258
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 2 HD" tvg-logo="" group-title="AS| INDIA SPORT", STAR SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 2 HD" tvg-logo="" group-title="SPORTS", STAR SPORTS 2 HD
 http://carre.flysat.live:80/152062083303767/152048915586075/74257
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 3" tvg-logo="" group-title="AS| INDIA SPORT", STAR SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 3" tvg-logo="" group-title="SPORTS", STAR SPORTS 3
 http://carre.flysat.live:80/152062083303767/152048915586075/74256
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS SELECT 1 HD" tvg-logo="" group-title="AS| INDIA SPORT", STAR SPORTS SELECT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS SELECT 1 HD" tvg-logo="" group-title="SPORTS", STAR SPORTS SELECT 1 HD
 http://goodtv.niceapy.xyz:80/play/goldiptv-EX/0366574385/318861.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS SELECT 2 HD" tvg-logo="" group-title="AS| INDIA SPORT", STAR SPORTS SELECT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS SELECT 2 HD" tvg-logo="" group-title="SPORTS", STAR SPORTS SELECT 2 HD
 http://goodtv.niceapy.xyz:80/play/goldiptv-EX/0366574385/318862.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| TEN 1 HD" tvg-logo="" group-title="AS| INDIA SPORT", TEN 1 HD
-http://goodtv.niceapy.xyz:80/play/goldiptv-EX/0366574385/318863.ts
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| TEN 1 HD" tvg-logo="" group-title="SPORTS", TEN 1 HD
+http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/363950
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| TEN 2 HD" tvg-logo="" group-title="AS| INDIA SPORT", TEN 2 HD
-http://goodtv.niceapy.xyz:80/play/goldiptv-EX/0366574385/318903.ts
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| TEN 2 HD" tvg-logo="" group-title="SPORTS", TEN 2 HD
+http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/363951
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| TEN 3 HD" tvg-logo="" group-title="AS| INDIA SPORT", TEN 3 HD
-http://carre.flysat.live:80/152062083303767/152048915586075/74251
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| TEN 3 HD" tvg-logo="" group-title="SPORTS", TEN 3 HD
+http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/363952
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| WILLOW CRICKET HD" tvg-logo="" group-title="AS| INDIA SPORT", WILLOW CRICKET HD
-http://carre.flysat.live:80/152062083303767/152048915586075/74250
+#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| WILLOW CRICKET HD" tvg-logo="" group-title="SPORTS", WILLOW CRICKET HD
+http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/363955
 
 
 
