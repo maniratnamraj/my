@@ -270,13 +270,13 @@ http://starshare.live:8080/live/Fahim007/kasur1234/233.ts
 http://starshare.live:8080/live/Fahim007/kasur1234/34581.ts
 
 #EXTINF: -1 tvg-id="955" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" group-title=" DEVOTIONAL", Hindu Dharmam
-http://103.139.171.5:5001/live.php?c=Hindu_Dharmam&q=800&e=junk.m3u8
+http://starshare.live:8080/movie/Fahim007/kasur1234/64544.mp4
 
 #EXTINF: -1 tvg-id="977" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png" group-title=" DEVOTIONAL", Calvary
-http://103.139.171.5:5001/live.php?c=Calvary&q=800&e=junk.m3u8
+http://starshare.live:8080/movie/Fahim007/kasur1234/64545.mp4
 
 #EXTINF: -1 tvg-id="934" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title=" DEVOTIONAL", Divya Vani
-http://103.139.171.5:5001/live.php?c=Divya_Vani&q=800&e=junk.m3u8
+http://starshare.live:8080/movie/Fahim007/kasur1234/64634.mp4
 
 #EXTINF: -1 tvg-id="607" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png" group-title=" DEVOTIONAL", Subhavartha TV
 http://starshare.live:8080/live/Fahim007/kasur1234/9055.ts
