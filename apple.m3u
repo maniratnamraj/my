@@ -153,7 +153,7 @@ http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=CN_HD_Telugu
 http://103.139.171.5:5001/live.php?c=Nick_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="1883" group-title="Kids" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png",Pogo Telugu
-http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Pogo_Telugu
+http://venomtt.com:8000/741956081054980/858642555710998/178795
 
 #EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="Kids", SONY YAY TELUGU
 http://watchindia.net:8880/live/vvv/vvv/2126.ts
@@ -284,26 +284,24 @@ http://starshare.live:8080/live/Fahim007/kasur1234/9055.ts
 #EXTINF:-1 tvg-id="1277" group-title="Devotional" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nireekshana_TV.png",Nireekshana TV
 C:\Users\sun\Downloads\Sarkaru_Vaari_Paata_2022.mkv
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1
+http://starshare.live:8080/live/748522/748522/148.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS FIRST" tvg-logo="" group-title="SPORTS", STAR SPORTS FIRST
-http://goodtv.niceapy.xyz:80/play/goldiptv-EX/0366574385/318861.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2
+http://cineapp.org:8000/Fernando/Fernando/76562
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 1 HD ENGLISH" tvg-logo="" group-title="SPORTS", STAR SPORTS 1 HD ENGLISH
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ1/13536
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 3
+http://cineapp.org:8000/Fernando/Fernando/76563
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 1 HD HINDI" tvg-logo="" group-title="SPORTS", STAR SPORTS 1 HD HINDI
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ1/20963
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports HINDI
+http://starshare.live:8080/live/748522/748522/211.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 2 HD" tvg-logo="" group-title="SPORTS", STAR SPORTS 2 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ1/13537
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS 3" tvg-logo="" group-title="SPORTS", STAR SPORTS 3
-http://p2052.securepoint.io:2052/Steventest/Jb3zGpWdzmCb/998825
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="CRI: STAR SPORTS SELECT 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="Sports",STAR SPORTS SELECT 1 HD
+http://starshare.live:8080/live/748522/748522/238.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS SELECT 1 HD" tvg-logo="" group-title="SPORTS", STAR SPORTS SELECT 1 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ1/13539
-
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| STAR SPORTS SELECT 2 HD" tvg-logo="" group-title="SPORTS", STAR SPORTS SELECT 2 HD
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Sports",Star Sports Select 2
+http://starshare.live:8080/live/748522/748522/200.ts
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ1/13538
 
 #EXTINF:-1 tvg-id="" tvg-name="|SPORTS| TEN 1 HD" tvg-logo="" group-title="SPORTS", TEN 1 HD
