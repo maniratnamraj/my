@@ -110,16 +110,16 @@ http://watchindia.net:8880/live/vvv/vvv/940.ts
 http://watchindia.net:8880/live/vvv/vvv/941.ts
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/363921
+http://watchindia.net:8880/live/84287/78681/2168.ts
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/363923
+http://watchindia.net:8880/live/84287/78681/935.ts
 
 #EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 http://watchindia.net:8880/live/vvv/vvv/934.ts
 
 #EXTINF:-1 tvg-id="STAR MAA MUSIC HD" TVG-logo="https://i.imgur.com/8iB1uQt.png" tvg-name="Maa MUSIC TELEGU" group-title="Music",Maa MUSIC TELEGU
-http://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=test
+http://watchindia.net:8880/live/84287/78681/2192.ts
 
 #EXTINF: -1 tvg-id="775" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title=" ", Vanitha
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Vanitha
@@ -156,7 +156,7 @@ http://103.139.171.5:5001/live.php?c=Nick_Telugu&q=800&e=junk.m3u8
 http://venomtt.com:8000/741956081054980/858642555710998/178795
 
 #EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="Kids", SONY YAY TELUGU
-http://watchindia.net:8880/live/vvv/vvv/2126.ts
+http://watchindia.net:8880/live/84287/78681/2126.ts
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://i.imgur.com/KVLxDzb.png" group-title="News", RAJ NEWS TELUGU
 http://watchindia.net:8880/live/vvv/vvv/956.ts
@@ -285,40 +285,48 @@ http://starshare.live:8080/live/Fahim007/kasur1234/9055.ts
 C:\Users\sun\Downloads\Sarkaru_Vaari_Paata_2022.mkv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1
-http://starshare.live:8080/live/748522/748522/148.ts
+http://watchindia.net:8880/live/84287/78681/808.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2
-http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/17521
+http://watchindia.net:8880/live/84287/78681/2162.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 3
-http://cineapp.org:8000/Fernando/Fernando/76563
+http://watchindia.net:8880/live/84287/78681/2186.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports HINDI
-http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/17520
+http://watchindia.net:8880/live/84287/78681/1072.ts
 
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="CRI: STAR SPORTS SELECT 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="Sports",STAR SPORTS SELECT 1 HD
-http://starshare.live:8080/live/748522/748522/238.ts
+http://watchindia.net:8880/live/84287/78681/1070.ts
 
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Sports",Star Sports Select 2
-http://starshare.live:8080/live/748522/748522/200.ts
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ1/13538
+http://watchindia.net:8880/live/84287/78681/1071.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: SONY SIX SD" tvg-logo="" SPORTS",T-20 WC: SONY SIX SD
-http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/1466
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| TEN 1 HD" tvg-logo="" group-title="SPORTS", TEN 1 HD
-http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/1468
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="Sony Six HD 1" tvg-logo="https://watchindia.net/images/channels/Sony_Six_HD.png" group-title="Sports",Sony Six HD 1
+http://watchindia.net:8880/live/84287/78681/1763.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| TEN 2 HD" tvg-logo="" group-title="SPORTS", TEN 2 HD
-http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/1469
+#EXTINF:-1 tvg-id="sony.six.in" tvg-name="Sony Six HD 2" tvg-logo="https://watchindia.net/images/channels/Sony_Six_HD.png" group-title="Sports",Sony Six HD 2
+http://watchindia.net:8880/live/84287/78681/2144.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| TEN 3 HD" tvg-logo="" group-title="SPORTS", TEN 3 HD
-http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/1470
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD 1" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_1_HD.png" group-title="Sports",Sony Ten 1 HD 1
+http://watchindia.net:8880/live/84287/78681/1756.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="|SPORTS| WILLOW CRICKET HD" tvg-logo="" group-title="SPORTS", WILLOW CRICKET HD
-http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/17538
+#EXTINF:-1 tvg-id="sony.ten.1.in" tvg-name="Sony Ten 1 HD 2" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_1_HD.png" group-title="Sports",Sony Ten 1 HD 2
+http://watchindia.net:8880/live/84287/78681/2215.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: Willow Xtra" tvg-logo="https://i.imgur.com/22Exx9z.png" group-title="SPORTS",T-20 WC: Willow Xtra
-http://bandookk.xyz:8000/FIFAWorldcup/Qatar2022/17527
+#EXTINF:-1 tvg-id="sony.ten.2.in" tvg-name="Sony Ten 2 HD" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_2_HD.png" group-title="Sports",Sony Ten 2 HD
+http://watchindia.net:8880/live/84287/78681/1757.ts
 
+#EXTINF:-1 tvg-id="sony.ten.3.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_3_HD.png" group-title="Sports",Sony Ten 3 HD
+http://watchindia.net:8880/live/84287/78681/1758.ts
+
+#EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD Sports" tvg-logo="https://watchindia.net/images/channels/sports/DD_Sports.png" group-title="Sports",DD Sports
+http://watchindia.net:8880/live/84287/78681/2380.ts
+
+#EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD 1" tvg-logo="https://watchindia.net/images/channels/Willow_HD.png" group-title="Sports",Willow HD 1
+http://watchindia.net:8880/live/84287/78681/1067.ts
+
+#EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD 2" tvg-logo="https://watchindia.net/images/channels/Willow_HD.png" group-title="Sports",Willow HD 2
+http://watchindia.net:8880/live/84287/78681/2145.ts
