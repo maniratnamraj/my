@@ -75,15 +75,16 @@ http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment", ETV Telugu
 http://ptv.is:2095/jYNTPHGx/ayUbbFPX/438000
+http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95857
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://ptv.is:2095/jYNTPHGx/ayUbbFPX/437997
+http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95856
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-http://watchindia.net:8880/live/vvv/vvv/938.ts
+http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95858
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-http://watchindia.net:8880/live/vvv/vvv/937.ts
+http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95859
 
 #EXTINF:-1 tvg-id="ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV Abhiruchi
 https://tv.googledrivelinks.com/live.php?c=ETV_Abhiruchi&q=1200&e=.m3u8
@@ -135,13 +136,16 @@ http://watchindia.net:8880/live/vvv/vvv/942.ts
 http://pakiptv.top:8880/Vip1000/03590359/26337
 
 #EXTINF: -1 tvg-id="576" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title=" ", Discovery Channel Telugu
-http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198033
+http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95855
 
 #EXTINF: -1 tvg-id="577" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title=" ", History TV18 HD Telugu
-http://pakiptv.top:8880/Vip1000/03590359/26498
+http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95866
+
+#EXTINF:-1 tvg-ID="" tvg-name="TELEGU: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="",TELEGU: NATIONAL GEOGRAPHIC HD
+http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95868
 
 #EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="Kids", KUSHI TV
-http://rm.flysat.live:80/152002563138136/QPMzyCcgZj/198003
+http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95867
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="Kids", Sonic Telugu
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Sonic_Telugu
@@ -156,7 +160,7 @@ http://103.139.171.5:5001/live.php?c=Nick_Telugu&q=800&e=junk.m3u8
 http://venomtt.com:8000/741956081054980/858642555710998/178795
 
 #EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="Kids", SONY YAY TELUGU
-http://watchindia.net:8880/live/84287/78681/2126.ts
+http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95872
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://i.imgur.com/KVLxDzb.png" group-title="News", RAJ NEWS TELUGU
 http://watchindia.net:8880/live/vvv/vvv/956.ts
@@ -268,6 +272,7 @@ http://pakiptv.top:8880/Vip1000/03590359/20669
 
 #EXTINF: -1 tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="DEVOTIONAL", Bhakti TV
 http://starshare.live:8080/live/Fahim007/kasur1234/34581.ts
+http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95853
 
 #EXTINF: -1 tvg-id="955" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" group-title=" DEVOTIONAL", Hindu Dharmam
 http://102.222.232.18:9981/stream/channelid/958834021?ticket=10253FBC74D4E78D85DD97E8DF90B690C2ECA1CF&profile=matroska
