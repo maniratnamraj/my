@@ -74,7 +74,6 @@ http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment", ETV Telugu
-http://ptv.is:2095/jYNTPHGx/ayUbbFPX/438000
 http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95857
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
