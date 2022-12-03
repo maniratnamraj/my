@@ -135,7 +135,7 @@ http://watchindia.net:8880/live/84287/78681/942.ts
 http://pakiptv.top:8880/Vip1000/03590359/26337
 
 #EXTINF: -1 tvg-id="576" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title=" ", Discovery Channel Telugu
-http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95855
+http://techmaxlive.ml/live.php?c=Discovery_Channel_Telugu&q=800&e=junk.m3u8
 
 #EXTINF: -1 tvg-id="577" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title=" ", History TV18 HD Telugu
 http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95866
@@ -147,13 +147,13 @@ http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95868
 http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95867
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="Kids", Sonic Telugu
-http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Sonic_Telugu
+http://techmaxlive.ml/live.php?c=Sonic_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="Kids", Cartoon Network Telugu
-http://watchindia.net:8880/live/84287/78681/2066.ts
+http://techmaxlive.ml/live.php?c=CN_HD_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="Kids", Nick TELUGU
-http://watchindia.net:8880/live/84287/78681/2237.ts
+http://techmaxlive.ml/live.php?c=Nick_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="1883" group-title="Kids" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png",Pogo Telugu
 http://venomtt.com:8000/741956081054980/858642555710998/178795
@@ -182,8 +182,6 @@ http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Sattva_TV
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://i.imgur.com/KVLxDzb.png" group-title="News", RAJ NEWS TELUGU
 http://watchindia.net:8880/live/84287/78681/956.ts
 
-#EXTINF:-1 tvg-id="1975" group-title="Devotional" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png",PMC Telugu
-http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=PMC_Telugu
 
 
 #EXTINF:-1 tvg-id="1960" group-title="News" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhaarat_Today.png",Bhaarat Today
@@ -258,6 +256,10 @@ http://iptv.hdsindia.com:2574/udp/228.10.10.171:4640
 
 #EXTINF:-1 tvg-id="1254" group-title="Devotional" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png",Aastha Telugu
 http://102.222.232.18:9981/stream/channelid/596533712?ticket=925FC036E96BB457520222C06CB4072D6E513B83&profile=matroska
+
+#EXTINF:-1 tvg-id="1975" group-title="Devotional" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png",PMC Telugu
+http://techmaxlive.ml/live.php?c=PMC_Telugu&q=800&e=junk.m3u8
+
 
 
 #EXTINF: -1 tvg-id="1461" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vidya.png" group-title="DEVOTIONAL", Vidya
