@@ -101,7 +101,7 @@ http://watchindia.net:8880/live/84287/78681/971.ts
 http://watchindia.net:8880/live/84287/78681/931.ts
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
-http://watchindia.net:8880/live/vvv/vvv/929.ts
+http://watchindia.net:8880/live/84287/78681/929.ts
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
 http://watchindia.net:8880/live/84287/78681/940.ts
@@ -150,10 +150,10 @@ http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95867
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Sonic_Telugu
 
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="Kids", Cartoon Network Telugu
-http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=CN_HD_Telugu
+http://watchindia.net:8880/live/84287/78681/2066.ts
 
 #EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="Kids", Nick TELUGU
-http://103.139.171.5:5001/live.php?c=Nick_Telugu&q=800&e=junk.m3u8
+http://watchindia.net:8880/live/84287/78681/2237.ts
 
 #EXTINF:-1 tvg-id="1883" group-title="Kids" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png",Pogo Telugu
 http://venomtt.com:8000/741956081054980/858642555710998/178795
