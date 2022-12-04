@@ -116,7 +116,7 @@ http://watchindia.net:8880/live/84287/78681/2168.ts
 http://watchindia.net:8880/live/84287/78681/935.ts
 
 #EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://watchindia.net:8880/live/vvv/vvv/934.ts
+http://102.222.232.18:9981/stream/channelid/1813535474?ticket=DC94CDE93B25F65E0EE8788C492A65FA3BC907E9&profile=matroska
 
 #EXTINF:-1 tvg-id="STAR MAA MUSIC HD" TVG-logo="https://i.imgur.com/8iB1uQt.png" tvg-name="Maa MUSIC TELEGU" group-title="Music",Maa MUSIC TELEGU
 http://watchindia.net:8880/live/84287/78681/2192.ts
