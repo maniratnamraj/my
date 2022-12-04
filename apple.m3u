@@ -74,16 +74,16 @@ http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment", ETV Telugu
-http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95857
+http://techmaxlive.ml/live.php?c=ETV_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95856
+http://techmaxlive.ml/live.php?c=ETV_Cinema&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95858
+http://techmaxlive.ml/live.php?c=ETV_Life&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95859
+http://techmaxlive.ml/live.php?c=ETV_Plus&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV Abhiruchi
 http://techmaxlive.ml/live.php?c=ETV_Abhiruchi&q=600&e=junk.m3u8
@@ -188,10 +188,10 @@ http://watchindia.net:8880/live/84287/78681/956.ts
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Bhaarat_Today
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News", ETV Telangana
-http://starshare.live:8080/live/Fahim007/kasur1234/9050.ts
+http://techmaxlive.ml/live.php?c=ETV_Telangana&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://ky-iptv.com:25461/images/829808af5beba75d93ad08dee71ddb48.png" group-title="News",ETV Andhra Pradesh
-http://starshare.live:8080/live/Fahim007/kasur1234/9046.ts
+http://techmaxlive.ml/live.php?c=ETV_Andhra_pradesh&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="I News" tvg-logo="https://i.imgur.com/D30JrAC.png" group-title="News", I NEWS
 http://102.222.232.18:9981/stream/channelid/1703453709?ticket=D4BE1D964D39A886CFA003748FE093BF6A02869B&profile=matroska
