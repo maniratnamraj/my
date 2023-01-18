@@ -104,7 +104,7 @@ http://watchindia.net:8880/live/84287/78681/931.ts
 http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/198013
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
-http://watchindia.net:8880/live/84287/78681/940.ts
+http://iptvtree.net:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/21561
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
 http://watchindia.net:8880/live/84287/78681/941.ts
@@ -269,7 +269,7 @@ http://103.139.171.5:5001/live.php?c=Vidya&q=800&e=junk.m3u8
 http://103.139.171.5:5001/live.php?c=Nipuna&q=800&e=junk.m3u8
 
 #EXTINF: -1 tvg-id="598" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title=" ", Sri Venkateshwar Bhakti
-http://techmaxlive.ml/live.php?c=SVBC&q=600&e=junk.m3u8
+http://iptvtree.net:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/166383
 
 #EXTINF: -1 tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="DEVOTIONAL", Bhakti TV
 http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/198034
@@ -303,10 +303,10 @@ http://live.geoiptv.org:8880/live/taimoor/taimoor11/179338.ts
 
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name=""" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="Sports",STAR SPORTS SELECT 1 HD
-http://watchindia.net:8880/live/84287/78681/1070.ts
+http://live.geoiptv.org:8880/live/taimoor/taimoor11/179344.ts
 
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Sports",Star Sports Select 2
-http://watchindia.net:8880/live/84287/78681/1071.ts
+http://live.geoiptv.org:8880/live/taimoor/taimoor11/179341.ts
 
 
 #EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="Sony Six HD 1" tvg-logo="https://watchindia.net/images/channels/Sony_Six_HD.png" group-title="Sports",Sony Six HD 1
@@ -328,10 +328,10 @@ http://watchindia.net:8880/live/84287/78681/1757.ts
 http://watchindia.net:8880/live/84287/78681/1758.ts
 
 #EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD Sports" tvg-logo="https://watchindia.net/images/channels/sports/DD_Sports.png" group-title="Sports",DD Sports
-http://watchindia.net:8880/live/84287/78681/2380.ts
+http://live.geoiptv.org:8880/live/taimoor/taimoor11/325174.ts
 
 #EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD 1" tvg-logo="https://watchindia.net/images/channels/Willow_HD.png" group-title="Sports",Willow HD 1
-http://watchindia.net:8880/live/84287/78681/1067.ts
+http://live.geoiptv.org:8880/live/taimoor/taimoor11/322113.ts
 
 #EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD 2" tvg-logo="https://watchindia.net/images/channels/Willow_HD.png" group-title="Sports",Willow HD 2
-http://watchindia.net:8880/live/84287/78681/2145.ts
+http://live.geoiptv.org:8880/live/taimoor/taimoor11/638408.ts
