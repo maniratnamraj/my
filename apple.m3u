@@ -80,7 +80,7 @@ http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/198031
 http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/198032
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-https://tv.googledrivelinks.com/live.php?c=ETV_Life&q=1200&e=.m3u8
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/198011
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
 https://tv.googledrivelinks.com/live.php?c=ETV_Plus&q=1200&e=.m3u8
