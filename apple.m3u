@@ -101,7 +101,7 @@ http://watchindia.net:8880/live/84287/78681/971.ts
 http://watchindia.net:8880/live/84287/78681/931.ts
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
-http://watchindia.net:8880/live/84287/78681/929.ts
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/198013
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
 http://watchindia.net:8880/live/84287/78681/940.ts
@@ -122,7 +122,7 @@ http://102.222.232.18:9981/stream/channelid/1813535474?ticket=DC94CDE93B25F65E0E
 http://watchindia.net:8880/live/84287/78681/2192.ts
 
 #EXTINF: -1 tvg-id="775" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title=" ", Vanitha
-http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Vanitha
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/198005
 
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
@@ -168,7 +168,7 @@ http://watchindia.net:8880/live/vvv/vvv/956.ts
 https://maxpro-live-new.000webhostapp.com/zee-maxpro2.php?c=0-9-ddyadagiri
 
 #EXTINF:-1 tvg-id="DD sapthagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="Entertainment",DD SAPTAGIRI
-http://watchindia.net:8880/live/vvv/vvv/974.ts
+http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/198006
 
 #EXTINF:-1 tvg-id="studio one" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="Movies",studio one
 http://102.222.232.18:9981/stream/channelid/1177893629?ticket=335DD707B18A457CBBBA7D02F21D23DE71BAA98E&profile=matroska
