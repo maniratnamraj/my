@@ -104,7 +104,7 @@ http://watchindia.net:8880/live/84287/78681/931.ts
 http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/198013
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/461060
+https://tv.dtvstream.online/dtv-zee/api.php?c=0-9-zeetelugu
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
 http://watchindia.net:8880/live/84287/78681/941.ts
@@ -293,10 +293,10 @@ C:\Users\sun\Downloads\Sarkaru_Vaari_Paata_2022.mkv
 http://watchindia.net:8880/live/84287/78681/808.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2
-http://live.geoiptv.org:8880/live/taimoor/taimoor11/179352.ts
+http://mag.you24.online:80/hvb824z4rw/f5fixnqed/397844
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 3
-http://live.geoiptv.org:8880/live/taimoor/taimoor11/179353.ts
+http://mag.you24.online:80/hvb824z4rw/f5fixnqed/3977
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports HINDI
 http://live.geoiptv.org:8880/live/taimoor/taimoor11/179338.ts
@@ -334,7 +334,7 @@ http://live.geoiptv.org:8880/live/taimoor/taimoor11/325174.ts
 http://live.geoiptv.org:8880/live/taimoor/taimoor11/322113.ts
 
 #EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD 2" tvg-logo="https://watchindia.net/images/channels/Willow_HD.png" group-title="Sports",Willow HD 2
-http://starshare.live:8080/live/524594796468/697620653578/23943.ts
+http://mag.you24.online:80/hvb824z4rw/f5fixnqed/10631
 
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Zee5-SabbirIPTV" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257",Zee Cinema HD
 https://tv.dtvstream.online/dtv-zee/api.php?c=0-9-zeecinemahd
