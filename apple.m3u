@@ -86,7 +86,7 @@ http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/198011
 http://50.7.69.66/etv_plus/index.m3u8
 
 #EXTINF:-1 tvg-id="ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV Abhiruchi
-http://103.113.103.249:18001/play/a01l/index.m3u8
+http://50.7.69.66/ETV_ABHIRUCHI/index.m3u8
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 http://watchindia.net:8880/live/84287/78681/928.ts
