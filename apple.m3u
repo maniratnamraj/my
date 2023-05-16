@@ -824,8 +824,7 @@ http://magicoiptv.org:8080/Adill12/F929382/118790
 http://magicoiptv.org:8080/Adill12/F929382/118791
 
 #EXTINF:-1 tvg-id="GARUDA HD" tvg-logo="https://i.imgur.com/W8CFuqx.jpg" group-title="Entertainment", GARUDA HD
-http://dominoiptv.com:2082/avanger-discord/UUYZM7aYjXCj/231384
-http://starshare.live:8080/live/benjamin9876/985049269850/121374.ts
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1684225987/ei/Y-tiZJPfNd6EsfIP-rKHqAM/ip/138.91.175.192/id/CNPdyttDuAY.1~45391271/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000024/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgWRCdAICfgCePwDAW96hp5vBimXfg9-D_-1j8hGf0TWMCIQDLIWwezrte5QLdzozkZI0MflMFmcx5GHWuOHEnc_xRNw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="GARUDA " tvg-logo="https://i.imgur.com/iv01fEs.jpg" group-title="Entertainment", GARUDA BHAKTI
 http://dominoiptv.com:2082/avanger-discord/UUYZM7aYjXCj/231378
@@ -1097,10 +1096,11 @@ http://103.139.171.5:5001/live.php?c=Vidya&q=800&e=junk.m3u8
 http://103.139.171.5:5001/live.php?c=Nipuna&q=800&e=junk.m3u8
 
 #EXTINF: -1 tvg-id="598" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title=" ", Sri Venkateshwar Bhakti
-http://starshare.live:8080/live/A6446092022/22119988/9054.ts
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1684225989/ei/ZetiZM2UGJyDsfIPx4OuuAk/ip/138.91.175.192/id/Ppw6MChSkS0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362687%2C51000011%2C51000024/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgQbd1QfP7H8mUEv7VFVp1hHtrZbq7HQ8vQuEb4SFyt8ECIQC6zMM7DCZcSVapj2FSbQhkoXrorBVX2WGh2xth8wZV6g%3D%3D/file/index.m3u8
+
 
 #EXTINF: -1 tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="DEVOTIONAL", Bhakti TV
-http://starshare.live:8080/live/A6446092022/22119988/233.ts
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1684225989/ei/ZetiZPGxNNmCkgbruKjICw/ip/138.91.175.192/id/8QcMDFKARuQ.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgL1pzxEmGvOs_U2lhszOJ4UfMYhR43l-mhEipcdSQVFECIAhkyufXlP_uBSp5Q6-0eFz7E2b5BWdwEc0bXOKg6TZg/file/index.m3u8
 
 #EXTINF: -1 tvg-id="955" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" group-title=" DEVOTIONAL", Hindu Dharmam
 http://102.222.232.18:9981/stream/channelid/958834021?ticket=10253FBC74D4E78D85DD97E8DF90B690C2ECA1CF&profile=matroska
