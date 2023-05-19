@@ -3,10 +3,22 @@
 
 
 #EXTINF:-1 tvg-id="GARUDA HD" tvg-logo="https://i.imgur.com/W8CFuqx.jpg" group-title="Entertainment", GARUDA HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1684225987/ei/Y-tiZJPfNd6EsfIP-rKHqAM/ip/138.91.175.192/id/CNPdyttDuAY.1~45391271/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000024/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgWRCdAICfgCePwDAW96hp5vBimXfg9-D_-1j8hGf0TWMCIQDLIWwezrte5QLdzozkZI0MflMFmcx5GHWuOHEnc_xRNw%3D%3D/file/index.m3u8
+http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
 
 #EXTINF:-1 tvg-id="GARUDA " tvg-logo="https://i.imgur.com/iv01fEs.jpg" group-title="Entertainment", GARUDA BHAKTI
-http://dominoiptv.com:2082/avanger-discord/UUYZM7aYjXCj/231378
+http://server.streamplay.in:1935/star9/star9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Studio18.jpg" group-title="Local",Studio18 News
+http://server.streamplay.in:1935/studio18/studio18/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/BatukammaTV.jpg" group-title="Local",Batukamma TV
+http://live.streamplay.in:1935/bkamma/bkamma/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Santhoshamtv.jpg" group-title="Local",Santhosham TV
+http://hdserver.7starcloud.com:1935/shts/live/chunklist_w1579620889.m3u8
+
 
 #EXTINF:-1 tvg-id="V9 Studio News" tvg-logo="https://i.imgur.com/eKJ9IJv.jpg" group-title="Entertainment", v9 studio news
 http://183.87.51.10/hls/V9studio.m3u8
@@ -333,5 +345,115 @@ http://live.geoiptv.org:8880/live/taimoor/taimoor11/322113.ts
 #EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD 2" tvg-logo="https://watchindia.net/images/channels/Willow_HD.png" group-title="Sports",Willow HD 2
 http://mag.you24.online:80/hvb824z4rw/f5fixnqed/10631
 
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400628756.mkv
+#EXTINF:-1,IN| Bholaa
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400628755.mkv
+#EXTINF:-1,IN| TELUGU| Two Tails
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400628754.mkv
+#EXTINF:-1,IN| TELUGU| The Mother
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400628753.mkv
+#EXTINF:-1,IN| TELUGU| Soppana Sundari
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400628752.mkv
+#EXTINF:-1,IN| TELUGU| Shaakuntalam
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400628751.mkv
+#EXTINF:-1,IN| TELUGU| CSI Sanatan
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400628750.mkv
+#EXTINF:-1,IN| TELUGU| Boonie Bears: Back to Earth
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400628749.mkv
+#EXTINF:-1,IN| TELUGU| Air
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400628748.mkv
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400620006.mkv
+#EXTINF:-1,IN| TELUGU| Phalana Abbayi Phalana Ammayi
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400620005.mkv
+#EXTINF:-1,IN| TELUGU| Meter
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400620004.mkv
+#EXTINF:-1,IN| TELUGU| Corona Papers
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400620003.mkv
+#EXTINF:-1,IN| TELUGU| Barot House
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400620002.mkv
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400615574.mkv
+#EXTINF:-1,IN| TELUGU| Thuramukham
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400615573.mkv
+#EXTINF:-1,IN| TELUGU| Rudhran
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400615572.mkv
+#EXTINF:-1,IN| TELUGU| Ravanasura
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400615571.mkv
+#EXTINF:-1,IN| TELUGU| Poster
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400615570.mkv
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400608646.mkv
+#EXTINF:-1,IN| TELUGU| Pathu Thala
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400608645.mkv
+#EXTINF:-1,IN| TELUGU| Dasara
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400608644.mkv
+#EXTINF:-1,IN| Selfiee
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400607654.mkv
+#EXTINF:-1,IN| TELUGU| Virgin Story
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400607624.mkv
+#EXTINF:-1,IN| TELUGU| Sindhooram
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400607623.mkv
+#EXTINF:-1,IN| TELUGU| Organic Mama Hybrid Alludu
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400607622.mkv
+#EXTINF:-1,IN| TELUGU| Oh My Darling
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400607621.mkv
+#EXTINF:-1,IN TELUGU| Viduthalai: Part I
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400602322.mkv
+#EXTINF:-1,IN| TELUGU| Neetho
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400602321.mkv
+#EXTINF:-1,IN| TELUGU| Ghosty
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400602320.mkv
+#EXTINF:-1,IN| TELUGU| Kannai Nambathe
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400602319.mkv
+#EXTINF:-1,IN| TELUGU| The Last Kingdom: Seven Kings Must Die
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400600108.mkv
+#EXTINF:-1,IN| TELUGU| Plane
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400600107.mkv
+#EXTINF:-1,IN| TELUGU| Kabzaa
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400600019.mkv
+#EXTINF:-1,IN| TELUGU| Das Ka Dhamki
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400600002.mkv
+#EXTINF:-1,IN| TELUGU| The Offering
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400598285.mkv
+#EXTINF:-1,IN| TELUGU| O Kala
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400598284.mkv
+#EXTINF:-1,IN| TELUGU| I Love You Idiot
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400598283.mkv
+#EXTINF:-1,IN| TELUGU| Asalu
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400598282.mkv
+#EXTINF:-1,IN| TELUGU| Total Recall
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400590097.mkv
+#EXTINF:-1,IN| TELUGU| Romancham
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400590096.mkv
+#EXTINF:-1,IN| TELUGU| Rangamarthanda
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400590095.mkv
+#EXTINF:-1,IN| TELUGU| Black Site
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400590094.mkv
+#EXTINF:-1,IN| TELUGU| 65
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400590093.mkv
+#EXTINF:-1,IN| TELUGU| Premadesam
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400585772.mkv
+#EXTINF:-1,IN| TELUGU| Sridevi Shoban Babu
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400582034.mkv
+#EXTINF:-1,IN| TAMIL| Agilan
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400582029.mkv
+#EXTINF:-1,IN| TELUGU| Panchathantram
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400580228.mkv
+#EXTINF:-1,IN| TELUGU| Ottu
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400580227.mkv
+#EXTINF:-1,IN| TELUGU| Mr. King
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400580226.mkv
+#EXTINF:-1,IN| TELUGU| Return of Wu Kong
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400580225.mkv
+#EXTINF:-1,IN| TELUGU| Waltair Veerayya
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400547294.mkv
+#EXTINF:-1,IN| TELUGU| Mayagadu
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400547293.mkv
+#EXTINF:-1,IN| TELUGU| Sarkaru Vaari Paata
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400412027.mkv
+#EXTINF:-1,IN| TELUGU| Bheemla Nayak
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400405886.mkv
+#EXTINF:-1,IN| TELUGU| Beast
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400405885.mkv
+#EXTINF:-1,IN| TELUGU| Dasara
+http://xmquhxv.mhubery.xyz:80/movie/8059765630/3322606439/400608644.mkv
 
 
