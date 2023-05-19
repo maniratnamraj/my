@@ -76,11 +76,10 @@ http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment", ETV Telugu
-http://starshare.live:8080/live/A6446092022/22119988/98885.ts
-http://starshare.live:8080/live/A6446092022/22119988/23312.ts
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400159465
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://starshare.live:8080/live/A6446092022/22119988/9045.ts
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400159467
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
 http://starshare.live:8080/live/A6446092022/22119988/9052.ts
@@ -92,34 +91,34 @@ http://starshare.live:8080/live/A6446092022/22119988/242.ts
 http://starshare.live:8080/live/A6446092022/22119988/9053.ts
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://watchindia.net:8880/live/84287/78681/928.ts
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/187073
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-http://watchindia.net:8880/live/84287/78681/930.ts
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400162492
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-http://watchindia.net:8880/live/84287/78681/971.ts
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400203353
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
-http://watchindia.net:8880/live/84287/78681/931.ts
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400159453
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
 http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/198013
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
-http://starshare.live:8080/live/A6446092022/22119988/1605.ts
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400162490
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
-http://watchindia.net:8880/live/84287/78681/941.ts
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/378731
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://watchindia.net:8880/live/84287/78681/2168.ts
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/187129
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-http://watchindia.net:8880/live/84287/78681/935.ts
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400162500
 
 #EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://102.222.232.18:9981/stream/channelid/1813535474?ticket=DC94CDE93B25F65E0EE8788C492A65FA3BC907E9&profile=matroska
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/187130
 
 #EXTINF:-1 tvg-id="STAR MAA MUSIC HD" TVG-logo="https://i.imgur.com/8iB1uQt.png" tvg-name="Maa MUSIC TELEGU" group-title="Music",Maa MUSIC TELEGU
 http://watchindia.net:8880/live/84287/78681/2192.ts
@@ -127,14 +126,11 @@ http://watchindia.net:8880/live/84287/78681/2192.ts
 #EXTINF: -1 tvg-id="775" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title=" ", Vanitha
 http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/198005
 
-
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
-http://watchindia.net:8880/live/84287/78681/957.ts
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/187218
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
-http://watchindia.net:8880/live/84287/78681/942.ts
-http://starshare.live:8080/live/A6446092022/22119988/244.ts
-
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400162486
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 http://starshare.live:8080/live/A6446092022/22119988/223.ts
@@ -146,22 +142,22 @@ http://techmaxlive.ml/live.php?c=Discovery_Channel_Telugu&q=800&e=junk.m3u8
 http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95866
 
 #EXTINF:-1 tvg-ID="" tvg-name="TELEGU: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="",TELEGU: NATIONAL GEOGRAPHIC HD
-http://iptvclub.live:25461/FY45Z3teZwvSwM7/mZSeoQ14vw9uAmh/95868
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400203362
 
 #EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="Kids", KUSHI TV
 http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/198003
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="Kids", Sonic Telugu
-http://techmaxlive.ml/live.php?c=Sonic_Telugu&q=800&e=junk.m3u8
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400203358
 
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="Kids", Cartoon Network Telugu
-http://techmaxlive.ml/live.php?c=CN_HD_Telugu&q=800&e=junk.m3u8
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400203364
 
 #EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="Kids", Nick TELUGU
-http://techmaxlive.ml/live.php?c=Nick_Telugu&q=800&e=junk.m3u8
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400203360
 
 #EXTINF:-1 tvg-id="1883" group-title="Kids" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png",Pogo Telugu
-http://venomtt.com:8000/741956081054980/858642555710998/178795
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400203359
 
 #EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="Kids", SONY YAY TELUGU
 http://watchindia.net:8880/live/84287/78681/2126.ts
@@ -179,16 +175,13 @@ http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/198006
 http://102.222.232.18:9981/stream/channelid/1177893629?ticket=335DD707B18A457CBBBA7D02F21D23DE71BAA98E&profile=matroska
 
 #EXTINF:-1 tvg-id="Studio Yuva" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies",Studio Yuva
-http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Studio_Yuva_Alpha
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400374761
 
 #EXTINF:-1 tvg-id="2006" group-title="Devotional" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sattva_TV.png",Sattva TV
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Sattva_TV
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://i.imgur.com/KVLxDzb.png" group-title="News", RAJ NEWS TELUGU
-http://watchindia.net:8880/live/84287/78681/956.ts
-http://starshare.live:8080/live/A6446092022/22119988/52504.ts
-
-
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/187223
 
 #EXTINF:-1 tvg-id="1960" group-title="News" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhaarat_Today.png",Bhaarat Today
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Bhaarat_Today
@@ -206,7 +199,7 @@ http://102.222.232.18:9981/stream/channelid/1703453709?ticket=D4BE1D964D39A886CF
 http://starshare.live:8080/live/A6446092022/22119988/9049.ts
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",NTV Telugu
-http://starshare.live:8080/live/A6446092022/22119988/235.ts
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/378752
 
 #EXTINF:-1 tvg-id="1960" group-title="News" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhaarat_Today.png",Bhaarat Today
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Bhaarat_Today
@@ -215,10 +208,10 @@ http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Bhaarat_Today
 http://starshare.live:8080/live/A6446092022/22119988/170.ts
 
 #EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 Telugu
-http://starshare.live:8080/live/A6446092022/22119988/9047.ts
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/187331
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
-http://starshare.live:8080/live/A6446092022/22119988/228.ts
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/187336
 
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
 http://102.222.232.18:9981/stream/channelid/166770529?ticket=C49ACF4169860753113F5F008017194FB0E8EF90&profile=matroska
@@ -230,7 +223,7 @@ http://102.222.232.18:9981/stream/channelid/1005715685?ticket=0234C7E68548DCEFFF
 http://102.222.232.18:9981/stream/channelid/2061122734?ticket=3709ECF768E6E2EF28872C08FFEDB74DAFCD6BC3&profile=matroska
 
 #EXTINF:-1 tvg-id="HMTV" tvg-logo="https://i.imgur.com/NFy5hie.png" group-title="News", HMTV NEWS
-http://102.222.232.18:9981/stream/channelid/1514258419?ticket=237025B8862D31A6C1B6BC87E9E53F0FFCE8FF42&profile=matroska
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400162491
 
 #EXTINF:-1 tvg-id="Maha News" tvg-logo="https://i.imgur.com/2uKGvfV.png" group-title="News", Maha NEWS
 http://102.222.232.18:9981/stream/channelid/1355851860?ticket=E17E795EE2520966D807B28B65075291B33550F8&profile=matroska
@@ -239,10 +232,10 @@ http://102.222.232.18:9981/stream/channelid/1355851860?ticket=E17E795EE2520966D8
 http://starshare.live:8080/live/A6446092022/22119988/234.ts
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi tv
-http://starshare.live:8080/live/A6446092022/22119988/9048.ts
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/187240
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://i.imgur.com/9UOgkwD.png" group-title="News", 10 TV HD
-http://102.222.232.18:9981/stream/channelid/61289506?ticket=B260A5990F8DDFF46CE927A12C4FB99C1EF2516C&profile=matroska
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400374760
 
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://i.imgur.com/Oz7KOjP.jpg" group-title="News", T News
 http://102.222.232.18:9981/stream/channelid/1342999712?ticket=9AE1CC2C72DE838A073CE5523067EB9094BFA72D&profile=matroska
@@ -266,8 +259,6 @@ http://102.222.232.18:9981/stream/channelid/596533712?ticket=925FC036E96BB457520
 #EXTINF:-1 tvg-id="1975" group-title="Devotional" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png",PMC Telugu
 http://techmaxlive.ml/live.php?c=PMC_Telugu&q=800&e=junk.m3u8
 
-
-
 #EXTINF: -1 tvg-id="1461" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vidya.png" group-title="DEVOTIONAL", Vidya
 http://103.139.171.5:5001/live.php?c=Vidya&q=800&e=junk.m3u8
 
@@ -275,11 +266,10 @@ http://103.139.171.5:5001/live.php?c=Vidya&q=800&e=junk.m3u8
 http://103.139.171.5:5001/live.php?c=Nipuna&q=800&e=junk.m3u8
 
 #EXTINF: -1 tvg-id="598" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title=" ", Sri Venkateshwar Bhakti
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1684225989/ei/ZetiZM2UGJyDsfIPx4OuuAk/ip/138.91.175.192/id/Ppw6MChSkS0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362687%2C51000011%2C51000024/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgQbd1QfP7H8mUEv7VFVp1hHtrZbq7HQ8vQuEb4SFyt8ECIQC6zMM7DCZcSVapj2FSbQhkoXrorBVX2WGh2xth8wZV6g%3D%3D/file/index.m3u8
-
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/187283
 
 #EXTINF: -1 tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="DEVOTIONAL", Bhakti TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1684225989/ei/ZetiZPGxNNmCkgbruKjICw/ip/138.91.175.192/id/8QcMDFKARuQ.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgL1pzxEmGvOs_U2lhszOJ4UfMYhR43l-mhEipcdSQVFECIAhkyufXlP_uBSp5Q6-0eFz7E2b5BWdwEc0bXOKg6TZg/file/index.m3u8
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/187001
 
 #EXTINF: -1 tvg-id="955" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" group-title=" DEVOTIONAL", Hindu Dharmam
 http://102.222.232.18:9981/stream/channelid/958834021?ticket=10253FBC74D4E78D85DD97E8DF90B690C2ECA1CF&profile=matroska
