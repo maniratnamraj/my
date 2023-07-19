@@ -3,10 +3,12 @@
 
 
 #EXTINF:-1 tvg-id="GARUDA HD" tvg-logo="https://i.imgur.com/W8CFuqx.jpg" group-title="Entertainment", GARUDA HD
-http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
+https://stream.e2is.in/hls/Garudatv.m3u8   
+
 
 #EXTINF:-1 tvg-id="GARUDA " tvg-logo="https://i.imgur.com/iv01fEs.jpg" group-title="Entertainment", GARUDA BHAKTI
-http://server.streamplay.in:1935/star9/star9/playlist.m3u8
+http://stream.e2is.in/hls/Garudatv.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Studio18.jpg" group-title="Local",Studio18 News
 http://server.streamplay.in:1935/studio18/studio18/playlist.m3u8
@@ -81,10 +83,10 @@ http://live.streamplay.in:1935/sriyadadri/sriyadadri/playlist.m3u8
 http://telugusolutions.com/rk9news/rk9news/index.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ammanews.jpg" group-title="Movies",Amma News
-http://server.streamplay.in:1935/ammanews/ammanews/playlist.m3u8
+http://server.streamplay.in:1935/star9/star9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bhavya_tv" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Bhavya_tv.jpg" group-title="Movies",Bhavya TV
-http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
+http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
 
 
 
