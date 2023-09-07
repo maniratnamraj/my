@@ -153,43 +153,17 @@ http://humiptv.live:8080/live/jeremy/jeremy/9050.ts
 http://humiptv.live:8080/live/jeremy/jeremy/9052.ts
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="Telugu: ETV Abhiruchi" tvg-logo="" group-title="TELUGU",Telugu: ETV Abhiruchi
 http://humiptv.live:8080/live/jeremy/jeremy/9053.ts
+
 #EXTINF:-1 tvg-id="svbc.in" tvg-name="Telugu: SVBC HD" tvg-logo="" group-title="TELUGU",Telugu: SVBC HD
 http://humiptv.live:8080/live/jeremy/jeremy/9054.ts
+
 #EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="Telugu: BHAKTI TV" tvg-logo="" group-title="TELUGU",Telugu: BHAKTI TV
 http://humiptv.live:8080/live/jeremy/jeremy/34581.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU:  RAJ NEWS" tvg-logo="" group-title="TELUGU",TELUGU:  RAJ NEWS
 http://startv365.com:80/3634358837/1009221634/187223
 
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="CRI: SKY SPORTS CRICKET" tvg-logo="https://h.top4top.io/p_247357nqz1.png" group-title="CRICKET",CRI: SKY SPORTS CRICKET
-http://humiptv.live:8080/live/jeremy/jeremy/12.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRI: PTV SPORTS" tvg-logo="https://cdn.imgbin.com/2/7/1/imgbin-logo-ptv-sports-television-channel-pakistan-cricket-8YvzSP5MmbjMiT27N1RsitE0D.jpg" group-title="CRICKET",CRI: PTV SPORTS
-http://humiptv.live:8080/live/jeremy/jeremy/89.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRI: TEN SPORTS" tvg-logo="https://www.pngjoy.com/pngm/372/6897260_indian-cricket-team-logo-ten-sports-logo-png.png" group-title="CRICKET",CRI: TEN SPORTS
-http://humiptv.live:8080/live/jeremy/jeremy/98.ts
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="CRI: SONY TEN 3 HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" group-title="CRICKET",CRI: SONY TEN 3 HD
-http://humiptv.live:8080/live/jeremy/jeremy/146.ts
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="CRI: STAR SPORT 1 HD" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="CRICKET",CRI: STAR SPORT 1 HD
-http://humiptv.live:8080/live/jeremy/jeremy/148.ts
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="CRI: SONY TEN 1 HD" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" group-title="CRICKET",CRI: SONY TEN 1 HD
-http://humiptv.live:8080/live/jeremy/jeremy/154.ts
-#EXTINF:-1 tvg-id="sonyespnhd.in" tvg-name="CRI: SONY ESPN HD" tvg-logo="https://pluspng.com/img-png/sony-hd-png-http-www-indigital-co-in-upload-channellogo-channellogo-635901932420648964-png-sony-espn-hd-300.png" group-title="CRICKET",CRI: SONY ESPN HD
-http://humiptv.live:8080/live/jeremy/jeremy/155.ts
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="CRI: SONY 5 HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-six-hd-large.jpg" group-title="CRICKET",CRI: SONY 5 HD
-http://humiptv.live:8080/live/jeremy/jeremy/176.ts
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="CRI: STAR SPORTS HINDI HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20171105031607" group-title="CRICKET",CRI: STAR SPORTS HINDI HD
-http://humiptv.live:8080/live/jeremy/jeremy/211.ts
-#EXTINF:-1 tvg-id="dsport.in" tvg-name="CRI: EUROSPORTS" tvg-logo="http://stariptv.fun/logos/eurosports.png" group-title="CRICKET",CRI: EUROSPORTS
-http://humiptv.live:8080/live/jeremy/jeremy/216.ts
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="CRI: STAR SPORTS SELECT 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="CRICKET",CRI: STAR SPORTS SELECT 1 HD
-http://humiptv.live:8080/live/jeremy/jeremy/238.ts
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="CRI: STAR SPORTS 2 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="CRICKET",CRI: STAR SPORTS 2 HD
-http://humiptv.live:8080/live/jeremy/jeremy/239.ts
-#EXTINF:-1 tvg-id="" tvg-name="CRI: RTA Sports" tvg-logo="http://stariptv.fun/logos/rtasports.png" group-title="CRICKET",CRI: RTA Sports
-http://humiptv.live:8080/live/jeremy/jeremy/1039.ts
-#EXTINF:-1 tvg-id="starsports3.in" tvg-name="CRI: STAR SPORTS 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/340?cb=20191214234112" group-title="CRICKET",CRI: STAR SPORTS 3
-http://humiptv.live:8080/live/jeremy/jeremy/1080.ts
-#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="CRI: FOX CRICKET 501" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Fox-sports-1-colour.png/revision/latest/scale-to-width-down/340?cb=20170407112553" group-title="CRICKET",CRI: FOX CRICKET 501
-http://humiptv.live:8080/live/jeremy/jeremy/1856.ts
+
 
 #EXTINF:-1 tvg-id="GARUDA HD" tvg-logo="https://i.imgur.com/W8CFuqx.jpg" group-title="Entertainment", GARUDA HD
 https://stream.e2is.in/hls/Garudatv.m3u8   
