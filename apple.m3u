@@ -1,10 +1,12 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="etvhd.in" tvg-name="Telugu: Etv HD" tvg-logo="" group-title="TELUGU",Telugu: Etv HD
-http://startv365.com:80/3634358837/1009221634/400159465
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: ETV Cinema" tvg-logo="" group-title="TELUGU",Telugu: ETV Cinema
 http://startv365.com:80/3634358837/1009221634/400159467
+
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="Telugu: Etv HD" tvg-logo="" group-title="TELUGU",Telugu: Etv HD
+http://startv365.com:80/3634358837/1009221634/400159465
 
 #EXTINF:-1 tvg-id="etvplus.in" tvg-name="Telugu: ETV Plus" tvg-logo="" group-title="TELUGU",Telugu: ETV Plus
 http://humiptv.live:8080/live/jeremy/jeremy/242.ts
