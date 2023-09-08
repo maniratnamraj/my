@@ -9,10 +9,10 @@ http://startv365.com:80/3634358837/1009221634/400159467
 http://startv365.com:80/3634358837/1009221634/400159465
 
 #EXTINF:-1 tvg-id="etvplus.in" tvg-name="Telugu: ETV Plus" tvg-logo="" group-title="TELUGU",Telugu: ETV Plus
-http://humiptv.live:8080/live/jeremy/jeremy/242.ts
+http://sansat.net:25461/00116e053ae7/NVXKvFAzyAmpvrC/95858
 
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: ETV Life" tvg-logo="" group-title="TELUGU",Telugu: ETV Life
-http://humiptv.live:8080/live/jeremy/jeremy/9052.ts
+http://sansat.net:25461/00116e053ae7/NVXKvFAzyAmpvrC/95858
 
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="Telugu: ETV Abhiruchi" tvg-logo="" group-title="TELUGU",Telugu: ETV Abhiruchi
 http://humiptv.live:8080/live/jeremy/jeremy/9053.ts
@@ -24,7 +24,7 @@ http://startv365.com:80/3634358837/1009221634/187073
 http://startv365.com:80/3634358837/1009221634/400162492
 
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: GEMINI LIFE HD" tvg-logo="" group-title="TELUGU",Telugu: GEMINI LIFE HD
-http://humiptv.live:8080/live/jeremy/jeremy/9044.ts
+http://sansat.net:25461/00116e053ae7/NVXKvFAzyAmpvrC/95862
 
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: GEMINI COMEDY HD" tvg-logo="" group-title="TELUGU",Telugu: GEMINI COMEDY HD
 http://startv365.com:80/3634358837/1009221634/400203353
@@ -41,6 +41,11 @@ http://humiptv.live:8080/live/Wesley/Wesley/9043.ts
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: STAR MAA MOVIES HD" tvg-logo="" group-title="TELUGU",Telugu: STAR MAA MOVIES HD
 http://humiptv.live:8080/live/jeremy/jeremy/9015.ts
 
+#EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="Telugu: Zee Telugu HD" tvg-logo="" group-title="TELUGU",Telugu: Zee Telugu HD
+http://sansat.net:25461/00116e053ae7/NVXKvFAzyAmpvrC/95883
+
+#EXTINF:-1 tvg-id="Telugu: Zee Cinemalu HD" tvg-logo="noimage.png" group-title="TELUGU", Telugu: Zee Cinemalu HD
+http://sansat.net:25461/00116e053ae7/NVXKvFAzyAmpvrC/95882
 
 
 
@@ -146,8 +151,7 @@ http://startv365.com:80/3634358837/1009221634/187218
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: Vissa TV" tvg-logo="" group-title="TELUGU",Telugu: Vissa TV
 http://humiptv.live:8080/live/jeremy/jeremy/244.ts
 
-#EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="Telugu: Zee Telugu HD" tvg-logo="" group-title="TELUGU",Telugu: Zee Telugu HD
-http://humiptv.live:8080/live/jeremy/jeremy/1605.ts
+
 
 
 
@@ -321,8 +325,7 @@ http://humiptv.live:8080/live/Wesley/Wesley/4053.ts
 #EXTINF:-1 tvg-id="Telugu: STAR MAA MOVIES HD" tvg-logo="" group-title="TELUGU", Telugu: STAR MAA MOVIES HD
 http://humiptv.live:8080/live/Wesley/Wesley/9015.ts
 
-#EXTINF:-1 tvg-id="Telugu: Zee Cinemalu HD" tvg-logo="noimage.png" group-title="TELUGU", Telugu: Zee Cinemalu HD
-http://startv365.com:80/3634358837/1009221634/378731
+
 
 #EXTINF:-1 tvg-id="etvhd.in" tvg-logo="noimage.png" group-title="TELUGU", Telugu: Etv HD
 http://humiptv.live:8080/live/Wesley/Wesley/9017.ts
