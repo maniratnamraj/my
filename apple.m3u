@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="Telugu: Etv HD" tvg-logo="" group-title="TELUGU",Telugu: Etv HD
-hthttp://startv365.com:80/3634358837/1009221634/400159465
+http://startv365.com:80/3634358837/1009221634/400159465
 
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: ETV Cinema" tvg-logo="" group-title="TELUGU",Telugu: ETV Cinema
 http://startv365.com:80/3634358837/1009221634/400159467
