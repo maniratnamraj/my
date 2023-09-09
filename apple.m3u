@@ -4,18 +4,21 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: ETV Cinema" tvg-logo="" group-title="TELUGU",Telugu: ETV Cinema
 http://startv365.com:80/3634358837/1009221634/400159467
+http://ott1.co:8080/live/777888999/999888777/9045.ts
 
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="Telugu: Etv HD" tvg-logo="" group-title="TELUGU",Telugu: Etv HD
 http://startv365.com:80/3634358837/1009221634/400159465
 
 #EXTINF:-1 tvg-id="etvplus.in" tvg-name="Telugu: ETV Plus" tvg-logo="" group-title="TELUGU",Telugu: ETV Plus
 http://sansat.net:25461/00116e053ae7/NVXKvFAzyAmpvrC/95858
+http://ott1.co:8080/live/777888999/999888777/242.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: ETV Life" tvg-logo="" group-title="TELUGU",Telugu: ETV Life
 http://sansat.net:25461/00116e053ae7/NVXKvFAzyAmpvrC/95858
 
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="Telugu: ETV Abhiruchi" tvg-logo="" group-title="TELUGU",Telugu: ETV Abhiruchi
 http://humiptv.live:8080/live/jeremy/jeremy/9053.ts
+http://ott1.co:8080/live/777888999/999888777/9053.ts
 
 #EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="Telugu: Gemini_TV_HD" tvg-logo="" group-title="TELUGU",Telugu: Gemini_TV_HD
 http://startv365.com:80/3634358837/1009221634/187073
@@ -150,6 +153,7 @@ http://startv365.com:80/3634358837/1009221634/187218
 
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: Vissa TV" tvg-logo="" group-title="TELUGU",Telugu: Vissa TV
 http://humiptv.live:8080/live/jeremy/jeremy/244.ts
+http://ott1.co:8080/live/777888999/999888777/244.ts
 
 
 
@@ -188,6 +192,7 @@ http://humiptv.live:8080/live/jeremy/jeremy/9050.ts
 
 #EXTINF:-1 tvg-id="svbc.in" tvg-name="Telugu: SVBC HD" tvg-logo="" group-title="TELUGU",Telugu: SVBC HD
 http://humiptv.live:8080/live/jeremy/jeremy/9054.ts
+http://ott1.co:8080/live/777888999/999888777/9054.ts
 
 #EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="Telugu: BHAKTI TV" tvg-logo="" group-title="TELUGU",Telugu: BHAKTI TV
 http://humiptv.live:8080/live/jeremy/jeremy/34581.ts
@@ -642,7 +647,7 @@ http:http://s1.pubnow.info:8080/aya3/samir112233/426318
 http://s1.pubnow.info:8080/aya3/samir112233/426319
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD 1" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_1_HD.png" group-title="Sports",Sony Ten 1 HD 1
-http://watchindia.net:8880/live/84287/78681/1756.ts
+http://ott1.co:8080/live/777888999/999888777/177843.ts
 
 #EXTINF:-1 tvg-id="sony.ten.1.in" tvg-name="Sony Ten 1 HD 2" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_1_HD.png" group-title="Sports",Sony Ten 1 HD 2
 http://watchindia.net:8880/live/84287/78681/2215.ts
