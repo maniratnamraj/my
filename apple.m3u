@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
-
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports 1
+http://103.120.172.74:4600
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports 2
+http://103.120.172.74:4200
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports select 2
+http://103.120.172.74:4700
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 1" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Telugu",Star Maa HD 1
 http://watchindia.net:8880/live/varghesekunju62/308678sher/933.ts
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 2" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Telugu",Star Maa HD 2
