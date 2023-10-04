@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 #EXTINF:-1 tvg-id="" tvg-name="CRI: TEN SPORTS" tvg-logo="https://www.pngjoy.com/pngm/372/6897260_indian-cricket-team-logo-ten-sports-logo-png.png" group-title="SPORTS", TEN SPORTS
 http://livetvbox.live:8080/live/1234567/1234567/98.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRI: TEN CRICKET (FHD)" tvg-logo="http://stariptv.fun/logos/TenCricket.png" group-title="SPORTS", TEN CRICKET
