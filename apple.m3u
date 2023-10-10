@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
-#EXTINF:-1 tvg-ID="" tvg-name="===== SPORTS GENERAL =====" tvg-logo="" group-title="AS SPORTS",===== SPORTS GENERAL =====
-http://sansat.net:25461/02029020981254/02029020981254/93720
+
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: D SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS SPORTS",SPORTS: D SPORTS HD
 http://sansat.net:25461/02029020981254/02029020981254/93721
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: DD SPORTS" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS SPORTS",SPORTS: DD SPORTS
