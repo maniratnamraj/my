@@ -1,5 +1,108 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 
+#EXTINF:-1,&flix 
+http://121.91.60.67:8010/play/a007/index.m3u8
+#EXTINF:-1,&pictures 
+http://121.91.60.67:8010/play/a00j/index.m3u8
+#EXTINF:-1,&prive HD
+http://121.91.60.67:8010/play/a00p/index.m3u8
+#EXTINF:-1,&tv HD  
+http://121.91.60.67:8010/play/a021/index.m3u8
+#EXTINF:-1,Animal PlanetHD
+http://121.91.60.67:8010/play/a00d/index.m3u8
+#EXTINF:-1,Colors HD-
+http://121.91.60.67:8010/play/a006/index.m3u8
+#EXTINF:-1,Comedy Central
+http://121.91.60.67:8010/play/a01w/index.m3u8
+#EXTINF:-1,Discovery HD
+http://121.91.60.67:8010/play/a018/index.m3u8
+#EXTINF:-1,DiscoveryScienc
+http://121.91.60.67:8010/play/a01a/index.m3u8
+#EXTINF:-1,DiscoveryTurbo
+http://121.91.60.67:8010/play/a01b/index.m3u8
+#EXTINF:-1,EUROSPORT HD-
+http://121.91.60.67:8010/play/a009/index.m3u8
+#EXTINF:-1,FOX Life HD
+http://121.91.60.67:8010/play/a01g/index.m3u8
+#EXTINF:-1,HISTORY TV18 HD
+http://121.91.60.67:8010/play/a00f/index.m3u8
+#EXTINF:-1,Investigation D
+http://121.91.60.67:8010/play/a00y/index.m3u8
+#EXTINF:-1,MN+ HD
+http://121.91.60.67:8010/play/a014/index.m3u8
+#EXTINF:-1,MNX 
+http://121.91.60.67:8010/play/a01x/index.m3u8
+#EXTINF:-1,MOVIES NOW
+http://121.91.60.67:8010/play/a01y/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://121.91.60.67:8010/play/a017/index.m3u8
+#EXTINF:-1,NatGeo Wild HD
+http://121.91.60.67:8010/play/a00x/index.m3u8
+#EXTINF:-1,Romedy NOW
+http://121.91.60.67:8010/play/a01z/index.m3u8
+#EXTINF:-1,SET HD 
+http://121.91.60.67:8010/play/a008/index.m3u8
+#EXTINF:-1,SONY MAX 2 
+http://121.91.60.67:8010/play/a01f/index.m3u8
+#EXTINF:-1,SONY MAX HD -Rs 19
+http://121.91.60.67:8010/play/a00w/index.m3u8
+#EXTINF:-1,SONY PIX HD - Rs 19
+http://121.91.60.67:8010/play/a00i/index.m3u8
+#EXTINF:-1,SONY SAB HD 
+http://121.91.60.67:8010/play/a022/index.m3u8
+#EXTINF:-1,STAR BHARAT HD
+http://121.91.60.67:8010/play/a00c/index.m3u8
+#EXTINF:-1,STAR MOVIES HD
+http://121.91.60.67:8010/play/a015/index.m3u8
+#EXTINF:-1,Sony Ten 1 HD
+http://121.91.60.67:8010/play/a00t/index.m3u8
+#EXTINF:-1,Sony Ten 2 HD
+http://121.91.60.67:8010/play/a00m/index.m3u8
+#EXTINF:-1,Sony Ten 3 HD
+http://121.91.60.67:8010/play/a00z/index.m3u8
+#EXTINF:-1,Sony Ten 5 HD
+http://121.91.60.67:8010/play/a00u/index.m3u8
+#EXTINF:-1,SonyBBCearthHD
+http://121.91.60.67:8010/play/a00h/index.m3u8
+#EXTINF:-1,Sports18 1 HD
+http://121.91.60.67:8010/play/a011/index.m3u8
+#EXTINF:-1,Star GOLD HD 
+http://121.91.60.67:8010/play/a00e/index.m3u8
+#EXTINF:-1,Star Gold 2
+http://121.91.60.67:8010/play/a01e/index.m3u8
+#EXTINF:-1,Star Gold Romance
+http://121.91.60.67:8010/play/a01d/index.m3u8
+#EXTINF:-1,Star Gold Thrills
+http://121.91.60.67:8010/play/a01c/index.m3u8
+#EXTINF:-1,Star Plus HD 
+http://121.91.60.67:8010/play/a004/index.m3u8
+#EXTINF:-1,StarGold SelHD
+http://121.91.60.67:8010/play/a00g/index.m3u8
+#EXTINF:-1,StarMovieSelHD
+http://121.91.60.67:8010/play/a016/index.m3u8
+#EXTINF:-1,StarS1 HindiHD
+http://121.91.60.67:8010/play/a00v/index.m3u8
+#EXTINF:-1,StarSportSL1HD
+http://121.91.60.67:8010/play/a00k/index.m3u8
+#EXTINF:-1,StarSportSL2HD
+http://121.91.60.67:8010/play/a00l/index.m3u8
+#EXTINF:-1,StarSports1 HD
+http://121.91.60.67:8010/play/a00r/index.m3u8
+#EXTINF:-1,StarSports2 HD
+http://121.91.60.67:8010/play/a00s/index.m3u8
+#EXTINF:-1,TLC HD 
+http://121.91.60.67:8010/play/a012/index.m3u8
+#EXTINF:-1,ZEE CINEMA HD
+http://121.91.60.67:8010/play/a00b/index.m3u8
+#EXTINF:-1,ZEE Cafe HD 
+http://121.91.60.67:8010/play/a013/index.m3u8
+#EXTINF:-1,ZEE TV HD-Rs 19
+http://121.91.60.67:8010/play/a005/index.m3u8
+#EXTINF:-1,colorsInfintyHD
+http://121.91.60.67:8010/play/a00n/index.m3u8
+#EXTINF:-1,nick HD+
+http://121.91.60.67:8010/play/a00o/index.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: D SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS SPORTS",SPORTS: D SPORTS HD
 http://sansat.net:25461/02029020981254/02029020981254/93721
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: DD SPORTS" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS SPORTS",SPORTS: DD SPORTS
