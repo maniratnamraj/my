@@ -100,25 +100,25 @@ http://sansat.net:25461/02024773939334/02024773939334/95883
 http://startv365.com:80/movie/D85A79B4/55A7743D/400578696.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 1 HD HINDI" tvg-logo="" group-title=" SPORTS",SPORTS: STAR SPORTS 1 HD HINDI
 http://startv365.com:80/movie/D85A79B4/55A7743D/400547294.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 2 HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Star_Sports_2_IN.png" group-title=" SPORTS",SPORTS: STAR SPORTS 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 2 HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Star_Sports_2_IN.png" group-title=" SPORTS", STAR SPORTS 2 HD
 http://startv365.com:80/movie/D85A79B4/55A7743D/400500973.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 3" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title=" SPORTS",SPORTS: STAR SPORTS 3
 http://startv365.com:80/movie/D85A79B4/55A7743D/400273876.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS FIRST" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS SPORTS",SPORTS: STAR SPORTS FIRST
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS FIRST" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS SPORTS", STAR SPORTS FIRST
 http://startv365.com:80/movie/D85A79B4/55A7743D/400164117.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS SELECT 1 HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS SPORTS",SPORTS: STAR SPORTS SELECT 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS SELECT 1 HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title=" SPORTS", STAR SPORTS SELECT 1 HD
 http://startv365.com:80/movie/D85A79B4/55A7743D/400164118.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS SELECT 2 HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS SPORTS",SPORTS: STAR SPORTS SELECT 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS SELECT 2 HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="SPORTS", STAR SPORTS SELECT 2 HD
 http://startv365.com:80/movie/D85A79B4/55A7743D/400164142.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS TAMIL" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS SPORTS",SPORTS: STAR SPORTS TAMIL
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS TAMIL" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title=" SPORTS",SPORTS: STAR SPORTS TAMIL
 http://sansat.net:25461/CADUMVLHRZROYOR/SOMNNLSN86LLYYM/438051
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 1 HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS SPORTS",SPORTS: TEN 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 1 HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title=" SPORTS", TEN 1 HD
 http://startv365.com:80/movie/D85A79B4/55A7743D/400164625.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 2 HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS SPORTS",SPORTS: TEN 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 2 HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title=" SPORTS", TEN 2 HD
 http://startv365.com:80/movie/D85A79B4/55A7743D/400164631.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 3 HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS SPORTS",SPORTS: TEN 3 HD
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 3 HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="SPORTS", TEN 3 HD
 http://startv365.com:80/movie/D85A79B4/55A7743D/400164964.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: WILLOW CRICKET HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS SPORTS",SPORTS: WILLOW CRICKET HD
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: WILLOW CRICKET HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="SPORTS",WILLOW CRICKET HD
 http://sansat.net:25461/CADUMVLHRZROYOR/SOMNNLSN86LLYYM/438018
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 1" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Telugu",Star Maa HD 
 http://watchindia.net:8880/live/varghesekunju62/308678sher/933.ts
@@ -755,7 +755,7 @@ http://starshare.live:8080/live/Fahim007/kasur1234/9055.ts
 
 #EXTINF:-1 tvg-id="1277" group-title="Devotional" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nireekshana_TV.png",Nireekshana TV
 
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: D SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS SPORTS",SPORTS: D SPORTS HD
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: D SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="SPORTS", D SPORTS HD
 http://es4u.live:25461/02027671448453/02027671448453/93721
 
 #EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/INDIA/Star_Sports_1_IN.png" group-title="SPORTS",Star Sports 1
