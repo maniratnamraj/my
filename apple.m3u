@@ -1,5 +1,17 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 
+#EXTINF:-1, tvg-id="ETV HD" tvg-logo="https://i.imgur.com/Xh3uqz6.png" group-title="Entertainment", ETV 
+http://sansat.net:25461/02024773939334/02024773939334/95857
+
+#EXTINF:-1, tvg-id="ETV Cinema" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="Movies", ETV Cinema
+http://sansat.net:25461/02024773939334/02024773939334/95856
+
+#EXTINF:-1 tvg-id="ETV Life" tvg-logo="https://i.imgur.com/khXUqw6.png" group-title="LIFESTYLE", ETV Life
+http://sansat.net:25461/02024773939334/02024773939334/95858
+
+#EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://i.imgur.com/i62bBx9.png" group-title="LIFESTYLE", ETV PLUS
+http://sansat.net:25461/02024773939334/02024773939334/95859
+
 #EXTINF:-1, tvg-id="10 TV" tvg-logo="https://i.imgur.com/9UOgkwD.png" group-title="News", 10 TV HD
 http://sansat.net:25461/02024773939334/02024773939334/95852
 
@@ -12,35 +24,33 @@ http://sansat.net:25461/02024773939334/02024773939334/95854
 #EXTINF:-1, tvg-id="Discovery Channel HD" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="Infotainment", DISCOVERY HD
 http://sansat.net:25461/02024773939334/02024773939334/95855
 
-#EXTINF:-1, tvg-id="ETV Cinema" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="Movies", ETV Cinema
-http://sansat.net:25461/02024773939334/02024773939334/95856
-
-#EXTINF:-1, tvg-id="ETV HD" tvg-logo="https://i.imgur.com/Xh3uqz6.png" group-title="Entertainment", ETV 
-http://sansat.net:25461/02024773939334/02024773939334/95857
-
-#EXTINF:-1,TELEGU: ETV LIFE
-http://sansat.net:25461/02024773939334/02024773939334/95858
-
-#EXTINF:-1,TELEGU: ETV PLUS
-http://sansat.net:25461/02024773939334/02024773939334/95859
-
-#EXTINF:-1,TELEGU: GEMINI COMEDY
-http://sansat.net:25461/02024773939334/02024773939334/95860
-
 #EXTINF:-1,TELEGU: GEMINI HD
 http://sansat.net:25461/02024773939334/02024773939334/95861
+
+#EXTINF:-1,TELEGU: GEMINI MOVIES HD
+http://sansat.net:25461/02024773939334/02024773939334/95863
 
 #EXTINF:-1,TELEGU: GEMINI LIFE
 http://sansat.net:25461/02024773939334/02024773939334/95862
 
-#EXTINF:-1,TELEGU: GEMINI MOVIES HD
-http://sansat.net:25461/02024773939334/02024773939334/95863
+#EXTINF:-1,TELEGU: GEMINI COMEDY
+http://sansat.net:25461/02024773939334/02024773939334/95860
 
 #EXTINF:-1,TELEGU: GEMINI MUSIC
 http://sansat.net:25461/02024773939334/02024773939334/95864
 
 #EXTINF:-1,TELEGU: GEMINI NEWS
 http://sansat.net:25461/02024773939334/02024773939334/95865
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1,TELEGU: HISTORY 18 TELUGU HD
 http://sansat.net:25461/02024773939334/02024773939334/95866
