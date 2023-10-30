@@ -97,13 +97,13 @@ http://sansat.net:25461/02024773939334/02024773939334/95879
 #EXTINF:-1,TELEGU: VANITHA TV
 http://sansat.net:25461/02024773939334/02024773939334/95880
 
-#EXTINF:-1,TELEGU: VISSA TV
+#EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://i.imgur.com/u40uu3r.png" group-title="ENTERTAINMENT", Vissa TV
 http://sansat.net:25461/02024773939334/02024773939334/95881
 
-#EXTINF:-1,TELEGU: ZEE CINEMALU HD
+#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://i.imgur.com/Kv6U228.jpg" group-title="MOVIES", Zee Cinemalu HD
 http://sansat.net:25461/02024773939334/02024773939334/95882
 
-#EXTINF:-1,TELEGU: ZEE TELUGU HD
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://i.imgur.com/OPrJHo4.png" group-title="MOVIES", Zee Telugu HD
 http://sansat.net:25461/02024773939334/02024773939334/95883
 
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 1 HD ENGLISH" tvg-logo="" group-title=" SPORTS", STAR SPORTS 1 HD ENGLISH
