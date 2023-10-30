@@ -12,31 +12,31 @@ http://sansat.net:25461/02024773939334/02024773939334/95858
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://i.imgur.com/i62bBx9.png" group-title="LIFESTYLE", ETV PLUS
 http://sansat.net:25461/02024773939334/02024773939334/95859
 
-#EXTINF:-1, tvg-id="10 TV" tvg-logo="https://i.imgur.com/9UOgkwD.png" group-title="News", 10 TV HD
+#EXTINF:-1, tvg-id="10 TV" tvg-logo="https://i.imgur.com/9UOgkwD.png" group-title="NEWS", 10 TV HD
 http://sansat.net:25461/02024773939334/02024773939334/95852
 
 #EXTINF:-1, tvg-id="Bhakti Tv" tvg-logo="https://i.imgur.com/RdZF3RB.png" group-title="DEVOTIONAL", Bhakti TV
 http://sansat.net:25461/02024773939334/02024773939334/95853
 
-#EXTINF:-1, tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="Entertainment", DD Saptagiri
+#EXTINF:-1, tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="ENTERTAINMENT", DD Saptagiri
 http://sansat.net:25461/02024773939334/02024773939334/95854
 
 #EXTINF:-1, tvg-id="Discovery Channel HD" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="Infotainment", DISCOVERY HD
 http://sansat.net:25461/02024773939334/02024773939334/95855
 
-#EXTINF:-1,TELEGU: GEMINI HD
+#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://i.imgur.com/lXOazJn.png" group-title="ENTERTAINMENT", Gemini TV HD
 http://sansat.net:25461/02024773939334/02024773939334/95861
 
-#EXTINF:-1,TELEGU: GEMINI MOVIES HD
+#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://i.imgur.com/rnrcCfY.png" group-title="MOVIES", Gemini Movies HD
 http://sansat.net:25461/02024773939334/02024773939334/95863
 
-#EXTINF:-1,TELEGU: GEMINI LIFE
+#EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://i.imgur.com/6TbzJRA.png" group-title="ENTERTAINMENT", Gemini Life
 http://sansat.net:25461/02024773939334/02024773939334/95862
 
-#EXTINF:-1,TELEGU: GEMINI COMEDY
+#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://i.imgur.com/bo1OSbd.png" group-title="ENTERTAINMENT", Gemini Comedy
 http://sansat.net:25461/02024773939334/02024773939334/95860
 
-#EXTINF:-1,TELEGU: GEMINI MUSIC
+#EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="https://i.imgur.com/bfqRfB4.png" group-title="MUSIC", Star Maa Music
 http://sansat.net:25461/02024773939334/02024773939334/95864
 
 #EXTINF:-1,TELEGU: GEMINI NEWS
