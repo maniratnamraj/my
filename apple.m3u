@@ -256,40 +256,40 @@ http://watchindia.net:8880/live/varghesekunju62/308678sher/2044.ts
 #EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1" tvg-logo="http://watchindia.net/images/channels/usa/VH1.png" group-title="USA Network",VH1
 http://watchindia.net:8880/live/varghesekunju62/308678sher/2185.ts
 
-#EXTINF:-1 tvg-id="etvhd.in" tvg-name="Telugu: Etv HD" tvg-logo="" group-title="TELUGU",Telugu: ETV HD
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="Telugu: Etv HD" tvg-logo="" group-title="TELUGU",ETV HD
 http://es4u.live:25461/02027671448453/02027671448453/95857
 
-#EXTINF:-1 tvg-id="" tvg-name="Telugu: ETV Cinema" tvg-logo="" group-title="TELUGU",Telugu: ETV Cinema
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: ETV Cinema" tvg-logo="" group-title="TELUGU", ETV Cinema
 http://es4u.live:25461/02027671448453/02027671448453/95856
 
-#EXTINF:-1 tvg-id="etvplus.in" tvg-name="Telugu: ETV Plus" tvg-logo="" group-title="TELUGU",Telugu: ETV Plus
+#EXTINF:-1 tvg-id="etvplus.in" tvg-name="Telugu: ETV Plus" tvg-logo="" group-title="TELUGU", ETV Plus
 http://es4u.live:25461/02027671448453/02027671448453/95859
 
-#EXTINF:-1 tvg-id="" tvg-name="Telugu: ETV Life" tvg-logo="" group-title="TELUGU",Telugu: ETV Life
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: ETV Life" tvg-logo="" group-title="TELUGU", ETV Life
 http://es4u.live:25461/02027671448453/02027671448453/95858
 
-#EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="Telugu: ETV Abhiruchi" tvg-logo="" group-title="TELUGU",Telugu: ETV Abhiruchi
+#EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="Telugu: ETV Abhiruchi" tvg-logo="" group-title="TELUGU", ETV Abhiruchi
 
 
-#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="Telugu: Gemini_TV_HD" tvg-logo="" group-title="TELUGU",Telugu: GEMINI HD
+#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="Telugu: Gemini_TV_HD" tvg-logo="" group-title="TELUGU", GEMINI HD
 http://es4u.live:25461/02027671448453/02027671448453/95861
 
-#EXTINF:-1 tvg-id="" tvg-name="Telugu: Gemini_Movies_HD" tvg-logo="" group-title="TELUGU",Telugu: GEMINI MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: Gemini_Movies_HD" tvg-logo="" group-title="TELUGU", GEMINI MOVIES HD
 http://es4u.live:25461/02027671448453/02027671448453/95863
 
-#EXTINF:-1 tvg-id="" tvg-name="Telugu: GEMINI LIFE HD" tvg-logo="" group-title="TELUGU",Telugu: GEMINI LIFE HD
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: GEMINI LIFE HD" tvg-logo="" group-title="TELUGU", GEMINI LIFE HD
 http://es4u.live:25461/02027671448453/02027671448453/95862
 
-#EXTINF:-1 tvg-id="" tvg-name="Telugu: GEMINI COMEDY HD" tvg-logo="" group-title="TELUGU",Telugu: GEMINI COMEDY HD
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: GEMINI COMEDY HD" tvg-logo="" group-title="TELUGU", GEMINI COMEDY HD
 http://es4u.live:25461/02027671448453/02027671448453/95860
 
-#EXTINF:-1 tvg-id="" tvg-name="Telugu: Gemini_Music_HD" tvg-logo="" group-title="TELUGU",Telugu: GEMINI MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: Gemini_Music_HD" tvg-logo="" group-title="TELUGU", GEMINI MUSIC
 http://es4u.live:25461/02027671448453/02027671448453/95864
 
-#EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Telugu: STAR MAA TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star--in.png" group-title="TELUGU",Telugu: STAR MAA TV HD
+#EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Telugu: STAR MAA TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star--in.png" group-title="TELUGU", STAR MAA TV HD
 http://es4u.live:25461/02027671448453/02027671448453/95874
 
-#EXTINF:-1 tvg-id="Telugu: STAR MAA GOLD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="TELUGU", Telugu: STAR MAA GOLD
+#EXTINF:-1 tvg-id="Telugu: STAR MAA GOLD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="TELUGU",  STAR MAA GOLD
 http://es4u.live:25461/02027671448453/02027671448453/95875
 
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: STAR MAA MOVIES HD" tvg-logo="" group-title="TELUGU",Telugu: STAR MAA MOVIES HD
@@ -298,10 +298,10 @@ http://es4u.live:25461/02027671448453/02027671448453/95875
 #EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
 http://hdhd.tk:80/6080/6080/7050
 
-#EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="Telugu: Zee Telugu HD" tvg-logo="" group-title="TELUGU",Telugu: Zee Telugu HD
+#EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="Telugu: Zee Telugu HD" tvg-logo="" group-title="TELUGU", Zee Telugu HD
 http://es4u.live:25461/02027671448453/02027671448453/95883
 
-#EXTINF:-1 tvg-id="Telugu: Zee Cinemalu HD" tvg-logo="noimage.png" group-title="TELUGU", Telugu: Zee Cinemalu HD
+#EXTINF:-1 tvg-id="Telugu: Zee Cinemalu HD" tvg-logo="noimage.png" group-title="TELUGU",  Zee Cinemalu HD
 http://es4u.live:25461/02027671448453/02027671448453/95882
 
 
