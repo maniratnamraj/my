@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 
-#EXTINF:-1, tvg-id="ETV HD" tvg-logo="https://i.imgur.com/Xh3uqz6.png" group-title="Entertainment", ETV 
+#EXTINF:-1, tvg-id="ETV HD" tvg-logo="https://i.imgur.com/Xh3uqz6.png" group-title="ENTERTAINMENT", ETV HD
 http://sansat.net:25461/02024773939334/02024773939334/95857
 
 #EXTINF:-1, tvg-id="ETV Cinema" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="Movies", ETV Cinema
@@ -106,13 +106,13 @@ http://sansat.net:25461/02024773939334/02024773939334/95882
 #EXTINF:-1,TELEGU: ZEE TELUGU HD
 http://sansat.net:25461/02024773939334/02024773939334/95883
 
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 1 HD ENGLISH" tvg-logo="" group-title=" SPORTS",SPORTS: STAR SPORTS 1 HD ENGLISH
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 1 HD ENGLISH" tvg-logo="" group-title=" SPORTS", STAR SPORTS 1 HD ENGLISH
 http://startv365.com:80/movie/D85A79B4/55A7743D/400578696.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 1 HD HINDI" tvg-logo="" group-title=" SPORTS",SPORTS: STAR SPORTS 1 HD HINDI
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 1 HD HINDI" tvg-logo="" group-title=" SPORTS", STAR SPORTS 1 HD HINDI
 http://startv365.com:80/movie/D85A79B4/55A7743D/400547294.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 2 HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Star_Sports_2_IN.png" group-title=" SPORTS", STAR SPORTS 2 HD
 http://startv365.com:80/movie/D85A79B4/55A7743D/400500973.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 3" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title=" SPORTS",SPORTS: STAR SPORTS 3
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 3" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title=" SPORTS", STAR SPORTS 3
 http://startv365.com:80/movie/D85A79B4/55A7743D/400273876.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS FIRST" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="SPORTS", STAR SPORTS FIRST
 http://startv365.com:80/movie/D85A79B4/55A7743D/400164117.mp4
