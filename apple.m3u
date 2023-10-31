@@ -36,11 +36,9 @@ http://sansat.net:25461/02024773939334/02024773939334/95862
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://i.imgur.com/bo1OSbd.png" group-title="ENTERTAINMENT", Gemini Comedy
 http://sansat.net:25461/02024773939334/02024773939334/95860
 
-#EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="https://i.imgur.com/bfqRfB4.png" group-title="MUSIC", Star Maa Music
+#EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://i.imgur.com/z6USUEc.png" group-title="Music", GEMINI MUSIC HD
 http://sansat.net:25461/02024773939334/02024773939334/95864
 
-#EXTINF:-1 TELEGU: GEMINI NEWS
-http://sansat.net:25461/02024773939334/02024773939334/95865
 
 
 
@@ -52,11 +50,24 @@ http://sansat.net:25461/02024773939334/02024773939334/95865
 
 
 
-#EXTINF:-1,TELEGU: HISTORY 18 TELUGU HD
+
+#EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="https://i.imgur.com/9ZNRL8N.png" group-title="Infotainment", HISTORY 18 TELUGU HD
 http://sansat.net:25461/02024773939334/02024773939334/95866
 
-#EXTINF:-1,TELEGU: KUSHI TV
+#EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="KIDS", KUSHI TV
 http://sansat.net:25461/02024773939334/02024773939334/95867
+
+#EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="Kids", Sonic TELUGU
+http://nasaiptv.com:8080/Hatem2021/Hatem2022/213752
+
+#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="Kids", Cartoon Network HD+ TELUGU
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1635
+
+#EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="Kids", Nick TELUGU
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/378
+
+#EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="Kids", SONY YAY TELUGU
+http://rv.bleutv.net:80/152080486405933/152050121779921/198009
 
 #EXTINF:-1,TELEGU: NATIONAL GEOGRAPHIC HD
 http://sansat.net:25461/02024773939334/02024773939334/95868
@@ -105,6 +116,7 @@ http://sansat.net:25461/02024773939334/02024773939334/95882
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://i.imgur.com/OPrJHo4.png" group-title="MOVIES", Zee Telugu HD
 http://sansat.net:25461/02024773939334/02024773939334/95883
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 1 HD ENGLISH" tvg-logo="" group-title=" SPORTS", STAR SPORTS 1 HD ENGLISH
 http://startv365.com:80/movie/D85A79B4/55A7743D/400578696.mkv
