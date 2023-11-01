@@ -43,22 +43,28 @@ http://sansat.net:25461/02024773939334/02024773939334/95864
 http://sansat.net:25461/02024773939334/02024773939334/95866
 
 #EXTINF:-1 tvg-id="Pogo Telugu" tvg-logo="https://i.imgur.com/bAFEV1K.jpg" group-title="Kids", POGO TELUGU
-http://103.12.122.22:5000/play/a0hz/index.m3u8
+http://103.186.77.21:8000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="KIDS", KUSHI TV
 http://sansat.net:25461/02024773939334/02024773939334/95867
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="Kids", Sonic TELUGU
-http://103.12.122.22:5000/play/a04p/index.m3u8
+http://103.186.77.21:8000/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="Kids", Cartoon Network HD+ TELUGU
 http://103.12.122.22:5000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="Kids", Nick TELUGU
-http://103.12.122.22:5000/play/a0ia/index.m3u8
+http://103.186.77.21:8000/play/a03b/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="Kids", SONY YAY TELUGU
 http://niaip.com:80/2vwhdyrz626ys4617gw/CRtcwjjHM7/614817
+
+#EXTINF:-1 tvg-id="Hungama" tvg-logo="https://i.imgur.com/cYVExRI.png" group-title="Kids", Hungama
+http://103.186.77.21:8000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.imgur.com/72MEKWu.png" group-title="Kids", Discovery Kids
+http://103.186.77.21:8000/play/a03c/index.m3u8
 
 #EXTINF:-1,TELEGU: NATIONAL GEOGRAPHIC HD
 http://sansat.net:25461/02024773939334/02024773939334/95868
