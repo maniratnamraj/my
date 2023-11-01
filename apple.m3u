@@ -1,5 +1,32 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 
+#EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="LOCAL",Metro TV
+https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gatla TV" group-title="Local" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Gatlatv.jpg",Gatla TV
+http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
+
+#EXTINF:-1,tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/zillavani.jpg" " group-title="Local", Zilla vani
+https://streaming.livebox.co.in/vedhikahls/live.m3u8
+
+#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Studio18.jpg" group-title="Local",Studio18 News
+http://server.streamplay.in:1935/studio18/studio18/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bhavya_tv" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Bhavya_tv.jpg" group-title="Local",Bhavya TV
+http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ammanews.jpg" group-title="Local",Amma News
+http://server.streamplay.in:1935/ammanews/ammanews/playlist.m3u8
+
+EXTINF:-1 tvg-id="Sai leela" tvg-logo="https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg" group-title="DEVOTIONAL"Sai leela
+https://m-c07-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
+
+#EXTINF:-1 tvg-id="City News TV" tvg-logo="https://play-lh.googleusercontent.com/JX__NKk0RMa5P00ROEnftE1hxcA78rMFny0_hdf5YNrLIRx3lEq03tVMgZ7O5a5ffq8=s180-rw" group-title="Local",City News TV
+http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TN24/7News" group-title="Local" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/TS.jpg",Telangana Sanskruti
+http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ETV.in" tvg-logo="https://i.imgur.com/Xh3uqz6.png" group-title="ENTERTAINMENT", ETV HD
 http://sansat.net:25461/02024773939334/02024773939334/95857
 
@@ -62,6 +89,54 @@ http://niaip.com:80/2vwhdyrz626ys4617gw/CRtcwjjHM7/614817
 
 #EXTINF:-1 tvg-id="Hungama" tvg-logo="https://i.imgur.com/cYVExRI.png" group-title="Kids", Hungama
 http://103.186.77.21:8000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c9a51a70ec6f938fa8c7b2dd5d186324.png" group-title=" Kids",Baby TV
+http://iptvtree.net:8080/schradi/5b48/31389
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/737c89acac29a375abc84fa6db9f7608.png" group-title="Kids",Cartoon Network
+http://iptvtree.net:8080/schradi/5b48/2089
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/f426a7cf1776b21cbf1693f233928bfb.png" group-title="Kids",Cartoonito
+http://iptvtree.net:8080/schradi/5b48/298702
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a5af65e344f7b824fbda309c3606aa1a.png" group-title="Kids",Disney Channel
+http://iptvtree.net:8080/schradi/5b48/2085
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/db7665573ac43d4418b35f2d2dff77ed.png" group-title=" Kids",Disney Junior
+http://iptvtree.net:8080/schradi/5b48/2099
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/0086900f9e43865acfda4ec1f3d57866.png" group-title="Kids",Disney XD
+http://iptvtree.net:8080/schradi/5b48/278675
+
+#EXTINF:-1 tvg-id="" tvg-name="Fix & Foxi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d771b7e49e7c4766b92c3fbb101cfc3f.png" group-title="Kids",Fix & Foxi
+http://iptvtree.net:8080/schradi/5b48/173515
+
+#EXTINF:-1 tvg-id="" tvg-name="KIKA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a2d870d60c7b8dc656ad0b44fe90e9de.png" group-title="Kids",KIKA
+http://iptvtree.net:8080/schradi/5b48/2101
+
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7817352f2d6a1de52a2dd2b05277d640.jpg" group-title="Kids",Nick Junior
+http://iptvtree.net:8080/schradi/5b48/63288
+
+#EXTINF:-1 tvg-id="" tvg-name="nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c7b6dc8925b4046e77a1a128c4761c05.png" group-title=" Kids",nickelodeon
+http://iptvtree.net:8080/schradi/5b48/280087
+
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3a43c8dc11c73ac9f500052265325a1e.png" group-title="Kids",Nicktoons
+http://iptvtree.net:8080/schradi/5b48/191983
+
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV N24 Doku" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" Kids",N24 Doku
+http://iptvtree.net:8080/schradi/5b48/294836
+
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Nick" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" Kids" TV Nick
+http://iptvtree.net:8080/schradi/5b48/294838
+
+#EXTINF:-1 tvg-id="" tvg-name="Super RTL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/dc75cc60e4f9f5903be6b3293f223563.png" group-title="Kids",Super RTL
+http://iptvtree.net:8080/schradi/5b48/896
+
+#EXTINF:-1 tvg-id="" tvg-name="Toggo Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0785762339b57511bc7729cb2db4d031.png" group-title="Kids",Toggo Plus
+http://iptvtree.net:8080/schradi/5b48/2145
+
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a2c92e41c4aaadb4da7a957299bcdd68.png" group-title=" Kids",Boomerang
+http://iptvtree.net:8080/schradi/5b48/411
 
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.imgur.com/72MEKWu.png" group-title="Kids", Discovery Kids
 http://103.186.77.21:8000/play/a03c/index.m3u8
@@ -468,8 +543,7 @@ http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
 #EXTINF:-1 tvg-id="Sathya News" tvg-logo="https://play-lh.googleusercontent.com/DTK6083Z8NlyQrtms-MR_5kx0kurxQzJAfGtQQXAnd4UD9cIs62jxzk7Qo54cz9JtA=s180-rw" group-title="News",Sathya News
 http://blmtech.in:8086/hls/satyanews/index.m3u8
 
-#EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="News",Metro TV
-https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="saranyatv" tvg-logo="https://play-lh.googleusercontent.com/y7nG2foe5dSlc9atI01_uKg0737PdUXVE-SFYDTuH56-tLc7PP2TVHnCsEUn_cjPGkY=s180-rw" group-title="Movies",Saranya TV
