@@ -6,7 +6,7 @@ http://sansat.net:25461/02024773939334/02024773939334/95857
 #EXTINF:-1 tvg-id="ETVCinema.in" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="Movies", ETV Cinema
 http://sansat.net:25461/02024773939334/02024773939334/95856
 
-#EXTINF:-1 tvg-id="ETV Life" tvg-logo="https://i.imgur.com/khXUqw6.png" group-title="LIFESTYLE", ETV Life
+#EXTINF:-1 tvg-id="ETVLife.in" tvg-logo="https://i.imgur.com/khXUqw6.png" group-title="LIFESTYLE", ETV Life
 http://sansat.net:25461/02024773939334/02024773939334/95858
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://i.imgur.com/i62bBx9.png" group-title="LIFESTYLE", ETV PLUS
@@ -24,7 +24,7 @@ http://sansat.net:25461/02024773939334/02024773939334/95854
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="Infotainment", DISCOVERY HD
 http://sansat.net:25461/02024773939334/02024773939334/95855
 
-#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://i.imgur.com/lXOazJn.png" group-title="ENTERTAINMENT", Gemini TV HD
+#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/lXOazJn.png" group-title="ENTERTAINMENT", Gemini TV HD
 http://sansat.net:25461/02024773939334/02024773939334/95861
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://i.imgur.com/rnrcCfY.png" group-title="MOVIES", Gemini Movies HD
@@ -36,7 +36,7 @@ http://sansat.net:25461/02024773939334/02024773939334/95862
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://i.imgur.com/bo1OSbd.png" group-title="ENTERTAINMENT", Gemini Comedy
 http://sansat.net:25461/02024773939334/02024773939334/95860
 
-#EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://i.imgur.com/z6USUEc.png" group-title="Music", GEMINI MUSIC HD
+#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/z6USUEc.png" group-title="Music", GEMINI MUSIC HD
 http://sansat.net:25461/02024773939334/02024773939334/95864
 
 #EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="https://i.imgur.com/9ZNRL8N.png" group-title="Infotainment", HISTORY 18 TELUGU HD
