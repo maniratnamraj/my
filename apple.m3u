@@ -6,7 +6,7 @@ https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c9129
 #EXTINF:-1 tvg-id="Gatla TV" group-title="Local" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Gatlatv.jpg",Gatla TV
 http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
 
-#EXTINF:-1,tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/zillavani.jpg" " group-title="Local", Zilla vani
+#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/zillavani.jpg" " group-title="Local", Zilla vani
 https://streaming.livebox.co.in/vedhikahls/live.m3u8
 
 #EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Studio18.jpg" group-title="Local",Studio18 News
