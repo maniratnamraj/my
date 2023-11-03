@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="LOCAL",Metro TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Gatla TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Gatlatv.jpg" group-title="Local", Gatla TV
+#EXTINF:-1 tvg-id="Gatla TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Gatlatv.jpg" group-title="Local",Gatla TV
 http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
 
 #EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/zillavani.jpg" group-title="Local", Zilla vani
