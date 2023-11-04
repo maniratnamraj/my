@@ -70,7 +70,7 @@ http://sansat.net:25461/02024773939334/02024773939334/95864
 http://sansat.net:25461/02024773939334/02024773939334/95866
 
 #EXTINF:-1 tvg-id="Pogo Telugu" tvg-logo="https://i.imgur.com/96BYKkZ.jpg" group-title="Kids", POGO TELUGU
-http://103.186.77.21:8000/play/a038/index.m3u8
+http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="KIDS", KUSHI TV
 http://sansat.net:25461/02024773939334/02024773939334/95867
