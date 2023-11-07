@@ -1,4 +1,75 @@
+
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
+#EXTINF:0 tvg-id="ext" group-title="Live Kids",Motu Patlu 
+http://xtv.ooo:8080/live/214535413/121315126/307079.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Live Kids",Chhota Bheem
+http://xtv.ooo:8080/live/214535413/121315126/315401.m3u8 
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",super hungama
+https://a6we.short.gy/superhungamativimaxx.m3u8
+#EXTINF:0 tvg-id="HungamaTV.in" group-title="Kids & Information",Hungama
+https://a6we.short.gy/tivimaxxlinkshungama.m3u8
+#EXTINF:0 tvg-id="disneychannel.de" group-title="Kids & Information",Disney HD
+https://a6we.short.gy/tivimaxxdisneyhd.m3u8
+#EXTINF:0 tvg-id="disney" group-title="Kids & Information",Disney
+https://a6we.short.gy/disneytivimaxx.m3u8
+#EXTINF:0 tvg-id="disney" group-title="Kids & Information",Cartoon Network
+https://a6we.short.gy/cntivimaxx
+#EXTINF:0 tvg-id="nick-jr" group-title="Kids & Information",Nick Junior
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Manoranjan Tv
+https://livectv.phando.com/8044/chunklist0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Manoranjan Grand
+https://livectv.phando.com/8043/chunklist0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Hooray Rhymes
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-cartoonytv-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master_480.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Wow Kids
+http://xtv.ooo:8080/live/214535413/121315126/311373.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Chumbak tv
+https://a6we.short.gy/tivimaxxlinkschumbaktv.ts
+#EXTINF:0 tvg-id="POGO.in" group-title="Kids & Information",Pogo
+https://a6we.short.gy/Tivimaxxlinkspogo.m3u8
+#EXTINF:0 tvg-id="nickelod" group-title="Kids & Information",Nick
+https://a6we.short.gy/tivimaxxnick.ts
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Kids & Information",Disney jr
+https://a6we.short.gy/tivimaxxlinksdisneyjr.ts
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Animal Planet English
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Animal Planet Hindi
+https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery English HD
+https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery Hindi HD
+https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Kids & Information",Discovery Kids
+https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery Science English
+https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery Science Hindi
+https://denver1769.pages.dev/Discovery/discovery_science_hindi.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Kids & Information",Discovery Turbo
+https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
+#EXTINF:0 tvg-id="DMAX.it" group-title="Kids & Information",DMAX HD
+https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
+#EXTINF:0 tvg-id="esp-hd" group-title="Kids & Information",Eurosport HD
+https://denver1769.pages.dev/Discovery/eurosport_hd_english.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Food Network English
+https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",HGTV English HD
+https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",ID English HD
+https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",ID Hindi HD
+https://denver1769.pages.dev/Discovery/id_hd_hindi.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",TRVL English HD
+https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",TLC English HD
+https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",TLC Hindi HD
+https://denver1769.pages.dev/Discovery/tlc_hd_hindi.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids & Information",Unique tv
+https://a6we.short.gy/tivimaxxlinksUNIQUETV.m3u8
 
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="LOCAL",Metro TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
