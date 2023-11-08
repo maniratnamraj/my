@@ -1,73 +1,108 @@
 
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
+
 #EXTINF:0 tvg-id="ext" group-title="Live Kids",Motu Patlu 
 http://xtv.ooo:8080/live/214535413/121315126/307079.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Live Kids",Chhota Bheem
 http://xtv.ooo:8080/live/214535413/121315126/315401.m3u8 
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",super hungama
 https://a6we.short.gy/superhungamativimaxx.m3u8
+
 #EXTINF:0 tvg-id="HungamaTV.in" group-title="Kids & Information",Hungama
 https://a6we.short.gy/tivimaxxlinkshungama.m3u8
+
 #EXTINF:0 tvg-id="disneychannel.de" group-title="Kids & Information",Disney HD
 https://a6we.short.gy/tivimaxxdisneyhd.m3u8
+
 #EXTINF:0 tvg-id="disney" group-title="Kids & Information",Disney
 https://a6we.short.gy/disneytivimaxx.m3u8
+
 #EXTINF:0 tvg-id="disney" group-title="Kids & Information",Cartoon Network
 https://a6we.short.gy/cntivimaxx
+
 #EXTINF:0 tvg-id="nick-jr" group-title="Kids & Information",Nick Junior
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",Manoranjan Tv
 https://livectv.phando.com/8044/chunklist0.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",Manoranjan Grand
 https://livectv.phando.com/8043/chunklist0.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",Hooray Rhymes
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-cartoonytv-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master_480.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",Wow Kids
 http://xtv.ooo:8080/live/214535413/121315126/311373.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",Chumbak tv
 https://a6we.short.gy/tivimaxxlinkschumbaktv.ts
+
 #EXTINF:0 tvg-id="POGO.in" group-title="Kids & Information",Pogo
 https://a6we.short.gy/Tivimaxxlinkspogo.m3u8
+
 #EXTINF:0 tvg-id="nickelod" group-title="Kids & Information",Nick
 https://a6we.short.gy/tivimaxxnick.ts
+
 #EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Kids & Information",Disney jr
 https://a6we.short.gy/tivimaxxlinksdisneyjr.ts
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",Animal Planet English
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",Animal Planet Hindi
 https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery English HD
 https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery Hindi HD
 https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
-#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Kids & Information",Discovery Kids
+
+#EXTINF:0 tvg-id="Discovery Kids" tvg-logo="https://i.imgur.com/72MEKWu.png" group-title="KIDS", group-title="Kids & Information",Discovery Kids
 https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery Science English
 https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",Discovery Science Hindi
 https://denver1769.pages.dev/Discovery/discovery_science_hindi.m3u8
+
 #EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Kids & Information",Discovery Turbo
 https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
+
 #EXTINF:0 tvg-id="DMAX.it" group-title="Kids & Information",DMAX HD
 https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
+
 #EXTINF:0 tvg-id="esp-hd" group-title="Kids & Information",Eurosport HD
 https://denver1769.pages.dev/Discovery/eurosport_hd_english.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",Food Network English
 https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",HGTV English HD
 https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",ID English HD
 https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",ID Hindi HD
 https://denver1769.pages.dev/Discovery/id_hd_hindi.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",TRVL English HD
 https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",TLC English HD
 https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",TLC Hindi HD
 https://denver1769.pages.dev/Discovery/tlc_hd_hindi.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids & Information",Unique tv
 https://a6we.short.gy/tivimaxxlinksUNIQUETV.m3u8
 
@@ -101,7 +136,7 @@ http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist
 #EXTINF:-1 tvg-id="ETV.in" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" group-title="ENTERTAINMENT", ETV HD
 http://sansat.net:25461/02024773939334/02024773939334/95857
 
-#EXTINF:-1 tvg-id="ETVCinema.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies", ETV Cinema
+#EXTINF:-1 tvg-id="ETVCinema.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="ENTERTAINMENT", ETV Cinema
 http://sansat.net:25461/02024773939334/02024773939334/95856
 
 #EXTINF:-1 tvg-id="ETVLife.in" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Life.png" group-title="LIFESTYLE", ETV Life
@@ -217,7 +252,7 @@ http://ipro.webvps.de:25443/live/223300444/3216548777/9250.ts
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a2c92e41c4aaadb4da7a957299bcdd68.png" group-title=" KIDS",Boomerang
 http://iptvtree.net:8080/schradi/5b48/411
 
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.imgur.com/72MEKWu.png" group-title="KIDS", Discovery Kids
+#EXTINF:-1  Discovery Kids
 http://103.186.77.21:8000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/z6USUEc.png" group-title="INFORMATION", NATIONAL GEOGRAPHIC HD
@@ -530,11 +565,11 @@ https://ythls.onrender.com/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Telugu: Sony_BBC_Earth_HD_Telugu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" group-title="TELUGU",Telugu: Sony_BBC_Earth_HD_Telugu
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: Sony_BBC_Earth_HD_Telugu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" group-title="", Sony_BBC_Earth_HD_Telugu
 http://humiptv.live:8080/live/jeremy/jeremy/223.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Telugu: ETV Telangana" tvg-logo="" group-title="",Telugu: ETV Telangana
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: ETV Telangana" tvg-logo="" group-title="", ETV Telangana
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1699460375/ei/t2BLZcr1G-mKvPEPyaOkiAY/ip/13.86.66.11/id/NX3xvj4gZ_8.1/source/yt_live_broadcast/requiressl/yes/tx/51033619/txs/51033612%2C51033613%2C51033614%2C51033615%2C51033616%2C51033617%2C51033618%2C51033619%2C51033620/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2X_a9j4siSNac8jsSZTnUIiCzjI0nLR4dcO4Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472445/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAJ_6wZ71HZZ-4FGFq-wR7ZuQzuDIcN-6_YiqJSAyGP3dAiEAof3lIUyzN2mjAZkxgJuliBr2hCK7ki-H29EudPwb8VM%3D/file/index.m3u8
 
 
@@ -543,7 +578,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1699460375/ei/t
 http://humiptv.live:8080/live/jeremy/jeremy/9054.ts
 http://ott1.co:8080/live/777888999/999888777/9054.ts
 
-#EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="Telugu: BHAKTI TV" tvg-logo="" group-title="",Telugu: BHAKTI TV
+#EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="Telugu: BHAKTI TV" tvg-logo="" group-title="", BHAKTI TV
 http://humiptv.live:8080/live/jeremy/jeremy/34581.ts
 
 
@@ -633,55 +668,6 @@ http://server.streamplay.in:1935/star9/star9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bhavya_tv" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Bhavya_tv.jpg" group-title="Movies",Bhavya TV
 http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
-
-
-#EXTINF:-1 tvg-id="starmaahd.in" tvg-logo="noimage.png" group-title="TELUGU", Telugu: STAR MAA TV HD
-http://humiptv.live:8080/live/Wesley/Wesley/168.ts
-
-#EXTINF:-1 tvg-id="Telugu: TV 5 News" tvg-logo="noimage.png" group-title="TELUGU", Telugu: TV 5 News
-http://humiptv.live:8080/live/Wesley/Wesley/170.ts
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment", ETV Telugu
-http://startv365.com:80/3634358837/1009221634/400159465
-
-#EXTINF:-1 tvg-id="2" tvg-logo="" group-title="Movies",ETV Cinema
-http://startv365.com:80/3634358837/1009221634/400159467
-
-#EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-http://starshare.live:8080/live/A6446092022/22119988/9052.ts
-
-#EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-http://starshare.live:8080/live/A6446092022/22119988/242.ts
-
-#EXTINF:-1 tvg-id="ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV Abhiruchi
-http://starshare.live:8080/live/A6446092022/22119988/9053.ts
-
-#EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/187073
-
-#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-http://s1.pubnow.info:8080/aya3/samir112233/426163
-
-#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-http://s1.pubnow.info:8080/aya3/samir112233/426162
-
-#EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
-http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400159453
-
-#EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/198013
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 http://startv365.com:80/3634358837/1009221634/36402
