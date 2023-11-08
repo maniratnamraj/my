@@ -551,7 +551,7 @@ http://startv365.com:80/3634358837/1009221634/187240
 http://humiptv.live:8080/live/jeremy/jeremy/9049.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Telugu: ETV Telangana" tvg-logo="" group-title="TELUGU",Telugu: ETV Telangana
-http://humiptv.live:8080/live/jeremy/jeremy/9050.ts
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1699460375/ei/t2BLZcr1G-mKvPEPyaOkiAY/ip/13.86.66.11/id/NX3xvj4gZ_8.1/source/yt_live_broadcast/requiressl/yes/tx/51033619/txs/51033612%2C51033613%2C51033614%2C51033615%2C51033616%2C51033617%2C51033618%2C51033619%2C51033620/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2X_a9j4siSNac8jsSZTnUIiCzjI0nLR4dcO4Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472445/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAJ_6wZ71HZZ-4FGFq-wR7ZuQzuDIcN-6_YiqJSAyGP3dAiEAof3lIUyzN2mjAZkxgJuliBr2hCK7ki-H29EudPwb8VM%3D/file/index.m3u8
 
 
 
