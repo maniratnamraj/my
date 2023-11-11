@@ -839,6 +839,32 @@ http://es4u.live:25461/02027671448453/02027671448453/93735
 #EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD 2" tvg-logo="https://watchindia.net/images/channels/Willow_HD.png" group-title="Sports",Willow HD 2
 http://sansat.net:88/A5VVHSALUE/ONGEEUHZG0/438040
 
+#EXTINF:-1 tvg-id="" tvg-name="Jawan (2023)," tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg" group-title="TELUGU (2023)",Jawan (2023),
+http://livetvbox.live:8080/movie/Anne/Anne/235020.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Skanda (2023)'" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yptFZA0VzjZMBoKgLml49pI6Ckn.jpg" group-title="TELUGU (2023)",Skanda (2023)'
+http://livetvbox.live:8080/movie/Anne/Anne/235024.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Lingoccha (2023) (CAM) " tvg-logo="https://cdn.123telugu.com/content/wp-content/uploads/2023/10/Lingoccha-m.jpg" group-title="TELUGU (2023) (CAM)",Lingoccha (2023) (CAM) 
+http://livetvbox.live:8080/movie/Anne/Anne/234417.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="MAD (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDpOmgBfQZwOpFBcgokQGqd74r1.jpg" group-title="TELUGU (2023)",MAD (2023)
+http://livetvbox.live:8080/movie/Anne/Anne/235556.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Month of Madhu (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mn6QezzHOXl5pEBsXHKXWfTrlUo.jpg" group-title="TELUGU (2023)",Month of Madhu (2023)
+http://livetvbox.live:8080/movie/Anne/Anne/235557.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Ghost (2023)(CAM) ," tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdos16SvMd8XZsJdEjVrE7w7gOX.jpg" group-title="TELUGU (2023) (CAM)",Ghost (2023)(CAM) ,
+http://livetvbox.live:8080/movie/Anne/Anne/236075.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="12th Fail (2023) (CAM) ," tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98KWNgcxjdkGaenBS2bKLjZMayZ.jpg" group-title="TELUGU (2023) (CAM)",12th Fail (2023) (CAM) ,
+http://livetvbox.live:8080/movie/Anne/Anne/236077.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Narakasura (2023)(CAM) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDpOmgBfQZwOpFBcgokQGqd74r1.jpg" group-title="TELUGU (2023) (CAM)",Narakasura (2023)(CAM) 
+http://livetvbox.live:8080/movie/Anne/Anne/238131.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Vidhi (2023) (CAM) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJip8QY786CIHLGkqFI6UtoYCAd.jpg" group-title="TELUGU (2023) (CAM)",Vidhi (2023) (CAM) 
+http://livetvbox.live:8080/movie/Anne/Anne/238132.mp4
 
 
 
