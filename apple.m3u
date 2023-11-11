@@ -1358,7 +1358,7 @@ http://183.89.246.119:8881/play/a09a/index.m3u8
 http://103.81.104.118/hls/stream8.m3u8
 
 _____________________________________________KANNADA____________________________________________________
-#EXTM3U
+
 #EXTINF:-1 tvg-id="BtvNews.in" tvg-logo="https://i.imgur.com/0BEPrNQ.png" group-title="News",BTV News 
 https://vidcdn.vidgyor.com/btv-origin/liveabr/playlist.m3u8
 
@@ -1415,7 +1415,7 @@ https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8
 
 ___________________________________TAMIL________________________________________________________
 
-#EXTM3U
+
 #EXTINF:-1 tvg-id="3TamilTV.au" tvg-logo="https://i.imgur.com/R43HJBp.png" group-title="Entertainment",3 Tamil TV 
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
