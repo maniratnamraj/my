@@ -135,9 +135,13 @@ http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist
 
 #EXTINF:-1 tvg-id="ETV.in" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" group-title="ENTERTAINMENT", ETV HD
 http://sansat.net:25461/02024773939334/02024773939334/95857
+http://livetvbox.live:8080/live/Anne/Anne/23312.ts
 
 #EXTINF:-1 tvg-id="ETVCinema.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="ENTERTAINMENT", ETV Cinema
 http://sansat.net:25461/02024773939334/02024773939334/95856
+
+#EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="Telugu: ETV Abhiruchi" tvg-logo="https://i.imgur.com/pojgoNg.jpg" group-title="LIFESTYLE", ETV Abhiruchi
+http://livetvbox.live:8080/live/Anne/Anne/9053.ts
 
 #EXTINF:-1 tvg-id="ETVLife.in" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Life.png" group-title="LIFESTYLE", ETV Life
 http://sansat.net:25461/02024773939334/02024773939334/95858
@@ -196,7 +200,7 @@ http://sansat.net:25461/02024773939334/02024773939334/95864
 http://watchindia.net:8880/live/varghesekunju62/308678sher/929.ts
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://watchindia.net/images/channels/telugu/Zee_Cinemalu.png" group-title="ENTERTAINMENT", Zee Cinemalu HD
-http://sansat.net:25461/02024773939334/02024773939334/95882
+http://livetvbox.live:8080/live/Anne/Anne/98896.ts
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="ENTERTAINMENT", Zee Telugu HD
 http://sansat.net:25461/02024773939334/02024773939334/95883
