@@ -13,97 +13,97 @@ https://a6we.short.gy/superhungamativimaxx.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LeNVBmF.png" group-title="KIDS", Hungama
 https://a6we.short.gy/tivimaxxlinkshungama.m3u8
 
-#EXTINF:-1 tvg-id="disneychannel.de" group-title="Kids & Information", Disney HD
+#EXTINF:-1 tvg-id="disneychannel.de" group-title="KIDS", Disney HD
 https://a6we.short.gy/tivimaxxdisneyhd.m3u8
 
-#EXTINF:-1tvg-id="disney" group-title="Kids & Information", Disney
+#EXTINF:-1tvg-id="disney" group-title="KIDS", Disney
 https://a6we.short.gy/disneytivimaxx.m3u8
 
-#EXTINF:-1 tvg-id="disney" group-title="Kids & Information", Cartoon Network
+#EXTINF:-1 tvg-id="disney" group-title="KIDS", Cartoon Network
 https://a6we.short.gy/cntivimaxx
 
-#EXTINF:-1 tvg-id="nick-jr" group-title="Kids & Information", Nick Junior
+#EXTINF:-1 tvg-id="nick-jr" group-title="KIDS", Nick Junior
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Kids & Information", Manoranjan Tv
+#EXTINF:-1 tvg-id="ext" group-title="KIDS", Manoranjan Tv
 https://livectv.phando.com/8044/chunklist0.m3u8
 
-#EXTINF:-1tvg-id="ext" group-title="Kids & Information", Manoranjan Grand
+#EXTINF:-1tvg-id="ext" group-title="KIDS", Manoranjan Grand
 https://livectv.phando.com/8043/chunklist0.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Kids & Information", Hooray Rhymes
+#EXTINF:-1 tvg-id="ext" group-title="KIDS", Hooray Rhymes
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-cartoonytv-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
 
-#EXTINF:0 tvg-id="ext" group-title="Kids & Information", Gubbare
+#EXTINF:0 tvg-id="ext" group-title="KIDS", Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master_480.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Kids & Information", Wow Kids
+#EXTINF:-1 tvg-id="ext" group-title="KIDS", Wow Kids
 http://xtv.ooo:8080/live/214535413/121315126/311373.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Kids & Information", Chumbak tv
+#EXTINF:-1 tvg-id="ext" group-title="KIDS", Chumbak tv
 https://a6we.short.gy/tivimaxxlinkschumbaktv.ts
 
-#EXTINF:-1 tvg-id="POGO.in" group-title="Kids & Information", Pogo
+#EXTINF:-1 tvg-id="POGO.in" group-title="KIDS", Pogo
 https://a6we.short.gy/Tivimaxxlinkspogo.m3u8
 
-#EXTINF:-1 tvg-id="nickelod" group-title="Kids & Information", Nick
+#EXTINF:-1 tvg-id="nickelod" group-title="KIDS", Nick
 https://a6we.short.gy/tivimaxxnick.ts
 
-#EXTINF:-1 tvg-id="DisneyJunior.uk" group-title="Kids & Information", Disney jr
+#EXTINF:-1 tvg-id="DisneyJunior.uk" group-title="KIDS", Disney jr
 https://a6we.short.gy/tivimaxxlinksdisneyjr.ts
 
-#EXTINF:-1 tvg-id="ext" group-title="Kids & Information", Animal Planet English
+#EXTINF:-1 tvg-id="ext" group-title="INFORMATION", Animal Planet English
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Kids & Information", Animal Planet Hindi
+#EXTINF:-1 tvg-id="ext" group-title="INFORMATION", Animal Planet Hindi
 https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Kids & Information", Discovery English HD
+#EXTINF:-1 tvg-id="ext" group-title="INFORMATION", Discovery English HD
 https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Kids & Information", Discovery Hindi HD
+#EXTINF:-1 tvg-id="ext" group-title="INFORMATION", Discovery Hindi HD
 https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.imgur.com/72MEKWu.png" group-title="KIDS", group-title="Kids & Information", Discovery Kids
 https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Kids & Information", Discovery Science English
+#EXTINF:-1 tvg-id="ext" group-title="INFORMATION", Discovery Science English
 https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Kids & Information", Discovery Science Hindi
+#EXTINF:-1 tvg-id="ext" group-title="INFORMATION", Discovery Science Hindi
 https://denver1769.pages.dev/Discovery/discovery_science_hindi.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" group-title="Kids & Information", Discovery Turbo
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" group-title="INFORMATION", Discovery Turbo
 https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
 
-#EXTINF:-1 tvg-id="DMAX.it" group-title="Kids & Information", DMAX HD
+#EXTINF:-1 tvg-id="DMAX.it" group-title="INFORMATION", DMAX HD
 https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
 
-#EXTINF:-1 tvg-id="esp-hd" group-title="Kids & Information", Eurosport HD
+#EXTINF:-1 tvg-id="esp-hd" group-title="INFORMATION", Eurosport HD
 https://denver1769.pages.dev/Discovery/eurosport_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Kids & Information", Food Network English
+#EXTINF:-1 tvg-id="ext" group-title="INFORMATION", Food Network English
 https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Kids & Information", HGTV English HD
+#EXTINF:-1 tvg-id="ext" group-title="INFORMATION", HGTV English HD
 https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Kids & Information", ID English HD
+#EXTINF:-1 tvg-id="ext" group-title="INFORMATION, ID English HD
 https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Kids & Information", ID Hindi HD
+#EXTINF:-1 tvg-id="ext" group-title="INFORMATION", ID Hindi HD
 https://denver1769.pages.dev/Discovery/id_hd_hindi.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Kids & Information", TRVL English HD
+#EXTINF:-1 tvg-id="ext" group-title="INFORMATION", TRVL English HD
 https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Kids & Information", TLC English HD
+#EXTINF:-1 tvg-id="ext" group-title="INFORMATION", TLC English HD
 https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Kids & Information", TLC Hindi HD
+#EXTINF:-1 tvg-id="ext" group-title="INFORMATION", TLC Hindi HD
 https://denver1769.pages.dev/Discovery/tlc_hd_hindi.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Kids & Information", Unique tv
+#EXTINF:-1 tvg-id="ext" group-title="INFORMATION", Unique tv
 https://a6we.short.gy/tivimaxxlinksUNIQUETV.m3u8
 
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="LOCAL",Metro TV
