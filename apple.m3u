@@ -136,7 +136,7 @@ http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ammanews.jpg" group-title="LOCAL",Amma News
 http://server.streamplay.in:1935/ammanews/ammanews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sai leela" tvg-logo="https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg" group-title="DEVOTIONAL",Sai leela
+#EXTINF:-1 tvg-id="Sai leela" tvg-logo="https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg" group-title="RELIGIOUS",Sai leela
 https://m-c07-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
 
 #EXTINF:-1 tvg-id="City News TV" tvg-logo="https://i.imgur.com/V8xqWHv.jpg" group-title="LOCAL",City News TV
@@ -164,7 +164,7 @@ http://sansat.net:25461/02024773939334/02024773939334/95859
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://i.imgur.com/9UOgkwD.png" group-title="NEWS", 10 TV HD
 https://ythls.armelin.one/channel/UCfymZbh17_3T_UhgjkQ9fRQ.m3u8
 
-#EXTINF:-1 tvg-id="Bhakti Tv" tvg-logo="https://i.imgur.com/RdZF3RB.png" group-title="DEVOTIONAL", Bhakti TV
+#EXTINF:-1 tvg-id="Bhakti Tv" tvg-logo="https://i.imgur.com/RdZF3RB.png" group-title="RELIGIOUS", Bhakti TV
 http://sansat.net:25461/02024773939334/02024773939334/95853
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="INFOTAINMENT", DD Saptagiri
