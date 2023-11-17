@@ -1,6 +1,9 @@
 
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/znRGaBJ.png" group-title="KIDS" Disney Hotstar Premium
+http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/26596
+
 #EXTINF:-1 tvg-id="SVBC2.in" tvg-logo="https://i.imgur.com/NtmRt1A.png" group-title="RELIGIOUS",SVBC 2 
 http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
 
@@ -25,97 +28,97 @@ https://a6we.short.gy/superhungamativimaxx.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LeNVBmF.png" group-title="KIDS", Hungama
 https://a6we.short.gy/tivimaxxlinkshungama.m3u8
 
-#EXTINF:-1 tvg-id="disneychannel.de" group-title="KIDS", Disney HD
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-logo="" group-title="KIDS", Disney HD
 https://a6we.short.gy/tivimaxxdisneyhd.m3u8
 
-#EXTINF:-1tvg-id="disney" group-title="KIDS", Disney
+#EXTINF:-1tvg-id="disney" tvg-logo=""  group-title="KIDS", Disney
 https://a6we.short.gy/disneytivimaxx.m3u8
 
-#EXTINF:-1 tvg-id="disney" group-title="KIDS", Cartoon Network
+#EXTINF:-1 tvg-id="disney" tvg-logo="" group-title="KIDS", Cartoon Network
 https://a6we.short.gy/cntivimaxx
 
-#EXTINF:-1 tvg-id="nick-jr" group-title="KIDS", Nick Junior
+#EXTINF:-1 tvg-id="nick-jr" tvg-logo="" group-title="KIDS", Nick Junior
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="Manoranjan" tvg-logo="hhttps://i.imgur.com/nyMiiiW.jpg" group-title="KIDS", MANORANJAN TV
+#EXTINF:-1 tvg-id="Manoranjan" tvg-logo="https://i.imgur.com/nyMiiiW.jpg" group-title="KIDS", MANORANJAN TV
 https://livectv.phando.com/8044/chunklist0.m3u8
 
-#EXTINF:-1tvg-id="ext" group-title="KIDS", Manoranjan Grand
+#EXTINF:-1tvg-id="ext" tvg-logo="" group-title="KIDS", Manoranjan Grand
 https://livectv.phando.com/8043/chunklist0.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="KIDS", Hooray Rhymes
+#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="KIDS", Hooray Rhymes
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-cartoonytv-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
 
-#EXTINF:0 tvg-id="ext" group-title="KIDS", Gubbare
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="KIDS", Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master_480.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="KIDS", Wow Kids
+#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="KIDS", Wow Kids
 http://xtv.ooo:8080/live/214535413/121315126/311373.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="KIDS", Chumbak tv
+#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="KIDS", Chumbak tv
 https://a6we.short.gy/tivimaxxlinkschumbaktv.ts
 
-#EXTINF:-1 tvg-id="POGO.in" group-title="KIDS", Pogo
+#EXTINF:-1 tvg-id="POGO.in" tvg-logo="" group-title="KIDS", Pogo
 https://a6we.short.gy/Tivimaxxlinkspogo.m3u8
 
-#EXTINF:-1 tvg-id="nickelod" group-title="KIDS", Nick
+#EXTINF:-1 tvg-id="nickelod" tvg-logo="" group-title="KIDS", Nick
 https://a6we.short.gy/tivimaxxnick.ts
 
-#EXTINF:-1 tvg-id="DisneyJunior.uk" group-title="KIDS", Disney jr
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-logo="" group-title="KIDS", Disney jr
 https://a6we.short.gy/tivimaxxlinksdisneyjr.ts
 
-#EXTINF:-1 tvg-id="ext" group-title="INFOTAINMENT", Animal Planet English
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="INFOTAINMENT", Animal Planet English
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="INFORMATION", Animal Planet Hindi
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="INFORMATION", Animal Planet Hindi
 https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="INFOTAINMENT", Discovery English HD
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="INFOTAINMENT", Discovery English HD
 https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="INFOTAINMENT",, Discovery Hindi HD
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" tvg-logo="" group-title="INFOTAINMENT",, Discovery Hindi HD
 https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.imgur.com/72MEKWu.png" group-title="KIDS", group-title="INFOTAINMENT", Discovery Kids
 https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="INFOTAINMENT",, Discovery Science English
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/Z7jNakS.jpg" group-title="INFOTAINMENT",, Discovery Science English
 https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="INFOTAINMENT", Discovery Science Hindi
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/Z7jNakS.jpg" group-title="INFOTAINMENT", Discovery Science Hindi
 https://denver1769.pages.dev/Discovery/discovery_science_hindi.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" group-title="INFOTAINMENT", Discovery Turbo
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-logo="" group-title="INFOTAINMENT", Discovery Turbo
 https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
 
-#EXTINF:-1 tvg-id="DMAX.it" group-title="INFOTAINMENT", DMAX HD
+#EXTINF:-1 tvg-id="DMAX.it" tvg-logo=""group-title="INFOTAINMENT", DMAX HD
 https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
 
-#EXTINF:-1 tvg-id="esp-hd" group-title="SPORTS", Eurosport HD
+#EXTINF:-1 tvg-id="esp-hd" tvg-logo="" group-title="SPORTS", Eurosport HD
 https://denver1769.pages.dev/Discovery/eurosport_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="INFOTAINMENT", Food Network English
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/VMimnT2.png" group-title="INFOTAINMENT", Food Network English
 https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="INFOTAINMENT", HGTV English HD
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/JMFT4mx.png" group-title="INFOTAINMENT", HGTV English HD
 https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="INFOTAINMENT", ID English HD
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/zLMFnYB.png" group-title="INFOTAINMENT", ID English HD
 https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="INFOTAINMENT", ID Hindi HD
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/zLMFnYB.png" group-title="INFOTAINMENT", ID Hindi HD
 https://denver1769.pages.dev/Discovery/id_hd_hindi.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="INFOTAINMENT", TRVL English HD
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/0KTVQbM.png" group-title="INFOTAINMENT", TRVL English HD
 https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="INFOTAINMENT", TLC English HD
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/0KTVQbM.png" group-title="INFOTAINMENT", TLC English HD
 https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="INFOTAINMENT", TLC Hindi HD
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/0KTVQbM.png" group-title="INFOTAINMENT", TLC Hindi HD
 https://denver1769.pages.dev/Discovery/tlc_hd_hindi.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="INFOTAINMENT", Unique tv
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/Q1KRbWq.png" group-title="INFOTAINMENT", Unique tv
 https://a6we.short.gy/tivimaxxlinksUNIQUETV.m3u8
 
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="LOCAL",Metro TV
