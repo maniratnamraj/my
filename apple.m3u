@@ -284,14 +284,8 @@ http://sansat.net:25461/02024773939334/02024773939334/95870
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/MyuB3E5.png" group-title="INFORMATION", SONY BBC EARTH HD
 http://sansat.net:25461/02024773939334/02024773939334/95871
 
-#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/L4in0em.jpg" group-title="KIDS", SONY YAY
-http://sansat.net:25461/02024773939334/02024773939334/95872
-
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/ASfvsHi.jpg" group-title="NEWS", TV5 NEWS
 http://sansat.net:25461/02024773939334/02024773939334/95877
-
-#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="" group-title="INFORMATION", SONY YAY
-http://sansat.net:25461/02024773939334/02024773939334/95878
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="" group-title="NEWS", V6 NEWS
 http://sansat.net:25461/02024773939334/02024773939334/95879
@@ -582,9 +576,6 @@ http://startv365.com:80/3634358837/1009221634/400203360
 #EXTINF:-1 tvg-id="1883" group-title="Kids" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png",Pogo Telugu
 http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400203359
 
-#EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="Kids", SONY YAY TELUGU
-http://es4u.live:25461/02027671448453/02027671448453/95872
-
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://i.imgur.com/KVLxDzb.png" group-title="News", RAJ NEWS TELUGU
 http://s1.pubnow.info:8080/aya3/samir112233/426609
 
@@ -775,6 +766,7 @@ https://ythls.armelin.one/channel/UCMnz0yLX3afzFc8y822YO5g.m3u8
 
 #EXTINF:-1 tvg-id="ArgusNews.in" tvg-logo="https://i.imgur.com/cGjRe01.png" group-title="News",Argus News 
 https://live.argusnews.in/hls/argustv.m3u8
+
 #EXTINF:-1 tvg-id="ArtistAloud.in" tvg-logo="https://i.imgur.com/urLlfSo.png" group-title="Music",Artist Aloud 
 https://live.hungama.com/linear/artist-aloud/playlist.m3u8
 
