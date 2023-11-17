@@ -296,20 +296,6 @@ https://ythls.armelin.one/channel/UCTcH-GOkexQHWKBWSfOjhPQ.m3u8
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://i.imgur.com/u40uu3r.png" group-title="ENTERTAINMENT", Vissa TV
 http://sansat.net:25461/02024773939334/02024773939334/95881
 
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 1 HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title=" SPORTS", TEN 1 HD
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 2 HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title=" SPORTS", TEN 2 HD
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 3 HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="SPORTS", TEN 3 HD
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: WILLOW CRICKET HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="SPORTS",WILLOW CRICKET HD
-http://sansat.net:25461/CADUMVLHRZROYOR/SOMNNLSN86LLYYM/438018
-
 #EXTINF:-1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://watchindia.net/images/channels/telugu/10_TV.png" group-title="",10 TV
 http://watchindia.net:8880/live/varghesekunju62/308678sher/981.ts
 
@@ -402,12 +388,11 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD Sports" tvg-logo="https://watchindia.net/images/channels/sports/DD_Sports.png" group-title="Sports",DD Sports
 http://sansat.net:88/A5VVHSALUE/ONGEEUHZG0/438041
 
-#EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD 1" tvg-logo="https://watchindia.net/images/channels/Willow_HD.png" group-title="Sports",Willow HD 1
-http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1459
+#EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD 1" tvg-logo="https://i.imgur.com/s27K3Zc.jpg" group-title="Sports",WILLOW EXTRA HD
+http://startv365.com:80/4454081537/1210705225/400862001
 
-#EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD 2" tvg-logo="https://watchindia.net/images/channels/Willow_HD.png" group-title="Sports",Willow HD 2
-http://sansat.net:88/A5VVHSALUE/ONGEEUHZG0/438040
-
+#EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD 2" tvg-logo="https://watchindia.net/images/channels/Willow_HD.png" group-title="Sports",WILLOW CRICKET HD
+http://startv365.com:80/4454081537/1210705225/400862002
 
 #EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix HD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="ENTERTAINMENT",Sony Pix HD
 http://watchindia.net:8880/live/varghesekunju62/308678sher/2101.ts
