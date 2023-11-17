@@ -1,7 +1,7 @@
 
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/znRGaBJ.png" group-title="KIDS" Disney Hotstar Premium
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/znRGaBJ.png" group-title="KIDS", Disney Hotstar Premium
 http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/26596
 
 #EXTINF:-1 tvg-id="SVBC2.in" tvg-logo="https://i.imgur.com/NtmRt1A.png" group-title="RELIGIOUS",SVBC 2 
