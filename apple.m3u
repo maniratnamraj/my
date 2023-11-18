@@ -45,26 +45,7 @@ https://livectv.phando.com/8044/chunklist0.m3u8
 #EXTINF:-1tvg-id="ext" tvg-logo="" group-title="KIDS", Manoranjan Grand
 https://livectv.phando.com/8043/chunklist0.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="KIDS", Hooray Rhymes
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-cartoonytv-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
 
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="KIDS", Gubbare
-https://epiconvh.s.llnwi.net/gubbare/master_480.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="KIDS", Wow Kids
-http://xtv.ooo:8080/live/214535413/121315126/311373.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="KIDS", Chumbak tv
-https://a6we.short.gy/tivimaxxlinkschumbaktv.ts
-
-#EXTINF:-1 tvg-id="POGO.in" tvg-logo="" group-title="KIDS", Pogo
-https://a6we.short.gy/Tivimaxxlinkspogo.m3u8
-
-#EXTINF:-1 tvg-id="nickelod" tvg-logo="" group-title="KIDS", Nick
-https://a6we.short.gy/tivimaxxnick.ts
-
-#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-logo="" group-title="KIDS", Disney jr
-https://a6we.short.gy/tivimaxxlinksdisneyjr.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="INFOTAINMENT", Animal Planet English
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
@@ -217,8 +198,9 @@ http://livetvbox.live:8080/live/Anne/Anne/98896.ts
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="ENTERTAINMENT", Zee Telugu HD
 http://sansat.net:25461/02024773939334/02024773939334/95883
 
-#EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="https://i.imgur.com/9ZNRL8N.png" group-title="Infotainment", HISTORY 18 TELUGU HD
-http://sansat.net:25461/02024773939334/02024773939334/95866
+
+
+====================================KIDS=============================================================================
 
 #EXTINF:-1 tvg-id="Pogo Telugu" tvg-logo="https://i.imgur.com/96BYKkZ.jpg" group-title="KIDS", POGO TELUGU
 http://filex.tv:8080/Razimirza/Mirza123/141988
@@ -271,6 +253,33 @@ http://iptvtree.net:8080/schradi/5b48/411
 
 #EXTINF:-1  tvg-id="" tvg-name="Discovery tvg-logo="https://i.imgur.com/F6tDTGk.jpg" group-title=" KIDS",Discovery Kids
 http://103.186.77.21:8000/play/a03c/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="KIDS", Hooray Rhymes
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-cartoonytv-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="KIDS", Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master_480.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="KIDS", Wow Kids
+http://xtv.ooo:8080/live/214535413/121315126/311373.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="KIDS", Chumbak tv
+https://a6we.short.gy/tivimaxxlinkschumbaktv.ts
+
+#EXTINF:-1 tvg-id="POGO.in" tvg-logo="" group-title="KIDS", Pogo
+https://a6we.short.gy/Tivimaxxlinkspogo.m3u8
+
+#EXTINF:-1 tvg-id="nickelod" tvg-logo="" group-title="KIDS", Nick
+https://a6we.short.gy/tivimaxxnick.ts
+
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-logo="" group-title="KIDS", Disney jr
+https://a6we.short.gy/tivimaxxlinksdisneyjr.ts
+
+
+=============================DOCUMENTARY====================================================================
+
+#EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="https://i.imgur.com/9ZNRL8N.png" group-title="DOCUMENTARY", HISTORY 18 TELUGU HD
+http://sansat.net:25461/02024773939334/02024773939334/95866
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/BzOkwXi.jpg group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC HD
 http://sansat.net:25461/02024773939334/02024773939334/95868
@@ -364,26 +373,14 @@ http://sansat.net:88/A5VVHSALUE/ONGEEUHZG0/438026
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Sports",Star Sports Select 2
 http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/1465
 
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="Sony Six HD 1" tvg-logo="https://watchindia.net/images/channels/Sony_Six_HD.png" group-title="Sports",Sony Six HD 1
-http:http://s1.pubnow.info:8080/aya3/samir112233/426318
+#EXTINF:-1 tvg-id="sony.ten.1.in" tvg-name="Sony Ten 1 HD 2" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_1_HD.png" group-title="Sports",Sony Six 1 HD 2
+http://aanax.com:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/16622
 
-#EXTINF:-1 tvg-id="sony.six.in" tvg-name="Sony Six HD 2" tvg-logo="https://watchindia.net/images/channels/Sony_Six_HD.png" group-title="Sports",Sony Six HD 2
-http://s1.pubnow.info:8080/aya3/samir112233/426319
-
-#EXTINF:-1 tvg-id="sony.ten.1.in" tvg-name="Sony Ten 1 HD 2" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_1_HD.png" group-title="Sports",Sony Ten 1 HD 2
-http://sansat.net:88/A5VVHSALUE/ONGEEUHZG0/438037
-
-#EXTINF:-1 tvg-id="sony.ten.2.in" tvg-name="Sony Ten 2 HD" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_2_HD.png" group-title="Sports",Sony Ten 2 HD
+#EXTINF:-1 tvg-id="sony.ten.2.in" tvg-name="Sony Ten 2 HD" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_2_HD.png" group-title="Sports",Sony Six 2 HD
 http://sansat.net:88/A5VVHSALUE/ONGEEUHZG0/438038
 
-#EXTINF:-1 tvg-id="sony.ten.3.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_3_HD.png" group-title="Sports",Sony Ten 3 HD
-http://sansat.net:88/A5VVHSALUE/ONGEEUHZG0/438039
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/dVRMHM4.png", SONY SPORTS TEN 4 
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/40BbQUd.png", SONY SPORTS TEN 5 
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#EXTINF:-1 tvg-id="sony.ten.3.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_3_HD.png" group-title="Sports",Sony Six 3 HD
+http://aanax.com:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/56191
 
 #EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD Sports" tvg-logo="https://watchindia.net/images/channels/sports/DD_Sports.png" group-title="Sports",DD Sports
 http://sansat.net:88/A5VVHSALUE/ONGEEUHZG0/438041
@@ -474,7 +471,6 @@ https://ythls.onrender.com/channel/UCDCMjD1XIAsCZsYHNMGVcog.m3u8
 
 #EXTINF:-1 tvg-id="VanithaTV.in" tvg-logo="https://i.imgur.com/KuLZt2a.png" group-title="Documentary",Vanitha TV 
 http://es4u.live:25461/02027671448453/02027671448453/95880
-
 
 #EXTINF:-1 tvg-id="ZeeHindustan.in" tvg-logo="https://i.imgur.com/3eAZMxA.png" group-title="Documentary",Zee Hindustan 
 https://d336l5u76wvq7j.cloudfront.net/out/v1/5990b42d2b7b40bc8e581e90afe6ef94/index_4.m3u8
