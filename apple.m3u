@@ -56,7 +56,7 @@ https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="INFOTAINMENT", Discovery English HD
 https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" tvg-logo="" group-title="INFOTAINMENT",, Discovery Hindi HD
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" tvg-logo="" group-title="INFOTAINMENT", Discovery Hindi HD
 https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.imgur.com/72MEKWu.png" group-title="KIDS", group-title="INFOTAINMENT", Discovery Kids
@@ -129,7 +129,6 @@ http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
 http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ETV.in" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" group-title="ENTERTAINMENT", ETV HD
-http://sansat.net:25461/02024773939334/02024773939334/95857
 http://livetvbox.live:8080/live/Anne/Anne/23312.ts
 
 #EXTINF:-1 tvg-id="ETVCinema.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="ENTERTAINMENT", ETV Cinema
