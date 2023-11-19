@@ -141,9 +141,6 @@ http://sansat.net:25461/02024773939334/02024773939334/95858
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Plus.png" group-title="LIFESTYLE", ETV PLUS
 http://sansat.net:25461/02024773939334/02024773939334/95859
 
-#EXTINF:-1 tvg-id="10 TV" tvg-logo="https://i.imgur.com/9UOgkwD.png" group-title="NEWS", 10 TV HD
-https://ythls.armelin.one/channel/UCfymZbh17_3T_UhgjkQ9fRQ.m3u8
-
 #EXTINF:-1 tvg-id="Bhakti Tv" tvg-logo="https://i.imgur.com/RdZF3RB.png" group-title="RELIGIOUS", Bhakti TV
 http://sansat.net:25461/02024773939334/02024773939334/95853
 
@@ -305,7 +302,7 @@ http://sansat.net:25461/02024773939334/02024773939334/95881
 #EXTINF:-1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://watchindia.net/images/channels/telugu/10_TV.png" group-title="",10 TV
 http://watchindia.net:8880/live/varghesekunju62/308678sher/981.ts
 
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="ABN News" tvg-logo="https://watchindia.net/images/channels/telugu/ABN_News.png" group-title="",ABN News
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="ABN News" tvg-logo="https://watchindia.net/images/channels/telugu/ABN_News.png" group-title="",ABN Andhra Jyothi
 http://watchindia.net:8880/live/varghesekunju62/308678sher/980.ts
 
 #EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="Bhakti TV" tvg-logo="https://watchindia.net/images/channels/telugu/Bhakti_TV.png" group-title="",Bhakti TV
@@ -401,9 +398,6 @@ http://watchindia.net:8880/live/varghesekunju62/308678sher/2185.ts
 #EXTINF:-1 tvg-id="99TV.in" tvg-logo="https://i.imgur.com/dZA4gel.png" group-title="News", 99TV  
 https://ythls.armelin.one/channel/UCl5YgCiwSRVOiC2Nd1P9v1A.m3u8
 
-#EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-logo="https://i.imgur.com/gcoiZJ3.png" group-title="News", ABN Andhra Jyoti 
-https://ythls.onrender.com/channel/UC_2irx_BQR7RsBKmUV9fePQ.m3u8
-
 #EXTINF:-1 tvg-id="AdityaMusicIndia.in" tvg-logo="https://t.infibeam.com/img/lookandfeel/5101232/753d6e8f698e4_logo.png.999xx.png" group-title="MUSIC",Aditya Music 
 https://ythls.onrender.com/channel/UCNApqoVYJbYSrni4YsbXzyQ.m3u8
 
@@ -446,9 +440,6 @@ https://ythls.onrender.com/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
 
 #EXTINF:-1 tvg-id="RajNewsTelugu.in" tvg-logo="https://i.imgur.com/vGl0Zrj.png" group-title="NEWS",Raj News Telugu  
 https://ythls.onrender.com/channel/UCyMei315xIaoJTp5YOYjTxA.m3u8
-
-#EXTINF:-1 tvg-id="SakshiTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sakshi_tv.jpg/512px-Sakshi_tv.jpg" group-title="NEWS",Sakshi TV 
-https://ythls.onrender.com/channel/UCQ_FATLW83q-4xJ2fsi8qAw.m3u8
 
 #EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-logo="https://i.imgur.com/9QJ9chZ.png" group-title="Documentary",Sony BBC Earth HD 
 http://103.81.104.118/hls/stream5.m3u8
@@ -618,14 +609,6 @@ http://startv365.com:80/3634358837/1009221634/400162491
 #EXTINF:-1 tvg-id="Maha News" tvg-logo="https://i.imgur.com/2uKGvfV.png" group-title="News", Maha NEWS
 http://102.222.232.18:9981/stream/channelid/1355851860?ticket=E17E795EE2520966D807B28B65075291B33550F8&profile=matroska
 
-#EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="https://i.imgur.com/96ejE7i.jpg" group-title="News", ABN Andhra Jyothi
-http://starshare.live:8080/live/A6446092022/22119988/234.ts
-
-#EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi tv
-http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/187240
-
-
-
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://i.imgur.com/Oz7KOjP.jpg" group-title="News", T News
 http://102.222.232.18:9981/stream/channelid/1342999712?ticket=9AE1CC2C72DE838A073CE5523067EB9094BFA72D&profile=matroska
 
@@ -715,8 +698,6 @@ https://ythls.armelin.one/channel/UCY8r_lukdRi5cK5wjK_O3qw.m3u8
 
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 tvg-id="ABNTVIndia.us" tvg-logo="https://i.imgur.com/VcZn60X.png" group-title="RELIGIOUS",ABN TV India 
-https://rtmp2.abnvideos.com/hls/abntvindia.m3u8
 
 #EXTINF:-1 tvg-id="ABPGanga.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ABP_Ganga.svg/512px-ABP_Ganga.svg.png" group-title="News",ABP Ganga 
 https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
