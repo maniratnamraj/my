@@ -57,7 +57,7 @@ https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" tvg-logo="" group-title="INFOTAINMENT", Discovery Hindi HD
 https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.imgur.com/72MEKWu.png" group-title="KIDS", group-title="INFOTAINMENT", Discovery Kids
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.imgur.com/72MEKWu.png" group-title="KIDS", Discovery Kids
 https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/Z7jNakS.jpg" group-title="INFOTAINMENT",, Discovery Science English
