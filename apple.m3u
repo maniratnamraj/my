@@ -1371,5 +1371,129 @@ https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
 #EXTINF:-1 tvg-id="ZeeThirai.in" tvg-logo="https://i.imgur.com/vmHfPD8.png" group-title="Undefined",Zee Thirai 
 http://line.gofast-tv.me/play/live.php?extension=ts&mac=00:1A:79:6F:5A:5D&play_token=oOPicFfGrH&stream=941587
 
+-----------------------------------Radio------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="mantra,spiritual",2B! Radio Sangam Devi Maa
+http://ibadat.out.airtime.pro:8000/ibadat_a
+#EXTINF:-1 tvg-logo="" group-title="mantra,spiritual",2B! Radio Sangam Ganesha
+http://radio2bindia.out.airtime.pro:8000/radio2bindia_a
+#EXTINF:-1 tvg-logo="" group-title="mantra,spiritual",2B! Radio Sangam Guruvar
+http://iskon2b.out.airtime.pro:8000/iskon2b_a
+#EXTINF:-1 tvg-logo="" group-title="mantra,spiritual",2B! Radio Sangam Krishna
+http://millenniumhits.out.airtime.pro:8000/millenniumhits_a
+#EXTINF:-1 tvg-logo="" group-title="meditation,spiritual",2B! Radio Sangam Meditation
+http://djbeat.out.airtime.pro:8000/djbeat_a
+#EXTINF:-1 tvg-logo="" group-title="mantra,spiritual",2B! Radio Sangam Shiva
+http://hot.out.airtime.pro:8000/hot_a
+#EXTINF:-1 tvg-logo="" group-title="mantra,spiritual",2B! Radio Sangam Shri Ram
+http://dard.out.airtime.pro:8000/dard_a
+#EXTINF:-1 tvg-logo="http://www.radioindia.in/favicon.ico" group-title="bollywood,hindi",90's Super Hits live
+http://103.16.47.70:7222/;stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="bollywood",90's Super Hits live
+http://103.16.47.70:7444/;stream.mp3
+#EXTINF:-1 tvg-logo="https://hindiradios.com/assets/img/radio-logos/hungama-90s-super-hits.jpg" group-title="90s,bollywood,classical,evergreens,hindi,hits,moody,music,musica romantica",90s SuperHits
+http://103.16.47.70:7444/;stream?type=http&nocache=10
+#EXTINF:-1 tvg-logo="https://newsonair.org.in/wp-content/themes/Newspaper/radioimage/aircoimbatore.jpg" group-title="classical",Air Coimbatore
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AIR FM Rainbow Mumbai
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio008/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.radioindialive.com/apple-icon-120x120.png" group-title="country",AIR Kannur FM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio173/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Air Kochi FM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://prasarbharati.gov.in/wp-content/uploads/2020/04/cropped-pblogo-180x180.png" group-title="air,all india radio,india,kochi,malayalam",AIR Kochi FM Rainbow
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://prasarbharati.gov.in/wp-content/uploads/2020/04/cropped-pblogo-180x180.png" group-title="air,all india radio,india,kozhikode,malayalam",AIR Kozhikode Real FM
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://prasarbharati.gov.in/wp-content/uploads/2020/04/cropped-pblogo-180x180.png" group-title="air,all india radio,india,malayalam",AIR Malayalam
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://prasarbharati.gov.in/wp-content/uploads/2020/04/cropped-pblogo-180x180.png" group-title="air,all india radio,malayalam,manjeri",AIR Manjeri FM
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio101/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://allindiaradio.gov.in/radio/images/air-marathi.jpg" group-title="marathi,mumbai,vividh bharti mumbai",AIR Marathi
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio010/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="class",Air murshidabad
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio169/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://allindiaradio.gov.in/radio/images/air-pune.jpg" group-title="marathi,pune,pune am,vividh bharti pune",AIR Pune AM
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio012/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://newsonair.com/wp-content/uploads/2021/06/cropped-12-1-180x180.png" group-title="hindi,india,marathi,pune",AIR Pune FM
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.radioindialive.com/images/air_gujrati_icon.jpg" group-title="classical,community radio,folk,pop",Air Rainbow 100.7 FM in Lucknow
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio047/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="government,hindi,indian music,kerala,local government,local music,malayalam,tamil,world music",AIR RAINBOW FM KOCHI 107.5
+http://stream.zeno.fm/zcxh6wkva18uv?rj-ttl=5&rj-tok=AAABfdti8RkADiDUK65-O8SqhQ
+#EXTINF:-1 tvg-logo="https://newsonair.org.in/wp-content/themes/Newspaper/radioimage/air-tamil.jpg" group-title="classical",Air Tamil
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://prasarbharati.gov.in/wp-content/uploads/2020/04/cropped-pblogo-180x180.png" group-title="air,all india radio,india,malayalam,thrissur",AIR Thrissur
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio036/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://newsonair.org.in/wp-content/themes/Newspaper/radioimage/airtirupati.jpg" group-title="andra,telugu,tirupati",Air Tirupati
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio144/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="hindi bollywood,talk",AIR Vividh Bharathi
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICw1oiU3wkMCxIOU3RhdGlvblByb2ZpbGUYgICw7pyCxQkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="",Ajmer Radio
+http://stream.zeno.fm/yftb93nbay8uv?rj-ttl=5&rj-tok=AAABfdz5eZ0A4l-i3TibdH-4hw
+#EXTINF:-1 tvg-logo="https://prasarbharati.gov.in/wp-content/uploads/2020/04/cropped-pblogo-180x180.png" group-title="bollywood classics,classical music,hindi bollywood,old bollywood,oldies,pop music",All India Radio Air Shimla
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio042/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://apfm.in/favicon.ico" group-title="all india radio,kerala,malayalam,trivandrum",Ananthapuri FM
+http://59.90.28.91:88/broadwavehigh.mp3?src=1
+#EXTINF:-1 tvg-logo="https://www.angeltv.org/images/logo.png" group-title="christian,tv",Angel TV India
+https://wowzaprod270-i.akamaihd.net/hls/live/1007388/e7a2aac8/e7a2aac8_1_1872000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://southradios.com/wp-content/uploads/2021/03/cropped-logo-180x180.png" group-title="tamil cinema music,tamil music",Anirudh Radio
+https://psrlive2.listenon.in/anirud?ah=0e81749e37789e5fb8c290926ce87e3f
+#EXTINF:-1 tvg-logo="https://southradios.com/wp-content/uploads/2021/03/cropped-logo-180x180.png" group-title="tamil cinema music,tamil music",AR Rahman Lite Radio
+https://psrlive2.listenon.in/arrlite?ah=0e81749e37789e5fb8c290926ce87e3f
+#EXTINF:-1 tvg-logo="https://southradios.com/wp-content/uploads/2021/03/cropped-logo-180x180.png" group-title="tamil cinema music,tamil music",AR Rahman Radio
+https://psrlive2.listenon.in/arr?ah=0e81749e37789e5fb8c290926ce87e3f
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mRCrTsxdmk.jpg" group-title="",Arul vakku FM
+https://stream.arulvakku.com/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="aruppukkottai,indian,indian music,kollywood,madurai,south indian,tamil,tamil fm,tamil music,tamil nadu,tamil radio",Aruppukkottai Mugil FM Tamil Radio அருப்புக்கோட்டை முகில் தமிழ் பண்பலை
+http://stream.zeno.fm/phv06yfkwzzuv?rj-ttl=5&rj-tok=AAABfd0PvGEAqfCz1Hc6cbgdog
+#EXTINF:-1 tvg-logo="https://i0.wp.com/auralradiokerala.com/wp-content/uploads/2021/08/wp-1629917059553.jpg?fit=180%2c180&#038;ssl=1" group-title="classical",AURAL MELODICS
+http://stream.zeno.fm/a3250rmrga0uv?rj-ttl=5&rj-tok=AAABfdt-XaAAmaesgp-NyrBovg
+#EXTINF:-1 tvg-logo="https://i0.wp.com/auralradiokerala.com/wp-content/uploads/2021/08/wp-1629917059553.jpg?fit=180%2c180&#038;ssl=1" group-title="university radio",AURAL RADIO
+http://stream.zeno.fm/pnafwp8atwzuv?rj-ttl=5&rj-tok=AAABfdrxH_0ARiYjoaddfS2cnQ
+#EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="university radio",AURAL WEST
+http://stream.zeno.fm/xd6trx3e84zuv?rj-ttl=5&rj-tok=AAABfd5gDakAPxABXC9KmZW81A
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78b-OAPK4RnbzBiq7nh47RPOnaifGrNNuuluQ=s240-mo-c-c0xffffffff-rj-k-no" group-title="indian music,malayalam",BHOJPURI FM
+http://live.jesuscomingfm.com:8036/
+#EXTINF:-1 tvg-logo="" group-title="top 40",Big 95 FM
+https://radioindia.net/radio/sc-bb/icecast.audio
+#EXTINF:-1 tvg-logo="" group-title="music,punjabi",Bol Punjabi Radio
+http://149.56.195.94:8322/
+#EXTINF:-1 tvg-logo="http://radiobollyfm.in/web_files/logo.png" group-title="bollywood,fashion,foods,lifestyle,shopping,technology ...,travel",BollyFM
+http://stream.zeno.fm/zu59ykebs2zuv.audio?rj-ttl=5&rj-tok=AAABfd283oAAT2Ng8F5Xn6fB_Q
+#EXTINF:-1 tvg-logo="" group-title="misc",Bollyhitsradio
+http://hoth.alonhosting.com:1100/;
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ppqbgfej6skx.jpeg" group-title="",Bollywood Gaane Purane
+https://stream.zeno.fm/6n6ewddtad0uv?rj-ttl=5&rj-tok=AAABfdz5mRcA9yj1evZVO3EF-w
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-xk7G3Nvc4JY/XV9YrKrcrYI/AAAAAAAAFUA/-vPY7nFl0GMP5mEr2o6l-S00wnvZdSl_QCK4BGAYYCw/s558/logod.png" group-title="24×4 hit punjabi hindi songs,bollywood,punjabi",Bollywood Punjabi Radio
+http://stream.zeno.fm/1k0y9f0cm0quv?rj-ttl=5&rj-tok=AAABfd4xjmgA4bfeLBbLE_gDDQ
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c24d1b_5f4bdad88cea4b9c8edb38a474598645.jpg/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/c24d1b_5f4bdad88cea4b9c8edb38a474598645.jpg" group-title="bollywood,hindi,india,remix",Bollywood Radio and Beyond
+http://185.80.220.12:8046/stream
+#EXTINF:-1 tvg-logo="" group-title="bass,chillout,drum and bass,electronic,hip-hop,house,pop,rock,soul,techno",Boxout FM
+http://boxoutfm.out.airtime.pro:8000/boxoutfm_a
+#EXTINF:-1 tvg-logo="https://cetalks.in/assets/images/logo.png" group-title="",CETalks
+http://stream.zeno.fm/fzcvyyer01zuv?rj-ttl=5&rj-tok=AAABfdzIzIkA-tiz-7EcRrR_fg
+#EXTINF:-1 tvg-logo="https://channpardesi.com/wp-content/uploads/2015/08/logo3-12.png" group-title="music,talk show",Chann Pardesi
+http://mehramedia.com:8039/;
+#EXTINF:-1 tvg-logo="https://christianfm.in/wp-content/uploads/2020/01/logo.png" group-title="christian,gospel",Christian FM
+http://178.33.135.245:4002/stream
+#EXTINF:-1 tvg-logo="https://a10.gaanacdn.com/gn_img/m_radio_circle/w4MKPObojg/w4MKPObojg/size_l_1563783532.webp" group-title="",Club Mirchi Radio - Party 24X7
+https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://www.tamilradios.com//PATH_TO_ANIMATED_FAVICON/favicon.ico" group-title="tamil cinema music",Clubhouse Tamil
+http://5.135.154.91:8302/;stream.mp3
+#EXTINF:-1 tvg-logo="https://liveradios.in/wp-content/uploads/cricket-commentary.jpg" group-title="",Cricket Commentary Hindi
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio008/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://sgpc.net/storage/2021/12/cropped-sgpc-logo-copy-removebg-preview-192x192.png" group-title="96kbps,amritsar,darbar sahib,duhrbar sahb,golden temple,harmandir sahib,punjab,punjabi",Darbar Sahib Live (Golden Temple)
+http://live96.sgpc.net:8000/
+#EXTINF:-1 tvg-logo="http://dholcutzradio.com/favicon.ico" group-title="music",Dholcutz Radio
+http://server2.dholcutzradio.com:8003/live
+#EXTINF:-1 tvg-logo="http://radiosindia.com/images/favicon.ico" group-title="telugu",Radio tapaka Telugu
+https://mirchitapakahd-lh.akamaihd.net/i/mirchitapakahdlive_1_1@322572/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="misc",Radio Tarana
+http://stream.zeno.fm/t2rrw8uavp8uv?rj-ttl=5&rj-tok=AAABfdrgwMYAKz9hdt4dcNQwUw
+#EXTINF:-1 tvg-logo="https://radioudaan.com/sites/default/files/logo.jpg" group-title="blind,bollywood,commentary,community radio,cricket,disability,diversity,diwali,educational,eid,elections,games,marriage equality,motivational,music,olympics,quizzes,rakshabandhan,talk,visually impaired",Radio Udaan
+http://173.212.234.220/radio/8000/radio128.mp3
+#EXTINF:-1 tvg-logo="" group-title="international",radioBollyFM
+http://stream.zeno.fm/zu59ykebs2zuv?rj-ttl=5&rj-tok=AAABfd5FQ88A3znsmay6nou5xg
+
 
 
