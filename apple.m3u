@@ -1,6 +1,12 @@
 #EXTM3U
 http://epg.streamstv.me/epg/guide-india.xml.gz
 
+#EXTINF:-1 tvg-id="StarMaa.in" tvg-name="Star Maa" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://i.imgur.com/3dgl8QD.jpg" group-title="",HELLO BROTHER
+https://user-images.githubusercontent.com/68803611/131240661-3368df7d-7f4e-4854-bb6b-370f3ae22dfb.mp4
+
+#EXTINF:-1 tvg-id="StarMaa.in" tvg-name="Star Maa" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://i.imgur.com/YhjUruD.png" group-title="",SINDOORAM SONG
+https://user-images.githubusercontent.com/68803611/131243600-e04cd12d-ba00-4e15-80d2-cf67a2c6cda2.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/znRGaBJ.png" group-title="KIDS", Disney Hotstar Premium
 http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/26596
 
