@@ -127,6 +127,9 @@ http://server.streamplay.in:1935/ammanews/ammanews/playlist.m3u8
 #EXTINF:-1 tvg-id="Sai leela" tvg-logo="https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg" group-title="RELIGIOUS",Sai leela
 https://m-c07-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
 
+#EXTINF:-1 tvg-id="Sai TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png" group-title="Lifestyle",Sai TV
+http://decode.streamplay.in:1935/srisai/srisai/playlist.m3u8
+
 #EXTINF:-1 tvg-id="City News TV" tvg-logo="https://i.imgur.com/V8xqWHv.jpg" group-title="LOCAL",City News TV
 http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
 
