@@ -7,21 +7,6 @@ https://user-images.githubusercontent.com/68803611/131240661-3368df7d-7f4e-4854-
 #EXTINF:-1 tvg-id="StarMaa.in" tvg-name="Star Maa" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://i.imgur.com/YhjUruD.png" group-title="",SINDOORAM SONG
 https://user-images.githubusercontent.com/68803611/131243600-e04cd12d-ba00-4e15-80d2-cf67a2c6cda2.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/znRGaBJ.png" group-title="KIDS", Disney Hotstar Premium
-http://bandookk.xyz:80/streamcode/XGvvvVySJmPG/26596
-
-#EXTINF:-1 tvg-id="SVBC2.in" tvg-logo="https://i.imgur.com/NtmRt1A.png" group-title="RELIGIOUS",SVBC 2 
-http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
-
-#EXTINF:-1 tvg-id="SVBC3.in" tvg-logo="https://i.imgur.com/Ae2PMTu.png" group-title="RELIGIOUS",SVBC 3 
-https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SVBC4.in" tvg-logo="https://i.imgur.com/vCFdZny.png" group-title="RELIGIOUS",SVBC 4 
-https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SVBC.in" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="RELIGIOUS",SVBC Sri Venkateswara Bhakti Channel
-https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="2006" tvg-logo="https://i.imgur.com/JOvhDRm.png" group-title="KIDS", Motu Patlu 
 http://xtv.ooo:8080/live/214535413/121315126/307079.m3u8
 
@@ -52,26 +37,18 @@ https://livectv.phando.com/8044/chunklist0.m3u8
 #EXTINF:-1tvg-id="ext" tvg-logo="" group-title="KIDS", Manoranjan Grand
 https://livectv.phando.com/8043/chunklist0.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="INFOTAINMENT", Animal Planet English
-https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="INFORMATION", Animal Planet Hindi
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="INFORMATION", Animal Planet 
 https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="INFOTAINMENT", Discovery English HD
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="INFOTAINMENT", Discovery 
 https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" tvg-logo="" group-title="INFOTAINMENT", Discovery Hindi HD
-https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.imgur.com/72MEKWu.png" group-title="KIDS", Discovery Kids
-https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/Z7jNakS.jpg" group-title="INFOTAINMENT", Discovery Science English
 https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/Z7jNakS.jpg" group-title="INFOTAINMENT", Discovery Science Hindi
-https://denver1769.pages.dev/Discovery/discovery_science_hindi.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://i.imgur.com/72MEKWu.png" group-title="KIDS", Discovery Kids
+https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-logo="" group-title="INFOTAINMENT", Discovery Turbo
 https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
@@ -91,17 +68,11 @@ https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/zLMFnYB.png" group-title="INFOTAINMENT", ID English HD
 https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/zLMFnYB.png" group-title="INFOTAINMENT", ID Hindi HD
-https://denver1769.pages.dev/Discovery/id_hd_hindi.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/0KTVQbM.png" group-title="INFOTAINMENT", TRVL English HD
 https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/0KTVQbM.png" group-title="INFOTAINMENT", TLC English HD
 https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/0KTVQbM.png" group-title="INFOTAINMENT", TLC Hindi HD
-https://denver1769.pages.dev/Discovery/tlc_hd_hindi.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/Q1KRbWq.png" group-title="INFOTAINMENT", Unique tv
 https://a6we.short.gy/tivimaxxlinksUNIQUETV.m3u8
@@ -192,6 +163,20 @@ http://livetvbox.live:8080/live/Anne/Anne/98896.ts
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="ENTERTAINMENT", Zee Telugu HD
 http://sansat.net:25461/02024773939334/02024773939334/95883
+
+=========================================Devotional=====================================================================
+
+#EXTINF:-1 tvg-id="SVBC2.in" tvg-logo="https://i.imgur.com/NtmRt1A.png" group-title="RELIGIOUS",SVBC 2 
+http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="SVBC3.in" tvg-logo="https://i.imgur.com/Ae2PMTu.png" group-title="RELIGIOUS",SVBC 3 
+https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SVBC4.in" tvg-logo="https://i.imgur.com/vCFdZny.png" group-title="RELIGIOUS",SVBC 4 
+https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SVBC.in" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="RELIGIOUS",SVBC Sri Venkateswara Bhakti Channel
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 
 
 
