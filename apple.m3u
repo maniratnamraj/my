@@ -113,7 +113,7 @@ http://livetvbox.live:8080/live/Anne/Anne/23312.ts
 #EXTINF:-1 tvg-id="ETVCinema.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="ENTERTAINMENT", ETV Cinema
 http://sansat.net:25461/02024773939334/02024773939334/95856
 
-#EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="Telugu: ETV Abhiruchi" tvg-logo="https://i.imgur.com/pojgoNg.jpg" group-title="LIFESTYLE", ETV Abhiruchi
+#EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="" ETV Abhiruchi" tvg-logo="https://i.imgur.com/pojgoNg.jpg" group-title="LIFESTYLE", ETV Abhiruchi
 http://livetvbox.live:8080/live/Anne/Anne/9053.ts
 
 #EXTINF:-1 tvg-id="ETVLife.in" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Life.png" group-title="LIFESTYLE", ETV Life
