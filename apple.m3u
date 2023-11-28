@@ -375,6 +375,9 @@ http://37.49.225.197:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/296763
 #EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD 2" tvg-logo="https://watchindia.net/images/channels/Willow_HD.png" group-title="Sports",WILLOW CRICKET HD
 http://37.49.225.197:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/165776
 
+#EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD 2" tvg-logo="https://i.imgur.com/KthSX8T.png" group-title="Sports",Sports 18 HD
+https://himel~op@prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u
+
 #EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix HD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="ENTERTAINMENT",Sony Pix HD
 http://watchindia.net:8880/live/varghesekunju62/308678sher/2101.ts
 
