@@ -113,7 +113,7 @@ https://m-c07-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
 http://decode.streamplay.in:1935/srisai/srisai/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ETV.in" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" group-title="ENTERTAINMENT", ETV HD
-http://livetvbox.live:8080/live/Anne/Anne/23312.ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BB:78:78&stream=155852&extension=ts&play_token=VxpbYdYj96
 
 #EXTINF:-1 tvg-id="ETVCinema.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="ENTERTAINMENT", ETV Cinema
 http://sansat.net:25461/02024773939334/02024773939334/95856
