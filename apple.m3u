@@ -314,7 +314,7 @@ https://ythls.armelin.one/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8
 http://sansat.net:25461/02029020981254/02029020981254/95881
 
 #EXTINF:-1 tvg-id="4tvnews.in" tvg-name="NTV News" tvg-logo="https://watchindia.net/images/channels/telugu/NTV_News.png" group-title="",NTV News
-http://watchindia.net:8880/live/varghesekunju62/308678sher/2193.ts
+https://ythls.armelin.one/channel/UCumtYpCY26F6Jr3satUgMvA.m3u8
 
 #EXTINF:-1 tvg-id="rajmusixtelugu.in" tvg-name="Raj Musix Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Raj_Musix.png" group-title=",Raj Musix Telugu
 http://watchindia.net:8880/live/varghesekunju62/308678sher/957.ts
@@ -403,16 +403,13 @@ https://player.mslivestream.net/mslive/71e7f7cc7dc7c51206b7b3bbb51e3052.sdp/play
 https://ythls.onrender.com/channel/UCixD-KrpjXtMupkzkdFFlFg.m3u8
 
 #EXTINF:-1 tvg-id="DDYadagiri.in" tvg-logo="https://i.imgur.com/nxnGXJz.png" group-title="Documentary", DD Yadagiri 
-https://ythls.onrender.com/channel/UC6V4nVa0CQkoLZUlg9drmZA.m3u8
+https://ythls.armelin.one/channel/UCixD-KrpjXtMupkzkdFFlFg.m3u8
 
 #EXTINF:-1 tvg-id="INews.in" tvg-logo="https://i.imgur.com/IV1O11i.png" group-title="News", iNEWS 
 https://ythls.onrender.com/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8
 
 #EXTINF:-1 tvg-id="MahaaNews.in" tvg-logo="https://i.imgur.com/buT76vR.png" group-title="News", Mahaa News
 https://ythls.onrender.com/channel/UCDKjhgRoPF1CQk7HluMz23A.m3u8
-
-#EXTINF:-1 tvg-id="MetroTV.in" tvg-logo="https://i.ibb.co/CBgJ4QV/metro-logo.jpg" group-title="General", Metro TV 
-https://2nbyjxw5l53k-hls-live.qezycdn.com/metrotv/live.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NireekshanaTV.in" tvg-logo="https://i.imgur.com/nGJv6QR.png" group-title="RELIGIOUS", Nireekshana TV  
 https://ythls.onrender.com/channel/UCE2odzsjyDOClc7lCIdZ6OQ.m3u8
@@ -604,9 +601,6 @@ http://102.222.232.18:9981/stream/channelid/1703453709?ticket=D4BE1D964D39A886CF
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/T_News_logo.png/150px-T_News_logo.png" group-title="News",T News
 http://s1.pubnow.info:8080/aya3/samir112233/426351
 
-#EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",NTV Telugu
-http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/378752
-
 #EXTINF:-1 tvg-id="1960" group-title="News" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhaarat_Today.png",Bhaarat Today
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Bhaarat_Today
 
@@ -626,7 +620,7 @@ http://102.222.232.18:9981/stream/channelid/1005715685?ticket=0234C7E68548DCEFFF
 http://102.222.232.18:9981/stream/channelid/2061122734?ticket=3709ECF768E6E2EF28872C08FFEDB74DAFCD6BC3&profile=matroska
 
 #EXTINF:-1 tvg-id="HMTV" tvg-logo="https://i.imgur.com/NFy5hie.png" group-title="News", HMTV NEWS
-http://startv365.com:80/3634358837/1009221634/400162491
+
 
 #EXTINF:-1 tvg-id="Maha News" tvg-logo="https://i.imgur.com/2uKGvfV.png" group-title="News", Maha NEWS
 http://102.222.232.18:9981/stream/channelid/1355851860?ticket=E17E795EE2520966D807B28B65075291B33550F8&profile=matroska
