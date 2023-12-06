@@ -423,9 +423,6 @@ https://ythls.onrender.com/channel/UCyMei315xIaoJTp5YOYjTxA.m3u8
 #EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-logo="https://i.imgur.com/9QJ9chZ.png" group-title="Documentary",Sony BBC Earth HD 
 http://103.81.104.118/hls/stream5.m3u8
 
-#EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-logo="https://i.imgur.com/hfk5jKE.png" group-title="RELIGIOUS", Subhavaartha TV 
-https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TV5News.in" tvg-logo="https://i.imgur.com/aOrvsYj.png" group-title="NEWS", TV5 News
 https://ythls.armelin.one/channel/UCAR3h_9fLV82N2FH4cE4RKw.m3u8
 
@@ -657,7 +654,7 @@ http://102.222.232.18:9981/stream/channelid/124749874?ticket=2BD35C17D2EE8E29BA4
 
 
 #EXTINF: -1 tvg-id="607" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png" group-title="RELIGIOUS", Subhavartha TV
-http://starshare.live:8080/live/Fahim007/kasur1234/9055.ts
+http://37.49.225.197:8080/mitrovic/e8ac4724d4/166397
 
 #EXTINF:-1 tvg-id="1277" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nireekshana_TV.png"group-title="group-title="RELIGIOUS", Nireekshana TV
 
