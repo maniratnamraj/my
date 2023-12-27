@@ -113,7 +113,7 @@ https://m-c07-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
 http://decode.streamplay.in:1935/srisai/srisai/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ETV.in" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" group-title="ENTERTAINMENT", ETV HD
-http://livetvbox.live:8080/live/Juan/Juan/9017.ts
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/936.ts
 
 #EXTINF:-1 tvg-id="ETVCinema.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="ENTERTAINMENT", ETV Cinema
 http://livetvbox.live:8080/live/Juan/Juan/9045.ts
@@ -122,10 +122,10 @@ http://livetvbox.live:8080/live/Juan/Juan/9045.ts
 http://livetvbox.live:8080/live/Juan/Juan/9053.ts
 
 #EXTINF:-1 tvg-id="ETVLife.in" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Life.png" group-title="LIFESTYLE", ETV Life
-http://livetvbox.live:8080/live/Juan/Juan/9052.ts
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/938.ts
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Plus.png" group-title="LIFESTYLE", ETV PLUS
-http://livetvbox.live:8080/live/Juan/Juan/242.ts
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/937.ts
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="INFOTAINMENT", DD Saptagiri
 http://sansat.net:25461/02024773939334/02024773939334/95854
@@ -164,7 +164,7 @@ http://watchindia.net:8880/live/varghesekunju62/308678sher/929.ts
 http://livetvbox.live:8080/live/Anne/Anne/98896.ts
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="ENTERTAINMENT", Zee Telugu HD
-http://sansat.net:25461/02024773939334/02024773939334/95883
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/937.ts
 
 =========================================Devotional=====================================================================
 
@@ -260,10 +260,10 @@ https://a6we.short.gy/tivimaxxlinksdisneyjr.ts
 =============================DOCUMENTARY====================================================================
 
 #EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="https://i.imgur.com/9ZNRL8N.png" group-title="DOCUMENTARY", HISTORY 18 TELUGU HD
-http://sansat.net:25461/02024773939334/02024773939334/95866
+http://choiceneed.xyz:80/Y16G64U79A71P7/CZBALVRZAWZXB9DP/116707
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/BzOkwXi.jpg group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC HD
-http://sansat.net:25461/02024773939334/02024773939334/95868
+http://choiceneed.xyz:80/Y16G64U79A71P7/CZBALVRZAWZXB9DP/116711
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="MUSIC", RAJ MUSIC TELUGU
 http://sansat.net:25461/02024773939334/02024773939334/95869
@@ -293,7 +293,7 @@ http://watchindia.net:8880/live/varghesekunju62/308678sher/981.ts
 http://watchindia.net:8880/live/varghesekunju62/308678sher/980.ts
 
 #EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="Bhakti TV" tvg-logo="https://watchindia.net/images/channels/telugu/Bhakti_TV.png" group-title="",Bhakti TV
-http://watchindia.net:8880/live/varghesekunju62/308678sher/977.ts
+http://choiceneed.xyz:80/Y16G64U79A71P7/CZBALVRZAWZXB9DP/116693
 
 #EXTINF:-1 tvg-id="1sports.in" tvg-name="CVR News" tvg-logo="https://watchindia.net/images/channels/telugu/CVR_News.png" group-title="",CVR News
 http://watchindia.net:8880/live/varghesekunju62/308678sher/975.ts
@@ -538,13 +538,10 @@ http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
 http://startv365.com:80/3634358837/1009221634/36402
 
 #EXTINF: -1 tvg-id="576" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title=" ", Discovery Channel Telugu
-http://startv365.com:80/3634358837/1009221634/400203354
-
-#EXTINF: -1 tvg-id="577" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title=" ", History TV18 HD Telugu
-http://es4u.live:25461/02027671448453/02027671448453/95866
+http://choiceneed.xyz:80/Y16G64U79A71P7/CZBALVRZAWZXB9DP/116695
 
 #EXTINF:-1 tvg-ID="" tvg-name="TELEGU: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="", NATIONAL GEOGRAPHIC HD
-http://es4u.live:25461/02027671448453/02027671448453/95868
+http://choiceneed.xyz:80/Y16G64U79A71P7/CZBALVRZAWZXB9DP/116711
 
 #EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="Kids", KUSHI TV
 http://sansat.net:25461/02029020981254/02029020981254/95867
@@ -611,7 +608,7 @@ http://102.222.232.18:9981/stream/channelid/166770529?ticket=C49ACF4169860753113
 http://102.222.232.18:9981/stream/channelid/1005715685?ticket=0234C7E68548DCEFFF579636FBD9C1B6936DE8BB&profile=matroska
 
 #EXTINF:-1 tvg-id="CVR News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news.png" group-title="News",CVR News
-http://102.222.232.18:9981/stream/channelid/2061122734?ticket=3709ECF768E6E2EF28872C08FFEDB74DAFCD6BC3&profile=matroska
+http://choiceneed.xyz:80/Y16G64U79A71P7/CZBALVRZAWZXB9DP/116691
 
 #EXTINF:-1 tvg-id="HMTV" tvg-logo="https://i.imgur.com/NFy5hie.png" group-title="News", HMTV NEWS
 
