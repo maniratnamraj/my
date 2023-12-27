@@ -335,6 +335,8 @@ http://watchindia.net:8880/live/varghesekunju62/308678sher/947.ts
 http://watchindia.net:8880/live/varghesekunju62/308678sher/945.ts
 
 ------------------------------SPORTS------------------------------------------------
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="Sports 18 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png" group-title="Sports",Sports 18 HD
+http://watchindia.net:8880/live/71740/31043/2423.ts
 
 #EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/INDIA/Star_Sports_1_IN.png" group-title="SPORTS",Star Sports 1
 http://ghost1.tv:80/abogom3a_9118852/4288772442/45795
