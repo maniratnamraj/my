@@ -175,7 +175,7 @@ http://watchindia.net:8880/live/dharm23/qVir1fHdBn/936.ts
 #EXTINF:-1 tvg-id="ETVCinema.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="ENTERTAINMENT", ETV Cinema
 http://starshare.live:8080/live/7263417185/1718572634/9045.ts
 
-#EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="" ETV Abhiruchi" tvg-logo="https://i.imgur.com/pojgoNg.jpg" group-title="LIFESTYLE", ETV Abhiruchi
+#EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-logo="https://i.imgur.com/pojgoNg.jpg" group-title="LIFESTYLE", ETV Abhiruchi
 http://starshare.live:8080/live/7263417185/1718572634/9053.ts
 
 #EXTINF:-1 tvg-id="ETVLife.in" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Life.png" group-title="LIFESTYLE", ETV Life
