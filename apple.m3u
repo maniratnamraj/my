@@ -1,6 +1,63 @@
 #EXTM3U
 http://epg.streamstv.me/epg/guide-india.xml.gz
 
+#EXTINF:-1,24/7: Telugu_2022_2021_Collection_vol_1
+http://starshare.live:8080/live/7263417185/1718572634/121374.ts
+#EXTINF:-1,TELUGU-MOVIES 1 HD
+http://starshare.live:8080/live/7263417185/1718572634/136457.ts
+#EXTINF:-1,TELUGU-MOVIES 2 HD
+http://starshare.live:8080/live/7263417185/1718572634/136458.ts
+#EXTINF:-1,TELUGU-MOVIES 3 HD
+http://starshare.live:8080/live/7263417185/1718572634/136459.ts
+#EXTINF:-1,TELUGU-MOVIES 4 HD
+http://starshare.live:8080/live/7263417185/1718572634/136460.ts
+#EXTINF:-1,TELUGU-EROSNOW MOVIES 1 HD
+http://starshare.live:8080/live/7263417185/1718572634/136461.ts
+#EXTINF:-1,TELUGU-CLASSIC MOVIES 1 HD
+http://starshare.live:8080/live/7263417185/1718572634/136462.ts
+#EXTINF:-1,TELUGU-CLASSIC MOVIES 2 HD
+http://starshare.live:8080/live/7263417185/1718572634/136463.ts
+#EXTINF:-1,TELUGU-LATTEST MOVIES 1 HD
+http://starshare.live:8080/live/7263417185/1718572634/136464.ts
+#EXTINF:-1,TELUGU-LATTEST MOVIES 2 HD
+http://starshare.live:8080/live/7263417185/1718572634/136465.ts
+#EXTINF:-1,TELUGU-ACTION DRAMA MOVIES HD
+http://starshare.live:8080/live/7263417185/1718572634/136466.ts
+#EXTINF:-1,TELUGU-COMEDY MOVIES HD
+http://starshare.live:8080/live/7263417185/1718572634/136467.ts
+#EXTINF:-1,TELUGU-ACTION CRIME MOVIES HD
+http://starshare.live:8080/live/7263417185/1718572634/136468.ts
+#EXTINF:-1,TELUGU-ACTION THRILLER MOVIES HD
+http://starshare.live:8080/live/7263417185/1718572634/136469.ts
+#EXTINF:-1,TELUGU-THRILLER MOVIES HD
+http://starshare.live:8080/live/7263417185/1718572634/136470.ts
+#EXTINF:-1,TELUGU-ROMANCE MOVIES HD
+http://starshare.live:8080/live/7263417185/1718572634/136471.ts
+#EXTINF:-1,TELUGU-MYSTERY MOVIES HD
+http://starshare.live:8080/live/7263417185/1718572634/136472.ts
+#EXTINF:-1,TELUGU-COMEDY ROMANCE MOVES HD
+http://starshare.live:8080/live/7263417185/1718572634/136473.ts
+#EXTINF:-1,TELUGU-COMEDY DRAMA MOVIES HD
+http://starshare.live:8080/live/7263417185/1718572634/136474.ts
+#EXTINF:-1,TELUGU-CRIME MOVIES HD
+http://starshare.live:8080/live/7263417185/1718572634/136475.ts
+#EXTINF:-1,TELUGU-CRIME DRAMA MOVIES HD
+http://starshare.live:8080/live/7263417185/1718572634/136476.ts
+#EXTINF:-1,TELUGU-DRAMA MOVIES HD
+http://starshare.live:8080/live/7263417185/1718572634/136477.ts
+#EXTINF:-1,TELUGU-DRAMA ROMANCE MOVIES HD
+http://starshare.live:8080/live/7263417185/1718572634/136478.ts
+#EXTINF:-1,TELUGU-DRAMA THRILLER MOVIES HD
+http://starshare.live:8080/live/7263417185/1718572634/136479.ts
+#EXTINF:-1,TELUGU-FANTASY MOVIES HD
+http://starshare.live:8080/live/7263417185/1718572634/136480.ts
+#EXTINF:-1,TELUGU-HORROR MOVIES HD
+http://starshare.live:8080/live/7263417185/1718572634/136481.ts
+#EXTINF:-1,TELUGU-HORROR THRILLER MOVIES HD
+http://starshare.live:8080/live/7263417185/1718572634/136482.ts
+#EXTINF:-1,TELUGU-MUSICAL MOVIES HD
+http://starshare.live:8080/live/7263417185/1718572634/136483.ts
+
 #EXTINF:-1 tvg-id="StarMaa.in" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="https://i.imgur.com/3dgl8QD.jpg" group-title="LOCAL",HELLO BROTHER
 https://user-images.githubusercontent.com/68803611/131240661-3368df7d-7f4e-4854-bb6b-370f3ae22dfb.mp4
 
@@ -116,10 +173,10 @@ http://decode.streamplay.in:1935/srisai/srisai/playlist.m3u8
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/936.ts
 
 #EXTINF:-1 tvg-id="ETVCinema.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="ENTERTAINMENT", ETV Cinema
-http://livetvbox.live:8080/live/Juan/Juan/9045.ts
+http://starshare.live:8080/live/7263417185/1718572634/9045.ts
 
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="" ETV Abhiruchi" tvg-logo="https://i.imgur.com/pojgoNg.jpg" group-title="LIFESTYLE", ETV Abhiruchi
-http://livetvbox.live:8080/live/Juan/Juan/9053.ts
+http://starshare.live:8080/live/7263417185/1718572634/9053.ts
 
 #EXTINF:-1 tvg-id="ETVLife.in" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Life.png" group-title="LIFESTYLE", ETV Life
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/938.ts
@@ -137,7 +194,7 @@ http://sansat.net:25461/02024773939334/02024773939334/95855
 http://watchindia.net:8880/live/varghesekunju62/308678sher/933.ts
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="ENTERTAINMENT", STAR MAA MOVIES HD
-http://watchindia.net:8880/live/varghesekunju62/308678sher/934.ts
+http://starshare.live:8080/live/7263417185/1718572634/9015.ts
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="ENTERTAINMENT", STAR MAA GOLD HD
 http://watchindia.net:8880/live/varghesekunju62/308678sher/935.ts
@@ -326,7 +383,7 @@ http://watchindia.net:8880/live/varghesekunju62/308678sher/955.ts
 http://watchindia.net:8880/live/varghesekunju62/308678sher/2126.ts
 
 #EXTINF:-1 tvg-id="tnews.in" tvg-name="T News" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" group-title="",T News
-http://watchindia.net:8880/live/varghesekunju62/308678sher/949.ts
+http://starshare.live:8080/live/7263417185/1718572634/9049.ts
 
 #EXTINF:-1 tvg-id="thanthitv.in" tvg-name="Thanthi TV" tvg-logo="https://watchindia.net/images/channels/telugu/Thanthi_TV.png" group-title="",Thanthi TV
 http://watchindia.net:8880/live/varghesekunju62/308678sher/947.ts
