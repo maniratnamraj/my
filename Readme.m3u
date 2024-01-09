@@ -428,10 +428,10 @@ https://bq32.short.gy/offline_vaathala?channelId=275&uid=4944&deviceMac=00:1A:79
 #EXTINF:-1 tvg-id="288" tvg-logo="http://tv.cloudcdn.me/images/starsports1telugu.png" group-title="SPORTS", Star Sports 1 Telugu HD
 https://bq32.short.gy/offline_vaathala?channelId=288&uid=4944&deviceMac=00:1A:79:94:98:FE
 
-#EXTINF:-1 tvg-id="sony.ten.4.in" tvg-name="Sony Ten 4 HD" tvg-logo="https://i.imgur.com/vdhl7Zo.png" SONY Sports 4 
+#EXTINF:-1 tvg-id="sony.ten.4.in" tvg-name="Sony Ten 4 HD" tvg-logo="https://i.imgur.com/vdhl7Zo.png" group-title="SPORTS",SONY Sports 4 
 http://starshare.live:8080/live/7263417185/1718572634/29469.ts
 
-#EXTINF:-1 tvg-id="sony.ten.5.in" tvg-name="Sony Ten 5 HD" tvg-logo="https://i.imgur.com/rmK2ME4.png" SONY Sports 5 
+#EXTINF:-1 tvg-id="sony.ten.5.in" tvg-name="Sony Ten 5 HD" tvg-logo="https://i.imgur.com/rmK2ME4.png" group-title="SPORTS"SONY Sports 5 
 http://starshare.live:8080/live/7263417185/1718572634/176.ts
 
 #EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD Sports" tvg-logo="https://watchindia.net/images/channels/sports/DD_Sports.png" group-title="Sports",DD Sports
