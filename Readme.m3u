@@ -1,63 +1,6 @@
 #EXTM3U
 http://epg.streamstv.me/epg/guide-india.xml.gz
 
-#EXTINF:-1,24/7: Telugu_2022_2021_Collection_vol_1
-http://starshare.live:8080/live/7263417185/1718572634/121374.ts
-#EXTINF:-1,TELUGU-MOVIES 1 HD
-http://starshare.live:8080/live/7263417185/1718572634/136457.ts
-#EXTINF:-1,TELUGU-MOVIES 2 HD
-http://starshare.live:8080/live/7263417185/1718572634/136458.ts
-#EXTINF:-1,TELUGU-MOVIES 3 HD
-http://starshare.live:8080/live/7263417185/1718572634/136459.ts
-#EXTINF:-1,TELUGU-MOVIES 4 HD
-http://starshare.live:8080/live/7263417185/1718572634/136460.ts
-#EXTINF:-1,TELUGU-EROSNOW MOVIES 1 HD
-http://starshare.live:8080/live/7263417185/1718572634/136461.ts
-#EXTINF:-1,TELUGU-CLASSIC MOVIES 1 HD
-http://starshare.live:8080/live/7263417185/1718572634/136462.ts
-#EXTINF:-1,TELUGU-CLASSIC MOVIES 2 HD
-http://starshare.live:8080/live/7263417185/1718572634/136463.ts
-#EXTINF:-1,TELUGU-LATTEST MOVIES 1 HD
-http://starshare.live:8080/live/7263417185/1718572634/136464.ts
-#EXTINF:-1,TELUGU-LATTEST MOVIES 2 HD
-http://starshare.live:8080/live/7263417185/1718572634/136465.ts
-#EXTINF:-1,TELUGU-ACTION DRAMA MOVIES HD
-http://starshare.live:8080/live/7263417185/1718572634/136466.ts
-#EXTINF:-1,TELUGU-COMEDY MOVIES HD
-http://starshare.live:8080/live/7263417185/1718572634/136467.ts
-#EXTINF:-1,TELUGU-ACTION CRIME MOVIES HD
-http://starshare.live:8080/live/7263417185/1718572634/136468.ts
-#EXTINF:-1,TELUGU-ACTION THRILLER MOVIES HD
-http://starshare.live:8080/live/7263417185/1718572634/136469.ts
-#EXTINF:-1,TELUGU-THRILLER MOVIES HD
-http://starshare.live:8080/live/7263417185/1718572634/136470.ts
-#EXTINF:-1,TELUGU-ROMANCE MOVIES HD
-http://starshare.live:8080/live/7263417185/1718572634/136471.ts
-#EXTINF:-1,TELUGU-MYSTERY MOVIES HD
-http://starshare.live:8080/live/7263417185/1718572634/136472.ts
-#EXTINF:-1,TELUGU-COMEDY ROMANCE MOVES HD
-http://starshare.live:8080/live/7263417185/1718572634/136473.ts
-#EXTINF:-1,TELUGU-COMEDY DRAMA MOVIES HD
-http://starshare.live:8080/live/7263417185/1718572634/136474.ts
-#EXTINF:-1,TELUGU-CRIME MOVIES HD
-http://starshare.live:8080/live/7263417185/1718572634/136475.ts
-#EXTINF:-1,TELUGU-CRIME DRAMA MOVIES HD
-http://starshare.live:8080/live/7263417185/1718572634/136476.ts
-#EXTINF:-1,TELUGU-DRAMA MOVIES HD
-http://starshare.live:8080/live/7263417185/1718572634/136477.ts
-#EXTINF:-1,TELUGU-DRAMA ROMANCE MOVIES HD
-http://starshare.live:8080/live/7263417185/1718572634/136478.ts
-#EXTINF:-1,TELUGU-DRAMA THRILLER MOVIES HD
-http://starshare.live:8080/live/7263417185/1718572634/136479.ts
-#EXTINF:-1,TELUGU-FANTASY MOVIES HD
-http://starshare.live:8080/live/7263417185/1718572634/136480.ts
-#EXTINF:-1,TELUGU-HORROR MOVIES HD
-http://starshare.live:8080/live/7263417185/1718572634/136481.ts
-#EXTINF:-1,TELUGU-HORROR THRILLER MOVIES HD
-http://starshare.live:8080/live/7263417185/1718572634/136482.ts
-#EXTINF:-1,TELUGU-MUSICAL MOVIES HD
-http://starshare.live:8080/live/7263417185/1718572634/136483.ts
-
 #EXTINF:-1 tvg-id="StarMaa.in" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="https://i.imgur.com/3dgl8QD.jpg" group-title="LOCAL",HELLO BROTHER
 https://user-images.githubusercontent.com/68803611/131240661-3368df7d-7f4e-4854-bb6b-370f3ae22dfb.mp4
 
@@ -123,9 +66,6 @@ https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.it" tvg-logo=""group-title="INFOTAINMENT", DMAX HD
 https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
-
-#EXTINF:-1 tvg-id="esp-hd" tvg-logo="" group-title="SPORTS", Eurosport HD
-https://denver1769.pages.dev/Discovery/eurosport_hd_english.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/VMimnT2.png" group-title="INFOTAINMENT", Food Network English
 https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
@@ -404,8 +344,11 @@ http://starshare.live:8080/live/7263417185/1718572634/239.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 http://starshare.live:8080/live/7263417185/1718572634/1080.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports HINDI
-http://starshare.live:8080/live/7263417185/1718572634/211.ts
+#EXTINF:-1 tvg-id="sony.ten.4.in" tvg-name="Sony Ten 4 HD" tvg-logo="https://i.imgur.com/vdhl7Zo.png" group-title="SPORTS",SONY Sports 4 
+http://starshare.live:8080/live/7263417185/1718572634/29469.ts
+
+#EXTINF:-1 tvg-id="sony.ten.5.in" tvg-name="Sony Ten 5 HD" tvg-logo="https://i.imgur.com/rmK2ME4.png" group-title="SPORTS",SONY Sports 5 
+http://starshare.live:8080/live/7263417185/1718572634/176.ts
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name=""" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="Sports",STAR SPORTS SELECT 1 HD
 http://starshare.live:8080/live/7263417185/1718572634/238.ts
@@ -422,18 +365,14 @@ http://starshare.live:8080/live/7263417185/1718572634/31314.ts
 #EXTINF:-1 tvg-id="sony.ten.3.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_3_HD.png" group-title="Sports",Sony Sports 3 HD
 http://starshare.live:8080/live/7263417185/1718572634/146.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports HINDI
+http://starshare.live:8080/live/7263417185/1718572634/211.ts
+
 #EXTINF:-1 tvg-id="275" tvg-logo="http://tv.cloudcdn.me/images/starsports1tamil.png" group-title="SPORTS",Star Sports 1 Tamil 
 https://bq32.short.gy/offline_vaathala?channelId=275&uid=4944&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 tvg-id="288" tvg-logo="http://tv.cloudcdn.me/images/starsports1telugu.png" group-title="SPORTS", Star Sports 1 Telugu HD
 https://bq32.short.gy/offline_vaathala?channelId=288&uid=4944&deviceMac=00:1A:79:94:98:FE
-
-#EXTINF:-1 tvg-id="sony.ten.4.in" tvg-name="Sony Ten 4 HD" tvg-logo="https://i.imgur.com/vdhl7Zo.png" group-title="SPORTS",SONY Sports 4 
-http://starshare.live:8080/live/7263417185/1718572634/29469.ts
-
-#EXTINF:-1 tvg-id="sony.ten.5.in" tvg-name="Sony Ten 5 HD" tvg-logo="https://i.imgur.com/rmK2ME4.png" group-title="SPORTS",SONY Sports 5 
-http://starshare.live:8080/live/7263417185/1718572634/176.ts
-
 
 #EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD 1" tvg-logo="https://i.imgur.com/s27K3Zc.jpg" group-title="Sports",WILLOW EXTRA HD
 http://starshare.live:8080/live/7263417185/1718572634/5040.ts
@@ -716,11 +655,6 @@ http://102.222.232.18:9981/stream/channelid/124749874?ticket=2BD35C17D2EE8E29BA4
 http://37.49.225.197:8080/mitrovic/e8ac4724d4/166397
 
 #EXTINF:-1 tvg-id="1277" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nireekshana_TV.png"group-title="group-title="RELIGIOUS", Nireekshana TV
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: D SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="SPORTS", D SPORTS HD
-https://www.youtube.com/watch?v=gqOir8FONGs
-
 
 
 _____________________________________________________HINDI __________________________________________________________
@@ -1456,4 +1390,8 @@ https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
 
 #EXTINF:-1 tvg-id="ZeeThirai.in" tvg-logo="https://i.imgur.com/vmHfPD8.png" group-title="Undefined",Zee Thirai 
 http://line.gofast-tv.me/play/live.php?extension=ts&mac=00:1A:79:6F:5A:5D&play_token=oOPicFfGrH&stream=941587
+
+
+
+
 
