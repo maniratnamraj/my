@@ -1,5 +1,5 @@
 #EXTM3U
-http://epg.streamstv.me/epg/guide-india.xml.gz
+#url-tvg="http://rstream.me/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="ETV.in" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" group-title="ENTERTAINMENT", ETV HD
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/936.ts
@@ -26,7 +26,7 @@ http://sansat.net:25461/02024773939334/02024773939334/95855
 http://watchindia.net:8880/live/varghesekunju62/308678sher/933.ts
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="ENTERTAINMENT", STAR MAA MOVIES HD
-http://starshare.live:8080/live/7263417185/1718572634/9015.ts
+http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281775&extension=ts
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="ENTERTAINMENT", STAR MAA GOLD HD
 http://watchindia.net:8880/live/varghesekunju62/308678sher/935.ts
