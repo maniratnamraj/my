@@ -209,6 +209,21 @@ http://103.186.77.21:8000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="NickHDPlus.in" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="KIDS",Nick HD+ 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 
+#EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="Kids", KUSHI TV
+http://sansat.net:25461/02029020981254/02029020981254/95867
+
+#EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="Kids", Sonic Telugu
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400203358
+
+#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="Kids", Cartoon Network Telugu
+http://startv365.com:80/3634358837/1009221634/400203364
+
+#EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="Kids", Nick TELUGU
+http://startv365.com:80/3634358837/1009221634/400203360
+
+#EXTINF:-1 tvg-id="1883" group-title="Kids" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png",Pogo Telugu
+http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400203359
+
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="KIDS", Hooray Rhymes
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-cartoonytv-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
 
@@ -376,16 +391,11 @@ https://ythls.armelin.one/channel/UCl5YgCiwSRVOiC2Nd1P9v1A.m3u8
 #EXTINF:-1 tvg-id="AdityaMusicIndia.in" tvg-logo="https://t.infibeam.com/img/lookandfeel/5101232/753d6e8f698e4_logo.png.999xx.png" group-title="MUSIC",Aditya Music 
 https://ythls.onrender.com/channel/UCNApqoVYJbYSrni4YsbXzyQ.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-id="CVRNews.in" tvg-logo="https://i.imgur.com/UVLWX8B.png" group-title="News",CVR News Telugu 
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834496&extension=ts
 
 #EXTINF:-1 tvg-id="DDYadagiri.in" tvg-logo="https://i.imgur.com/nxnGXJz.png" group-title="Documentary", DD Yadagiri 
 https://ythls.armelin.one/channel/UCixD-KrpjXtMupkzkdFFlFg.m3u8
-
 
 #EXTINF:-1 tvg-id="cvrTV.in" tvg-logo="https://i.imgur.com/nGJv6QR.png" group-title="RELIGIOUS", cvr TV  
 https://ythls.onrender.com/channel/UCE2odzsjyDOClc7lCIdZ6OQ.m3u8
@@ -516,20 +526,7 @@ http://choiceneed.xyz:80/Y16G64U79A71P7/CZBALVRZAWZXB9DP/116695
 #EXTINF:-1 tvg-ID="" tvg-name="TELEGU: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="", NATIONAL GEOGRAPHIC HD
 http://choiceneed.xyz:80/Y16G64U79A71P7/CZBALVRZAWZXB9DP/116711
 
-#EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="Kids", KUSHI TV
-http://sansat.net:25461/02029020981254/02029020981254/95867
 
-#EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="Kids", Sonic Telugu
-http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400203358
-
-#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="Kids", Cartoon Network Telugu
-http://startv365.com:80/3634358837/1009221634/400203364
-
-#EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="Kids", Nick TELUGU
-http://startv365.com:80/3634358837/1009221634/400203360
-
-#EXTINF:-1 tvg-id="1883" group-title="Kids" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png",Pogo Telugu
-http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400203359
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://i.imgur.com/KVLxDzb.png" group-title="News", RAJ NEWS TELUGU
 http://s1.pubnow.info:8080/aya3/samir112233/426609
@@ -585,9 +582,6 @@ http://103.139.171.5:5001/live.php?c=Saileela_TV_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="CVR OM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="RELIGIOUS",CVR OM
 http://102.222.232.18:9981/stream/channelid/650237503?ticket=AA513C6B1DA2E09887B41CDB6DE93659EADFE626&profile=matroska
-
-#EXTINF: -1 tvg-id="1591" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saileela_TV_Telugu.png" group-title=" RELIGIOUS", Saileela TV Telugu
-http://103.139.171.5:5001/live.php?c=Saileela_TV_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="1254"  tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="RELIGIOUS"",Aastha Telugu
 http://102.222.232.18:9981/stream/channelid/596533712?ticket=925FC036E96BB457520222C06CB4072D6E513B83&profile=matroska
