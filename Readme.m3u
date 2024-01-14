@@ -8,7 +8,7 @@ http://watchindia.net:8880/live/dharm23/qVir1fHdBn/936.ts
 http://starshare.live:8080/live/7263417185/1718572634/9045.ts
 
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-logo="https://i.imgur.com/pojgoNg.jpg" group-title="LIFESTYLE", ETV Abhiruchi
-http://starshare.live:8080/live/7263417185/1718572634/9053.ts
+http://livetvbox.live:8080/live/Anthony06/Anthony06/9053.ts
 
 #EXTINF:-1 tvg-id="ETVLife.in" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Life.png" group-title="LIFESTYLE", ETV Life
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/938.ts
@@ -41,22 +41,43 @@ http://watchindia.net:8880/live/varghesekunju62/308678sher/928.ts
 http://watchindia.net:8880/live/varghesekunju62/308678sher/930.ts
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Life_HD.png" group-title="ENTERTAINMENT", Gemini Life
-http://watchindia.net:8880/live/varghesekunju62/308678sher/931.ts
+http://livetvbox.live:8080/live/Anthony06/Anthony06/9044.ts
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png" group-title="ENTERTAINMENT", Gemini Comedy
-http://watchindia.net:8880/live/varghesekunju62/308678sher/971.ts
+http://livetvbox.live:8080/live/Anthony06/Anthony06/9042.ts
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Music_HD.png" group-title="MUSIC", GEMINI MUSIC HD
 http://watchindia.net:8880/live/varghesekunju62/308678sher/929.ts
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://watchindia.net/images/channels/telugu/Zee_Cinemalu.png" group-title="ENTERTAINMENT", Zee Cinemalu HD
-http://livetvbox.live:8080/live/Anne/Anne/98896.ts
+http://livetvbox.live:8080/live/Anthony06/Anthony06/9016.ts
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="ENTERTAINMENT", Zee Telugu HD
-http://watchindia.net:8880/live/12171/04170628/940.ts
+http://livetvbox.live:8080/live/Anthony06/Anthony06/23316.ts
+
+=========================================Devotional=====================================================================
+
+#EXTINF:-1 tvg-id="SVBC2.in" tvg-logo="https://i.imgur.com/NtmRt1A.png" group-title="RELIGIOUS",SVBC 2 
+http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="SVBC3.in" tvg-logo="https://i.imgur.com/Ae2PMTu.png" group-title="RELIGIOUS",SVBC 3 
+https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SVBC4.in" tvg-logo="https://i.imgur.com/vCFdZny.png" group-title="RELIGIOUS",SVBC 4 
+https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SVBC.in" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="RELIGIOUS",SVBC Sri Venkateswara Bhakti Channel
+http://livetvbox.live:8080/live/Anthony06/Anthony06/34581.ts
+
+#EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="Bhakti TV" tvg-logo="https://watchindia.net/images/channels/telugu/Bhakti_TV.png" group-title="",Bhakti TV
+http://choiceneed.xyz:80/Y16G64U79A71P7/CZBALVRZAWZXB9DP/116693
+
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://i.imgur.com/u40uu3r.png" group-title="ENTERTAINMENT", Vissa TV
 http://appleiptv.com:80/6666/6666/146760
+
+#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="MUSIC", RAJ MUSIC TELUGU
+http://livetvbox.live:8080/live/Anthony06/Anthony06/243.ts
 
 #EXTINF:-1 tvg-id="StarMaa.in" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="https://i.imgur.com/3dgl8QD.jpg" group-title="LOCAL",HELLO BROTHER
 https://user-images.githubusercontent.com/68803611/131240661-3368df7d-7f4e-4854-bb6b-370f3ae22dfb.mp4
@@ -76,35 +97,6 @@ https://user-images.githubusercontent.com/68803611/135034861-c31e83d3-3d29-42cd-
 #EXTINF:-1 tvg-id="StarMaa.in" tvg-name="" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://i.imgur.com/IPUgM9B.jpg" group-title="LOCAL",Trinetrudu
 https://github.com/cadsoftcomputer/BBB-Wifi-Radio/assets/68803611/1f4ad3dc-1e07-4353-bf21-e814f0178cd9
 
-#EXTINF:-1 tvg-id="2006" tvg-logo="https://i.imgur.com/JOvhDRm.png" group-title="KIDS", Motu Patlu 
-http://xtv.ooo:8080/live/214535413/121315126/307079.m3u8
-
-#EXTINF:-1 tvg-id="2006" tvg-logo="https://i.imgur.com/lb4ktWG.png" group-title="KIDS", Chhota Bheem
-http://xtv.ooo:8080/live/214535413/121315126/315401.m3u8 
-
-#EXTINF:-1 tvg-id="2006" tvg-logo="https://i.imgur.com/7qWg7Ui.png" group-title="KIDS", Super hungama
-https://a6we.short.gy/superhungamativimaxx.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LeNVBmF.png" group-title="KIDS", Hungama
-https://a6we.short.gy/tivimaxxlinkshungama.m3u8
-
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-logo="" group-title="KIDS", Disney HD
-https://a6we.short.gy/tivimaxxdisneyhd.m3u8
-
-#EXTINF:-1tvg-id="disney" tvg-logo=""  group-title="KIDS", Disney
-https://a6we.short.gy/disneytivimaxx.m3u8
-
-#EXTINF:-1 tvg-id="disney" tvg-logo="" group-title="KIDS", Cartoon Network
-https://a6we.short.gy/cntivimaxx
-
-#EXTINF:-1 tvg-id="nick-jr" tvg-logo="" group-title="KIDS", Nick Junior
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-id="Manoranjan" tvg-logo="https://i.imgur.com/nyMiiiW.jpg" group-title="KIDS", MANORANJAN TV
-https://livectv.phando.com/8044/chunklist0.m3u8
-
-#EXTINF:-1tvg-id="ext" tvg-logo="" group-title="KIDS", Manoranjan Grand
-https://livectv.phando.com/8043/chunklist0.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="INFORMATION", Animal Planet 
 https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
@@ -168,19 +160,6 @@ http://decode.streamplay.in:1935/srisai/srisai/playlist.m3u8
 
 
 
-=========================================Devotional=====================================================================
-
-#EXTINF:-1 tvg-id="SVBC2.in" tvg-logo="https://i.imgur.com/NtmRt1A.png" group-title="RELIGIOUS",SVBC 2 
-http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
-
-#EXTINF:-1 tvg-id="SVBC3.in" tvg-logo="https://i.imgur.com/Ae2PMTu.png" group-title="RELIGIOUS",SVBC 3 
-https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SVBC4.in" tvg-logo="https://i.imgur.com/vCFdZny.png" group-title="RELIGIOUS",SVBC 4 
-https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SVBC.in" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="RELIGIOUS",SVBC Sri Venkateswara Bhakti Channel
-https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 
 
 
@@ -249,14 +228,35 @@ http://xtv.ooo:8080/live/214535413/121315126/311373.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="KIDS", Chumbak tv
 https://a6we.short.gy/tivimaxxlinkschumbaktv.ts
 
-#EXTINF:-1 tvg-id="POGO.in" tvg-logo="" group-title="KIDS", Pogo
-https://a6we.short.gy/Tivimaxxlinkspogo.m3u8
-
 #EXTINF:-1 tvg-id="nickelod" tvg-logo="" group-title="KIDS", Nick
 https://a6we.short.gy/tivimaxxnick.ts
 
-#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-logo="" group-title="KIDS", Disney jr
-https://a6we.short.gy/tivimaxxlinksdisneyjr.ts
+#EXTINF:-1 tvg-id="2006" tvg-logo="https://i.imgur.com/JOvhDRm.png" group-title="KIDS", Motu Patlu 
+http://xtv.ooo:8080/live/214535413/121315126/307079.m3u8
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="https://i.imgur.com/lb4ktWG.png" group-title="KIDS", Chhota Bheem
+http://xtv.ooo:8080/live/214535413/121315126/315401.m3u8 
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="https://i.imgur.com/7qWg7Ui.png" group-title="KIDS", Super hungama
+https://a6we.short.gy/superhungamativimaxx.m3u8
+
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-logo="" group-title="KIDS", Disney HD
+https://a6we.short.gy/tivimaxxdisneyhd.m3u8
+
+#EXTINF:-1tvg-id="disney" tvg-logo=""  group-title="KIDS", Disney
+https://a6we.short.gy/disneytivimaxx.m3u8
+
+#EXTINF:-1 tvg-id="disney" tvg-logo="" group-title="KIDS", Cartoon Network
+https://a6we.short.gy/cntivimaxx
+
+#EXTINF:-1 tvg-id="nick-jr" tvg-logo="" group-title="KIDS", Nick Junior
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="Manoranjan" tvg-logo="https://i.imgur.com/nyMiiiW.jpg" group-title="KIDS", MANORANJAN TV
+https://livectv.phando.com/8044/chunklist0.m3u8
+
+#EXTINF:-1tvg-id="ext" tvg-logo="" group-title="KIDS", Manoranjan Grand
+https://livectv.phando.com/8043/chunklist0.m3u8
 
 
 =============================DOCUMENTARY====================================================================
@@ -267,14 +267,11 @@ http://choiceneed.xyz:80/Y16G64U79A71P7/CZBALVRZAWZXB9DP/116707
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/BzOkwXi.jpg group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC HD
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281793&extension=ts
 
-#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="MUSIC", RAJ MUSIC TELUGU
-http://sansat.net:25461/02024773939334/02024773939334/95869
+#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/MyuB3E5.png" group-title="INFORMATION", SONY BBC EARTH HD
+http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281782&extension=ts
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/yl9qHdj.png" group-title="NEWS", RAJ NEWS TELUGU
 http://sansat.net:25461/02024773939334/02024773939334/95870
-
-#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/MyuB3E5.png" group-title="INFORMATION", SONY BBC EARTH HD
-http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281782&extension=ts
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/ASfvsHi.jpg" group-title="NEWS", TV5 NEWS
 http://sansat.net:25461/02024773939334/02024773939334/95877
@@ -312,26 +309,15 @@ http://sansat.net:25461/02029020981254/02029020981254/95881
 #EXTINF:-1 tvg-id="4tvnews.in" tvg-name="NTV News" tvg-logo="https://watchindia.net/images/channels/telugu/NTV_News.png" group-title="",NTV News
 https://ythls.armelin.one/channel/UCumtYpCY26F6Jr3satUgMvA.m3u8
 
-#EXTINF:-1 tvg-id="rajmusixtelugu.in" tvg-name="Raj Musix Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Raj_Musix.png" group-title=",Raj Musix Telugu
-http://watchindia.net:8880/live/varghesekunju62/308678sher/957.ts
-
-#EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-name="Raj News Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Raj_News.png" group-title="",Raj News Telugu
-http://watchindia.net:8880/live/varghesekunju62/308678sher/956.ts
-
-#EXTINF:-1 tvg-id="sakshitv.in" tvg-name="Sakshi TV" tvg-logo="https://watchindia.net/images/channels/telugu/Sakshi_TV.png" group-title="",Sakshi TV
+#EXTINF:-1 tvg-id="sakshitv.in" tvg-name="Sakshi TV" tvg-logo="https://watchindia.net/images/channels/telugu/Sakshi_TV.png" group-title="News",Sakshi TV
 http://watchindia.net:8880/live/varghesekunju62/308678sher/955.ts
 
-#EXTINF:-1 tvg-id="sony.yay.in" tvg-name="Sony Yay Telugu" tvg-logo="https://watchindia.net/images/channels/kids/Sony_Yay.png" group-title="",Sony Yay Telugu
-http://watchindia.net:8880/live/varghesekunju62/308678sher/2126.ts
-
-#EXTINF:-1 tvg-id="tnews.in" tvg-name="T News" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" group-title="",T News
+#EXTINF:-1 tvg-id="tnews.in" tvg-name="T News" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" group-title="News",T News
 http://starshare.live:8080/live/7263417185/1718572634/9049.ts
 
-#EXTINF:-1 tvg-id="thanthitv.in" tvg-name="Thanthi TV" tvg-logo="https://watchindia.net/images/channels/telugu/Thanthi_TV.png" group-title="",Thanthi TV
-http://watchindia.net:8880/live/varghesekunju62/308678sher/947.ts
 
-#EXTINF:-1 tvg-id="tv9.in" tvg-name="TV9" tvg-logo="https://watchindia.net/images/channels/telugu/TV9.png" group-title="",TV9
-http://watchindia.net:8880/live/varghesekunju62/308678sher/945.ts
+#EXTINF:-1 tvg-id="tv9.in" tvg-name="TV9" tvg-logo="https://watchindia.net/images/channels/telugu/TV9.png" group-title="News",TV9
+http://livetvbox.live:8080/live/Anthony06/Anthony06/9047.ts
 
 ------------------------------SPORTS------------------------------------------------
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="Sports 18 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png" group-title="Sports",Sports 18 HD
