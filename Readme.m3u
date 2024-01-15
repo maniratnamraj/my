@@ -66,11 +66,12 @@ https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playli
 #EXTINF:-1 tvg-id="SVBC4.in" tvg-logo="https://i.imgur.com/vCFdZny.png" group-title="RELIGIOUS",SVBC 4 
 https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SVBC.in" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="RELIGIOUS",SVBC Sri Venkateswara Bhakti Channel
-http://livetvbox.live:8080/live/Anthony06/Anthony06/34581.ts
+#EXTINF:-1 tvg-id="SVBC.in" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="RELIGIOUS",SVBC Telugu
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="Bhakti TV" tvg-logo="https://watchindia.net/images/channels/telugu/Bhakti_TV.png" group-title="",Bhakti TV
 https://ythls.armelin.one/channel/UCSzOZ97LOpU-_AVlGfmD4rQ.m3u8
+http://livetvbox.live:8080/live/Anthony06/Anthony06/34581.ts
 
 #EXTINF: -1 tvg-id="955" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" group-title=" RELIGIOUS", Hindu Dharmam
 http://102.222.232.18:9981/stream/channelid/958834021?ticket=10253FBC74D4E78D85DD97E8DF90B690C2ECA1CF&profile=matroska
@@ -164,65 +165,49 @@ http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281792&extensio
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="KIDS", Sonic 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="KIDS", Cartoon Network HD+ 
-http://103.12.122.22:5000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="KIDS", Cartoon Network 
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/210340
 
 #EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="KIDS", Nick 
-http://103.186.77.21:8000/play/a03b/index.m3u8
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/182141
 
-#EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="KIDS", SONY YAY TELUGU
+#EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="KIDS", SONY YAY 
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281796&extension=ts
 
 #EXTINF:-1 tvg-id="Hungama" tvg-logo="https://i.imgur.com/cYVExRI.png" group-title="KIDS", Hungama
 http://103.186.77.21:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-id="Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c9a51a70ec6f938fa8c7b2dd5d186324.png" group-title=" KIDS",Baby TV
-http://ipro.webvps.de:25443/live/223300444/3216548777/62903.ts
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/210338
 
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/737c89acac29a375abc84fa6db9f7608.png" group-title="KIDS",Cartoon Network
-http://iptvtree.net:8080/schradi/5b48/2089
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a5af65e344f7b824fbda309c3606aa1a.png" group-title="KIDS",Disney Channel
-http://ipro.webvps.de:25443/live/223300444/3216548777/15178.ts
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/210342
 
 #EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/db7665573ac43d4418b35f2d2dff77ed.png" group-title=" KIDS",Disney Junior
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/182140
 
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/0086900f9e43865acfda4ec1f3d57866.png" group-title="Kids",Disney XD
 http://ipro.webvps.de:25443/live/223300444/3216548777/9286.ts
 
 #EXTINF:-1 tvg-id="Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7817352f2d6a1de52a2dd2b05277d640.jpg" group-title="KIDS",Nick Junior
-http://ipro.webvps.de:25443/live/223300444/3216548777/9373.ts
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/182132
 
 #EXTINF:-1 tvg-id="nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c7b6dc8925b4046e77a1a128c4761c05.png" group-title=" Kids",nickelodeon
-http://ipro.webvps.de:25443/live/223300444/3216548777/9251.ts
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/182133
 
 #EXTINF:-1 tvg-id="Nicktoons" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3a43c8dc11c73ac9f500052265325a1e.png" group-title="KIDS",Nicktoons
-http://ipro.webvps.de:25443/live/223300444/3216548777/9250.ts
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/182142
 
 #EXTINF:-1 tvg-id="Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a2c92e41c4aaadb4da7a957299bcdd68.png" group-title=" KIDS",Boomerang
-http://iptvtree.net:8080/schradi/5b48/411
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/210339
 
 #EXTINF:-1  tvg-id="Discovery Kids" tvg-logo="https://i.imgur.com/F6tDTGk.jpg" group-title=" KIDS",Discovery Kids
-http://103.186.77.21:8000/play/a03c/index.m3u8
+http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/182129
 
 #EXTINF:-1 tvg-id="NickHDPlus.in" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="KIDS",Nick HD+ 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="Kids", KUSHI TV
-http://sansat.net:25461/02029020981254/02029020981254/95867
-
-#EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="Kids", Sonic Telugu
-http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400203358
-
-#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="Kids", Cartoon Network Telugu
-http://startv365.com:80/3634358837/1009221634/400203364
-
-#EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="Kids", Nick TELUGU
-http://startv365.com:80/3634358837/1009221634/400203360
-
-#EXTINF:-1 tvg-id="1883" group-title="Kids" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png",Pogo Telugu
-http://xmquhxv.mhubery.xyz:80/8059765630/3322606439/400203359
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="KIDS", Hooray Rhymes
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-cartoonytv-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
