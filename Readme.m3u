@@ -1,119 +1,121 @@
 #EXTM3U
 #url-tvg="http://rstream.me/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="ETV.in" tvg-logo="https://watchindia.net/images/channels/telugu/ETV.png" group-title="ENTERTAINMENT", ETV HD
+#EXTINF:-1 tvg-id="ETV.in" tvg-logo="https://i.imgur.com/seg69lt.png" group-title="ENTERTAINMENT", ETV HD
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/936.ts
 
-#EXTINF:-1 tvg-id="ETVCinema.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="ENTERTAINMENT", ETV Cinema
+#EXTINF:-1 tvg-id="ETVCinema.in" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="ENTERTAINMENT", ETV CINEMA
 http://bostv.one:8080/sd12345/sd12345/94224
 http://sonyiptv.net:8080/5767/5767/268057
 
-#EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-logo="https://i.imgur.com/pojgoNg.jpg" group-title="LIFESTYLE", ETV Abhiruchi
+#EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="LIFESTYLE", ETV ABHIRUCHI
 http://livetvbox.live:8080/live/Anthony06/Anthony06/9053.ts
+http://sonyiptv.net:8080/5767/5767/268051
 
-#EXTINF:-1 tvg-id="ETVLife.in" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Life.png" group-title="LIFESTYLE", ETV Life
+#EXTINF:-1 tvg-id="ETVLife.in" tvg-logo="https://i.imgur.com/iFoJeKv.jpg" group-title="LIFESTYLE", ETV LIFE
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/938.ts
 
-#EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://watchindia.net/images/channels/telugu/ETV_Plus.png" group-title="LIFESTYLE", ETV PLUS
+#EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://i.imgur.com/i62bBx9.png" group-title="LIFESTYLE", ETV PLUS
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/937.ts
 
 #EXTINF:-1 tvg-id="MaaTv.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="ENTERTAINMENT", STAR MAA HD
 http://watchindia.net:8880/live/varghesekunju62/308678sher/933.ts
 
-#EXTINF:-1 tvg-id="MaaMovies.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="ENTERTAINMENT", STAR MAA MOVIES HD
+#EXTINF:-1 tvg-id="MaaMovies.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="ENTERTAINMENT", STAR MAA MOVIES 
 http://watchindia.net:8880/live/varghesekunju62/308678sher/2080.ts
 
-#EXTINF:-1 tvg-id="MaaGold.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="ENTERTAINMENT", STAR MAA GOLD HD
+#EXTINF:-1 tvg-id="MaaGold.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="ENTERTAINMENT", STAR MAA GOLD 
 http://watchindia.net:8880/live/varghesekunju62/308678sher/935.ts
 
-#EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="MUSIC",Star Maa Music
+#EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="MUSIC", STAR MAA MUSIC
  http://livetvbox.live:8080/live/Anne/Anne/57772.ts
 
-#EXTINF:-1 tvg-id="GeminiTv.in" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_TV_HD.png" group-title="ENTERTAINMENT", Gemini TV HD
+#EXTINF:-1 tvg-id="GeminiTv.in" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_TV_HD.png" group-title="ENTERTAINMENT", GEMINI TV 
 http://watchindia.net:8880/live/varghesekunju62/308678sher/928.ts
 
-#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Movies_HD.png" group-title="MOVIES", Gemini Movies HD
+#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Movies_HD.png" group-title="MOVIES", GEMINI MOVIES
 http://watchindia.net:8880/live/varghesekunju62/308678sher/930.ts
 
-#EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Life_HD.png" group-title="ENTERTAINMENT", Gemini Life
+#EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Life_HD.png" group-title="ENTERTAINMENT", GEMINI LIFE
 http://bostv.one:8080/sd12345/sd12345/94229
+http://sonyiptv.net:8080/5767/5767/268055
 
-#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png" group-title="ENTERTAINMENT", Gemini Comedy
+#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png" group-title="ENTERTAINMENT", GEMINI COMEDY
 http://livetvbox.live:8080/live/Anthony06/Anthony06/9042.ts
 
-#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Music_HD.png" group-title="MUSIC", GEMINI MUSIC HD
+#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Music_HD.png" group-title="MUSIC", GEMINI MUSIC 
 http://bostv.one:8080/sd12345/sd12345/94231
 
-#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://watchindia.net/images/channels/telugu/Zee_Cinemalu.png" group-title="ENTERTAINMENT", Zee Cinemalu HD
+#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://watchindia.net/images/channels/telugu/Zee_Cinemalu.png" group-title="ENTERTAINMENT", ZEE CINEMALU
 http://livetvbox.live:8080/live/Anthony06/Anthony06/9016.ts
 
-#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="ENTERTAINMENT", Zee Telugu HD
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="ENTERTAINMENT", ZEE TELUGU
 http://livetvbox.live:8080/live/Anthony06/Anthony06/23316.ts
 
-#EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://i.imgur.com/u40uu3r.png" group-title="ENTERTAINMENT", Vissa TV
+#EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://i.imgur.com/u40uu3r.png" group-title="ENTERTAINMENT", VISSA TV
 http://sansat.net:88/02000656286340/02000656286340/95881
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="MUSIC", RAJ MUSIC TELUGU
 http://sansat.net:88/02000656286340/02000656286340/95869
 
-#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="" group-title="INFORMATION", VANITHA TV
+#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/GiKojgU.png" group-title="INFORMATION", VANITHA TV
 http://sansat.net:88/02000656286340/02000656286340/95880
 
-#EXTINF:-1 tvg-id="AdityaMusicIndia.in" tvg-logo="https://t.infibeam.com/img/lookandfeel/5101232/753d6e8f698e4_logo.png.999xx.png" group-title="MUSIC",Aditya Music 
+#EXTINF:-1 tvg-id="AdityaMusicIndia.in" tvg-logo="https://t.infibeam.com/img/lookandfeel/5101232/753d6e8f698e4_logo.png.999xx.png" group-title="MUSIC", ADITYA MUSIC 
 https://ythls.onrender.com/channel/UCNApqoVYJbYSrni4YsbXzyQ.m3u8
 
 =========================================Devotional=====================================================================
 
-#EXTINF:-1 tvg-id="SVBC2.in" tvg-logo="https://i.imgur.com/NtmRt1A.png" group-title="RELIGIOUS",SVBC 2 
+#EXTINF:-1 tvg-id="SVBC2.in" tvg-logo="https://i.imgur.com/NtmRt1A.png" group-title="RELIGIOUS", SVBC 2 
 http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
 
-#EXTINF:-1 tvg-id="SVBC3.in" tvg-logo="https://i.imgur.com/Ae2PMTu.png" group-title="RELIGIOUS",SVBC 3 
+#EXTINF:-1 tvg-id="SVBC3.in" tvg-logo="https://i.imgur.com/Ae2PMTu.png" group-title="RELIGIOUS", SVBC 3 
 https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SVBC4.in" tvg-logo="https://i.imgur.com/vCFdZny.png" group-title="RELIGIOUS",SVBC 4 
+#EXTINF:-1 tvg-id="SVBC4.in" tvg-logo="https://i.imgur.com/vCFdZny.png" group-title="RELIGIOUS", SVBC 4 
 https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SVBC.in" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="RELIGIOUS",SVBC Telugu
+#EXTINF:-1 tvg-id="SVBC.in" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="RELIGIOUS", SVBC TELUGU
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="Bhakti TV" tvg-logo="https://watchindia.net/images/channels/telugu/Bhakti_TV.png" group-title="",Bhakti TV
+#EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="Bhakti TV" tvg-logo="https://i.imgur.com/RdZF3RB.png" group-title="RELIGIOUS",BHAKTI TV
 https://ythls.armelin.one/channel/UCSzOZ97LOpU-_AVlGfmD4rQ.m3u8
 http://livetvbox.live:8080/live/Anthony06/Anthony06/34581.ts
 
-#EXTINF:-1 tvg-id="1254"  tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="RELIGIOUS"",Aastha Telugu
+#EXTINF:-1 tvg-id="1254"  tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="RELIGIOUS"", AASTHA TELUGU
 http://102.222.232.18:9981/stream/channelid/596533712?ticket=925FC036E96BB457520222C06CB4072D6E513B83&profile=matroska
 
-#EXTINF: -1 tvg-id="955" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" group-title=" RELIGIOUS", Hindu Dharmam
+#EXTINF: -1 tvg-id="955" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" group-title=" RELIGIOUS", HINDU DHARMAM
 https://ythls.armelin.one/channel/UCMg2yY8OzHhw6mOvgIkaXYg.m3u8
 
-#EXTINF:-1 tvg-id="Sai TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png" group-title="Lifestyle",Sai TV
+#EXTINF:-1 tvg-id="Sai TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png" group-title="RELIGIOUS", SAI TV
 http://decode.streamplay.in:1935/srisai/srisai/playlist.m3u8
 
-#EXTINF: -1 tvg-id="1591" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saileela_TV_Telugu.png" group-title="RELIGIOUS", Saileela TV Telugu
+#EXTINF: -1 tvg-id="1591" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saileela_TV_Telugu.png" group-title="RELIGIOUS", SAILEELA TV TELUGU
 http://103.139.171.5:5001/live.php?c=Saileela_TV_Telugu&q=800&e=junk.m3u8
 
-#EXTINF: -1 tvg-id="977" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png" group-title="RELIGIOUS", Calvary
+#EXTINF: -1 tvg-id="977" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png" group-title="RELIGIOUS", CALVARY
 https://player.mslivestream.net/mslive/71e7f7cc7dc7c51206b7b3bbb51e3052.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Shubhsandesh.in" tvg-logo="https://i.imgur.com/XsuFVlf.png" group-title="RELIGIOUS",Shubhsandesh 
+#EXTINF:-1 tvg-id="Shubhsandesh.in" tvg-logo="https://i.imgur.com/XsuFVlf.png" group-title="RELIGIOUS", SHUBHSANDESH 
 https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 
-#EXTINF: -1 tvg-id="607" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png" group-title="RELIGIOUS", Subhavartha TV
+#EXTINF: -1 tvg-id="607" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png" group-title="RELIGIOUS", SUBHAVARTHA TV
 http://37.49.225.197:8080/mitrovic/e8ac4724d4/166397
 
-#EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="INFOTAINMENT", DD Saptagiri
+#EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="INFOTAINMENT", DD SAPTAGIRI
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834498&extension=ts
 
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="INFOTAINMENT", DISCOVERY HD
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="INFOTAINMENT", DISCOVERY 
 https://cdn-main.lolokoko.tv/DiscoveryChannel.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="INFOTAINMENT", NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="INFOTAINMENT", NATIONAL GEOGRAPHIC 
 https://cdn-main.lolokoko.tv/NationalGeographic.stream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SVJjzgsPzOd5oiY9qRJ2yt--IBQ0tJdONw&usqp=CAU" group-title="INFOTAINMENT",Natgeo Wild
+#EXTINF:0 tvg-logo="https://i.imgur.com/rqlBlBq.png" group-title="INFOTAINMENT", NAT GEO WILD 
 https://cdn-main.lolokoko.tv/NatGeoWild.stream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SVJjzgsPzOd5oiY9qRJ2yt--IBQ0tJdONw&usqp=CAU" group-title="INFOTAINMENT",Natgeo People
+#EXTINF:0 tvg-logo="https://i.imgur.com/fHoHLCH.png" group-title="INFOTAINMENT", NAT GEO PEOPLE
 https://cdn-main.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="INFORMATION", Animal Planet 
@@ -125,13 +127,15 @@ https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/Z7jNakS.jpg" group-title="INFOTAINMENT", Discovery Science English
 https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-logo="" group-title="INFOTAINMENT", Discovery Turbo
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-logo="https://i.imgur.com/B7X8wGx.png" group-title="INFOTAINMENT", DISCOVERY TURBO
 https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
 
-#EXTINF:-1 tvg-id="DMAX.it" tvg-logo=""group-title="INFOTAINMENT", DMAX HD
+#EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://i.imgur.com/EU7P3wb.jpg"group-title="INFOTAINMENT", DMAX HD
 https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
 
 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++LOCAL==========================================================================================
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="LOCAL",Metro TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
 
