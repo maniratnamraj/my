@@ -106,13 +106,13 @@ http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834498&extensio
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="INFOTAINMENT", DISCOVERY HD
 https://cdn-main.lolokoko.tv/DiscoveryChannel.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="TELEGU: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="", NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="INFOTAINMENT", NATIONAL GEOGRAPHIC HD
 https://cdn-main.lolokoko.tv/NationalGeographic.stream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SVJjzgsPzOd5oiY9qRJ2yt--IBQ0tJdONw&usqp=CAU" group-title="GEOGRAPHIC.",Natgeo Wild
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SVJjzgsPzOd5oiY9qRJ2yt--IBQ0tJdONw&usqp=CAU" group-title="INFOTAINMENT",Natgeo Wild
 https://cdn-main.lolokoko.tv/NatGeoWild.stream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SVJjzgsPzOd5oiY9qRJ2yt--IBQ0tJdONw&usqp=CAU" group-title="GEOGRAPHIC.",Natgeo People
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SVJjzgsPzOd5oiY9qRJ2yt--IBQ0tJdONw&usqp=CAU" group-title="INFOTAINMENT",Natgeo People
 https://cdn-main.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="INFORMATION", Animal Planet 
