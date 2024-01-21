@@ -5,11 +5,9 @@
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/936.ts
 
 #EXTINF:-1 tvg-id="ETVCinema.in" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="ENTERTAINMENT", ETV CINEMA
-http://bostv.one:8080/sd12345/sd12345/94224
 http://sonyiptv.net:8080/5767/5767/268057
 
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="LIFESTYLE", ETV ABHIRUCHI
-http://livetvbox.live:8080/live/Anthony06/Anthony06/9053.ts
 http://sonyiptv.net:8080/5767/5767/268051
 
 #EXTINF:-1 tvg-id="ETVLife.in" tvg-logo="https://i.imgur.com/iFoJeKv.jpg" group-title="LIFESTYLE", ETV LIFE
@@ -37,7 +35,6 @@ http://watchindia.net:8880/live/varghesekunju62/308678sher/928.ts
 http://watchindia.net:8880/live/varghesekunju62/308678sher/930.ts
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Life_HD.png" group-title="ENTERTAINMENT", GEMINI LIFE
-http://bostv.one:8080/sd12345/sd12345/94229
 http://sonyiptv.net:8080/5767/5767/268055
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png" group-title="ENTERTAINMENT", GEMINI COMEDY
