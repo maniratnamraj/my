@@ -465,20 +465,20 @@ http://starshare.live:8080/live/7263417185/1718572634/5040.ts
 http://starshare.live:8080/live/7263417185/1718572634/158898.ts
 
 
-________________________________________________________________________________________________________________________________________________________________________
+==============================================ENGLISH======================================================================================================================
 
 #EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix HD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="ENTERTAINMENT",Sony Pix HD
 http://watchindia.net:8880/live/varghesekunju62/308678sher/2101.ts
 
-#EXTINF:-1 tvg-id="starmovies.in" tvg-name="Star Movies HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="ENTERTAINMENT",Star Movies HD
+#EXTINF:-1 tvg-id="starmovies.in" tvg-name="Star Movies " tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="ENTERTAINMENT",Star Movies 
 
-#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel FHD" tvg-logo="https://liebeurl.me/logos/warner.png" group-title="ENTERTAINMENT", WARNER CHANNEL 
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel " tvg-logo="https://liebeurl.me/logos/warner.png" group-title="ENTERTAINMENT", WARNER CHANNEL 
 http://rdns.tv:80/live/walderez119/oliveira98209/3745.m3u8
 
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://www.liebeurl.me/logos/axn.png" group-title="ENTERTAINMENT",AXN SD
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN " tvg-logo="https://www.liebeurl.me/logos/axn.png" group-title="ENTERTAINMENT",AXN SD
 http://rdns.tv:80/live/tioita35683/38025744/4362.m3u8
 
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central FHD [H265]" tvg-logo="https://liebeurl.me/logos/comedycentral.png" group-title="ENTERTAINMENT",Comedy Central 
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central " tvg-logo="https://liebeurl.me/logos/comedycentral.png" group-title="ENTERTAINMENT",Comedy Central 
 http://rdns.tv:80/live/tioita35683/38025744/71032.m3u8
 
 
