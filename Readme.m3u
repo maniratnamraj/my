@@ -1,26 +1,26 @@
 #EXTM3U
 #url-tvg="http://rstream.me/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="ETV.in" tvg-logo="https://i.imgur.com/seg69lt.png" group-title="ENTERTAINMENT", ETV HD
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/936.ts
+#EXTINF:-1 tvg-id="ETV.in" tvg-name="ETV HD" tvg-logo="https://i.imgur.com/seg69lt.png" group-title="ENTERTAINMENT", ETV HD
+http://watchindia.net:8880/live/42678/24227/936.ts
 
-#EXTINF:-1 tvg-id="ETVCinema.in" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="ENTERTAINMENT", ETV CINEMA
+#EXTINF:-1 tvg-id="ETVCinema.in" tvg-name="ETV CINEMA" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="ENTERTAINMENT", ETV CINEMA
 http://sonyiptv.net:8080/5767/5767/268057
 
-#EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="LIFESTYLE", ETV ABHIRUCHI
+#EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="LIFESTYLE", ETV ABHIRUCHI
 http://sonyiptv.net:8080/5767/5767/268051
 
-#EXTINF:-1 tvg-id="ETVLife.in" tvg-logo="https://i.imgur.com/iFoJeKv.jpg" group-title="LIFESTYLE", ETV LIFE
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/938.ts
+#EXTINF:-1 tvg-id="ETVLife.in" tvg-name="ETV LIFE" tvg-logo="https://i.imgur.com/iFoJeKv.jpg" group-title="LIFESTYLE", ETV LIFE
+http://watchindia.net:8880/live/42678/24227/938.ts
 
-#EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://i.imgur.com/i62bBx9.png" group-title="LIFESTYLE", ETV PLUS
+#EXTINF:-1 tvg-id="ETV PLUS" tvg-name="ETV Plus" tvg-logo="https://i.imgur.com/i62bBx9.png" group-title="LIFESTYLE", ETV PLUS
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/937.ts
 
 #EXTINF:-1 tvg-id="MaaTv.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="ENTERTAINMENT", STAR MAA HD
 http://watchindia.net:8880/live/varghesekunju62/308678sher/933.ts
 
 #EXTINF:-1 tvg-id="MaaMovies.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="ENTERTAINMENT", STAR MAA MOVIES 
-http://watchindia.net:8880/live/varghesekunju62/308678sher/2080.ts
+http://watchindia.net:8880/live/42678/24227/934.ts
 
 #EXTINF:-1 tvg-id="MaaGold.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="ENTERTAINMENT", STAR MAA GOLD 
 http://watchindia.net:8880/live/varghesekunju62/308678sher/935.ts
@@ -50,7 +50,7 @@ http://livetvbox.live:8080/live/Anthony06/Anthony06/9016.ts
 http://livetvbox.live:8080/live/Anthony06/Anthony06/23316.ts
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://i.imgur.com/u40uu3r.png" group-title="ENTERTAINMENT", VISSA TV
-http://sansat.net:88/02000656286340/02000656286340/95881
+http://watchindia.net:8880/live/42678/24227/942.ts
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="MUSIC", RAJ MUSIC TELUGU
 http://sansat.net:88/02000656286340/02000656286340/95869
@@ -58,7 +58,7 @@ http://sansat.net:88/02000656286340/02000656286340/95869
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GiKojgU.png" group-title="INFORMATION", VANITHA TV
 http://sansat.net:88/02000656286340/02000656286340/95880
 
-#EXTINF:-1 tvg-id="AdityaMusicIndia.in" tvg-logo="https://t.infibeam.com/img/lookandfeel/5101232/753d6e8f698e4_logo.png.999xx.png" group-title="MUSIC", ADITYA MUSIC 
+#EXTINF:-1 tvg-id="AdityaMusicIndia.in" tvg-logo="https://i.imgur.com/8fVP91w.jpg" group-title="MUSIC", ADITYA MUSIC 
 https://ythls.onrender.com/channel/UCNApqoVYJbYSrni4YsbXzyQ.m3u8
 
 =========================================Devotional=====================================================================
@@ -105,7 +105,6 @@ http://37.49.225.197:8080/mitrovic/e8ac4724d4/166397
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="INFOTAINMENT", DD SAPTAGIRI
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834498&extension=ts
-
 
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="INFOTAINMENT", DISCOVERY 
@@ -347,8 +346,8 @@ https://ythls.armelin.one/channel/UCixD-KrpjXtMupkzkdFFlFg.m3u8
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834495&extension=ts
 ++++++++++++++++++++++++++++++++++++Telugu News+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-#EXTINF:-1 tvg-ID="" tvg-name="RAJ NEWS" tvg-logo="https://i.imgur.com/ZicukHO.png" group-title="News", RAJ NEWS TELUGU
+https://i.imgur.com/1Hfswrs.png
+#EXTINF:-1 tvg-ID="" tvg-name="RAJ NEWS" tvg-logo="https://i.imgur.com/1Hfswrs.png" group-title="News", RAJ NEWS TELUGU
 http://watchindia.net:8880/live/58199/33239/956.ts
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/rBmV30d.png" group-title="NEWS", V6 NEWS
