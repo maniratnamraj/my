@@ -275,31 +275,31 @@ http://103.139.171.5:5001/live.php?c=Nipuna&q=800&e=junk.m3u8
 
 ====================================KIDS=============================================================================
 
-#EXTINF:-1 tvg-id="Pogo Telugu" tvg-logo="https://i.imgur.com/96BYKkZ.jpg" group-title="KIDS", POGO 
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/96BYKkZ.jpg" group-title="KIDS", POGO 
 http://voz.one:80/alexfnt/vTFBGKdUYq/653
 
-#EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="KIDS", KUSHI TV
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="KIDS", KUSHI TV
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281792&extension=ts
 
-#EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="KIDS", Sonic 
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="KIDS", Sonic 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="KIDS", Cartoon Network 
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="KIDS", Cartoon Network 
 http://voz.one:80/alexfnt/vTFBGKdUYq/226
 
-#EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="KIDS", Nick 
-http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/182141
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="KIDS", Nick 
+http://watchindia.net:8880/live/42678/24227/2182.ts
 
-#EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="KIDS", SONY YAY 
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="KIDS", SONY YAY 
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281796&extension=ts
 
-#EXTINF:-1 tvg-id="Hungama" tvg-logo="https://i.imgur.com/cYVExRI.png" group-title="KIDS", Hungama
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/cYVExRI.png" group-title="KIDS", Hungama
 http://103.186.77.21:8000/play/a032/index.m3u8
 
-#EXTINF:-1 tvg-id="Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c9a51a70ec6f938fa8c7b2dd5d186324.png" group-title=" KIDS",Baby TV
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c9a51a70ec6f938fa8c7b2dd5d186324.png" group-title=" KIDS",Baby TV
 http://rdns.tv:80/live/walderez119/oliveira98209/25370.m3u8
 
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a5af65e344f7b824fbda309c3606aa1a.png" group-title="KIDS",Disney Channel
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a5af65e344f7b824fbda309c3606aa1a.png" group-title="KIDS",Disney Channel
 http://voz.one:80/alexfnt/vTFBGKdUYq/13870
 
 #EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/db7665573ac43d4418b35f2d2dff77ed.png" group-title=" KIDS",Disney Junior
@@ -308,22 +308,22 @@ http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/182140
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/0086900f9e43865acfda4ec1f3d57866.png" group-title="Kids",Disney XD
 http://ipro.webvps.de:25443/live/223300444/3216548777/9286.ts
 
-#EXTINF:-1 tvg-id="Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7817352f2d6a1de52a2dd2b05277d640.jpg" group-title="KIDS", Nick Junior
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7817352f2d6a1de52a2dd2b05277d640.jpg" group-title="KIDS", Nick Junior
 http://voz.one:80/alexfnt/vTFBGKdUYq/646
 
-#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c7b6dc8925b4046e77a1a128c4761c05.png" group-title=" Kids", nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c7b6dc8925b4046e77a1a128c4761c05.png" group-title=" Kids", nickelodeon
 http://voz.one:80/alexfnt/vTFBGKdUYq/13907
 
-#EXTINF:-1 tvg-id="Nicktoons" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3a43c8dc11c73ac9f500052265325a1e.png" group-title="KIDS", Nicktoons
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3a43c8dc11c73ac9f500052265325a1e.png" group-title="KIDS", Nicktoons
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2064.ts
 
-#EXTINF:-1 tvg-id="Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a2c92e41c4aaadb4da7a957299bcdd68.png" group-title=" KIDS", Boomerang
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a2c92e41c4aaadb4da7a957299bcdd68.png" group-title=" KIDS", Boomerang
 http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/210339
 
-#EXTINF:-1  tvg-id="Discovery Kids" tvg-logo="https://i.imgur.com/F6tDTGk.jpg" group-title=" KIDS",Discovery Kids
+#EXTINF:-1  #EXTINF:-1 tvg-id="nick.in" tvg-name=""tvg-logo="https://i.imgur.com/F6tDTGk.jpg" group-title=" KIDS",Discovery Kids
 http://voz.one:80/alexfnt/vTFBGKdUYq/13865
 
-#EXTINF:-1 tvg-id="NickHDPlus.in" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="KIDS", Nick HD+ 
+#EXTINF:-1 #EXTINF:-1 tvg-id="nick.in" tvg-name="" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="KIDS", Nick HD+ 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 
 
