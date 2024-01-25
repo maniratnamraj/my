@@ -499,58 +499,58 @@ http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0 tvg-logo="https://i.imgur.com/yGkYlAI.jpg" group-title="ENTERTAINMENT.",Star Gold 2
 http://195.26.87.217/live.ts?channelId=33165&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/mQsn6Z8.png" group-title="ENTERTAINMENT.",Star Gold Romance
+#EXTINF:0 tvg-logo="https://i.imgur.com/mQsn6Z8.png" group-title="ENTERTAINMENT", Star Gold Romance
 http://103.132.181.118:82/play/a00m
 
-#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="ENTERTAINMENT",Zee Cinema Hd
+#EXTINF:0 tvg-logo="https://i.imgur.com/K2Ksc1E.jpg" group-title="ENTERTAINMENT", Zee Cinema Hd
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 
-#EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="ENTERTAINMENT",ZeeAction
+#EXTINF:0 tvg-logo="https://i.imgur.com/qwGvyGN.png" group-title="ENTERTAINMENT", ZeeAction
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 
-#EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="ENTERTAINMENT",Zee Bollywood
+#EXTINF:0 tvg-logo="https://i.imgur.com/ed7IKoM.jpg" group-title="ENTERTAINMENT", Zee Bollywood
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
 
-#EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="ENTERTAINMENT",Zee Classic 
+#EXTINF:0 tvg-logo="https://i.imgur.com/77Vs2tt.jpg" group-title="ENTERTAINMENT", Zee Classic 
 http://195.26.87.217/live.ts?channelId=43379&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="ENTERTAINMENT",Zing Tv
+#EXTINF:0 tvg-logo="https://i.imgur.com/1F5Jz2X.png" group-title="ENTERTAINMENT", Zing Tv
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="ENTERTAINMENT",B4U-Kadak
+#EXTINF:0 tvg-logo="https://i.imgur.com/elb6nPN.png" group-title="ENTERTAINMENT", B4U Kadak
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="MUSIC",Jou MUSIC 
+#EXTINF:0 tvg-logo="https://i.imgur.com/WAp7Bnv.png" group-title="MUSIC", Jou MUSIC 
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="ENTERTAINMENT",BFlix Movies
+#EXTINF:0 tvg-logo="https://i.imgur.com/0rWDKS2.png" group-title="ENTERTAINMENT", BFlix Movies
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="ENTERTAINMENT",R Cineplax 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1JMvYFi.png" group-title="ENTERTAINMENT", Colors Cineplex 
 http://195.26.87.217/live.ts?channelId=470&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTspME9aicm4n0WNssXis5_I4Oc8JURdp4MTQ&usqp=CAU" group-title="ENTERTAINMENT", R Cinema Bollywood 
+#EXTINF:0 tvg-logo="https://i.imgur.com/vxMoPdO.jpg" group-title="ENTERTAINMENT", Colors Cineplex Bollywood 
 http://195.26.87.217/live.ts?channelId=62412&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1" tvg-logo="http://watchindia.net/images/channels/usa/VH1.png" group-title="MUSIC", VH1
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1" tvg-logo="https://i.imgur.com/56yxzov.jpg" group-title="MUSIC", VH1
 http://watchindia.net:8880/live/varghesekunju62/308678sher/2185.ts
 
 #EXTINF:-1 tvg-id="ZeeHindustan.in" tvg-logo="https://i.imgur.com/3eAZMxA.png" group-title="Documentary", Zee Hindustan 
 https://d336l5u76wvq7j.cloudfront.net/out/v1/5990b42d2b7b40bc8e581e90afe6ef94/index_4.m3u8
 
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg" group-title="MUSIC.",Dhinchaak
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg" group-title="MUSIC",Dhinchaak
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
-#EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="HINDI MOVIE.",Bindass
+#EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="",Bindass
 http://103.141.2.37:25461/live/web/web/592.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYEY7F1pJQTkvGgLwqs9ChOt_m7t9K4kgmkg&usqp=CAU" group-MOHONA-TV="BANGLA MOVIE.",YRF MUSIC
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYEY7F1pJQTkvGgLwqs9ChOt_m7t9K4kgmkg&usqp=CAU" group-title="",YRF MUSIC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/0af67dad-7789-40f0-a1fe-4aad49acabe2/0.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDpPjr6t27KUSB9hC8LxvyvtL_S2CTWuNEw&usqp=CAU" group-title="HINDI MUSIC.",SHOW Box MUSIC
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDpPjr6t27KUSB9hC8LxvyvtL_S2CTWuNEw&usqp=CAU" group-title="",SHOW Box MUSIC
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/HdVHhYY.jpg" group-title="HINDI MUSIC.",Hits MUSIC 
+#EXTINF:0 tvg-logo="https://i.imgur.com/HdVHhYY.jpg" group-title="",Hits MUSIC 
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:0 tvg-logo="https://see.lokshahi.live/poster.jpg" group-title="News",Lokshahi News
