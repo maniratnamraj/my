@@ -91,6 +91,9 @@ http://decode.streamplay.in:1935/srisai/srisai/playlist.m3u8
 #EXTINF: -1 tvg-id="1591" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saileela_TV_Telugu.png" group-title="RELIGIOUS", SAILEELA TV TELUGU
 http://103.139.171.5:5001/live.php?c=Saileela_TV_Telugu&q=800&e=junk.m3u8
 
+#EXTINF:-1 tvg-id="GospelTVIndia.in" tvg-logo="https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png" group-title="RELIGIOUS",Gospel TV India 
+http://live.adostream.com:1935/gospeltv/gospeltv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AradanaTV.in" tvg-logo="https://i.imgur.com/w48yzLu.png" group-title="RELIGIOUS", ARADANA TV 
 https://ythls.armelin.one/channel/UCMnz0yLX3afzFc8y822YO5g.m3u8
 
@@ -103,8 +106,12 @@ https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3
 #EXTINF: -1 tvg-id="607" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png" group-title="RELIGIOUS", SUBHAVARTHA TV
 http://37.49.225.197:8080/mitrovic/e8ac4724d4/166397
 
+++++++++++++++++++++++++++++++++++++++++++++++DD INDIA +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="INFOTAINMENT", DD SAPTAGIRI
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834498&extension=ts
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/nxnGXJz.png" group-title="Movies",Sriyadadri
+https://ythls.armelin.one/channel/UC6V4nVa0CQkoLZUlg9drmZA.m3u8
 
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="INFOTAINMENT", DISCOVERY 
@@ -240,9 +247,6 @@ http://live.streamplay.in:1935/news9/news9/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/9tvtelangana.jpg" group-title="Music",9TV Telangana
 http://server.streamplay.in:1935/9tv/9tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yadadritv.jpg" group-title="Movies",Sriyadadri
-http://live.streamplay.in:1935/sriyadadri/sriyadadri/playlist.m3u8
-
 #EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Rk9news.jpg" group-title="Movies",RK9 News
 http://telugusolutions.com/rk9news/rk9news/index.m3u8
 
@@ -337,16 +341,17 @@ http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281793&extensio
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/MyuB3E5.png" group-title="DOCUMENTARY", SONY BBC EARTH HD
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281782&extension=ts
 
-#EXTINF:-1 tvg-id="ddsaptagiri.in" tvg-name="DD Saptagiri" tvg-logo="https://watchindia.net/images/channels/telugu/DD_Saptagiri.png" group-title="INFORMATION",DD Saptagiri
-http://watchindia.net:8880/live/varghesekunju62/308678sher/974.ts
-
-#EXTINF:-1 tvg-id="DDYadagiri.in" tvg-logo="https://i.imgur.com/nxnGXJz.png" group-title="INFORMATION", DD Yadagiri 
-https://ythls.armelin.one/channel/UCixD-KrpjXtMupkzkdFFlFg.m3u8
-
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834495&extension=ts
 ++++++++++++++++++++++++++++++++++++Telugu News+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-https://i.imgur.com/1Hfswrs.png
+
+
+#EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-logo="https://i.imgur.com/pFNCRnf.png" group-title="News",ETV Andhra Pradesh 
+https://ythls.armelin.one/channel/UCJi8M0hRKjz8SLPvJKEVTOg.m3u8
+
+#EXTINF:-1 tvg-id="ETVTelangana.in" tvg-logo="https://i.imgur.com/DkgvWTK.png" group-title="News",ETV Telangana 
+https://ythls.armelin.one/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="RAJ NEWS" tvg-logo="https://i.imgur.com/1Hfswrs.png" group-title="News", RAJ NEWS TELUGU
 http://watchindia.net:8880/live/58199/33239/956.ts
 
@@ -365,11 +370,6 @@ http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834496&extensio
 #EXTINF:-1 tvg-id="CVR English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news_english.png" group-title="News",CVR English
 http://102.222.232.18:9981/stream/channelid/1005715685?ticket=0234C7E68548DCEFFF579636FBD9C1B6936DE8BB&profile=matroska
 
-#EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-logo="https://i.imgur.com/pFNCRnf.png" group-title="News",ETV Andhra Pradesh 
-https://ythls.armelin.one/channel/UCJi8M0hRKjz8SLPvJKEVTOg.m3u8
-
-#EXTINF:-1 tvg-id="ETVTelangana.in" tvg-logo="https://i.imgur.com/DkgvWTK.png" group-title="News",ETV Telangana 
-https://ythls.armelin.one/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8
 
 #EXTINF:-1 tvg-id="4tvnews.in" tvg-name="NTV News" tvg-logo="https://watchindia.net/images/channels/telugu/NTV_News.png" group-title="NEWS",NTV News
 https://ythls.armelin.one/channel/UCumtYpCY26F6Jr3satUgMvA.m3u8
@@ -393,7 +393,7 @@ https://ythls.armelin.one/channel/UCDKjhgRoPF1CQk7HluMz23A.m3u8
 https://ythls.armelin.one/channel/UCl5YgCiwSRVOiC2Nd1P9v1A.m3u8
 
 #EXTINF:-1 tvg-id="Prime9News.in" tvg-logo="https://prime9news.com/wp-content/themes/prime9_v1/images/logo.png" group-title="News",Prime9 News 
-https://ythls.onrender.com/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
+https://ythls.armelin.one/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
 
 #EXTINF:-1 tvg-id="I News" tvg-logo="https://i.imgur.com/D30JrAC.png" group-title="News", I NEWS
 https://ythls.armelin.one/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8
@@ -601,8 +601,6 @@ https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1 tvg-id="ApnaPunjabTV.in" tvg-logo="https://i.imgur.com/IM4D8Wz.png" group-title="Documentary",Apna Punjab TV 
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="ArgusNews.in" tvg-logo="https://i.imgur.com/cGjRe01.png" group-title="News",Argus News 
 https://live.argusnews.in/hls/argustv.m3u8
 
@@ -651,7 +649,7 @@ https://mcncdndigital.com/divyatv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ChannelY.in" tvg-logo="https://i.imgur.com/OqSl2Qf.png" group-title="News",Channel Y 
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNBCAwaaz.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CNBC_Awaaz_logo.png/512px-CNBC_Awaaz_logo.png" group-title="BUSINESS",CNBC Awaaz 
+#EXTINF:-1 tvg-id="CNBCAwaaz.in" tvg-logo="https://i.imgur.com/R5NcrAY.jpg" group-title="BUSINESS", NEWS 18
 https://ythls.armelin.one/channel/UCQIycDaLsBpMKjOCeaKUYVg.m3u8
 
 #EXTINF:-1 tvg-id="CNBCTV18.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png" group-title="BUSINESS",CNBC TV18 
