@@ -14,7 +14,7 @@ http://sonyiptv.net:8080/5767/5767/268051
 http://watchindia.net:8880/live/42678/24227/938.ts
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-name="ETV Plus" tvg-logo="https://i.imgur.com/i62bBx9.png" group-title="LIFESTYLE", ETV PLUS
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/937.ts
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=155855&extension=ts
 
 #EXTINF:-1 tvg-id="MaaTv.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="ENTERTAINMENT", STAR MAA HD
 http://watchindia.net:8880/live/varghesekunju62/308678sher/933.ts
@@ -26,7 +26,7 @@ http://watchindia.net:8880/live/42678/24227/934.ts
 http://watchindia.net:8880/live/varghesekunju62/308678sher/935.ts
 
 #EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="MUSIC", STAR MAA MUSIC
- http://livetvbox.live:8080/live/Anne/Anne/57772.ts
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=281969&extension=ts
 
 #EXTINF:-1 tvg-id="GeminiTv.in" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_TV_HD.png" group-title="ENTERTAINMENT", GEMINI TV 
 http://watchindia.net:8880/live/varghesekunju62/308678sher/928.ts
@@ -41,7 +41,7 @@ http://sonyiptv.net:8080/5767/5767/268055
 http://livetvbox.live:8080/live/Anthony06/Anthony06/9042.ts
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Music_HD.png" group-title="MUSIC", GEMINI MUSIC 
-http://bostv.one:8080/sd12345/sd12345/94231
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=155857&extension=ts
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://watchindia.net/images/channels/telugu/Zee_Cinemalu.png" group-title="ENTERTAINMENT", ZEE CINEMALU
 http://livetvbox.live:8080/live/Anthony06/Anthony06/9016.ts
@@ -332,6 +332,7 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback
 
 =============================DOCUMENTARY====================================================================
 
+
 #EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="https://i.imgur.com/9ZNRL8N.png" group-title="DOCUMENTARY", HISTORY 18 TELUGU HD
 http://choiceneed.xyz:80/Y16G64U79A71P7/CZBALVRZAWZXB9DP/116707
 
@@ -345,6 +346,8 @@ http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281782&extensio
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834495&extension=ts
 ++++++++++++++++++++++++++++++++++++Telugu News+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+#EXTINF:-1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://watchindia.net/images/channels/telugu/10_TV.png" group-title="News",10 TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=155864&extension=ts
 
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-logo="https://i.imgur.com/pFNCRnf.png" group-title="News",ETV Andhra Pradesh 
 https://ythls.armelin.one/channel/UCJi8M0hRKjz8SLPvJKEVTOg.m3u8
@@ -358,8 +361,7 @@ http://watchindia.net:8880/live/58199/33239/956.ts
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/rBmV30d.png" group-title="NEWS", V6 NEWS
 http://sansat.net:25461/02024773939334/02024773939334/95879
 
-#EXTINF:-1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://watchindia.net/images/channels/telugu/10_TV.png" group-title="News",10 TV
-http://sansat.net:88/02000656286340/02000656286340/95852
+
 
 #EXTINF:-1 tvg-id="ABNTeluguNews.in" tvg-name="ABN News" tvg-logo="https://watchindia.net/images/channels/telugu/ABN_News.png" group-title="News",ABN Andhra Jyothi
 http://watchindia.net:8880/live/varghesekunju62/308678sher/980.ts
@@ -409,24 +411,30 @@ https://ythls.armelin.one/channel/UCNZOrs1QBt8cJnv9ud96qRA.m3u8
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="Sports 18 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png" group-title="Sports",Sports 18 HD
 http://watchindia.net:8880/live/71740/31043/2423.ts
 
+#EXTINF:-1 tvg-id="" tvg-name=" D SPORTS HD" tvg-logo="" group-title="SPORTS", D SPORTS HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=156027&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name=" D SPORTS HD" group-title="SPORTS"D SPORTS HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=156027&extension=ts
+
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Star_Sports_1_IN.png" group-title="Sports",Star Sports 1
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2186.ts
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1104673&extension=ts
 
 #EXTINF:-1 tvg-id="StarSelect2.in" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1069.ts
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1114581&extension=ts
 
 #EXTINF:-1 tvg-id="StarSports3.in" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 3
-http://starshare.live:8080/live/7263417185/1718572634/1080.ts
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=282678&extension=ts
 
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name=""" tvg-logo="https://i.imgur.com/Lgme28u.jpg" group-title="Sports",STAR SPORTS SELECT 1 HD
-http://livetvbox.live:8080/live/456789/456789/9400.ts
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=282675&extension=ts
 
 #EXTINF:-1 tvg-id="StarSelect2.in" tvg-logo="https://i.imgur.com/XKf1jc8.jpg" group-title="Sports",Star Sports Select 2
-http://livetvbox.live:8080/live/456789/456789/9401.ts
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=282676&extension=ts
 
 #EXTINF:-1 tvg-id="StarSportsHindiHD1.in" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports HINDI
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2232.ts
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1104672&extension=ts
 
 #EXTINF:-1 tvg-id="StarSports1Tamil.in" tvg-logo="http://tv.cloudcdn.me/images/starsports1tamil.png" group-title="Sports",Star Sports 1 Tamil 
 https://bq32.short.gy/offline_vaathala?channelId=275&uid=4944&deviceMac=00:1A:79:94:98:FE
@@ -435,16 +443,16 @@ https://bq32.short.gy/offline_vaathala?channelId=275&uid=4944&deviceMac=00:1A:79
 https://bq32.short.gy/offline_vaathala?channelId=288&uid=4944&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 tvg-id="TenSports.in" tvg-name="Sony Ten 1 HD 2" tvg-logo="https://i.imgur.com/X7ZOQg6.jpg" group-title="Sports",Sony Sports 1 HD 
-http://livetvbox.live:8080/live/Anne/Anne/154.ts
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1114576&extension=ts
 
 #EXTINF:-1 tvg-id="TenAction.in" tvg-name="Sony Ten 2 HD" tvg-logo="https://i.imgur.com/Mbn4b8Q.jpg" group-title="Sports",Sony Sports 2 HD
-http://livetvbox.live:8080/live/Anne/Anne/192.ts
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1114577&extension=ts
 
 #EXTINF:-1 tvg-id="TenCricket.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://i.imgur.com/ENXj9HB.jpg" group-title="Sports",Sony Sports 3 HD
-http://livetvbox.live:8080/live/Anne/Anne/146.ts
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1114578&extension=ts
 
 #EXTINF:-1 tvg-id="sony.ten.4.in" tvg-name="Sony Ten 4 HD" tvg-logo="https://i.imgur.com/vdhl7Zo.png" group-title="Sports",SONY Sports 4 
-http://livetvbox.live:8080/live/Anne/Anne/29469.ts
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1114579&extension=ts
 
 #EXTINF:-1 tvg-id="sony.ten.5.in" tvg-name="Sony Ten 5 HD" tvg-logo="https://i.imgur.com/rmK2ME4.png" group-title="Sports",SONY Sports 5 
 http://starshare.live:8080/live/7263417185/1718572634/176.ts
@@ -480,50 +488,56 @@ http://rdns.tv:80/live/tioita35683/38025744/71032.m3u8
 
 
 _____________________________________________________HINDI __________________________________________________________
-#EXTINF:0 tvg-logo="https://i.imgur.com/oVWxvG6.png" group-title="ENTERTAINMENT",Sony Max 
+#EXTINF:-1 tvg-id="" tvg-name="Sony " tvg-logo="https://i.imgur.com/12orxdQ.png" group-title="ENTERTAINMENT",Sony 
+http://fast.bounceme.net:8080/live/rGaKpjvGha/AVSnwJZ2db/7077.ts
+
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/oVWxvG6.png" group-title="ENTERTAINMENT",Sony Max 
 http://195.26.87.217/live.ts?channelId=184&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/mJP4StX.jpg" group-title="ENTERTAINMENT",Sony Max 2 Ind
-http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/mJP4StX.jpg" group-title="ENTERTAINMENT",Sony Max 2 Ind
+http://fast.bounceme.net:8080/live/rGaKpjvGha/AVSnwJZ2db/8455.ts
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/89RaSLE.jpg" group-title="ENTERTAINMENT",Star Gold Silect
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/KaKc1Q4.png"tvg-name="SONY SAB" group-title=""ENTERTAINMENT", SONY SAB
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=42460&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/89RaSLE.jpg" group-title="ENTERTAINMENT",Star Gold Select
 http://195.26.87.217/live.ts?channelId=197&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/0OwSLvo.png" group-title="ENTERTAINMENT",Star Gold Thrills
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/0OwSLvo.png" group-title="ENTERTAINMENT",Star Gold Thrills
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/QqMl075.png" group-title="ENTERTAINMENT",Star Gold 
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/QqMl075.png" group-title="ENTERTAINMENT",Star Gold 
 http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/yGkYlAI.jpg" group-title="ENTERTAINMENT.",Star Gold 2
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/yGkYlAI.jpg" group-title="ENTERTAINMENT.",Star Gold 2
 http://195.26.87.217/live.ts?channelId=33165&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/mQsn6Z8.png" group-title="ENTERTAINMENT", Star Gold Romance
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/mQsn6Z8.png" group-title="ENTERTAINMENT", Star Gold Romance
 http://103.132.181.118:82/play/a00m
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/K2Ksc1E.jpg" group-title="ENTERTAINMENT", Zee Cinema Hd
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/K2Ksc1E.jpg" group-title="ENTERTAINMENT", Zee Cinema Hd
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/qwGvyGN.png" group-title="ENTERTAINMENT", ZeeAction
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/qwGvyGN.png" group-title="ENTERTAINMENT", ZeeAction
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ed7IKoM.jpg" group-title="ENTERTAINMENT", Zee Bollywood
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/ed7IKoM.jpg" group-title="ENTERTAINMENT", Zee Bollywood
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/77Vs2tt.jpg" group-title="ENTERTAINMENT", Zee Classic 
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/77Vs2tt.jpg" group-title="ENTERTAINMENT", Zee Classic 
 http://195.26.87.217/live.ts?channelId=43379&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/1F5Jz2X.png" group-title="ENTERTAINMENT", Zing Tv
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/1F5Jz2X.png" group-title="ENTERTAINMENT", Zing Tv
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/elb6nPN.png" group-title="ENTERTAINMENT", B4U Kadak
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/elb6nPN.png" group-title="ENTERTAINMENT", B4U Kadak
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/WAp7Bnv.png" group-title="MUSIC", Jou MUSIC 
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/WAp7Bnv.png" group-title="MUSIC", Jou MUSIC 
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/0rWDKS2.png" group-title="ENTERTAINMENT", BFlix Movies
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/0rWDKS2.png" group-title="ENTERTAINMENT", BFlix Movies
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JMvYFi.png" group-title="ENTERTAINMENT", Colors Cineplex 
@@ -538,31 +552,31 @@ http://watchindia.net:8880/live/varghesekunju62/308678sher/2185.ts
 #EXTINF:-1 tvg-id="ZeeHindustan.in" tvg-logo="https://i.imgur.com/3eAZMxA.png" group-title="Documentary", Zee Hindustan 
 https://d336l5u76wvq7j.cloudfront.net/out/v1/5990b42d2b7b40bc8e581e90afe6ef94/index_4.m3u8
 
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg" group-title="MUSIC",Dhinchaak
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.pinimg.com/736x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg" group-title="MUSIC",Dhinchaak
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
-#EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="",Bindass
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="",Bindass
 http://103.141.2.37:25461/live/web/web/592.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYEY7F1pJQTkvGgLwqs9ChOt_m7t9K4kgmkg&usqp=CAU" group-title="",YRF MUSIC
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYEY7F1pJQTkvGgLwqs9ChOt_m7t9K4kgmkg&usqp=CAU" group-title="",YRF MUSIC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/0af67dad-7789-40f0-a1fe-4aad49acabe2/0.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDpPjr6t27KUSB9hC8LxvyvtL_S2CTWuNEw&usqp=CAU" group-title="",SHOW Box MUSIC
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDpPjr6t27KUSB9hC8LxvyvtL_S2CTWuNEw&usqp=CAU" group-title="",SHOW Box MUSIC
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/HdVHhYY.jpg" group-title="",Hits MUSIC 
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/HdVHhYY.jpg" group-title="",Hits MUSIC 
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
-#EXTINF:0 tvg-logo="https://see.lokshahi.live/poster.jpg" group-title="News",Lokshahi News
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://see.lokshahi.live/poster.jpg" group-title="News",Lokshahi News
 https://see.lokshahi.live/live/index.m3u8
 
-#EXTINF:0 tvg-logo="https://5.imimg.com/data5/SELLER/Default/2021/7/UY/CG/QO/54736329/zee-24-taas-250x250.jpg" group-title="News",Zee 24 Taas
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://5.imimg.com/data5/SELLER/Default/2021/7/UY/CG/QO/54736329/zee-24-taas-250x250.jpg" group-title="News",Zee 24 Taas
 #plugin://plugin.video.youtube/play/?video_id=80Q3UDSQLeA
 
-#EXTINF:0 tvg-logo="https://d282wbz2keffpz.cloudfront.net/wp-content/uploads/2018/04/16001830/TV9_MARATHI-wecompress.com_.png" group-title="News",TV9 Marathi
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://d282wbz2keffpz.cloudfront.net/wp-content/uploads/2018/04/16001830/TV9_MARATHI-wecompress.com_.png" group-title="News",TV9 Marathi
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_720p/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://static.abplive.com/wp-content/themes/abp-majha/images/majha-desktop.png" group-title="News",ABP Majha
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://static.abplive.com/wp-content/themes/abp-majha/images/majha-desktop.png" group-title="News",ABP Majha
 https://abplivetv.akamaized.net/hls/live/2043011/manjha/master_720p.m3u8
 
 #EXTINF:-1 tvg-id="1YesNews.in" tvg-logo="https://i.imgur.com/4HeuLuA.png" group-title="News",1Yes News 
