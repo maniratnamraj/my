@@ -2,10 +2,10 @@
 #url-tvg="http://rstream.me/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="ETV.in" tvg-name="ETV HD" tvg-logo="https://i.imgur.com/seg69lt.png" group-title="ENTERTAINMENT", ETV HD
-http://watchindia.net:8880/live/42678/24227/936.ts
+http://sonyiptv.net:8080/10001/10001/268058
 
 #EXTINF:-1 tvg-id="ETVCinema.in" tvg-name="ETV CINEMA" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="ENTERTAINMENT", ETV CINEMA
-http://sonyiptv.net:8080/5767/5767/268057
+http://startv365.com:80/9794783213/6955630461/400159467
 
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="LIFESTYLE", ETV ABHIRUCHI
 http://sonyiptv.net:8080/5767/5767/268051
@@ -412,7 +412,8 @@ https://ythls.armelin.one/channel/UCNZOrs1QBt8cJnv9ud96qRA.m3u8
 http://watchindia.net:8880/live/71740/31043/2423.ts
 
 #EXTINF:-1 tvg-id="" tvg-name=" D SPORTS HD" tvg-logo="" group-title="SPORTS", D SPORTS HD
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=156027&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=156027&extension=ts
+
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Star_Sports_1_IN.png" group-title="Sports",Star Sports 1
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1104673&extension=ts
 
