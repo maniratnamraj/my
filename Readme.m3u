@@ -2,25 +2,25 @@
 #url-tvg="http://rstream.me/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="ETV.in" tvg-name="ETV HD" tvg-logo="https://i.imgur.com/seg69lt.png" group-title="ENTERTAINMENT", ETV HD
-http://sonyiptv.net:8080/10001/10001/268058
+http://xtv.ooo:8080/MansoorWapda/258741/250842
 
 #EXTINF:-1 tvg-id="ETVCinema.in" tvg-name="ETV CINEMA" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="ENTERTAINMENT", ETV CINEMA
-http://startv365.com:80/9794783213/6955630461/400159467
+http://xtv.ooo:8080/MansoorWapda/258741/244441
 
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="LIFESTYLE", ETV ABHIRUCHI
-http://sonyiptv.net:8080/5767/5767/268051
+http://xtv.ooo:8080/MansoorWapda/258741/244444
 
 #EXTINF:-1 tvg-id="ETVLife.in" tvg-name="ETV LIFE" tvg-logo="https://i.imgur.com/iFoJeKv.jpg" group-title="LIFESTYLE", ETV LIFE
-http://watchindia.net:8880/live/42678/24227/938.ts
+http://xtv.ooo:8080/MansoorWapda/258741/244443
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-name="ETV Plus" tvg-logo="https://i.imgur.com/i62bBx9.png" group-title="LIFESTYLE", ETV PLUS
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=155855&extension=ts
+http://xtv.ooo:8080/MansoorWapda/258741/244442
 
 #EXTINF:-1 tvg-id="MaaTv.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="ENTERTAINMENT", STAR MAA HD
 http://watchindia.net:8880/live/varghesekunju62/308678sher/933.ts
 
 #EXTINF:-1 tvg-id="MaaMovies.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="ENTERTAINMENT", STAR MAA MOVIES 
-http://watchindia.net:8880/live/42678/24227/934.ts
+http://xtv.ooo:8080/MansoorWapda/258741/244438
 
 #EXTINF:-1 tvg-id="MaaGold.in" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="ENTERTAINMENT", STAR MAA GOLD 
 http://watchindia.net:8880/live/varghesekunju62/308678sher/935.ts
