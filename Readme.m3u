@@ -61,6 +61,11 @@ http://xtv.ooo:8080/MansoorWapda/258741/244456
 #EXTINF:-1 tvg-id="AdityaMusicIndia.in" tvg-name="ADITYA MUSIC "  tvg-logo="https://i.imgur.com/8fVP91w.jpg" group-title="MUSIC", ADITYA MUSIC 
 https://ythls.onrender.com/channel/UCNApqoVYJbYSrni4YsbXzyQ.m3u8
 
+#EXTINF:-1 tvg-id="studio one" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="Entertainment", Studio one
+http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834504&extension=ts
+
+#EXTINF:-1 tvg-id="Studio Yuva" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies",Studio Yuva
+http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834505&extension=ts
 =========================================Devotional=====================================================================
 
 #EXTINF:-1 tvg-id="SVBC2.in" tvg-logo="https://i.imgur.com/NtmRt1A.png" group-title="RELIGIOUS", SVBC 2 
@@ -256,12 +261,8 @@ http://server.streamplay.in:1935/star9/star9/playlist.m3u8
 #EXTINF:-1 tvg-id="Bhavya_tv" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Bhavya_tv.jpg" group-title="Movies",Bhavya TV
 http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
 
-
-#EXTINF:-1 tvg-id="studio one" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="Entertainment", Studio one
-http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834504&extension=ts
-
-#EXTINF:-1 tvg-id="Studio Yuva" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies",Studio Yuva
-http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834505&extension=ts
+#EXTINF:-1, tvg-logo="https://i.imgur.com/wSX7Wfm.jpg" " group-title="Local", S9 Channel
+https://sharsolution.in/hls/s9tv/s9tv.m3u8
 
 #EXTINF:-1 tvg-id="2006"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sattva_TV.png" group-title="RELIGIOUS",Sattva TV
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Sattva_TV
