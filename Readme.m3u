@@ -44,7 +44,7 @@ http://xtv.ooo:8080/MansoorWapda/258741/244435
 http://xtv.ooo:8080/MansoorWapda/258741/244434
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="ZEE CINEMALU" tvg-logo="https://watchindia.net/images/channels/telugu/Zee_Cinemalu.png" group-title="ENTERTAINMENT", ZEE CINEMALU
-
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU"  tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="ENTERTAINMENT", ZEE TELUGU
 http://xtv.ooo:8080/MansoorWapda/258741/244427
@@ -345,60 +345,61 @@ http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281782&extensio
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834495&extension=ts
 ++++++++++++++++++++++++++++++++++++Telugu News+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTINF:-1 tvg-id="BIG TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Bigtv.jpg" group-title="NEWSs",BIG TV
+http://125.18.81.106/hlslive/Admin/px0219610/live/Shranyu_aws/chunklist_0.m3u8
 
-#EXTINF:-1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://watchindia.net/images/channels/telugu/10_TV.png" group-title="News",10 TV
+#EXTINF:-1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://watchindia.net/images/channels/telugu/10_TV.png" group-title="NEWS",10 TV
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=155864&extension=ts
 
-#EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-logo="https://i.imgur.com/pFNCRnf.png" group-title="News",ETV Andhra Pradesh 
+#EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-logo="https://i.imgur.com/pFNCRnf.png" group-title="NEWS",ETV Andhra Pradesh 
 https://ythls.armelin.one/channel/UCJi8M0hRKjz8SLPvJKEVTOg.m3u8
 
-#EXTINF:-1 tvg-id="ETVTelangana.in" tvg-logo="https://i.imgur.com/DkgvWTK.png" group-title="News",ETV Telangana 
+#EXTINF:-1 tvg-id="ETVTelangana.in" tvg-logo="https://i.imgur.com/DkgvWTK.png" group-title="NEWS",ETV Telangana 
 https://ythls.armelin.one/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="RAJ NEWS" tvg-logo="https://i.imgur.com/1Hfswrs.png" group-title="News", RAJ NEWS TELUGU
+#EXTINF:-1 tvg-ID="" tvg-name="RAJ NEWS" tvg-logo="https://i.imgur.com/1Hfswrs.png" group-title="NEWS", RAJ NEWS TELUGU
 http://watchindia.net:8880/live/58199/33239/956.ts
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/rBmV30d.png" group-title="NEWS", V6 NEWS
 http://sansat.net:25461/02024773939334/02024773939334/95879
 
-#EXTINF:-1 tvg-id="ABNTeluguNews.in" tvg-name="ABN News" tvg-logo="https://watchindia.net/images/channels/telugu/ABN_News.png" group-title="News",ABN Andhra Jyothi
+#EXTINF:-1 tvg-id="ABNTeluguNews.in" tvg-name="ABN NEWS" tvg-logo="https://watchindia.net/images/channels/telugu/ABN_News.png" group-title="NEWS",ABN Andhra Jyothi
 http://watchindia.net:8880/live/varghesekunju62/308678sher/980.ts
 
-#EXTINF:-1 tvg-id="CVRNews.in" tvg-logo="https://i.imgur.com/UVLWX8B.png" group-title="News",CVR News Telugu 
+#EXTINF:-1 tvg-id="CVRNews.in" tvg-logo="https://i.imgur.com/UVLWX8B.png" group-title="NEWS",CVR News Telugu 
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834496&extension=ts
 
-#EXTINF:-1 tvg-id="CVR English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news_english.png" group-title="News",CVR English
+#EXTINF:-1 tvg-id="CVR English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news_english.png" group-title="NEWS",CVR English
 http://102.222.232.18:9981/stream/channelid/1005715685?ticket=0234C7E68548DCEFFF579636FBD9C1B6936DE8BB&profile=matroska
-
 
 #EXTINF:-1 tvg-id="4tvnews.in" tvg-name="NTV News" tvg-logo="https://watchindia.net/images/channels/telugu/NTV_News.png" group-title="NEWS",NTV News
 https://ythls.armelin.one/channel/UCumtYpCY26F6Jr3satUgMvA.m3u8
 
-#EXTINF:-1 tvg-id="sakshitv.in" tvg-name="Sakshi TV" tvg-logo="https://watchindia.net/images/channels/telugu/Sakshi_TV.png" group-title="News",Sakshi TV
+#EXTINF:-1 tvg-id="sakshitv.in" tvg-name="Sakshi TV" tvg-logo="https://watchindia.net/images/channels/telugu/Sakshi_TV.png" group-title="NEWS",Sakshi TV
 http://watchindia.net:8880/live/varghesekunju62/308678sher/955.ts
 
-#EXTINF:-1 tvg-id="tnews.in" tvg-name="T News" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" group-title="News",T News
+#EXTINF:-1 tvg-id="tnews.in" tvg-name="T News" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" group-title="NEWS",T News
 http://starshare.live:8080/live/7263417185/1718572634/9049.ts
 
-#EXTINF:-1 tvg-id="tv9.in" tvg-name="TV9" tvg-logo="https://watchindia.net/images/channels/telugu/TV9.png" group-title="News",TV9
+#EXTINF:-1 tvg-id="tv9.in" tvg-name="TV9" tvg-logo="https://watchindia.net/images/channels/telugu/TV9.png" group-title="NEWS",TV9
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV5News.in" tvg-logo="https://i.imgur.com/aOrvsYj.png" group-title="NEWS", TV5 News
 https://ythls.armelin.one/channel/UCAR3h_9fLV82N2FH4cE4RKw.m3u8
 
-#EXTINF:-1 tvg-id="MahaaNews.in" tvg-logo="https://i.imgur.com/buT76vR.png" group-title="News", Mahaa News
+#EXTINF:-1 tvg-id="MahaaNews.in" tvg-logo="https://i.imgur.com/buT76vR.png" group-title="NEWS", Mahaa News
 https://ythls.armelin.one/channel/UCDKjhgRoPF1CQk7HluMz23A.m3u8
 
-#EXTINF:-1 tvg-id="99TV.in" tvg-logo="https://i.imgur.com/dZA4gel.png" group-title="News", 99TV  
+#EXTINF:-1 tvg-id="99TV.in" tvg-logo="https://i.imgur.com/dZA4gel.png" group-title="NEWS", 99TV  
 https://ythls.armelin.one/channel/UCl5YgCiwSRVOiC2Nd1P9v1A.m3u8
 
-#EXTINF:-1 tvg-id="Prime9News.in" tvg-logo="https://prime9news.com/wp-content/themes/prime9_v1/images/logo.png" group-title="News",Prime9 News 
+#EXTINF:-1 tvg-id="Prime9News.in" tvg-logo="https://prime9news.com/wp-content/themes/prime9_v1/images/logo.png" group-title="NEWS",Prime9 News 
 https://ythls.armelin.one/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
 
-#EXTINF:-1 tvg-id="I News" tvg-logo="https://i.imgur.com/D30JrAC.png" group-title="News", I NEWS
+#EXTINF:-1 tvg-id="I News" tvg-logo="https://i.imgur.com/D30JrAC.png" group-title="NEWS", I NEWS
 https://ythls.armelin.one/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8
 
-#EXTINF:-1 tvg-id="HMTV" tvg-logo="https://i.imgur.com/NFy5hie.png" group-title="News", HMTV NEWS
+#EXTINF:-1 tvg-id="HMTV" tvg-logo="https://i.imgur.com/NFy5hie.png" group-title="NEWS", HMTV NEWS
 https://ythls.armelin.one/channel/UCNZOrs1QBt8cJnv9ud96qRA.m3u8
 
 
@@ -482,26 +483,26 @@ http://rdns.tv:80/live/tioita35683/38025744/71032.m3u8
 
 
 _____________________________________________________HINDI __________________________________________________________
-#EXTINF:-1 tvg-id="" tvg-name="Sony " tvg-logo="https://i.imgur.com/12orxdQ.png" group-title="ENTERTAINMENT",Sony 
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="https://i.imgur.com/12orxdQ.png" group-title="ENTERTAINMENT", Sony 
 http://fast.bounceme.net:8080/live/rGaKpjvGha/AVSnwJZ2db/7077.ts
 
-#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/oVWxvG6.png" group-title="ENTERTAINMENT",Sony Max 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oVWxvG6.png" group-title="ENTERTAINMENT", Sony Max 
 http://195.26.87.217/live.ts?channelId=184&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/mJP4StX.jpg" group-title="ENTERTAINMENT",Sony Max 2 Ind
+#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://i.imgur.com/mJP4StX.jpg" group-title="ENTERTAINMENT",Sony Max 2 Ind
 http://fast.bounceme.net:8080/live/rGaKpjvGha/AVSnwJZ2db/8455.ts
 
-#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/KaKc1Q4.png"tvg-name="SONY SAB" group-title=""ENTERTAINMENT", SONY SAB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KaKc1Q4.png"tvg-name="SONY SAB" group-title=""ENTERTAINMENT", SONY SAB
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=42460&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/89RaSLE.jpg" group-title="ENTERTAINMENT",Star Gold Select
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/89RaSLE.jpg" group-title="ENTERTAINMENT",Star Gold Select
 http://195.26.87.217/live.ts?channelId=197&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/0OwSLvo.png" group-title="ENTERTAINMENT",Star Gold Thrills
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 
 
-#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/QqMl075.png" group-title="ENTERTAINMENT",Star Gold 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QqMl075.png" group-title="ENTERTAINMENT",Star Gold 
 http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/yGkYlAI.jpg" group-title="ENTERTAINMENT.",Star Gold 2
