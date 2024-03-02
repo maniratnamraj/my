@@ -117,35 +117,6 @@ http://xtv.ooo:8080/MansoorWapda/258741/244479
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/nxnGXJz.png" group-title="INFOTAINMENT", DD YADAGIRI
 https://ythls.armelin.one/channel/UC6V4nVa0CQkoLZUlg9drmZA.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="INFOTAINMENT", DISCOVERY CHANNEL
-https://cdn-main.lolokoko.tv/DiscoveryChannel.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="INFOTAINMENT", NATIONAL GEOGRAPHIC 
-https://cdn-main.lolokoko.tv/NationalGeographic.stream/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/rqlBlBq.png" group-title="INFOTAINMENT", NAT GEO WILD 
-https://cdn-main.lolokoko.tv/NatGeoWild.stream/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/fHoHLCH.png" group-title="INFOTAINMENT", NAT GEO PEOPLE
-https://cdn-main.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="INFORMATION", ANIMAL PLANET
-https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/ESSfJxZ.png" group-title="INFOTAINMENT", DISCOVERY SCIENCE ENGLISH
-https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/Z7jNakS.jpg" group-title="INFOTAINMENT", DISCOVERY SCIENCE ENGLISH
-https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-logo="https://i.imgur.com/B7X8wGx.png" group-title="INFOTAINMENT", DISCOVERY TURBO
-https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
-
-#EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://i.imgur.com/EU7P3wb.jpg"group-title="INFOTAINMENT", DMAX HD
-https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
-
-#EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="https://i.imgur.com/9QJ9chZ.png" group-title="INFOTAINMENT",SONY BBC EARTH HD
-http://startv365.com:80/3634358837/1009221634/36402
 
 
 
@@ -344,10 +315,38 @@ http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281793&extensio
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/MyuB3E5.png" group-title="DOCUMENTARY", SONY BBC EARTH HD
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281782&extension=ts
 
-#EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="DOCUMENTARY", DISCOVERY CHANNEL
+https://cdn-main.lolokoko.tv/DiscoveryChannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC 
+https://cdn-main.lolokoko.tv/NationalGeographic.stream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rqlBlBq.png" group-title="DOCUMENTARY", NAT GEO WILD 
+https://cdn-main.lolokoko.tv/NatGeoWild.stream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/fHoHLCH.png" group-title="DOCUMENTARY", NAT GEO PEOPLE
+https://cdn-main.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="DOCUMENTARY", ANIMAL PLANET
+https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/Z7jNakS.jpg" group-title="DOCUMENTARY", DISCOVERY SCIENCE ENGLISH
+https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-logo="https://i.imgur.com/B7X8wGx.png" group-title="DOCUMENTARY", DISCOVERY TURBO
+https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://i.imgur.com/EU7P3wb.jpg"group-title="DOCUMENTARY", DMAX HD
+https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
+
+#EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="https://i.imgur.com/9QJ9chZ.png" group-title="DOCUMENTARY",SONY BBC EARTH HD
+http://startv365.com:80/3634358837/1009221634/36402
+
+
+#EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="LIFESTYLE",CVR Health
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834495&extension=ts
 ++++++++++++++++++++++++++++++++++++Telugu News+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-#EXTINF:-1 tvg-id="BIG TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Bigtv.jpg" group-title="NEWSs",BIG TV
+#EXTINF:-1 tvg-id="BIG TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Bigtv.jpg" group-title="NEWS",BIG TV
 http://125.18.81.106/hlslive/Admin/px0219610/live/Shranyu_aws/chunklist_0.m3u8
 
 #EXTINF:-1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://watchindia.net/images/channels/telugu/10_TV.png" group-title="NEWS",10 TV
@@ -474,7 +473,7 @@ http://watchindia.net:8880/live/varghesekunju62/308678sher/2101.ts
 #EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel " tvg-logo="https://liebeurl.me/logos/warner.png" group-title="ENTERTAINMENT", WARNER CHANNEL 
 http://rdns.tv:80/live/walderez119/oliveira98209/3745.m3u8
 
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN " tvg-logo="https://www.liebeurl.me/logos/axn.png" group-title="ENTERTAINMENT",AXN SD
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN " tvg-logo="https://www.liebeurl.me/logos/axn.png" group-title="ENTERTAINMENT", AXN SD
 http://rdns.tv:80/live/tioita35683/38025744/4362.m3u8
 
 #EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central " tvg-logo="https://liebeurl.me/logos/comedycentral.png" group-title="ENTERTAINMENT",Comedy Central 
