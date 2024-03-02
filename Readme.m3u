@@ -506,7 +506,7 @@ http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QqMl075.png" group-title="ENTERTAINMENT",Star Gold 
 http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/yGkYlAI.jpg" group-title="ENTERTAINMENT.",Star Gold 2
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/yGkYlAI.jpg" group-title="ENTERTAINMENT",Star Gold 2
 http://195.26.87.217/live.ts?channelId=33165&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/mQsn6Z8.png" group-title="ENTERTAINMENT", Star Gold Romance
@@ -680,28 +680,28 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallba
 #EXTINF:-1 tvg-id="ComedyCentralIndia.in" tvg-logo="https://i.imgur.com/g0caQa2.png" group-title="Comedy",Comedy Central India 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="DDBharati.in" tvg-logo="https://i.imgur.com/4tfUIEo.png" group-title="Documentary",DD Bharati 
+#EXTINF:-1 tvg-id="DDBharati.in" tvg-logo="https://i.imgur.com/4tfUIEo.png" group-title="GENERAL",DD Bharati 
 https://ythls.armelin.one/channel/UCIAnlTV3O9NYWMI-DwYZaWg.m3u8
 
-#EXTINF:-1 tvg-id="DDIndia.in" tvg-logo="https://i.imgur.com/45uptR8.png" group-title="Documentary",DD India 
+#EXTINF:-1 tvg-id="DDIndia.in" tvg-logo="https://i.imgur.com/45uptR8.png" group-title="GENERAL",DD India 
 https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
 
-#EXTINF:-1 tvg-id="DDKashir.in" tvg-logo="https://i.imgur.com/1EI4LOf.png" group-title="Documentary",DD Kashir 
+#EXTINF:-1 tvg-id="DDKashir.in" tvg-logo="https://i.imgur.com/1EI4LOf.png" group-title="GENERAL",DD Kashir 
 https://ythls.armelin.one/channel/UCOqU-HfQxoyImaCW2tCDxJA.m3u8
 
-#EXTINF:-1 tvg-id="DDKisan.in" tvg-logo="https://i.imgur.com/x56WJEa.png" group-title="Documentary",DD Kisan
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-logo="https://i.imgur.com/x56WJEa.png" group-title="GENERAL",DD Kisan
 https://ythls.armelin.one/channel/UCnDfmcUyhgJp6xC1LmBLfUg.m3u8
 
 #EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://i.imgur.com/H4f9R7n.png" group-title="News",DD News 
 https://ythls.armelin.one/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 
-#EXTINF:-1 tvg-id="DDTripura.in" tvg-logo="https://i.imgur.com/ctlcdOw.png" group-title="Documentary",DD Tripura 
+#EXTINF:-1 tvg-id="DDTripura.in" tvg-logo="https://i.imgur.com/ctlcdOw.png" group-title="GENERAL",DD Tripura 
 https://ythls.armelin.one/channel/UCtmSIB1S2LsT5OXC6H6x_rA.m3u8
 
-#EXTINF:-1 tvg-id="DDUttarPradesh.in" tvg-logo="https://i.imgur.com/oKsUqBs.png" group-title="Documentary",DD Uttar Pradesh 
+#EXTINF:-1 tvg-id="DDUttarPradesh.in" tvg-logo="https://i.imgur.com/oKsUqBs.png" group-title="GENERAL",DD Uttar Pradesh 
 https://ythls.armelin.one/channel/UCxtPipsf2nUZ9xM33TPe93Q.m3u8
 
-#EXTINF:-1 tvg-id="DDUttarakhand.in" tvg-logo="https://i.imgur.com/GzBsbos.png" group-title="Documentary",DD Uttarakhand 
+#EXTINF:-1 tvg-id="DDUttarakhand.in" tvg-logo="https://i.imgur.com/GzBsbos.png" group-title="GENERAL",DD Uttarakhand 
 https://ythls.armelin.one/channel/UCx55tefMzKkaA0uDmj9g2XA.m3u8
 
 #EXTINF:-1 tvg-id="Dhamaal.in" tvg-logo="https://i.imgur.com/J6D56EF.png" group-title="Music",Dhamaal 
@@ -857,8 +857,6 @@ https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
 #EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-logo="https://i.imgur.com/Lrm8qTO.png" group-title="RELIGIOUS",MH One Shraddha 
 https://mhoneshaddha.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="MTA2Europe.uk" tvg-logo="https://i.imgur.com/aVts0sz.png" group-title="Undefined",MTA2 Europe 
-https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTA7Asia.uk" tvg-logo="https://i.imgur.com/3Nl8Tpu.png" group-title="Undefined",MTA7 Asia 
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
@@ -869,7 +867,7 @@ http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-logo="https://i.imgur.com/kXTCYqg.png" group-title="Music",Music India 
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 
-#EXTINF:-1 tvg-id="NambikkaiTV.in" tvg-logo="https://i.imgur.com/xnjkUOs.png" group-title="Undefined",Nambikkai TV (
+#EXTINF:-1 tvg-id="NambikkaiTV.in" tvg-logo="https://i.imgur.com/xnjkUOs.png" group-title="Undefined",Nambikkai TV 
 https://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="NamdhariTV.in" tvg-logo="https://i.imgur.com/NalsXTo.png" group-title="Undefined",Namdhari 
@@ -878,7 +876,7 @@ https://namdhari.tv/live/sbs1.m3u8
 #EXTINF:-1 tvg-id="NazranaMusic.in" tvg-logo="https://i.imgur.com/38Run52.png" group-title="Music",Nazrana 
 https://live.hungama.com/linear/nazrana/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NDTV24x7.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png" group-title="Undefined",NDTV 24X7 (480p) 
+#EXTINF:-1 tvg-id="NDTV24x7.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png" group-title="Undefined",NDTV 24X7 
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
 #EXTINF:-1 tvg-id="NDTVIndia.in" tvg-logo="https://i.imgur.com/PyDjUZB.png" group-title="Undefined",NDTV India 
@@ -925,9 +923,6 @@ https://ythls.armelin.one/channel/UCz6sfaICYbi4LEXC-022qpg.m3u8
 
 #EXTINF:-1 tvg-id="NewsStateUPUK.in" tvg-logo="https://i.imgur.com/dQLaY5N.png" group-title="News",News State UP & UK 
 https://ythls.armelin.one/channel/UCeNP3dAy9_A32IWYZq_PZMQ.m3u8
-
-#EXTINF:-1 tvg-id="NickJrIndia.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids",Nick Jr India 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="ParasTV.in" tvg-logo="https://i.imgur.com/Jdb634P.png" group-title="Undefined",Paras TV 
 https://ythls.armelin.one/channel/UC6E1pvhGa55AaZ-svF70ViA.m3u8
