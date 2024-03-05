@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://i.imgur.com/Xh3uqz6.png" group-title="ENTERTAINMENT", ETV HD
-http://xtv.ooo:8080/MansoorWapda/258741/250842
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://i.imgur.com/flpa93R.png" group-title="ENTERTAINMENT", ETV HD
+http://watchindia.net:8880/live/94580/11406/936.ts
 
 #EXTINF:-1 tvg-id="etvcinema.in" tvg-name="ETV CINEMA" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="ENTERTAINMENT", ETV CINEMA
 http://xtv.ooo:8080/MansoorWapda/258741/244441
@@ -9,11 +9,11 @@ http://xtv.ooo:8080/MansoorWapda/258741/244441
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="LIFESTYLE", ETV ABHIRUCHI
 http://xtv.ooo:8080/MansoorWapda/258741/244444
 
-#EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="https://i.imgur.com/iFoJeKv.jpg" group-title="LIFESTYLE", ETV LIFE
-http://xtv.ooo:8080/MansoorWapda/258741/244443
+#EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="https://i.imgur.com/FSkhFIP.png" group-title="LIFESTYLE", ETV LIFE
+http://watchindia.net:8880/live/94580/11406/938.ts
 
-#EXTINF:-1 tvg-id="etvplus.in" tvg-name="ETV PLUS" tvg-logo="https://i.imgur.com/i62bBx9.png" group-title="LIFESTYLE", ETV PLUS
-http://xtv.ooo:8080/MansoorWapda/258741/244442
+#EXTINF:-1 tvg-id="etvplus.in" tvg-name="ETV PLUS" tvg-logo="https://i.imgur.com/acCP6hZ.png" group-title="LIFESTYLE", ETV PLUS
+http://watchindia.net:8880/live/94580/11406/937.ts
 
 #EXTINF:-1 tvg-id="MaaTv.in" tvg-name="STAR MAA HD" tvg-logo="https://i.imgur.com/xuiLlnw.png" group-title="ENTERTAINMENT", STAR MAA HD
 http://watchindia.net:8880/live/varghesekunju62/308678sher/933.ts
@@ -48,7 +48,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU"  tvg-logo="https://i.imgur.com/OPrJHo4.png" group-title="ENTERTAINMENT", ZEE TELUGU
 http://xtv.ooo:8080/MansoorWapda/258741/244427
 
-#EXTINF:-1 tvg-id="Vissa TV" tvg-name="VISSA TV"  tvg-logo="https://i.imgur.com/u40uu3r.png" group-title="ENTERTAINMENT", VISSA TV
+#EXTINF:-1 tvg-id="Vissa TV" tvg-name="VISSA TV"  tvg-logo="https://i.imgur.com/SOYRw0B.png" group-title="ENTERTAINMENT", VISSA TV
 http://xtv.ooo:8080/MansoorWapda/258741/244446
 
 #EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-name="RAJ MUSIC TELUGU"  tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="MUSIC", RAJ MUSIC TELUGU
@@ -57,7 +57,7 @@ http://xtv.ooo:8080/MansoorWapda/258741/250853
 #EXTINF:-1 tvg-id="" tvg-name="VANITHA TV"  tvg-logo="https://i.imgur.com/GiKojgU.png" group-title="INFORMATION", VANITHA TV
 http://xtv.ooo:8080/MansoorWapda/258741/244456
 
-#EXTINF:-1 tvg-id="AdityaMusicIndia.in" tvg-name="ADITYA MUSIC "  tvg-logo="https://i.imgur.com/8fVP91w.jpg" group-title="MUSIC", ADITYA MUSIC 
+#EXTINF:-1 tvg-id="AdityaMusicIndia.in" tvg-name="ADITYA MUSIC "tvg-logo="https://i.imgur.com/8fVP91w.jpg" group-title="MUSIC", ADITYA MUSIC 
 https://ythls.onrender.com/channel/UCNApqoVYJbYSrni4YsbXzyQ.m3u8
 
 #EXTINF:-1 tvg-id="studio one" tvg-name="STUDIO ONE" tvg-logo="https://i.imgur.com/CcvM8Zj.png" group-title="Entertainment", STUDIO ONE
@@ -85,28 +85,28 @@ https://ythls.armelin.one/channel/UCSzOZ97LOpU-_AVlGfmD4rQ.m3u8
 #EXTINF:-1 tvg-id="1254"  tvg-language="Telugu" tvg-logo="https://i.imgur.com/EtoIeVg.png" group-title="RELIGIOUS"", AASTHA TELUGU
 http://102.222.232.18:9981/stream/channelid/596533712?ticket=925FC036E96BB457520222C06CB4072D6E513B83&profile=matroska
 
-#EXTINF: -1 tvg-id="955" tvg-logo="https://i.imgur.com/CqzVI8u.png group-title=" RELIGIOUS", HINDU DHARMAM
+#EXTINF: -1 tvg-id="955" tvg-name=HINDU DHARMAM" tvg-logo="https://i.imgur.com/CqzVI8u.png group-title=" RELIGIOUS", HINDU DHARMAM
 https://ythls.armelin.one/channel/UCMg2yY8OzHhw6mOvgIkaXYg.m3u8
 
-#EXTINF:-1 tvg-id="Sai TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png" group-title="RELIGIOUS", SAI TV
+#EXTINF:-1 tvg-id="Sai TV" tvg-name="SAI TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png" group-title="RELIGIOUS", SAI TV
 http://decode.streamplay.in:1935/srisai/srisai/playlist.m3u8
 
-#EXTINF: -1 tvg-id="1591" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saileela_TV_Telugu.png" group-title="RELIGIOUS", SAILEELA TV TELUGU
+#EXTINF: -1 tvg-id="1591" tvg-name="SAILEELA TV TELUGU" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saileela_TV_Telugu.png" group-title="RELIGIOUS", SAILEELA TV TELUGU
 http://103.139.171.5:5001/live.php?c=Saileela_TV_Telugu&q=800&e=junk.m3u8
 
-#EXTINF:-1 tvg-id="GospelTVIndia.in" tvg-logo="https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png" group-title="RELIGIOUS",Gospel TV India 
+#EXTINF:-1 tvg-id="GospelTVIndia.in" tvg-name="GOSPEL TV INDIA" tvg-logo="https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png" group-title="RELIGIOUS", GOSPEL TV INDIA
 http://live.adostream.com:1935/gospeltv/gospeltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AradanaTV.in" tvg-logo="https://i.imgur.com/w48yzLu.png" group-title="RELIGIOUS", ARADANA TV 
+#EXTINF:-1 tvg-id="AradanaTV.in" tvg-name="ARADANA TV" tvg-logo="https://i.imgur.com/w48yzLu.png" group-title="RELIGIOUS", ARADANA TV 
 https://ythls.armelin.one/channel/UCMnz0yLX3afzFc8y822YO5g.m3u8
 
-#EXTINF: -1 tvg-id="977" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png" group-title="RELIGIOUS", CALVARY
+#EXTINF: -1 tvg-id="977" tvg-name="CALVARY" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png" group-title="RELIGIOUS", CALVARY
 https://player.mslivestream.net/mslive/71e7f7cc7dc7c51206b7b3bbb51e3052.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Shubhsandesh.in" tvg-logo="https://i.imgur.com/XsuFVlf.png" group-title="RELIGIOUS", SHUBHSANDESH 
+#EXTINF:-1 tvg-id="Shubhsandesh.in" tvg-name="SHUBHSANDESH" tvg-logo="https://i.imgur.com/XsuFVlf.png" group-title="RELIGIOUS", SHUBHSANDESH 
 https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 
-#EXTINF: -1 tvg-id="607" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png" group-title="RELIGIOUS", SUBHAVARTHA TV
+#EXTINF: -1 tvg-id="607" tvg-name="SUBHAVARTHA TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png" group-title="RELIGIOUS", SUBHAVARTHA TV
 http://37.49.225.197:8080/mitrovic/e8ac4724d4/166397
 
 ++++++++++++++++++++++++++++++++++++++++++++++DD INDIA +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -357,7 +357,7 @@ https://ythls.armelin.one/channel/UCJi8M0hRKjz8SLPvJKEVTOg.m3u8
 #EXTINF:-1 tvg-id="ETVTelangana.in" tvg-logo="https://i.imgur.com/DkgvWTK.png" group-title="NEWS",ETV Telangana 
 https://ythls.armelin.one/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="RAJ NEWS" tvg-logo="https://i.imgur.com/1Hfswrs.png" group-title="NEWS", RAJ NEWS TELUGU
+#EXTINF:-1 tvg-ID="" tvg-name="RAJ NEWS" tvg-logo="https://i.imgur.com/CCSgw3Z.png" group-title="NEWS", RAJ NEWS TELUGU
 http://watchindia.net:8880/live/58199/33239/956.ts
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/rBmV30d.png" group-title="NEWS", V6 NEWS
