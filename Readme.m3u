@@ -116,34 +116,34 @@ http://xtv.ooo:8080/MansoorWapda/258741/244479
 #EXTINF:-1 tvg-id=" " tvg-logo="https://i.imgur.com/nxnGXJz.png" group-title="GENERAL", DD YADAGIRI
 https://ythls.armelin.one/channel/UC6V4nVa0CQkoLZUlg9drmZA.m3u8
 
-#EXTINF:-1,IN:  DD National HD
+#EXTINF:-1, tvg-id=" " tvg-logo="" group-title="GENERAL", DD National HD
 http://starshare.live:8080/live/53rumaiz87/7567new977/4037.ts
 
-#EXTINF:-1,IN:  DD Bihar
+#EXTINF:-1, tvg-id=" " tvg-logo="" group-title="GENERAL", DD Bihar
 http://starshare.live:8080/live/53rumaiz87/7567new977/4038.ts
 
-#EXTINF:-1,IN: DD Bangla
+#EXTINF:-1,tvg-id=" " tvg-logo="" group-title="GENERAL", DD Bangla
 http://starshare.live:8080/live/53rumaiz87/7567new977/4049.ts
 
-#EXTINF:-1,IN:  DD Sahayadri
+#EXTINF:-1,tvg-id=" " tvg-logo="" group-title="GENERAL",  DD Sahayadri
 http://starshare.live:8080/live/53rumaiz87/7567new977/4050.ts
 
-#EXTINF:-1,IN: DD Odia
+#EXTINF:-1,tvg-id=" " " group-title="GENERAL", DD Odia
 http://starshare.live:8080/live/53rumaiz87/7567new977/4052.ts
 
-#EXTINF:-1 tvg-id="DDBharati.in" tvg-logo="https://i.imgur.com/4tfUIEo.png" group-title="GENERAL",DD Bharati 
+#EXTINF:-1 tvg-id="DDBharati.in" tvg-logo="" group-title="GENERAL",DD Bharati 
 https://ythls.armelin.one/channel/UCIAnlTV3O9NYWMI-DwYZaWg.m3u8
 
-#EXTINF:-1 tvg-id="DDIndia.in" tvg-logo="https://i.imgur.com/45uptR8.png" group-title="GENERAL",DD India 
+#EXTINF:-1 tvg-id="DDIndia.in" tvg-logo="" group-title="GENERAL",DD India 
 https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
 
-#EXTINF:-1 tvg-id="DDKashir.in" tvg-logo="https://i.imgur.com/1EI4LOf.png" group-title="GENERAL",DD Kashir 
+#EXTINF:-1 tvg-id="DDKashir.in" tvg-logo="" group-title="GENERAL",DD Kashir 
 https://ythls.armelin.one/channel/UCOqU-HfQxoyImaCW2tCDxJA.m3u8
 
-#EXTINF:-1 tvg-id="DDKisan.in" tvg-logo="https://i.imgur.com/x56WJEa.png" group-title="GENERAL",DD Kisan
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-logo="" group-title="GENERAL",DD Kisan
 https://ythls.armelin.one/channel/UCnDfmcUyhgJp6xC1LmBLfUg.m3u8
 
-#EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://i.imgur.com/H4f9R7n.png" group-title="News",DD News 
+#EXTINF:-1 tvg-id="DDNews.in" tvg-logo="" group-title="News",DD News 
 https://ythls.armelin.one/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 
 #EXTINF:-1 tvg-id="DDTripura.in" tvg-logo="https://i.imgur.com/ctlcdOw.png" group-title="GENERAL",DD Tripura 
@@ -177,22 +177,22 @@ http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ammanews.jpg" group-title="LOCAL",Amma News
 http://server.streamplay.in:1935/ammanews/ammanews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Studio18.jpg" group-title="Local",Studio18 News
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO 18 NEWS" tvg-logo="https://i.imgur.com/9qogVMP.png?1" group-title="Local",STUDIO 18 NEWS
 http://server.streamplay.in:1935/studio18/studio18/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/BatukammaTV.jpg" group-title="Local",Batukamma TV
+#EXTINF:-1 tvg-id="" tvg-name="BATUKAMMA TV" tvg-logo="https://i.imgur.com/u7IXUHS.png" group-title="Local", BATUKAMMA TV
 http://live.streamplay.in:1935/bkamma/bkamma/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Santhoshamtv.jpg" group-title="Local",Santhosham TV
+#EXTINF:-1 tvg-id="" tvg-name="SANTHOSHAM TV" tvg-logo="https://i.imgur.com/AHaCjT2.jpg" group-title="Local", SANTHOSHAM TV
 http://hdserver.7starcloud.com:1935/shts/live/chunklist_w1579620889.m3u8
 
-#EXTINF:-1 tvg-id="City News TV" tvg-logo="https://i.imgur.com/V8xqWHv.jpg" group-title="LOCAL",City News TV
+#EXTINF:-1 tvg-id="City News TV" tvg-name="CITY NEWS TV" tvg-logo="https://i.imgur.com/V8xqWHv.jpg" group-title="LOCAL", CITY NEWS TV
 http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TN24/7News" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/TS.jpg" group-title="LOCAL",Telangana Sanskruti
+#EXTINF:-1 tvg-id="TN24/7News" tvg-name="TELANGANA SANSKRUTI" tvg-logo="https://i.imgur.com/WRnV5Fc.jpg.jpg" group-title="LOCAL", TELANGANA SANSKRUTI
 http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-logo="https://i.imgur.com/eKJ9IJv.jpg" group-title="Entertainment", v9 studio news
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name=" tvg-logo="https://i.imgur.com/eKJ9IJv.jpg" group-title="Entertainment", v9 studio news
 http://183.87.51.10/hls/V9studio.m3u8
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FVinodam.jpg?alt=media&token=e8c2997f-b27e-402e-bb7a-2f74e44595d4" group-title="LOCAL",Vinodam
