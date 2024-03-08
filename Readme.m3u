@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="https://i.imgur.com/flpa93R.png" group-title="ENTERTAINMENT", ETV HD
 http://watchindia.net:8880/live/94580/11406/936.ts
 
-#EXTINF:-1 tvg-id="etvcinema.in" tvg-name="ETV CINEMA" tvg-logo="https://i.imgur.com/6CGHvEy.png" group-title="ENTERTAINMENT", ETV CINEMA
+#EXTINF:-1 tvg-id="etvcinema.in" tvg-name="ETV CINEMA" tvg-logo="https://i.imgur.com/7uq92lt.jpg" group-title="ENTERTAINMENT", ETV CINEMA
 http://xtv.ooo:8080/MansoorWapda/258741/244441
 
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="LIFESTYLE", ETV ABHIRUCHI
@@ -15,13 +15,13 @@ http://watchindia.net:8880/live/94580/11406/938.ts
 #EXTINF:-1 tvg-id="etvplus.in" tvg-name="ETV PLUS" tvg-logo="https://i.imgur.com/acCP6hZ.png" group-title="LIFESTYLE", ETV PLUS
 http://watchindia.net:8880/live/94580/11406/937.ts
 
-#EXTINF:-1 tvg-id="MaaTv.in" tvg-name="STAR MAA HD" tvg-logo="https://i.imgur.com/xuiLlnw.png" group-title="ENTERTAINMENT", STAR MAA HD
+#EXTINF:-1 tvg-id="MaaTv.in" tvg-name="STAR MAA HD" tvg-logo="https://i.imgur.com/CmiuOI9.png" group-title="ENTERTAINMENT", STAR MAA HD
 http://watchindia.net:8880/live/varghesekunju62/308678sher/933.ts
 
-#EXTINF:-1 tvg-id="MaaMovies.in" tvg-name="STAR MAA MOVIES" tvg-logo="https://i.imgur.com/4j6yDKH.png" group-title="ENTERTAINMENT", STAR MAA MOVIES 
+#EXTINF:-1 tvg-id="MaaMovies.in" tvg-name="STAR MAA MOVIES" tvg-logo="https://i.imgur.com/UcGbJuw.jpg" group-title="ENTERTAINMENT", STAR MAA MOVIES 
 http://xtv.ooo:8080/MansoorWapda/258741/244438
 
-#EXTINF:-1 tvg-id="MaaGold.in" tvg-name="STAR MAA GOLD "  tvg-logo="https://i.imgur.com/FpaGXzV.png" group-title="ENTERTAINMENT", STAR MAA GOLD 
+#EXTINF:-1 tvg-id="MaaGold.in" tvg-name="STAR MAA GOLD "  tvg-logo="https://i.imgur.com/rPVIPyW.jpg" group-title="ENTERTAINMENT", STAR MAA GOLD 
 http://watchindia.net:8880/live/varghesekunju62/308678sher/935.ts
 
 #EXTINF:-1 tvg-id="MaaMusic.in" tvg-name="STAR MAA MUSIC"  tvg-logo="https://i.imgur.com/bfqRfB4.png" group-title="MUSIC", STAR MAA MUSIC
@@ -36,16 +36,16 @@ http://watchindia.net:8880/live/varghesekunju62/308678sher/930.ts
 #EXTINF:-1 tvg-id="geminilife.in" tvg-name="GEMINI LIFE"  tvg-logo="https://i.imgur.com/6TbzJRA.png" group-title="ENTERTAINMENT", GEMINI LIFE
 http://xtv.ooo:8080/MansoorWapda/258741/244436
 
-#EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="GEMINI COMEDY"  tvg-logo="https://i.imgur.com/bo1OSbd.png" group-title="ENTERTAINMENT", GEMINI COMEDY
+#EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="GEMINI COMEDY" tvg-logo="https://i.imgur.com/xsXx4Qr.png" group-title="ENTERTAINMENT", GEMINI COMEDY
 http://xtv.ooo:8080/MansoorWapda/258741/244435
 
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-name="GEMINI MUSIC"  tvg-logo="https://i.imgur.com/z6USUEc.png" group-title="MUSIC", GEMINI MUSIC 
 http://xtv.ooo:8080/MansoorWapda/258741/244434
 
-#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="ZEE CINEMALU" tvg-logo="https://i.imgur.com/fbiuUrf.png" group-title="ENTERTAINMENT", ZEE CINEMALU
+#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="ZEE CINEMALU"  tvg-logo="https://i.imgur.com/disc086.png" group-title="ENTERTAINMENT", ZEE CINEMALU
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
 
-#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU"  tvg-logo="https://i.imgur.com/OPrJHo4.png" group-title="ENTERTAINMENT", ZEE TELUGU
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU"  tvg-logo="https://i.imgur.com/uHOJMKY.jpg" group-title="ENTERTAINMENT", ZEE TELUGU
 http://xtv.ooo:8080/MansoorWapda/258741/244427
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-name="VISSA TV"  tvg-logo="https://i.imgur.com/SOYRw0B.png" group-title="ENTERTAINMENT", VISSA TV
