@@ -42,19 +42,19 @@ http://xtv.ooo:8080/MansoorWapda/258741/244435
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-name="GEMINI MUSIC"  tvg-logo="https://i.imgur.com/z6USUEc.png" group-title="MUSIC", GEMINI MUSIC 
 http://xtv.ooo:8080/MansoorWapda/258741/244434
 
-#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="ZEE CINEMALU"  tvg-logo="https://i.imgur.com/disc086.png" group-title="ENTERTAINMENT", ZEE CINEMALU
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
-
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU"  tvg-logo="https://i.imgur.com/uHOJMKY.jpg" group-title="ENTERTAINMENT", ZEE TELUGU
-http://xtv.ooo:8080/MansoorWapda/258741/244427
+http://starshare.live:8080/live/53rumaiz87/7567new977/98894.ts
+
+#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="ZEE CINEMALU"  tvg-logo="https://i.imgur.com/disc086.png" group-title="ENTERTAINMENT", ZEE CINEMALU
+http://starshare.live:8080/live/53rumaiz87/7567new977/98896.ts
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-name="VISSA TV"  tvg-logo="https://i.imgur.com/SOYRw0B.png" group-title="ENTERTAINMENT", VISSA TV
 http://xtv.ooo:8080/MansoorWapda/258741/244446
 
-#EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-name="RAJ MUSIC TELUGU"  tvg-logo="https://i.imgur.com/QxNPLYO.png" group-title="MUSIC", RAJ MUSIC TELUGU
+#EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-name="RAJ MUSIC TELUGU"  tvg-logo="https://i.imgur.com/LiXGhkK.png?1" group-title="MUSIC", RAJ MUSIC TELUGU
 http://starshare.live:8080/live/53rumaiz87/7567new977/243.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="VANITHA TV" tvg-logo="https://i.imgur.com/Hxh9Qxf.png" group-title="INFORMATION", VANITHA TV
+#EXTINF:-1 tvg-id="123" tvg-name="VANITHA TV" tvg-logo="https://i.imgur.com/Hxh9Qxf.png" group-title="INFORMATION", VANITHA TV
 http://xtv.ooo:8080/MansoorWapda/258741/244456
 
 #EXTINF:-1 tvg-id="AdityaMusicIndia.in" tvg-name="ADITYA MUSIC "tvg-logo="https://i.imgur.com/8fVP91w.jpg" group-title="MUSIC", ADITYA MUSIC 
@@ -215,9 +215,6 @@ http://cloud.streamplay.in:1935/v5news/v5news/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsitiChannel.png?alt=media&token=f4c474b0-7a06-4c6f-82a9-27cf50edb84c" group-title=""LOCAL",Siti Channel
 https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fptv.jpg?alt=media&token=e99793fd-a71d-4c40-8730-1ffb98f4487d" group-title="LOCAL",P TV
-http://live.streamplay.in:1935/ptv/ptv/playlist.m3u8
 
 #EXTINF:-1 group-title=""LOCAL",Local News
 http://live.streamplay.in:1935/localtv/localtv/playlist.m3u8
@@ -383,6 +380,7 @@ http://startv365.com:80/3634358837/1009221634/36402
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834495&extension=ts
 
 ++++++++++++++++++++++++++++++++++++Telugu News+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 #EXTINF:-1 tvg-id="BIG TV" tvg-name="BIG TV" tvg-logo="https://i.imgur.com/roceYwY.png" group-title="NEWS",BIG TV
 http://125.18.81.106/hlslive/Admin/px0219610/live/Shranyu_aws/chunklist_0.m3u8
 
@@ -390,10 +388,10 @@ http://125.18.81.106/hlslive/Admin/px0219610/live/Shranyu_aws/chunklist_0.m3u8
 http://watchindia.net:8880/live/58199/33239/956.ts
 
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV ANDHRA PRADESH" tvg-logo="https://i.imgur.com/pFNCRnf.png" group-title="NEWS", ETV ANDHRA PRADESH 
-https://ythls.armelin.one/channel/UCJi8M0hRKjz8SLPvJKEVTOg.m3u8
+http://starshare.live:8080/live/53rumaiz87/7567new977/9046.ts
 
 #EXTINF:-1 tvg-id="ETVTelangana.in" tvg-name="ETV TELANGANA" tvg-logo="https://i.imgur.com/DkgvWTK.png" group-title="NEWS", ETV TELANGANA 
-https://ythls.armelin.one/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8
+http://starshare.live:8080/live/53rumaiz87/7567new977/9050.ts
 
 #EXTINF:-1 tvg-id="sakshitv.in" tvg-name="SAKSHI TV" tvg-logo="https://i.imgur.com/rR434zM.jpg" group-title="NEWS", SAKSHI TV
 http://watchindia.net:8880/live/varghesekunju62/308678sher/955.ts
