@@ -116,43 +116,43 @@ http://xtv.ooo:8080/MansoorWapda/258741/244479
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nxnGXJz.png" group-title="GENERAL", DD YADAGIRI
 https://ythls.armelin.one/channel/UC6V4nVa0CQkoLZUlg9drmZA.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://i.imgur.com/jfxehtO.jpg" group-title="GENERAL", DD National HD
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jfxehtO.jpg" group-title="GENERAL", DD National HD
 http://starshare.live:8080/live/53rumaiz87/7567new977/4037.ts
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://i.imgur.com/2F0TEzc.png" group-title="GENERAL", DD Bihar
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2F0TEzc.png" group-title="GENERAL", DD Bihar
 http://starshare.live:8080/live/53rumaiz87/7567new977/4038.ts
 
-#EXTINF:-1,tvg-id="" tvg-logo="https://i.imgur.com/G1Nqy9o.jpg" group-title="GENERAL", DD Bangla
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/G1Nqy9o.jpg" group-title="GENERAL", DD Bangla
 http://starshare.live:8080/live/53rumaiz87/7567new977/4049.ts
 
-#EXTINF:-1,tvg-id="" tvg-logo="https://i.imgur.com/LH16gZJ.jpg" group-title="GENERAL", DD Sahayadri
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LH16gZJ.jpg" group-title="GENERAL", DD Sahayadri
 http://starshare.live:8080/live/53rumaiz87/7567new977/4050.ts
 
-#EXTINF:-1,tvg-id="" tvg-logo="https://i.imgur.com/wi3Z5uX.jpg" group-title="GENERAL", DD Odia 
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wi3Z5uX.jpg" group-title="GENERAL", DD Odia 
 http://starshare.live:8080/live/53rumaiz87/7567new977/4052.ts
 
-#EXTINF:-1 tvg-id="DDBharati.in" tvg-logo="https://i.imgur.com/i2lkzvK.jpg" group-title="GENERAL",DD Bharati 
+#EXTINF:-1 tvg-id="DDBharati.in" tvg-name="" tvg-logo="https://i.imgur.com/i2lkzvK.jpg" group-title="GENERAL",DD Bharati 
 https://ythls.armelin.one/channel/UCIAnlTV3O9NYWMI-DwYZaWg.m3u8
 
 #EXTINF:-1 tvg-id="DDIndia.in" tvg-logo="https://i.imgur.com/QEaq0UU.jpg" group-title="GENERAL",DD India 
 https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
 
-#EXTINF:-1 tvg-id="DDKashir.in" tvg-logo="https://i.imgur.com/HlRZD1R.jpg" group-title="GENERAL",DD Kashir 
+#EXTINF:-1 tvg-id="DDKashir.in" tvg-name="" tvg-logo="https://i.imgur.com/HlRZD1R.jpg" group-title="GENERAL",DD Kashir 
 https://ythls.armelin.one/channel/UCOqU-HfQxoyImaCW2tCDxJA.m3u8
 
-#EXTINF:-1 tvg-id="DDKisan.in" tvg-logo="https://i.imgur.com/QWCv1kU.png" group-title="GENERAL",DD Kisan
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="" tvg-logo="https://i.imgur.com/QWCv1kU.png" group-title="GENERAL",DD Kisan
 https://ythls.armelin.one/channel/UCnDfmcUyhgJp6xC1LmBLfUg.m3u8
 
-#EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://i.imgur.com/8puDFoq.png" group-title="News",DD News 
+#EXTINF:-1 tvg-id="DDNews.in" tvg-name="" tvg-logo="https://i.imgur.com/8puDFoq.png" group-title="News",DD News 
 https://ythls.armelin.one/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 
-#EXTINF:-1 tvg-id="DDTripura.in" tvg-logo="https://i.imgur.com/ctlcdOw.png" group-title="GENERAL",DD Tripura 
+#EXTINF:-1 tvg-id="DDTripura.in" tvg-name="" tvg-logo="https://i.imgur.com/ctlcdOw.png" group-title="GENERAL",DD Tripura 
 https://ythls.armelin.one/channel/UCtmSIB1S2LsT5OXC6H6x_rA.m3u8
 
-#EXTINF:-1 tvg-id="DDUttarPradesh.in" tvg-logo="https://i.imgur.com/oKsUqBs.png" group-title="GENERAL",DD Uttar Pradesh 
+#EXTINF:-1 tvg-id="DDUttarPradesh.in" tvg-name="" tvg-logo="https://i.imgur.com/oKsUqBs.png" group-title="GENERAL",DD Uttar Pradesh 
 https://ythls.armelin.one/channel/UCxtPipsf2nUZ9xM33TPe93Q.m3u8
 
-#EXTINF:-1 tvg-id="DDUttarakhand.in" tvg-logo="https://i.imgur.com/GzBsbos.png" group-title="GENERAL",DD Uttarakhand 
+#EXTINF:-1 tvg-id="DDUttarakhand.in" tvg-name="" tvg-logo="https://i.imgur.com/GzBsbos.png" group-title="GENERAL",DD Uttarakhand 
 https://ythls.armelin.one/channel/UCx55tefMzKkaA0uDmj9g2XA.m3u8
 
 
