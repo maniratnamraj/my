@@ -167,9 +167,6 @@ http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
 #EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/zillavani.jpg" group-title="LOCAL", Zilla vani
 https://streaming.livebox.co.in/vedhikahls/live.m3u8
 
-#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://i.imgur.com/9qogVMP.png?1" group-title="NEWS", Studio18 News
-http://server.streamplay.in:1935/studio18/studio18/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Bhavya_tv" tvg-logo="https://i.imgur.com/fX2Ci8I.jpg" group-title="LOCAL", Bhavya TV
 http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 
@@ -203,22 +200,22 @@ https://sharsolution.in/hls/meetv/meetv.m3u8
 #EXTINF:-1 tvg-id="V9 Studio News" tvg-name=""tvg-id="City News TV" tvg-logo="" group-title="Movies",City News TV
 http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name=""tvg-logo="" group-title="LOCAL",Super TV
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="" tvg-name=""tvg-logo="" group-title="LOCAL",Super TV
 http://server.streamplay.in:1935/supertv/supertv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name=""tvg-logo="" group-title="LOCAL",TV7 Hills
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="" tvg-name=""tvg-logo="" group-title="LOCAL",TV7 Hills
 https://server.streamwell.in/hls/7hills.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name=""tvg-logo="" group-title=""LOCAL",V5 News
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="" tvg-name=""tvg-logo="" group-title=""LOCAL",V5 News
 http://cloud.streamplay.in:1935/v5news/v5news/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name=""tvg-logo="" group-title=""LOCAL",Siti Channel
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="" tvg-name=""tvg-logo="" group-title=""LOCAL",Siti Channel
 https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name=""group-title=""LOCAL",Local News
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="" tvg-name=""group-title=""LOCAL",Local News
 http://live.streamplay.in:1935/localtv/localtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name=""tvg-logo="https://i.imgur.com/WU9UF4P.png"group-title="LOCAL",Mana Telugu TV
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="" tvg-name=""tvg-logo="https://i.imgur.com/WU9UF4P.png"group-title="LOCAL",Mana Telugu TV
 http://live.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="V9 Studio News" tvg-name=""tvg-logo="https://i.imgur.com/eeOElHl.jpg"group-title="LOCAL",Sity CCC
