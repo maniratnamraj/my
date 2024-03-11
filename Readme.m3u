@@ -143,9 +143,6 @@ https://ythls.armelin.one/channel/UCOqU-HfQxoyImaCW2tCDxJA.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD KISAN" tvg-logo="https://i.imgur.com/QWCv1kU.png" group-title="GENERAL", DD KISAN
 https://ythls.armelin.one/channel/UCnDfmcUyhgJp6xC1LmBLfUg.m3u8
 
-#EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD NEWS" tvg-logo="https://i.imgur.com/8puDFoq.png" group-title="News", DD NEWS
-https://ythls.armelin.one/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
-
 #EXTINF:-1 tvg-id="DDTripura.in" tvg-name="DD TRIPURA" tvg-logo="https://i.imgur.com/ctlcdOw.png" group-title="GENERAL", DD TRIPURA
 https://ythls.armelin.one/channel/UCtmSIB1S2LsT5OXC6H6x_rA.m3u8
 
@@ -155,31 +152,32 @@ https://ythls.armelin.one/channel/UCxtPipsf2nUZ9xM33TPe93Q.m3u8
 #EXTINF:-1 tvg-id="DDUttarakhand.in" tvg-name="DD UTTARAKHAND" tvg-logo="https://i.imgur.com/GzBsbos.png" group-title="GENERAL", DD UTTARAKHAND
 https://ythls.armelin.one/channel/UCx55tefMzKkaA0uDmj9g2XA.m3u8
 
-
+#EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD NEWS" tvg-logo="https://i.imgur.com/8puDFoq.png" group-title="News", DD NEWS
+https://ythls.armelin.one/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++LOCAL==========================================================================================
-#EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="LOCAL", Metro TV
+#EXTINF:-1 tvg-id="Metro TV" tvg-name="METRO TV" tvg-logo="https://i.imgur.com/5Esr4EC.jpg" group-title="LOCAL", METRO TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Gatla TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Gatlatv.jpg" group-title="LOCAL", Gatla TV
+#EXTINF:-1 tvg-id="Gatla TV" tvg-name="GATLA TV" tvg-logo="https://i.imgur.com/y2ZYwNC.jpg" group-title="LOCAL", GATLA TV
 http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
 
-#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/zillavani.jpg" group-title="LOCAL", Zilla vani
+#EXTINF:-1 tvg-id="ETNow.in" tvg-name="ZILLA VANI" tvg-logo="https://i.imgur.com/OpDSRQc.jpg" group-title="LOCAL", ZILLA VANI
 https://streaming.livebox.co.in/vedhikahls/live.m3u8
 
-#EXTINF:-1 tvg-id="Bhavya_tv" tvg-logo="https://i.imgur.com/fX2Ci8I.jpg" group-title="LOCAL", Bhavya TV
+#EXTINF:-1 tvg-id="Bhavya_tv" tvg-name="BHAVYA TV" tvg-logo="https://i.imgur.com/fX2Ci8I.jpg" group-title="LOCAL", BHAVYA TV
 http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ammanews.jpg" group-title="LOCAL",Amma News
+#EXTINF:-1 tvg-id="ETNow.in" tvg-name="AMMA NEWS"tvg-logo="hhttps://i.imgur.com/W6mR3pm.jpg" group-title="LOCAL", AMMA NEWS
 http://server.streamplay.in:1935/ammanews/ammanews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO 18 NEWS" tvg-logo="https://i.imgur.com/9qogVMP.png?1" group-title="Local",STUDIO 18 NEWS
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO 18 NEWS" tvg-logo="https://i.imgur.com/9qogVMP.png?1" group-title="LOCAL",STUDIO 18 NEWS
 http://server.streamplay.in:1935/studio18/studio18/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BATUKAMMA TV" tvg-logo="https://i.imgur.com/u7IXUHS.png" group-title="Local", BATUKAMMA TV
+#EXTINF:-1 tvg-id="" tvg-name="BATUKAMMA TV" tvg-logo="https://i.imgur.com/u7IXUHS.png" group-title="LOCAL", BATUKAMMA TV
 http://live.streamplay.in:1935/bkamma/bkamma/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SANTHOSHAM TV" tvg-logo="https://i.imgur.com/AHaCjT2.jpg" group-title="Local", SANTHOSHAM TV
+#EXTINF:-1 tvg-id="" tvg-name="SANTHOSHAM TV" tvg-logo="https://i.imgur.com/AHaCjT2.jpg" group-title="LOCAL", SANTHOSHAM TV
 http://hdserver.7starcloud.com:1935/shts/live/chunklist_w1579620889.m3u8
 
 #EXTINF:-1 tvg-id="City News TV" tvg-name="CITY NEWS TV" tvg-logo="https://i.imgur.com/V8xqWHv.jpg" group-title="LOCAL", CITY NEWS TV
@@ -191,28 +189,28 @@ http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist
 #EXTINF:-1 tvg-id="V9 Studio News" tvg-name="V9 STUDIO NEWS" tvg-logo="https://i.imgur.com/eKJ9IJv.jpg" group-title="LOCAL", V9 STUDIO NEWS
 http://183.87.51.10/hls/V9studio.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="VINODAM"tvg-logo="" group-title="LOCAL",Vinodam
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="VINODAM" tvg-logo="https://i.imgur.com/FBGv3Et.jpg" group-title="LOCAL", VINODAM 
 https://sharsolution.in/hls/vinodam/vinodam.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="MEE TV"tvg-logo="" group-title="LOCAL",MEE TV
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="MEE TV" tvg-logo="https://i.imgur.com/ZxpilN8.png" group-title="LOCAL",MEE TV
 https://sharsolution.in/hls/meetv/meetv.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="CITY NEWS TV" tvg-logo="" group-title="LOCAL",CITY NEWS TV
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="CITY NEWS TV" tvg-logo="https://i.imgur.com/EtSgW4s.png" group-title="LOCAL",CITY NEWS TV
 http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="SUPER TV" tvg-logo="" group-title="LOCAL", SUPER TV
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="SUPER TV" tvg-logo="https://i.imgur.com/IjFbd5x.jpg" group-title="LOCAL", SUPER TV
 http://server.streamplay.in:1935/supertv/supertv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="TV7 HILLS" tvg-logo="" group-title="LOCAL", TV7 HILLS
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="TV7 HILLS" tvg-logo="https://i.imgur.com/Dggvn2t.jpg" group-title="LOCAL", TV7 HILLS
 https://server.streamwell.in/hls/7hills.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="V5 NEWS" tvg-logo="" group-title=""LOCAL", V5 NEWS
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="V5 NEWS" tvg-logo="https://i.imgur.com/R6XAsjM.jpg" group-title=""LOCAL", V5 NEWS
 http://cloud.streamplay.in:1935/v5news/v5news/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="SITI CHANNEL" tvg-logo="https://imgur.com/RZ1HZnM" group-title=""LOCAL", SITI CHANNEL
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="SITI CHANNEL" tvg-logo="https://i.imgur.com/qNVzsde.jpg" group-title=""LOCAL", SITI CHANNEL
 https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="LOCAL NEWS" tvg-logo="" tvg-name=""group-title=""LOCAL", LOCAL NEWS
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="LOCAL NEWS" tvg-logo="https://i.imgur.com/EOsy5ia.png" group-title=""LOCAL", LOCAL NEWS
 http://live.streamplay.in:1935/localtv/localtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="V9 Studio News" tvg-name="MANA TELUGU TV" tvg-logo="https://i.imgur.com/WU9UF4P.png"group-title="LOCAL", MANA TELUGU TV
@@ -239,10 +237,10 @@ http://hdserver.7starcloud.com:1935/shts/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Cowa TV" tvg-name="SRS BAKTHI TV"tvg-logo="https://i.imgur.com/k9bS0Jr.jpg"group-title="LOCAL", SRS BAKTHI TV
 http://live.adostream.com:1935/srsbhakthi/srsbhakthi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BCN Channel" tvg-name="" tvg-logo="" group-title="LOCAL",BCN
+#EXTINF:-1 tvg-id="BCN Channel" tvg-name="" tvg-logo="https://i.imgur.com/X0ZFx0u.jpg" group-title="LOCAL",BCN
 http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SITY TELANGANA" tvg-logo="" group-title="LOCAL", SITY TELANGANA
+#EXTINF:-1 tvg-id="" tvg-name="SITY TELANGANA" tvg-logo="https://i.imgur.com/RZ1HZnM.jpg" group-title="LOCAL", SITY TELANGANA
 http://cloud.streamplay.in:1935/ccc/ccc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 9 TODAY" tvg-logo="https://i.imgur.com/mn1fZLP.jpg"group-title="LOCAL",NEWS 9 TODAY
@@ -253,9 +251,6 @@ http://server.streamplay.in:1935/9tv/9tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RK 9 NEWS" tvg-logo="https://i.imgur.com/SSl3HXU.jpg" group-title="LOCAL", RK 9 NEWS
 http://telugusolutions.com/rk9news/rk9news/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AMMA NEWS" tvg-logo="https://imgur.com/W6mR3pm" group-title="LOCAL", AMMA NEWS
-http://server.streamplay.in:1935/star9/star9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bhavya_tv" tvg-name="BHAVYA TV" tvg-logo="https://i.imgur.com/924Okst.png?1" group-title="LOCAL",BHAVYA TV
 http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
@@ -299,19 +294,19 @@ http://xtv.ooo:8080/MansoorWapda/258741/26187
 #EXTINF:-1  tvg-id="" tvg-name="HUNGAMA"  tvg-logo="https://i.imgur.com/cYVExRI.png" group-title="KIDS", HUNGAMA
 http://xtv.ooo:8080/MansoorWapda/258741/150480
 
-#EXTINF:-1  tvg-id="" tvg-name="BABY TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c9a51a70ec6f938fa8c7b2dd5d186324.png" group-title=" KIDS",BABY TV
+#EXTINF:-1  tvg-id="" tvg-name="BABY TV" tvg-logo="https://i.imgur.com/bFtkF5H.jpg" group-title=" KIDS", BABY TV
 http://rdns.tv:80/live/walderez119/oliveira98209/25370.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-name="DISNEY CHANNEL"tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a5af65e344f7b824fbda309c3606aa1a.png" group-title="KIDS",DISNEY CHANNEL
+#EXTINF:-1  tvg-id="" tvg-name="DISNEY CHANNEL"tvg-logo="https://i.imgur.com/aOkXvqg.png" group-title="KIDS", DISNEY CHANNEL
 http://xtv.ooo:8080/MansoorWapda/258741/167551
 
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JUNIOR" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/db7665573ac43d4418b35f2d2dff77ed.png" group-title=" KIDS",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.imgur.com/XkTwaby.png" group-title=" KIDS", DISNEY JUNIOR
 http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/182140
 
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/0086900f9e43865acfda4ec1f3d57866.png" group-title="KIDS",DISNEY XD
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" tvg-logo="https://i.imgur.com/UE7TW2L.png" group-title="KIDS",DISNEY XD
 http://ipro.webvps.de:25443/live/223300444/3216548777/9286.ts
 
-#EXTINF:-1  tvg-id="" tvg-name="NICK JUNIOR" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7817352f2d6a1de52a2dd2b05277d640.jpg" group-title="KIDS", NICK JUNIOR
+#EXTINF:-1  tvg-id="" tvg-name="NICK JUNIOR" tvg-logo="https://i.imgur.com/SIPeyn0.png" group-title="KIDS", NICK JUNIOR
 http://xtv.ooo:8080/MansoorWapda/258741/153156
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="NICKELODEON" tvg-logo="https://i.imgur.com/T0dFpxB.png" group-title="KIDS", NICKELODEON
@@ -326,10 +321,10 @@ http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/210339
 #EXTINF:-1   tvg-id="nick.in" tvg-name="DISCOVERY KIDS"tvg-logo="https://i.imgur.com/F6tDTGk.jpg" group-title=" KIDS", DISCOVERY KIDS
 http://xtv.ooo:8080/MansoorWapda/258741/76723
 
-#EXTINF:-1  tvg-id="nick.in" tvg-name="NICK HD+" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="KIDS", Nick HD+ 
+#EXTINF:-1  tvg-id="nick.in" tvg-name="NICK HD+" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="KIDS", NICK HD+ 
 http://xtv.ooo:8080/MansoorWapda/258741/76722
 
-#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="CARTOON NETWORK HD+"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png" group-title="KIDS", Cartoon Network HD+
+#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="CARTOON NETWORK HD+"tvg-logo="https://imgur.com/9spEdvT" group-title="KIDS", CARTOON NETWORK HD+ 
 http://xtv.ooo:8080/MansoorWapda/258741/153154
 
 
@@ -345,34 +340,34 @@ http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281793&extensio
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/MyuB3E5.png" group-title="DOCUMENTARY", SONY BBC EARTH HD
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281782&extension=ts
 
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="DOCUMENTARY", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="DOCUMENTARY", DISCOVERY CHANNEL
 https://cdn-main.lolokoko.tv/DiscoveryChannel.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC 
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/XKNFAyu.png" group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC 
 https://cdn-main.lolokoko.tv/NationalGeographic.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rqlBlBq.png" group-title="DOCUMENTARY", NAT GEO WILD 
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD "tvg-logo="https://i.imgur.com/rqlBlBq.png" group-title="DOCUMENTARY", NAT GEO WILD 
 https://cdn-main.lolokoko.tv/NatGeoWild.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fHoHLCH.png" group-title="DOCUMENTARY", NAT GEO PEOPLE
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO PEOPLE"tvg-logo="https://i.imgur.com/fHoHLCH.png" group-title="DOCUMENTARY", NAT GEO PEOPLE
 https://cdn-main.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="DOCUMENTARY", ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="DOCUMENTARY", ANIMAL PLANET
 https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/Z7jNakS.jpg" group-title="DOCUMENTARY", DISCOVERY SCIENCE ENGLISH
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY SCIENCE ENGLISH" tvg-logo="https://i.imgur.com/Z7jNakS.jpg" group-title="DOCUMENTARY", DISCOVERY SCIENCE ENGLISH
 https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-logo="https://i.imgur.com/B7X8wGx.png" group-title="DOCUMENTARY", DISCOVERY TURBO
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.imgur.com/B7X8wGx.png" group-title="DOCUMENTARY", DISCOVERY TURBO
 https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
 
-#EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://i.imgur.com/EU7P3wb.jpg"group-title="DOCUMENTARY", DMAX HD
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX HD" tvg-logo="https://i.imgur.com/EU7P3wb.jpg"group-title="DOCUMENTARY", DMAX HD
 https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
 
-#EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="https://i.imgur.com/9QJ9chZ.png" group-title="DOCUMENTARY",SONY BBC EARTH HD
+#EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-name="SONY BBC EARTH HD" tvg-logo="https://i.imgur.com/tpgwF0O.png" group-title="DOCUMENTARY",SONY BBC EARTH HD
 http://startv365.com:80/3634358837/1009221634/36402
 
-#EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="LIFESTYLE",CVR Health
+#EXTINF:-1 tvg-id="CVR HEALTH" tvg-name="CVR HEALTH" tvg-logo="https://imgur.com/n3MRq4N" group-title="LIFESTYLE", CVR HEALTH
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834495&extension=ts
 
 ++++++++++++++++++++++++++++++++++++Telugu News+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
