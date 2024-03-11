@@ -188,91 +188,91 @@ http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
 #EXTINF:-1 tvg-id="TN24/7News" tvg-name="TELANGANA SANSKRUTI" tvg-logo="https://i.imgur.com/WRnV5Fc.jpg.jpg" group-title="LOCAL", TELANGANA SANSKRUTI
 http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="" tvg-logo="https://i.imgur.com/eKJ9IJv.jpg" group-title="Entertainment", v9 studio news
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="V9 STUDIO NEWS" tvg-logo="https://i.imgur.com/eKJ9IJv.jpg" group-title="LOCAL", V9 STUDIO NEWS
 http://183.87.51.10/hls/V9studio.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name=""tvg-logo="" group-title="LOCAL",Vinodam
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="VINODAM"tvg-logo="" group-title="LOCAL",Vinodam
 https://sharsolution.in/hls/vinodam/vinodam.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name=""tvg-logo="" group-title="LOCAL",Mee TV
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="MEE TV"tvg-logo="" group-title="LOCAL",MEE TV
 https://sharsolution.in/hls/meetv/meetv.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name=""tvg-id="City News TV" tvg-logo="" group-title="Movies",City News TV
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="CITY NEWS TV" tvg-logo="" group-title="LOCAL",CITY NEWS TV
 http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="" tvg-name=""tvg-logo="" group-title="LOCAL",Super TV
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="SUPER TV" tvg-logo="" group-title="LOCAL", SUPER TV
 http://server.streamplay.in:1935/supertv/supertv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="" tvg-name=""tvg-logo="" group-title="LOCAL",TV7 Hills
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="TV7 HILLS" tvg-logo="" group-title="LOCAL", TV7 HILLS
 https://server.streamwell.in/hls/7hills.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="" tvg-name=""tvg-logo="" group-title=""LOCAL",V5 News
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="V5 NEWS" tvg-logo="" group-title=""LOCAL", V5 NEWS
 http://cloud.streamplay.in:1935/v5news/v5news/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="" tvg-name=""tvg-logo="" group-title=""LOCAL",Siti Channel
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="SITI CHANNEL" tvg-logo="https://imgur.com/RZ1HZnM" group-title=""LOCAL", SITI CHANNEL
 https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="" tvg-name=""group-title=""LOCAL",Local News
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="LOCAL NEWS" tvg-logo="" tvg-name=""group-title=""LOCAL", LOCAL NEWS
 http://live.streamplay.in:1935/localtv/localtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="" tvg-name=""tvg-logo="https://i.imgur.com/WU9UF4P.png"group-title="LOCAL",Mana Telugu TV
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="MANA TELUGU TV" tvg-logo="https://i.imgur.com/WU9UF4P.png"group-title="LOCAL", MANA TELUGU TV
 http://live.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name=""tvg-logo="https://i.imgur.com/eeOElHl.jpg"group-title="LOCAL",Sity CCC
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="SITY CCC"tvg-logo="https://i.imgur.com/eeOElHl.jpg"group-title="LOCAL", SITY CCC
 http://cloud.streamplay.in:1935/ccc/ccc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name=""tvg-logo="https://i.imgur.com/cH2Zn7b.png"group-title="LOCAL",Grater Guntur
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="GREATER GUNTUR"tvg-logo="https://i.imgur.com/cH2Zn7b.png"group-title="LOCAL", GREATER GUNTUR
 http://cloud.streamplay.in:1935/ggv/ggv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name=""tvg-logo="https://i.imgur.com/OSWP1D2.jpg"group-title="LOCAL",Srisaila TV HD
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="SRISAILA TV HD"tvg-logo="https://i.imgur.com/OSWP1D2.jpg"group-title="LOCAL", SRISAILA TV HD
 http://202.83.27.171:1935/sslm/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V9 Studio News" tvg-name=""tvg-logo="https://i.imgur.com/iuzqbmj.jpg"group-title="LOCAL",Gee TV
+#EXTINF:-1 tvg-id="V9 Studio News" tvg-name="GEE TV"tvg-logo="https://i.imgur.com/iuzqbmj.jpg"group-title="LOCAL", GEE TV
 http://live.shreyastv.in:8088/geetv/geetv.m3u8
 
-#EXTINF:-1 tvg-id="Cowa TV" tvg-name="" tvg-logo="https://i.imgur.com/6cIlFAh.png" group-title="LOCAL",Cowa TV
+#EXTINF:-1 tvg-id="Cowa TV" tvg-name="COWA TV" tvg-logo="https://i.imgur.com/6cIlFAh.png" group-title="LOCAL", COWA TV
 http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cowa TV" tvg-name=""tvg-logo="https://i.imgur.com/98N9f6v.jpg" group-title="LOCAL",Santhosham TV
+#EXTINF:-1 tvg-id="Cowa TV" tvg-name="SANTHOSHAM TV"tvg-logo="https://i.imgur.com/98N9f6v.jpg" group-title="LOCAL", SANTHOSHAM TV
 http://hdserver.7starcloud.com:1935/shts/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cowa TV" tvg-name=""tvg-logo="https://i.imgur.com/k9bS0Jr.jpg"group-title="LOCAL",SRS Bakthi TV
+#EXTINF:-1 tvg-id="Cowa TV" tvg-name="SRS BAKTHI TV"tvg-logo="https://i.imgur.com/k9bS0Jr.jpg"group-title="LOCAL", SRS BAKTHI TV
 http://live.adostream.com:1935/srsbhakthi/srsbhakthi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BCN Channel" tvg-logo="" group-title="LOCAL",BCN
+#EXTINF:-1 tvg-id="BCN Channel" tvg-name="" tvg-logo="" group-title="LOCAL",BCN
 http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LOCAL",Sity
+#EXTINF:-1 tvg-id="" tvg-name="SITY TELANGANA" tvg-logo="" group-title="LOCAL", SITY TELANGANA
 http://cloud.streamplay.in:1935/ccc/ccc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mn1fZLP.jpg"group-title="LOCAL",News 9 Today
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 9 TODAY" tvg-logo="https://i.imgur.com/mn1fZLP.jpg"group-title="LOCAL",NEWS 9 TODAY
 http://live.streamplay.in:1935/news9/news9/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",9TV Telangana
+#EXTINF:-1 tvg-id="" tvg-name="9TV TELANGANA" tvg-logo="https://i.imgur.com/Yr5SG4z.jpg" group-title="LOCAL", 9TV TELANGANA
 http://server.streamplay.in:1935/9tv/9tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="Movies",RK9 News
+#EXTINF:-1 tvg-id="" tvg-name="RK 9 NEWS" tvg-logo="https://i.imgur.com/SSl3HXU.jpg" group-title="LOCAL", RK 9 NEWS
 http://telugusolutions.com/rk9news/rk9news/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Amma News
+#EXTINF:-1 tvg-id="" tvg-name="AMMA NEWS" tvg-logo="https://imgur.com/W6mR3pm" group-title="LOCAL", AMMA NEWS
 http://server.streamplay.in:1935/star9/star9/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bhavya_tv" tvg-logo="" group-title="Movies",Bhavya TV
+#EXTINF:-1 tvg-id="Bhavya_tv" tvg-name="BHAVYA TV" tvg-logo="https://i.imgur.com/924Okst.png?1" group-title="LOCAL",BHAVYA TV
 http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/wSX7Wfm.jpg" " group-title="Local", S9 Channel
+#EXTINF:-1, tvg-id="" tvg-name="S9 CHANNEL" tvg-logo="https://i.imgur.com/wSX7Wfm.jpg" " group-title="LOCAL", S9 CHANNEL
 https://sharsolution.in/hls/s9tv/s9tv.m3u8
 
-#EXTINF:-1 tvg-id="2006"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sattva_TV.png" group-title="RELIGIOUS",Sattva TV
+#EXTINF:-1 tvg-id="" tvg-name="SATTVA TV" tvg-logo="https://i.imgur.com/A0qMyLb.png" group-title="RELIGIOUS", SATTVA TV
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Sattva_TV
 
-#EXTINF:-1 tvg-id="1975"  tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png" group-title="RELIGIOUS",PMC Telugu
+#EXTINF:-1 tvg-id="" tvg-name="PMC TELUGU" tvg-logo="https://i.imgur.com/qAAkWNS.png" group-title="RELIGIOUS", PMC TELUGU
 http://techmaxlive.ml/live.php?c=PMC_Telugu&q=800&e=junk.m3u8
 
-#EXTINF: -1 tvg-id="1461" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vidya.png" group-title="RELIGIOUS", Vidya
+#EXTINF: -1 tvg-id="1461" tvg-name="VIDYA" tvg-logo="https://i.imgur.com/mX4u8gg.png" group-title="RELIGIOUS", VIDYA
 http://103.139.171.5:5001/live.php?c=Vidya&q=800&e=junk.m3u8
 
-#EXTINF: -1 tvg-id="1462" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nipuna.png" group-title="RELIGIOUS", Nipuna
+#EXTINF: -1 tvg-id="1462" tvg-name="NIPUNA" tvg-logo="https://i.imgur.com/66J75Uh.png" group-title="RELIGIOUS", NIPUNA
 http://103.139.171.5:5001/live.php?c=Nipuna&q=800&e=junk.m3u8
 
 
