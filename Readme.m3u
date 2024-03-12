@@ -168,7 +168,7 @@ https://streaming.livebox.co.in/vedhikahls/live.m3u8
 #EXTINF:-1 tvg-id="Bhavya_tv" tvg-name="BHAVYA TV" tvg-logo="https://i.imgur.com/fX2Ci8I.jpg" group-title="LOCAL", BHAVYA TV
 http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AMMA NEWS" tvg-logo="https://i.imgur.com/W6mR3pm.jpg" group-title="LOCAL", AMMA NEWS
+#EXTINF:-1 tvg-id="" tvg-name="AMMA NEWS" tvg-logo="https://i.imgur.com/nXyI5bV.jpg" group-title="LOCAL", AMMA NEWS
 http://server.streamplay.in:1935/ammanews/ammanews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO 18 NEWS" tvg-logo="https://i.imgur.com/9qogVMP.png?1" group-title="LOCAL",STUDIO 18 NEWS
