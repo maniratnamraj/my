@@ -168,7 +168,7 @@ https://streaming.livebox.co.in/vedhikahls/live.m3u8
 #EXTINF:-1 tvg-id="Bhavya_tv" tvg-name="BHAVYA TV" tvg-logo="https://i.imgur.com/fX2Ci8I.jpg" group-title="LOCAL", BHAVYA TV
 http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ETNow.in" tvg-name="AMMA NEWS"tvg-logo="https://i.imgur.com/W6mR3pm.jpg" group-title="LOCAL", AMMA NEWS
+#EXTINF:-1 tvg-id="" tvg-name="AMMA NEWS" tvg-logo="https://i.imgur.com/W6mR3pm.jpg" group-title="LOCAL", AMMA NEWS
 http://server.streamplay.in:1935/ammanews/ammanews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO 18 NEWS" tvg-logo="https://i.imgur.com/9qogVMP.png?1" group-title="LOCAL",STUDIO 18 NEWS
@@ -279,7 +279,7 @@ http://xtv.ooo:8080/MansoorWapda/258741/150483
 #EXTINF:-1  tvg-id="" tvg-name="KUSHI TV" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="KIDS", KUSHI TV
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281792&extension=ts
 
-#EXTINF:-1  tvg-id="Sonic.in" tvg-name="NICK SONIC" tvg-logo="https://i.imgur.com/x3OU0Ix.png" group-title="KIDS", NICK SONIC
+#EXTINF:-1  tvg-id="Sonic.in" tvg-name="NICK SONIC" tvg-logo="https://i.imgur.com/zy2LrKp.jpg" group-title="KIDS", NICK SONIC
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="KIDS", CARTOON NETWORK 
@@ -340,7 +340,7 @@ http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281793&extensio
 #EXTINF:-1 tvg-id="GeminiMusic.in" tvg-logo="https://i.imgur.com/MyuB3E5.png" group-title="DOCUMENTARY", SONY BBC EARTH HD
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281782&extension=ts
 
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/jkkFusA.png" group-title="DOCUMENTARY", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/Nn4mWnI.jpg" group-title="DOCUMENTARY", DISCOVERY CHANNEL
 https://cdn-main.lolokoko.tv/DiscoveryChannel.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/XKNFAyu.png" group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC 
@@ -349,7 +349,7 @@ https://cdn-main.lolokoko.tv/NationalGeographic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD "tvg-logo="https://i.imgur.com/rqlBlBq.png" group-title="DOCUMENTARY", NAT GEO WILD 
 https://cdn-main.lolokoko.tv/NatGeoWild.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO PEOPLE"tvg-logo="https://i.imgur.com/fHoHLCH.png" group-title="DOCUMENTARY", NAT GEO PEOPLE
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO PEOPLE"tvg-logo="https://i.imgur.com/6IMbkwp.png group-title="DOCUMENTARY", NAT GEO PEOPLE
 https://cdn-main.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="DOCUMENTARY", ANIMAL PLANET
@@ -367,7 +367,7 @@ https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-name="SONY BBC EARTH HD" tvg-logo="https://i.imgur.com/tpgwF0O.png" group-title="DOCUMENTARY",SONY BBC EARTH HD
 http://startv365.com:80/3634358837/1009221634/36402
 
-#EXTINF:-1 tvg-id="CVR HEALTH" tvg-name="CVR HEALTH" tvg-logo="https://imgur.com/n3MRq4N" group-title="LIFESTYLE", CVR HEALTH
+#EXTINF:-1 tvg-id="CVR HEALTH" tvg-name="CVR HEALTH" tvg-logo="https://i.imgur.com/n3MRq4N.png" group-title="LIFESTYLE", CVR HEALTH
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834495&extension=ts
 
 ++++++++++++++++++++++++++++++++++++Telugu News+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -426,7 +426,7 @@ https://ythls.armelin.one/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
 #EXTINF:-1 tvg-id="I News" tvg-name="I NEWS" tvg-logo="https://i.imgur.com/D30JrAC.png" group-title="NEWS", I NEWS
 https://ythls.armelin.one/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8
 
-#EXTINF:-1 tvg-id="HMTV" tvg-name="HMTV NEWS" tvg-logo="https://i.imgur.com/NFy5hie.png" group-title="NEWS", HMTV NEWS
+#EXTINF:-1 tvg-id="HMTV" tvg-name="HMTV NEWS" tvg-logo="https://i.imgur.com/UYDApkI.png" group-title="NEWS", HMTV NEWS
 https://ythls.armelin.one/channel/UCNZOrs1QBt8cJnv9ud96qRA.m3u8
 
 
@@ -459,10 +459,10 @@ http://xtv.ooo:8080/MansoorWapda/258741/355597
 #EXTINF:-1 tvg-id="StarSportsHindiHD1.in" tvg-name="STAR SPORTS HINDI" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports", STAR SPORTS HINDI
 http://xtv.ooo:8080/MansoorWapda/258741/109986
 
-#EXTINF:-1 tvg-id="StarSports1Tamil.in" tvg-name="STAR SPORTS 1 TAMIL HD" tvg-logo="https://i.imgur.com/PuVcUhU.png" group-title="Sports", STAR SPORTS 1 TAMIL HD
+#EXTINF:-1 tvg-id="StarSports1Tamil.in" tvg-name="STAR SPORTS 1 TAMIL HD" tvg-logo="https://i.imgur.com/5GVdQZV.jpg" group-title="Sports", STAR SPORTS 1 TAMIL HD
 https://bq32.short.gy/offline_vaathala?channelId=275&uid=4944&deviceMac=00:1A:79:94:98:FE
 
-#EXTINF:-1 tvg-id="288" tvg-name="STAR SPORTS 1 TELUGU HD" tvg-logo="https://i.imgur.com/DU23jup.jpg" group-title="Sports", STAR SPORTS 1 TELUGU HD
+#EXTINF:-1 tvg-id="288" tvg-name="STAR SPORTS 1 TELUGU HD" tvg-logo="https://i.imgur.com/K3AYCiN.jpg" group-title="Sports", STAR SPORTS 1 TELUGU HD
 https://bq32.short.gy/offline_vaathala?channelId=288&uid=4944&deviceMac=00:1A:79:94:98:FE
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY SPORTS 1 HD"  tvg-logo="https://i.imgur.com/X7ZOQg6.jpg" group-title="Sports", SONY SPORTS 1 HD
@@ -480,7 +480,7 @@ https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF:-1 tvg-id="sony.ten.5.in" tvg-name="SONY SPORTS 5 HD" tvg-logo="https://i.imgur.com/rmK2ME4.png" group-title="Sports", SONY SPORTS 5 HD
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8 
 
-#EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="WILLOW CRICKET HD" tvg-logo="https://i.imgur.com/VIuVI3P.png" group-title="Sports", WILLOW CRICKET HD
+#EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="WILLOW CRICKET HD" tvg-logo="https://i.imgur.com/qRIhhay.png" group-title="Sports", WILLOW CRICKET HD
 http://abcnew.site:8880/3ca05263n18/ds23er23/55219
 
 #EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="WILLOW EXTRA HD" tvg-logo="https://i.imgur.com/s27K3Zc.jpg" group-title="Sports",WILLOW EXTRA HD
