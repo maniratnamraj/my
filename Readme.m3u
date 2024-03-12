@@ -318,13 +318,13 @@ http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2064.ts
 #EXTINF:-1  tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://i.imgur.com/pjjX4rP.png" group-title="KIDS", BOOMERANG
 http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/210339
 
-#EXTINF:-1   tvg-id="nick.in" tvg-name="DISCOVERY KIDS"tvg-logo="https://i.imgur.com/F6tDTGk.jpg" group-title=" KIDS", DISCOVERY KIDS
+#EXTINF:-1   tvg-id="nick.in" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/F6tDTGk.jpg" group-title=" KIDS", DISCOVERY KIDS
 http://xtv.ooo:8080/MansoorWapda/258741/76723
 
 #EXTINF:-1  tvg-id="nick.in" tvg-name="NICK HD+" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="KIDS", NICK HD+ 
 http://xtv.ooo:8080/MansoorWapda/258741/76722
 
-#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="CARTOON NETWORK HD+"tvg-logo="https://imgur.com/9spEdvT" group-title="KIDS", CARTOON NETWORK HD+ 
+#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="CARTOON NETWORK HD+" tvg-logo="https://i.imgur.com/9spEdvT.png" group-title="KIDS", CARTOON NETWORK HD+ 
 http://xtv.ooo:8080/MansoorWapda/258741/153154
 
 
