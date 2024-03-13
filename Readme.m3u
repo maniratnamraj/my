@@ -42,19 +42,19 @@ http://xtv.ooo:8080/MansoorWapda/258741/244435
 #EXTINF:-1 tvg-id="geminimusic.in" tvg-name="GEMINI MUSIC"  tvg-logo="https://i.imgur.com/z6USUEc.png" group-title="MUSIC", GEMINI MUSIC 
 http://xtv.ooo:8080/MansoorWapda/258741/244434
 
-#EXTINF:-1 tvg-id="zee.telugu.in" tvg-name="ZEE TELUGU" tvg-logo="https://i.imgur.com/uHOJMKY.jpg" group-title="ENTERTAINMENT", ZEE TELUGU
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU" tvg-logo="https://i.imgur.com/uHOJMKY.jpg" group-title="ENTERTAINMENT", ZEE TELUGU
 http://watchindia.net:8880/live/24787/85016/940.ts
 
-#EXTINF:-1 tvg-id="zeecinemaluhd.in" tvg-name="ZEE CINEMALU" tvg-logo="https://i.imgur.com/disc086.png" group-title="ENTERTAINMENT", ZEE CINEMALU
+#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="ZEE CINEMALU" tvg-logo="https://i.imgur.com/disc086.png" group-title="ENTERTAINMENT", ZEE CINEMALU
 http://watchindia.net:8880/live/24787/85016/941.ts
 
-#EXTINF:-1 tvg-id="vissatv.in" tvg-name="VISSA TV"  tvg-logo="https://i.imgur.com/SOYRw0B.png" group-title="ENTERTAINMENT", VISSA TV
+#EXTINF:-1 tvg-id="VissaTV.in" tvg-name="VISSA TV"  tvg-logo="https://i.imgur.com/SOYRw0B.png" group-title="ENTERTAINMENT", VISSA TV
 http://xtv.ooo:8080/MansoorWapda/258741/244446
 
-#EXTINF:-1 tvg-id="rajmusixtelugu.in" tvg-name="RAJ MUSIC TELUGU"  tvg-logo="https://i.imgur.com/LiXGhkK.png?1" group-title="MUSIC", RAJ MUSIC TELUGU
+#EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-name="RAJ MUSIC TELUGU"  tvg-logo="https://i.imgur.com/LiXGhkK.png?1" group-title="MUSIC", RAJ MUSIC TELUGU
 http://starshare.live:8080/live/53rumaiz87/7567new977/243.ts
 
-#EXTINF:-1 tvg-id="123" tvg-name="VANITHA TV" tvg-logo="https://i.imgur.com/Hxh9Qxf.png" group-title="LIFESTYLE", VANITHA TV
+#EXTINF:-1 tvg-id="VanithaTV.in" tvg-name="VANITHA TV" tvg-logo="https://i.imgur.com/Hxh9Qxf.png" group-title="LIFESTYLE", VANITHA TV
 http://xtv.ooo:8080/MansoorWapda/258741/244456
 
 #EXTINF:-1 tvg-id="CVR HEALTH" tvg-name="CVR HEALTH" tvg-logo="https://i.imgur.com/n3MRq4N.png" group-title="LIFESTYLE", CVR HEALTH
@@ -80,7 +80,7 @@ https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playli
 #EXTINF:-1 tvg-id="SVBC4.in" tvg-name="SVBC 4" tvg-logo="https://i.imgur.com/vCFdZny.png" group-title="RELIGIOUS", SVBC 4 
 https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SVBC.in" tvg-name="SVBC TELUGU" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="RELIGIOUS", SVBC TELUGU
+#EXTINF:-1 tvg-id="SVBCTelugu.in" tvg-name="SVBC TELUGU" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="RELIGIOUS", SVBC TELUGU
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="BHAKTI TV" tvg-logo="https://i.imgur.com/MG2neif.png" group-title="RELIGIOUS",BHAKTI TV
@@ -114,25 +114,25 @@ https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3
 http://37.49.225.197:8080/mitrovic/e8ac4724d4/166397
 
 ++++++++++++++++++++++++++++++++++++++++++++++DD INDIA +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-#EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="GENERAL", DD SAPTAGIRI
+#EXTINF:-1 tvg-id="DDSaptagiri.in" tvg-name="DD SAPTAGIRI" tvg-logo="https://i.imgur.com/951MUJU.png" group-title="GENERAL", DD SAPTAGIRI
 http://xtv.ooo:8080/MansoorWapda/258741/244479
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nxnGXJz.png" group-title="GENERAL", DD YADAGIRI
+#EXTINF:-1 tvg-id="DDYadagiri.in" tvg-name="DD YADAGIRI" tvg-logo="https://i.imgur.com/nxnGXJz.png" group-title="GENERAL", DD YADAGIRI
 https://ythls.armelin.one/channel/UC6V4nVa0CQkoLZUlg9drmZA.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="DD National HD" tvg-logo="https://i.imgur.com/jfxehtO.jpg" group-title="GENERAL", DD National HD
+#EXTINF:-1, tvg-id="DDNational.in" tvg-name="DD National HD" tvg-logo="https://i.imgur.com/jfxehtO.jpg" group-title="GENERAL", DD National HD
 http://starshare.live:8080/live/53rumaiz87/7567new977/4037.ts
 
-#EXTINF:-1, tvg-id="" tvg-name="DD BIHAR" tvg-logo="https://i.imgur.com/2F0TEzc.png" group-title="GENERAL", DD BIHAR
+#EXTINF:-1, tvg-id="DDBihar.in" tvg-name="DD BIHAR" tvg-logo="https://i.imgur.com/2F0TEzc.png" group-title="GENERAL", DD BIHAR
 http://starshare.live:8080/live/53rumaiz87/7567new977/4038.ts
 
-#EXTINF:-1,tvg-id="" tvg-name="DD BANGLA" tvg-logo="https://i.imgur.com/G1Nqy9o.jpg" group-title="GENERAL", DD BANGLA
+#EXTINF:-1,tvg-id="DDBangla.in" tvg-name="DD BANGLA" tvg-logo="https://i.imgur.com/G1Nqy9o.jpg" group-title="GENERAL", DD BANGLA
 http://starshare.live:8080/live/53rumaiz87/7567new977/4049.ts
 
-#EXTINF:-1,tvg-id="" tvg-name="DD SAHAYADRI" tvg-logo="https://i.imgur.com/LH16gZJ.jpg" group-title="GENERAL", DD SAHAYADRI
+#EXTINF:-1,tvg-id="DDSahyadri.in" tvg-name="DD SAHAYADRI" tvg-logo="https://i.imgur.com/LH16gZJ.jpg" group-title="GENERAL", DD SAHAYADRI
 http://starshare.live:8080/live/53rumaiz87/7567new977/4050.ts
 
-#EXTINF:-1,tvg-id="" tvg-name="DD ODIA" tvg-logo="https://i.imgur.com/wi3Z5uX.jpg" group-title="GENERAL", DD ODIA
+#EXTINF:-1,tvg-id="DDOriya.in" tvg-name="DD ODIA" tvg-logo="https://i.imgur.com/wi3Z5uX.jpg" group-title="GENERAL", DD ODIA
 http://starshare.live:8080/live/53rumaiz87/7567new977/4052.ts
 
 #EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD BHARATHI" tvg-logo="https://i.imgur.com/i2lkzvK.jpg" group-title="GENERAL", DD BHARATHI
@@ -241,7 +241,7 @@ http://hdserver.7starcloud.com:1935/shts/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Cowa TV" tvg-name="SRS BAKTHI TV"tvg-logo="https://i.imgur.com/k9bS0Jr.jpg"group-title="LOCAL", SRS BAKTHI TV
 http://live.adostream.com:1935/srsbhakthi/srsbhakthi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BCN Channel" tvg-name="" tvg-logo="https://i.imgur.com/X0ZFx0u.jpg" group-title="LOCAL",BCN
+#EXTINF:-1 tvg-id="BCN Channel" tvg-name="" tvg-logo="https://i.imgur.com/X0ZFx0u.jpg" group-title="LOCAL", BCN
 http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SITY TELANGANA" tvg-logo="https://i.imgur.com/RZ1HZnM.jpg" group-title="LOCAL", SITY TELANGANA
@@ -277,7 +277,7 @@ http://103.139.171.5:5001/live.php?c=Nipuna&q=800&e=junk.m3u8
 
 ====================================KIDS=============================================================================
 
-#EXTINF:-1  tvg-id="POGO.in" tvg-name="POGO" tvg-logo="https://i.imgur.com/96BYKkZ.jpg" group-title="KIDS", POGO 
+#EXTINF:-1  tvg-id="Pogo.in" tvg-name="POGO" tvg-logo="https://i.imgur.com/96BYKkZ.jpg" group-title="KIDS", POGO 
 http://xtv.ooo:8080/MansoorWapda/258741/150483
 
 #EXTINF:-1  tvg-id="" tvg-name="KUSHI TV" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="KIDS", KUSHI TV
@@ -289,28 +289,28 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fal
 #EXTINF:-1  tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="KIDS", CARTOON NETWORK 
 http://xtv.ooo:8080/MansoorWapda/258741/150478
 
-#EXTINF:-1  tvg-id="NickJunior.in" tvg-name="NICK" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="KIDS", NICK 
+#EXTINF:-1  tvg-id="Nick.in" tvg-name="NICK" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="KIDS", NICK 
 http://xtv.ooo:8080/MansoorWapda/258741/150482
 
-#EXTINF:-1  tvg-id="sony.yay.in" tvg-name="SONY YAY" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="KIDS", SONY YAY 
+#EXTINF:-1  tvg-id="SonyYAY.in" tvg-name="SONY YAY" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="KIDS", SONY YAY 
 http://xtv.ooo:8080/MansoorWapda/258741/26187
 
-#EXTINF:-1  tvg-id="" tvg-name="HUNGAMA"  tvg-logo="https://i.imgur.com/cYVExRI.png" group-title="KIDS", HUNGAMA
+#EXTINF:-1  tvg-id="Hungama.in" tvg-name="HUNGAMA"  tvg-logo="https://i.imgur.com/cYVExRI.png" group-title="KIDS", HUNGAMA
 http://xtv.ooo:8080/MansoorWapda/258741/150480
 
 #EXTINF:-1  tvg-id="" tvg-name="BABY TV" tvg-logo="https://i.imgur.com/bFtkF5H.jpg" group-title=" KIDS", BABY TV
 http://rdns.tv:80/live/walderez119/oliveira98209/25370.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-name="DISNEY CHANNEL"tvg-logo="https://i.imgur.com/aOkXvqg.png" group-title="KIDS", DISNEY CHANNEL
+#EXTINF:-1  tvg-id="DisneyChannel.in" tvg-name="DISNEY CHANNEL"tvg-logo="https://i.imgur.com/aOkXvqg.png" group-title="KIDS", DISNEY CHANNEL
 http://xtv.ooo:8080/MansoorWapda/258741/167551
 
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.imgur.com/XkTwaby.png" group-title=" KIDS", DISNEY JUNIOR
+#EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.imgur.com/XkTwaby.png" group-title=" KIDS", DISNEY JUNIOR
 http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/182140
 
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" tvg-logo="https://i.imgur.com/UE7TW2L.png" group-title="KIDS",DISNEY XD
 http://ipro.webvps.de:25443/live/223300444/3216548777/9286.ts
 
-#EXTINF:-1  tvg-id="" tvg-name="NICK JUNIOR" tvg-logo="https://i.imgur.com/SIPeyn0.png" group-title="KIDS", NICK JUNIOR
+#EXTINF:-1  tvg-id="NickJr.in" tvg-name="NICK JUNIOR" tvg-logo="https://i.imgur.com/SIPeyn0.png" group-title="KIDS", NICK JUNIOR
 http://xtv.ooo:8080/MansoorWapda/258741/153156
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="NICKELODEON" tvg-logo="https://i.imgur.com/T0dFpxB.png" group-title="KIDS", NICKELODEON
@@ -322,10 +322,10 @@ http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2064.ts
 #EXTINF:-1  tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://i.imgur.com/pjjX4rP.png" group-title="KIDS", BOOMERANG
 http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/210339
 
-#EXTINF:-1   tvg-id="nick.in" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/F6tDTGk.jpg" group-title=" KIDS", DISCOVERY KIDS
+#EXTINF:-1  tvg-id="DiscoveryKids.in" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/F6tDTGk.jpg" group-title=" KIDS", DISCOVERY KIDS
 http://xtv.ooo:8080/MansoorWapda/258741/76723
 
-#EXTINF:-1  tvg-id="nick.in" tvg-name="NICK HD+" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="KIDS", NICK HD+ 
+#EXTINF:-1  tvg-id="NickHDPlus.in" tvg-name="NICK HD+" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="KIDS", NICK HD+ 
 http://xtv.ooo:8080/MansoorWapda/258741/76722
 
 #EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="CARTOON NETWORK HD+" tvg-logo="https://i.imgur.com/9spEdvT.png" group-title="KIDS", CARTOON NETWORK HD+ 
@@ -335,7 +335,7 @@ http://xtv.ooo:8080/MansoorWapda/258741/153154
 =============================DOCUMENTARY====================================================================
 
 
-#EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="https://i.imgur.com/9ZNRL8N.png" group-title="DOCUMENTARY", HISTORY 18 TELUGU HD
+#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-logo="https://i.imgur.com/9ZNRL8N.png" group-title="DOCUMENTARY", HISTORY 18 TELUGU HD
 http://xtv.ooo:8080/MansoorWapda/258741/244428
 
 #EXTINF:-1 tvg-id="natgeowild.us" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://i.imgur.com/BzOkwXi.jpg" group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC WILD
@@ -344,13 +344,13 @@ http://watchindia.net:8880/live/24787/85016/2047.ts
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="SONY BBC EARTH" tvg-logo="https://i.imgur.com/MyuB3E5.png" group-title="DOCUMENTARY", SONY BBC EARTH 
 http://watchindia.net:8880/live/24787/85016/789.ts
 
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/Nn4mWnI.jpg" group-title="DOCUMENTARY", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/Nn4mWnI.jpg" group-title="DOCUMENTARY", DISCOVERY CHANNEL
 http://watchindia.net:8880/live/24787/85016/841.ts
 
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/XKNFAyu.png" group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC 
+#EXTINF:-1 tvg-id="NationalGeographicChannel.in" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/XKNFAyu.png" group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC 
 http://watchindia.net:8880/live/24787/85016/2037.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://i.imgur.com/rqlBlBq.png" group-title="DOCUMENTARY", NAT GEO WILD 
+#EXTINF:-1 tvg-id="NatGeoWild.in" tvg-name="NAT GEO WILD" tvg-logo="https://i.imgur.com/rqlBlBq.png" group-title="DOCUMENTARY", NAT GEO WILD 
 https://cdn-main.lolokoko.tv/NatGeoWild.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO PEOPLE"tvg-logo="https://i.imgur.com/6IMbkwp.png group-title="DOCUMENTARY", NAT GEO PEOPLE
@@ -359,10 +359,10 @@ https://cdn-main.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.imgur.com/SooPEuE.png" group-title="DOCUMENTARY", ANIMAL PLANET
 https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY SCIENCE ENGLISH" tvg-logo="https://i.imgur.com/Z7jNakS.jpg" group-title="DOCUMENTARY", DISCOVERY SCIENCE ENGLISH
+#EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-name="DISCOVERY SCIENCE ENGLISH" tvg-logo="https://i.imgur.com/Z7jNakS.jpg" group-title="DOCUMENTARY", DISCOVERY SCIENCE ENGLISH
 https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.imgur.com/B7X8wGx.png" group-title="DOCUMENTARY", DISCOVERY TURBO
+#EXTINF:-1 tvg-id="DiscoveryTurbo.in" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.imgur.com/B7X8wGx.png" group-title="DOCUMENTARY", DISCOVERY TURBO
 https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX HD" tvg-logo="https://i.imgur.com/EU7P3wb.jpg"group-title="DOCUMENTARY", DMAX HD
@@ -374,7 +374,7 @@ https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
 #EXTINF:-1 tvg-id="BIG TV" tvg-name="BIG TV" tvg-logo="https://i.imgur.com/roceYwY.png" group-title="NEWS",BIG TV
 http://125.18.81.106/hlslive/Admin/px0219610/live/Shranyu_aws/chunklist_0.m3u8
 
-#EXTINF:-1 tvg-ID="rajnewstelugu.in" tvg-name="RAJ NEWS TELUGU" tvg-logo="https://i.imgur.com/CCSgw3Z.png" group-title="NEWS", RAJ NEWS TELUGU
+#EXTINF:-1 tvg-ID="RajNewsTelugu.in" tvg-name="RAJ NEWS TELUGU" tvg-logo="https://i.imgur.com/CCSgw3Z.png" group-title="NEWS", RAJ NEWS TELUGU
 http://watchindia.net:8880/live/58199/33239/956.ts
 
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV ANDHRA PRADESH" tvg-logo="https://i.imgur.com/pFNCRnf.png" group-title="NEWS", ETV ANDHRA PRADESH 
@@ -395,7 +395,7 @@ https://ythls.armelin.one/channel/UCumtYpCY26F6Jr3satUgMvA.m3u8
 #EXTINF:-1 tvg-id="10tv.in" tvg-name="10 TV" tvg-logo="https://i.imgur.com/RTYgric.png" group-title="NEWS",10 TV
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=155864&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rBmV30d.png" group-title="NEWS", V6 NEWS
+#EXTINF:-1 tvg-id="" tvg-name="V6 NEWS" tvg-logo="https://i.imgur.com/rBmV30d.png" group-title="NEWS", V6 NEWS
 http://sansat.net:25461/02024773939334/02024773939334/95879
 
 #EXTINF:-1 tvg-id="CVRNews.in" tvg-name="CVR NEWS TELUGU" tvg-logo="https://i.imgur.com/UVLWX8B.png" group-title="NEWS",CVR NEWS TELUGU
@@ -440,23 +440,23 @@ http://watchindia.net:8880/live/71740/31043/2423.ts
 #EXTINF:-1 tvg-id="" tvg-name=" EUROPSPORT HD" tvg-logo="https://i.imgur.com/qFgMB9I.png" group-title="SPORTS", EUROPSPORT 
 http://xtv.ooo:8080/MansoorWapda/258741/206324
 
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.imgur.com/NambWyO.png" group-title="SPORTS",Star Sports 1
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.imgur.com/NambWyO.png" group-title="SPORTS", STAR SPORTS 1
 http://xtv.ooo:8080/MansoorWapda/258741/355594
 
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://i.imgur.com/yfslQep.png" group-title="SPORTS", STAR SPORTS 2 HD
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://i.imgur.com/yfslQep.png" group-title="SPORTS", STAR SPORTS 2 
 http://xtv.ooo:8080/MansoorWapda/258741/355595
 
-#EXTINF:-1 tvg-id="StarSports3.in" tvg-name="STAR SPORTS 3 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", STAR SPORTS 3 HD
+#EXTINF:-1 tvg-id="StarSports3.in" tvg-name="STAR SPORTS 3 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", STAR SPORTS 3 
 http://abcnew.site:8880/3ca05263n18/ds23er23/55271
 
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="STAR SPORTS SELCTED 1 HD" tvg-logo="https://i.imgur.com/uzspvbf.png" group-title="SPORTS", STAR SPORTS SELECT 1 HD
-http://xtv.ooo:8080/MansoorWapda/258741/355596
+#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="STAR SPORTS SELCTED 1 HD" tvg-logo="https://i.imgur.com/uzspvbf.png" group-title="SPORTS", STAR SPORTS SELECT 1 
+http://176467422900699707.ofd0310ax.xyz:80/play/vi1111087/xjEAwVq7SQU/699707.ts
 
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="STAR SPORTS SELCTED 2 HD" tvg-logo="https://i.imgur.com/FZtlTVZ.png" group-title="SPORTS", STAR SPORTS SELCTED 2 HD
-http://xtv.ooo:8080/MansoorWapda/258741/355597
+#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="STAR SPORTS SELCTED 2 HD" tvg-logo="https://i.imgur.com/FZtlTVZ.png" group-title="SPORTS", STAR SPORTS SELCTED 2 
+http://176467422900785042.ofd0310ax.xyz:80/play/vi1111087/xjEAwVq7SQU/785042.ts
 
-#EXTINF:-1 tvg-id="StarSportsHindiHD1.in" tvg-name="STAR SPORTS HINDI" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", STAR SPORTS HINDI
-http://xtv.ooo:8080/MansoorWapda/258741/109986
+#EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="STAR SPORTS HINDI" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", STAR SPORTS HINDI
+http://176467422900795782.ofd0310ax.xyz:80/play/vi1111087/xjEAwVq7SQU/795782.ts
 
 #EXTINF:-1 tvg-id="StarSports1Tamil.in" tvg-name="STAR SPORTS 1 TAMIL HD" tvg-logo="https://i.imgur.com/5GVdQZV.jpg" group-title="SPORTS", STAR SPORTS 1 TAMIL HD
 https://bq32.short.gy/offline_vaathala?channelId=275&uid=4944&deviceMac=00:1A:79:94:98:FE
@@ -464,13 +464,13 @@ https://bq32.short.gy/offline_vaathala?channelId=275&uid=4944&deviceMac=00:1A:79
 #EXTINF:-1 tvg-id="288" tvg-name="STAR SPORTS 1 TELUGU HD" tvg-logo="https://i.imgur.com/K3AYCiN.jpg" group-title="SPORTS", STAR SPORTS 1 TELUGU HD
 https://bq32.short.gy/offline_vaathala?channelId=288&uid=4944&deviceMac=00:1A:79:94:98:FE
 
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY SPORTS 1 HD"  tvg-logo="https://i.imgur.com/X7ZOQg6.jpg" group-title="SPORTS", SONY SPORTS 1 HD
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="SONY SPORTS 1 HD"  tvg-logo="https://i.imgur.com/X7ZOQg6.jpg" group-title="SPORTS", SONY SPORTS 1 HD
 http://abcnew.site:8880/3ca05263n18/ds23er23/55284
 
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://i.imgur.com/Mbn4b8Q.jpg" group-title="SPORTS", SONY SPORTS 2 HD
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://i.imgur.com/Mbn4b8Q.jpg" group-title="SPORTS", SONY SPORTS 2 HD
 http://abcnew.site:8880/3ca05263n18/ds23er23/55282
 
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY SPORTS 3 HD"  tvg-logo="https://i.imgur.com/ENXj9HB.jpg" group-title="SPORTS", SONY SPORTS 3 HD
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="SONY SPORTS 3 HD"  tvg-logo="https://i.imgur.com/ENXj9HB.jpg" group-title="SPORTS", SONY SPORTS 3 HD
 http://abcnew.site:8880/3ca05263n18/ds23er23/55281
 
 #EXTINF:-1 tvg-id="sony.ten.4.in" tvg-name="SONY Sports 4 HD" tvg-logo="https://i.imgur.com/vdhl7Zo.png" group-title="SPORTS",SONY Sports 4 HD 
@@ -494,8 +494,8 @@ http://starshare.live:8080/live/53rumaiz87/7567new977/4044.ts
 #EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix HD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="ENTERTAINMENT",Sony Pix HD
 http://watchindia.net:8880/live/varghesekunju62/308678sher/2101.ts
 
-#EXTINF:-1 tvg-id="starmovies.in" tvg-name="Star Movies " tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="ENTERTAINMENT",Star Movies 
-
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies " tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="ENTERTAINMENT",Star Movies 
+http://176467422900800978.ofd0310ax.xyz:80/play/vi1111087/xjEAwVq7SQU/800978.ts
 
 #EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel " tvg-logo="https://liebeurl.me/logos/warner.png" group-title="ENTERTAINMENT", WARNER CHANNEL 
 http://rdns.tv:80/live/walderez119/oliveira98209/3745.m3u8
@@ -517,24 +517,23 @@ http://watchindia.net:8880/live/24787/85016/2102.ts
 
 
 _____________________________________________________HINDI __________________________________________________________
-#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="https://i.imgur.com/12orxdQ.png" group-title="ENTERTAINMENT", Sony 
+#EXTINF:-1 tvg-id="Sony.in" tvg-name="Sony" tvg-logo="https://i.imgur.com/12orxdQ.png" group-title="ENTERTAINMENT", Sony 
 http://fast.bounceme.net:8080/live/rGaKpjvGha/AVSnwJZ2db/7077.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oVWxvG6.png" group-title="ENTERTAINMENT", Sony Max 
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="" tvg-logo="https://i.imgur.com/oVWxvG6.png" group-title="ENTERTAINMENT", Sony Max 
 http://195.26.87.217/live.ts?channelId=184&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://i.imgur.com/mJP4StX.jpg" group-title="ENTERTAINMENT",Sony Max 2 Ind
+#EXTINF:-1 tvg-id="SonyMax2.in" tvg-name=""tvg-logo="https://i.imgur.com/mJP4StX.jpg" group-title="ENTERTAINMENT",Sony Max 2 Ind
 http://fast.bounceme.net:8080/live/rGaKpjvGha/AVSnwJZ2db/8455.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KaKc1Q4.png"tvg-name="SONY SAB" group-title=""ENTERTAINMENT", SONY SAB
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="" tvg-logo="https://i.imgur.com/KaKc1Q4.png"tvg-name="SONY SAB" group-title=""ENTERTAINMENT", SONY SAB
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=42460&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/89RaSLE.jpg" group-title="ENTERTAINMENT",Star Gold Select
+#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="" tvg-logo="https://i.imgur.com/89RaSLE.jpg" group-title="ENTERTAINMENT",Star Gold Select
 http://195.26.87.217/live.ts?channelId=197&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0OwSLvo.png" group-title="ENTERTAINMENT",Star Gold Thrills
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QqMl075.png" group-title="ENTERTAINMENT",Star Gold 
 http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
