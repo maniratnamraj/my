@@ -120,6 +120,15 @@ http://watchindia.net:8880/live/24787/85016/974.ts
 #EXTINF:-1 tvg-id="DDYadagiri.in" tvg-name="DD YADAGIRI" tvg-logo="https://i.imgur.com/nxnGXJz.png" group-title="GENERAL", DD YADAGIRI
 https://ythls.armelin.one/channel/UC6V4nVa0CQkoLZUlg9drmZA.m3u8
 
+#EXTINF:-1 tvg-id="Puthiya Thalaimurai.in" tvg-name="DD MALAYALAM" tvg-logo="https://i.imgur.com/D2dEMVv.png" group-title="GENERAL", DD MALAYALAM
+http://mohdtv.com:8880/smarttv585cde00730a/73558232/1921
+
+#EXTINF:-1 tvg-id="" tvg-name="DD PUNJABI" tvg-logo="https://i.imgur.com/f8Wiin4.png" group-title="GENERAL", DD PUNJABI
+http://mohdtv.com:8880/smarttv585cde00730a/73558232/1915
+
+#EXTINF:-1 tvg-id="RajMusix.in" tvg-name="DD GIRNAR" tvg-logo="https://i.imgur.com/cXlQ7zv.png" group-title="India", DD GIRNAR
+http://mohdtv.com:8880/smarttv585cde00730a/73558232/1919
+
 #EXTINF:-1, tvg-id="DDNational.in" tvg-name="DD National HD" tvg-logo="https://i.imgur.com/jfxehtO.jpg" group-title="GENERAL", DD National HD
 http://starshare.live:8080/live/53rumaiz87/7567new977/4037.ts
 
