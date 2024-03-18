@@ -123,6 +123,9 @@ https://ythls.armelin.one/channel/UC6V4nVa0CQkoLZUlg9drmZA.m3u8
 #EXTINF:-1 tvg-id="Puthiya Thalaimurai.in" tvg-name="DD MALAYALAM" tvg-logo="https://i.imgur.com/D2dEMVv.png" group-title="GENERAL", DD MALAYALAM
 http://mohdtv.com:8880/smarttv585cde00730a/73558232/1921
 
+#EXTINF:-1 tvg-id="DDChandana.in" tvg-name="DD CHANDANA" tvg-logo="https://i.imgur.com/MaDlMtb.png" group-title="GENERAL", DD CHANDANA 
+https://ythls.armelin.one/channel/UCbdMik2cV8pea1jcWdX_CYA.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="DD PUNJABI" tvg-logo="https://i.imgur.com/f8Wiin4.png" group-title="GENERAL", DD PUNJABI
 http://mohdtv.com:8880/smarttv585cde00730a/73558232/1915
 
@@ -493,7 +496,7 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 http://abcnew.site:8880/3ca05263n18/ds23er23/55219
 
 #EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="WILLOW EXTRA HD" tvg-logo="https://i.imgur.com/s27K3Zc.jpg" group-title="SPORTS",WILLOW EXTRA HD
-http://imedia.click:7777/GS123/ABCDEFGHIJ/112557
+http://supersonictv.live:8080/Edward/Edward52/85651
 
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD SPORTS" tvg-logo="https://i.imgur.com/ef2aaCz.jpg" group-title="SPORTS", DD SPORTS
 http://starshare.live:8080/live/53rumaiz87/7567new977/4044.ts
@@ -791,8 +794,8 @@ https://ythls.armelin.one/channel/UC_cZYFovNQTsKw1ZLmO_AMA.m3u8
 #EXTINF:-1 tvg-id="FMNews.in" tvg-name=""  tvg-logo="https://i.imgur.com/4rUsbGZ.png" group-title="News",FM News 
 https://ythls.armelin.one/channel/UCwGojq7oNNrMNaAMtyBhK0Q.m3u8
 
-#EXTINF:-1 tvg-id="FoodFood.in" tvg-name=""  tvg-logo="https://i.imgur.com/J930pA1.png" group-title="Entertainment",Food Food 
-http://14.199.164.20:4001/play/a0qx/index.m3u8
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name=""  tvg-logo="https://i.imgur.com/J930pA1.png" group-title="Entertainment", Food Food 
+http://supersonictv.live:8080/Edward/Edward52/85649
 
 #EXTINF:-1 tvg-id="GDNSLudhiana.in" tvg-name=""  tvg-logo="https://i.imgur.com/JRjcYGl.jpg" group-title="Documentary",GDNS Ludhiana
 http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
@@ -1031,8 +1034,6 @@ https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/in
 #EXTINF:-1 tvg-id="ShubhTV.in" tvg-name="" tvg-logo="https://i.imgur.com/QHv8CL2.png" group-title="RELIGIOUS",Shubh TV 
 https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
 
-#EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies India 
-http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
 
 #EXTINF:-1 tvg-id="SteelbirdMusic.in" tvg-name="" tvg-logo="https://i.imgur.com/Egijzx3.png" group-title="Music",Steelbird Music 
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
@@ -1103,9 +1104,6 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_Cinema_voot_MOB
 
 #EXTINF:-1 tvg-id="ColorsSuper.in" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Colors-super-tv-channel-logo.jpg" group-title="Undefined",Colors Super 
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Super_voot_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-id="DDChandana.in" tvg-name="" tvg-logo="https://i.imgur.com/MaDlMtb.png" group-title="Undefined",DD Chandana 
-https://ythls.armelin.one/channel/UCbdMik2cV8pea1jcWdX_CYA.m3u8
 
 #EXTINF:-1 tvg-id="DighvijayNews24x7.in" tvg-name="" tvg-logo="https://i.imgur.com/gSuWhWd.png" group-title="News",Dighvijay 
 https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
