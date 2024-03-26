@@ -129,7 +129,7 @@ https://ythls.armelin.one/channel/UCbdMik2cV8pea1jcWdX_CYA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD PUNJABI" tvg-logo="https://i.imgur.com/f8Wiin4.png" group-title="GENERAL", DD PUNJABI
 http://mohdtv.com:8880/smarttv585cde00730a/73558232/1915
 
-#EXTINF:-1 tvg-id="RajMusix.in" tvg-name="DD GIRNAR" tvg-logo="https://i.imgur.com/cXlQ7zv.png" group-title="India", DD GIRNAR
+#EXTINF:-1 tvg-id="RajMusix.in" tvg-name="DD GIRNAR" tvg-logo="https://i.imgur.com/cXlQ7zv.png" group-title="GENERAL", DD GIRNAR
 http://mohdtv.com:8880/smarttv585cde00730a/73558232/1919
 
 #EXTINF:-1, tvg-id="DDNational.in" tvg-name="DD National HD" tvg-logo="https://i.imgur.com/jfxehtO.jpg" group-title="GENERAL", DD National HD
@@ -168,7 +168,7 @@ https://ythls.armelin.one/channel/UCxtPipsf2nUZ9xM33TPe93Q.m3u8
 #EXTINF:-1 tvg-id="DDUttarakhand.in" tvg-name="DD UTTARAKHAND" tvg-logo="https://i.imgur.com/GzBsbos.png" group-title="GENERAL", DD UTTARAKHAND
 https://ythls.armelin.one/channel/UCx55tefMzKkaA0uDmj9g2XA.m3u8
 
-#EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD NEWS" tvg-logo="https://i.imgur.com/8puDFoq.png" group-title="News", DD NEWS
+#EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD NEWS" tvg-logo="https://i.imgur.com/8puDFoq.png" group-title="NEWS", DD NEWS
 https://ythls.armelin.one/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++LOCAL==========================================================================================
@@ -259,7 +259,7 @@ http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SITY TELANGANA" tvg-logo="https://i.imgur.com/RZ1HZnM.jpg" group-title="LOCAL", SITY TELANGANA
 http://cloud.streamplay.in:1935/ccc/ccc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NEWS 9 TODAY" tvg-logo="https://i.imgur.com/mn1fZLP.jpg"group-title="LOCAL",NEWS 9 TODAY
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 9 TODAY" tvg-logo="https://i.imgur.com/mn1fZLP.jpg"group-title="LOCAL", NEWS 9 TODAY
 http://live.streamplay.in:1935/news9/news9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="9TV TELANGANA" tvg-logo="https://i.imgur.com/Yr5SG4z.jpg" group-title="LOCAL", 9TV TELANGANA
@@ -268,7 +268,7 @@ http://server.streamplay.in:1935/9tv/9tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RK 9 NEWS" tvg-logo="https://i.imgur.com/SSl3HXU.jpg" group-title="LOCAL", RK 9 NEWS
 http://telugusolutions.com/rk9news/rk9news/index.m3u8
 
-#EXTINF:-1 tvg-id="Bhavya_tv" tvg-name="BHAVYA TV" tvg-logo="https://i.imgur.com/924Okst.png?1" group-title="LOCAL",BHAVYA TV
+#EXTINF:-1 tvg-id="Bhavya_tv" tvg-name="BHAVYA TV" tvg-logo="https://i.imgur.com/924Okst.png?1" group-title="LOCAL", BHAVYA TV
 http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="S9 CHANNEL" tvg-logo="https://i.imgur.com/wSX7Wfm.jpg" " group-title="LOCAL", S9 CHANNEL
@@ -390,10 +390,10 @@ http://125.18.81.106/hlslive/Admin/px0219610/live/Shranyu_aws/chunklist_0.m3u8
 http://watchindia.net:8880/live/24787/85016/956.ts
 
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV ANDHRA PRADESH" tvg-logo="https://i.imgur.com/pFNCRnf.png" group-title="NEWS", ETV ANDHRA PRADESH 
-http://starshare.live:8080/live/53rumaiz87/7567new977/9046.ts
+http://startv365.com:80/9794783213/6955630461/187064
 
 #EXTINF:-1 tvg-id="ETVTelangana.in" tvg-name="ETV TELANGANA" tvg-logo="https://i.imgur.com/DkgvWTK.png" group-title="NEWS", ETV TELANGANA 
-http://starshare.live:8080/live/53rumaiz87/7567new977/9050.ts
+http://startv365.com:80/9794783213/6955630461/187066
 
 #EXTINF:-1 tvg-id="sakshitv.in" tvg-name="SAKSHI TV" tvg-logo="https://i.imgur.com/rR434zM.jpg" group-title="NEWS", SAKSHI TV
 http://watchindia.net:8880/live/varghesekunju62/308678sher/955.ts
@@ -410,16 +410,16 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=155864&extensi
 #EXTINF:-1 tvg-id="v6telugu.in" tvg-name="V6 NEWS" tvg-logo="https://i.imgur.com/rBmV30d.png" group-title="NEWS", V6 NEWS
 http://watchindia.net:8880/live/24787/85016/943.ts
 
-#EXTINF:-1 tvg-id="CVRNews.in" tvg-name="CVR NEWS TELUGU" tvg-logo="https://i.imgur.com/UVLWX8B.png" group-title="NEWS",CVR NEWS TELUGU
+#EXTINF:-1 tvg-id="CVRNews.in" tvg-name="CVR NEWS TELUGU" tvg-logo="https://i.imgur.com/UVLWX8B.png" group-title="NEWS", CVR NEWS TELUGU
 http://watchindia.net:8880/live/24787/85016/975.ts
 
 #EXTINF:-1 tvg-id="CVR ENGLISH" tvg-name="CVR ENGLISH" tvg-logo="https://i.imgur.com/KR7KLQa.png" group-title="NEWS", CVR ENGLISH
 http://102.222.232.18:9981/stream/channelid/1005715685?ticket=0234C7E68548DCEFFF579636FBD9C1B6936DE8BB&profile=matroska
 
-#EXTINF:-1 tvg-id="tnews.in" tvg-name="T NEWS" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" group-title="NEWS",T NEWS
+#EXTINF:-1 tvg-id="tnews.in" tvg-name="T NEWS" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" group-title="NEWS", T NEWS
 http://starshare.live:8080/live/7263417185/1718572634/9049.ts
 
-#EXTINF:-1 tvg-id="tv9.in" tvg-name="TV9" tvg-logo="https://watchindia.net/images/channels/telugu/TV9.png" group-title="NEWS",TV9
+#EXTINF:-1 tvg-id="tv9.in" tvg-name="TV9" tvg-logo="https://watchindia.net/images/channels/telugu/TV9.png" group-title="NEWS", TV9
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV5News.in" tvg-name="TV5 NEWS" tvg-logo="https://i.imgur.com/aOrvsYj.png" group-title="NEWS", TV5 NEWS
@@ -440,7 +440,7 @@ https://ythls.armelin.one/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8
 #EXTINF:-1 tvg-id="HMTV" tvg-name="HMTV NEWS" tvg-logo="https://i.imgur.com/UYDApkI.png" group-title="NEWS", HMTV NEWS
 https://ythls.armelin.one/channel/UCNZOrs1QBt8cJnv9ud96qRA.m3u8
 
-#EXTINF:-1 tvg-id="10tv.in" tvg-name="SWATANTRA TV" tvg-logo="https://i.imgur.com/O7AZ5VZ.png" group-title="NEWS", Swatantra TV
+#EXTINF:-1 tvg-id="10tv.in" tvg-name="SWATANTRA TV" tvg-logo="https://i.imgur.com/O7AZ5VZ.png" group-title="NEWS", SWATANTRA TV
 http://watchindia.net:8880/live/24787/85016/981.ts
 
 
@@ -504,32 +504,33 @@ http://starshare.live:8080/live/53rumaiz87/7567new977/4044.ts
 
 ==============================================ENGLISH======================================================================================================================
 
-#EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix HD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="ENTERTAINMENT",Sony Pix HD
+#EXTINF:-1 tvg-id="sonypix.in" tvg-name="SONY PIX HD" tvg-logo="https://i.imgur.com/O0vSVMI.png" group-title="ENTERTAINMENT", SONY PIX HD
 http://watchindia.net:8880/live/varghesekunju62/308678sher/2101.ts
 
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies " tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="ENTERTAINMENT",Star Movies 
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="STAR MOVIES" tvg-logo="https://i.imgur.com/uStd85l.png" group-title="ENTERTAINMENT", STAR MOVIES
 http://176467422900800978.ofd0310ax.xyz:80/play/vi1111087/xjEAwVq7SQU/800978.ts
 
-#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel " tvg-logo="https://liebeurl.me/logos/warner.png" group-title="ENTERTAINMENT", WARNER CHANNEL 
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel " tvg-logo="https://i.imgur.com/gPgGnkC.png" group-title="ENTERTAINMENT", WARNER CHANNEL 
 http://emuligl.info:8080/tviritv/td6522SNAtHt/130
 
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN " tvg-logo="https://www.liebeurl.me/logos/axn.png" group-title="ENTERTAINMENT", AXN SD
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN " tvg-logo="https://i.imgur.com/RSaVuX8.png" group-title="ENTERTAINMENT", AXN SD
 http://emuligl.info:8080/tviritv/td6522SNAtHt/812
 
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central " tvg-logo="https://liebeurl.me/logos/comedycentral.png" group-title="ENTERTAINMENT",Comedy Central 
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.imgur.com/w9mEsuu.png" group-title="ENTERTAINMENT", COMEDY CENTRAL 
 http://watchindia.net:8880/live/24787/85016/2056.ts
 
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& Flix HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png" group-title="ENTERTAINMENT",& Flix HD
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& FLIX HD" tvg-logo="https://i.imgur.com/UocrKIz.png" group-title="ENTERTAINMENT", & FLIX HD
 http://watchindia.net:8880/live/24787/85016/2088.ts
 
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="& Prive HD" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png" group-title="ENTERTAINMENT",& PRIVE HD
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="& PRIVE HD" tvg-logo="https://i.imgur.com/qyK4ceT.png" group-title="ENTERTAINMENT", & PRIVE HD
 http://watchindia.net:8880/live/24787/85016/2103.ts
 
-#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="Movies Now HD" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png" group-title="ENTERTAINMENT",Movies Now HD
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="MOVIES NOW HD" tvg-logo="https://i.imgur.com/EgeA30s.png" group-title="ENTERTAINMENT", MOVIES NOW HD
 http://watchindia.net:8880/live/24787/85016/2102.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.imgur.com/mpfLXop.png" group-title="ENTERTAINMENT", HBO
 http://emuligl.info:8080/tviritv/td6522SNAtHt/30675
+
 _____________________________________________________HINDI __________________________________________________________
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures HD" tvg-logo="https://i.imgur.com/6NgLppo.png" group-title="ENTERTAINMENT",& Pictures HD
 http://watchindia.net:8880/live/24787/85016/783.ts
