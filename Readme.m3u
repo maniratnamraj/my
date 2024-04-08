@@ -567,7 +567,7 @@ http://watchindia.net:8880/live/24787/85016/1924.ts
 #EXTINF:-1 tvg-id="StarGold.in" tvg-name="STAR GOLD" tvg-logo="https://i.imgur.com/QgP64Zf.png" group-title="ENTERTAINMENT", STAR GOLD HD 
 http://watchindia.net:8880/live/24787/85016/785.ts
 
-#EXTINF:-1 tvg-id="starutsav.in" tvg-name="Star Utsav" tvg-logo="https://i.imgur.com/xJvKDRE.png" group-title="Hindi",Star Utsav
+#EXTINF:-1 tvg-id="starutsav.in" tvg-name="Star Utsav" tvg-logo="https://i.imgur.com/xJvKDRE.png" group-title="ENTERTAINMENT",Star Utsav
 http://watchindia.net:8880/live/24787/85016/2493.ts
 
 #EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="" tvg-logo="https://i.imgur.com/89RaSLE.jpg" group-title="ENTERTAINMENT",Star Gold Select
