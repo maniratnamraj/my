@@ -1334,7 +1334,19 @@ http://line.gofast-tv.me/play/live.php?extension=ts&mac=00:1A:79:6F:5A:5D&play_t
 #EXTINF:-1 tvg-id="Be1.be" tvg-name="Be1 Alt" group-title="News" parent-code="1234" audio-track="nl",Be1 Name 
 http://watchindia.net:8880/live/varghesekunju62/308678sher/930.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Bhagavanth Kesari" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlwEzJHFSIakQi6xr17v6WM9l9z.jpg" group-title="VOD",Bhagavanth Kesari 
+#EXTINF:-1 tvg-id="" tvg-name=" Rudramambapuram " tvg-logo="https://www.naasongs.co/wp-content/uploads/2023/07/Rudramambapuram-2023-Jaathara.jpg" group-title="TELUGU VOD", Rudramambapuram 
+http://mixbix.xyz:8080/movie/n3hqcJt7MUaB/HV3wLwkMDpgt/249770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chakravyuham " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlD2KQPbZ1Q3BI5jXO2YVRN8r3f.jpg" group-title="TELUGU VOD",Chakravyuham 
+http://mixbix.xyz:8080/movie/n3hqcJt7MUaB/HV3wLwkMDpgt/249769.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" Rudramambapuram " tvg-logo="https://www.naasongs.co/wp-content/uploads/2023/07/Rudramambapuram-2023-Jaathara.jpg" group-title="TELUGU VOD", Rudramambapuram 
+http://mixbix.xyz:8080/movie/n3hqcJt7MUaB/HV3wLwkMDpgt/249768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chakravyuham " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlD2KQPbZ1Q3BI5jXO2YVRN8r3f.jpg" group-title="TELUGU VOD,Chakravyuham 
+http://mixbix.xyz:8080/movie/n3hqcJt7MUaB/HV3wLwkMDpgt/249767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viduthalai: Part I " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTxPji8PY3PL0SK9e4mkt2laJKg.jpg" group-title="TELUGU VOD",Viduthalai: Part I 
+http://mixbix.xyz:8080/movie/n3hqcJt7MUaB/HV3wLwkMDpgt/249677.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emi Sethura Linga " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krCQS5vak2pxp4gBGwIcbP5Z6YM.jpg" group-title="TELUGU VOD",Emi Sethura Linga 
+http://mixbix.xyz:8080/movie/n3hqcJt7MUaB/HV3wLwkMDpgt/249676.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bhagavanth Kesari" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlwEzJHFSIakQi6xr17v6WM9l9z.jpg" group-title="TELUGU VOD",Bhagavanth Kesari 
 http://mixbix.xyz:8080/movie/n3hqcJt7MUaB/HV3wLwkMDpgt/294925.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="TELUGU-MOVIES 1 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7 ᴴᴰ",TELUGU-MOVIES 1 HD
