@@ -453,19 +453,19 @@ http://watchindia.net:8880/live/98697/23119/2423.ts
 http://xtv.ooo:8080/MansoorWapda/258741/206324
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.imgur.com/NambWyO.png" group-title="SPORTS", STAR SPORTS 1
-http://newlife3.wanicelife.com:8880/12mmk210277/63218293/55272
+http://watchindia.net:8880/live/98697/23119/2186.ts
 
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://i.imgur.com/yfslQep.png" group-title="SPORTS", STAR SPORTS 2 
-http://watchindia.net:8880/live/98697/23119/2163.ts
+http://watchindia.net:8880/live/98697/23119/2232.ts
 
 #EXTINF:-1 tvg-id="StarSports3.in" tvg-name="STAR SPORTS 3 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", STAR SPORTS 3 
-http://abcnew.site:8880/3ca05263n18/ds23er23/55271
+http://watchindia.net:8880/live/98697/23119/2456.ts
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="STAR SPORTS SELCT 1 HD" tvg-logo="https://i.imgur.com/uzspvbf.png" group-title="SPORTS", STAR SPORTS SELECT 1 
-http://newlife3.wanicelife.com:8880/12mmk210277/63218293/55270
+http://watchindia.net:8880/live/98697/23119/1070.ts
 
 #EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="STAR SPORTS SELCT 2 HD" tvg-logo="https://i.imgur.com/FZtlTVZ.png" group-title="SPORTS", STAR SPORTS SELCT 2 
-http://newlife3.wanicelife.com:8880/12mmk210277/63218293/55269
+http://watchindia.net:8880/live/98697/23119/1071.ts
 
 #EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="STAR SPORTS HINDI" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", STAR SPORTS HINDI
 http://176467422900795782.ofd0310ax.xyz:80/play/vi1111087/xjEAwVq7SQU/795782.ts
@@ -657,17 +657,17 @@ https://see.lokshahi.live/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d282wbz2keffpz.cloudfront.net/wp-content/uploads/2018/04/16001830/TV9_MARATHI-wecompress.com_.png" group-title="News",TV9 Marathi
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.abplive.com/wp-content/themes/abp-majha/images/majha-desktop.png" group-title="News",ABP Majha
+#EXTINF:-1 tvg-id="" tvg-name="ABP Majha" tvg-logo="https://static.abplive.com/wp-content/themes/abp-majha/images/majha-desktop.png" group-title="News",ABP Majha
 https://abplivetv.akamaized.net/hls/live/2043011/manjha/master_720p.m3u8
 
-#EXTINF:-1 tvg-id="1YesNews.in" tvg-name="" tvg-logo="https://i.imgur.com/4HeuLuA.png" group-title="News",1Yes News 
+#EXTINF:-1 tvg-id="1YesNews.in" tvg-name="" tvg-logo="https://i.imgur.com/4HeuLuA.png" group-title="News", 1Yes News 
 https://ythls.armelin.one/channel/UC3mHciwDcBC8XucNnRt9C6A.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music",9XM 
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+http://watchindia.net:8880/live/98697/23119/827.ts
 
-#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="9X Jalwa" tvg-logo="https://i.imgur.com/4FRqlUw.png" group-title="Hindi",9X Jalwa
-http://watchindia.net:8880/live/24787/85016/828.ts
+#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="9X Jalwa" tvg-logo="https://i.imgur.com/4FRqlUw.png" group-title="",9X Jalwa
+http://watchindia.net:8880/live/98697/23119/828.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD MASALA" tvg-logo="https://i.imgur.com/54nv7oH.jpg" group-title="Music", BOLLYWOOD MASALA
 http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/72906
