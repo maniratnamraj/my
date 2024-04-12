@@ -57,6 +57,9 @@ http://mixbix.xyz:8080/uH5cBpMpDK6w/7DqCJ3CvYRzX/236386
 #EXTINF:-1 tvg-id="VanithaTV.in" tvg-name="VANITHA TV" tvg-logo="https://i.imgur.com/Hxh9Qxf.png" group-title="LIFESTYLE", VANITHA TV
 https://ythls.armelin.one/channel/UCTcH-GOkexQHWKBWSfOjhPQ.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SAREGAMA TELUGU" tvg-logo="http://103.184.192.164:5001/jtvimage/Saregama_Telugu.png" group-title="ENTERTAINMENT", SAREGAMA TELUGU
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/280656
+
 #EXTINF:-1 tvg-id="CVR HEALTH" tvg-name="CVR HEALTH" tvg-logo="https://i.imgur.com/n3MRq4N.png" group-title="LIFESTYLE", CVR HEALTH
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834495&extension=ts
 
@@ -83,7 +86,7 @@ https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/play
 https://ythls.armelin.one/channel/UCSzOZ97LOpU-_AVlGfmD4rQ.m3u8
 
 #EXTINF:-1 tvg-id="1254"  tvg-name="AASTHA TELUGU"  tvg-logo="https://i.imgur.com/EtoIeVg.png" group-title="RELIGIOUS"", AASTHA TELUGU
-http://102.222.232.18:9981/stream/channelid/596533712?ticket=925FC036E96BB457520222C06CB4072D6E513B83&profile=matroska
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/280731
 
 #EXTINF: -1 tvg-id="955" tvg-name=HINDU DHARMAM" tvg-logo="https://i.imgur.com/CqzVI8u.png group-title=" RELIGIOUS", HINDU DHARMAM
 https://ythls.armelin.one/channel/UCMg2yY8OzHhw6mOvgIkaXYg.m3u8
@@ -274,7 +277,7 @@ https://sharsolution.in/hls/s9tv/s9tv.m3u8
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Sattva_TV
 
 #EXTINF:-1 tvg-id="" tvg-name="PMC TELUGU" tvg-logo="https://i.imgur.com/qAAkWNS.png" group-title="RELIGIOUS", PMC TELUGU
-http://techmaxlive.ml/live.php?c=PMC_Telugu&q=800&e=junk.m3u8
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/280797
 
 #EXTINF: -1 tvg-id="1461" tvg-name="VIDYA" tvg-logo="https://i.imgur.com/mX4u8gg.png" group-title="RELIGIOUS", VIDYA
 http://103.139.171.5:5001/live.php?c=Vidya&q=800&e=junk.m3u8
@@ -301,7 +304,7 @@ http://xtv.ooo:8080/MansoorWapda/258741/150478
 http://xtv.ooo:8080/MansoorWapda/258741/150482
 
 #EXTINF:-1  tvg-id="SonyYAY.in" tvg-name="SONY YAY" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="KIDS", SONY YAY 
-http://xtv.ooo:8080/MansoorWapda/258741/26187
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 
 #EXTINF:-1  tvg-id="Hungama.in" tvg-name="HUNGAMA"  tvg-logo="https://i.imgur.com/cYVExRI.png" group-title="KIDS", HUNGAMA
 http://xtv.ooo:8080/MansoorWapda/258741/150480
@@ -415,7 +418,7 @@ https://ythls.armelin.one/channel/UCixD-KrpjXtMupkzkdFFlFg.m3u8
 http://102.222.232.18:9981/stream/channelid/1005715685?ticket=0234C7E68548DCEFFF579636FBD9C1B6936DE8BB&profile=matroska
 
 #EXTINF:-1 tvg-id="tnews.in" tvg-name="T NEWS" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" group-title="NEWS", T NEWS
-http://starshare.live:8080/live/7263417185/1718572634/9049.ts
+https://ythls-v2.onrender.com/video/JnuYyOJ0XLU.m3u8
 
 #EXTINF:-1 tvg-id="tv9.in" tvg-name="TV9" tvg-logo="https://watchindia.net/images/channels/telugu/TV9.png" group-title="NEWS", TV9
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
@@ -504,10 +507,10 @@ http://starshare.live:8080/live/53rumaiz87/7567new977/4044.ts
 ==============================================ENGLISH======================================================================================================================
 
 #EXTINF:-1 tvg-id="sonypix.in" tvg-name="SONY PIX HD" tvg-logo="https://i.imgur.com/O0vSVMI.png" group-title="ENTERTAINMENT", SONY PIX HD
-http://vo01.mohdtv.com:8880/ALLChannelsf224f11eca7c/81777197/55291
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/75
 
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="STAR MOVIES" tvg-logo="https://i.imgur.com/uStd85l.png" group-title="ENTERTAINMENT", STAR MOVIES
-http://176467422900800978.ofd0310ax.xyz:80/play/vi1111087/xjEAwVq7SQU/800978.ts
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275053
 
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL" tvg-logo="https://i.imgur.com/gPgGnkC.png" group-title="ENTERTAINMENT", WARNER CHANNEL 
 http://sonyiptv.net:8080/95814pq/10869nm/189238
@@ -574,43 +577,52 @@ http://watchindia.net:8880/live/24787/85016/2493.ts
 http://195.26.87.217/live.ts?channelId=197&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0OwSLvo.png" group-title="ENTERTAINMENT",Star Gold Thrills
-http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/189473
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QqMl075.png" group-title="ENTERTAINMENT",Star Gold 
-http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275049
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yGkYlAI.jpg" group-title="ENTERTAINMENT",Star Gold 2
-http://195.26.87.217/live.ts?channelId=33165&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275050
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mQsn6Z8.png" group-title="ENTERTAINMENT", Star Gold Romance
-http://103.132.181.118:82/play/a00m
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/189474
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT" tvg-logo="" group-title="ENTERTAINMENT", STAR GOLD SELECT 
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275051
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT" tvg-logo="" group-title="ENTERTAINMENT", STAR MOVIES SELECT 
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275054
 
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="" tvg-logo="https://i.imgur.com/K2Ksc1E.jpg" group-title="ENTERTAINMENT", Zee Cinema Hd
-http://watchindia.net:8880/live/24787/85016/787.ts
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275058
 
 #EXTINF:-1 tvg-id="zeeaction.in" tvg-name="" tvg-logo="https://i.imgur.com/qwGvyGN.png" group-title="ENTERTAINMENT", ZeeAction
 http://watchindia.net:8880/live/24787/85016/821.ts
 
 #EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="" tvg-logo="https://i.imgur.com/ed7IKoM.jpg" group-title="ENTERTAINMENT", Zee Bollywood
-http://watchindia.net:8880/live/24787/85016/822.ts
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275059
+
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CAFE" tvg-logo="" group-title="ENTERTAINMENT", ZEE CAFE 
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275061
 
 #EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="" tvg-logo="https://i.imgur.com/77Vs2tt.jpg" group-title="ENTERTAINMENT", Zee Classic 
 http://watchindia.net:8880/live/24787/85016/802.ts
 
 #EXTINF:-1 tvg-id="zanmol.in" tvg-name="Zee Anmol" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol.png" group-title="ENTERTAINMENT",Zee Anmol
-http://watchindia.net:8880/live/24787/85016/813.ts
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275060
 
-#EXTINF:-1 tvg-id="zeenews.in" tvg-name="Zee News" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_News.png" group-title="NEWS",Zee News
-http://watchindia.net:8880/live/24787/85016/832.ts
+#EXTINF:-1 tvg-id="zeenews.in" tvg-name="Zee News" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_News.png" group-title="NEWS", Zee News
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/279513
 
 #EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_TV.png" group-title="ENTERTAINMENT", Zee TV HD
-http://watchindia.net:8880/live/24787/85016/1970.ts
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/13
 
 #EXTINF:-1 tvg-id="zee.zest.in" tvg-name="Zee Zest HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Zest_HD.png" group-title="ENTERTAINMENT",Zee Zest HD
-http://watchindia.net:8880/live/24787/85016/2359.ts
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/277208
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1F5Jz2X.png" group-title="ENTERTAINMENT", Zing Tv
-http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/58196
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/106
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/elb6nPN.png" group-title="ENTERTAINMENT", B4U Kadak
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
