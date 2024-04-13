@@ -4,10 +4,10 @@
 http://watchindia.net:8880/live/94580/11406/936.ts
 
 #EXTINF:-1 tvg-id="etvcinema.in" tvg-name="ETV CINEMA" tvg-logo="https://i.imgur.com/7uq92lt.jpg" group-title="ENTERTAINMENT", ETV CINEMA
-http://xtv.ooo:8080/MansoorWapda/258741/244441
+http://103.178.58.10:8000/play/a049/index.m3u8
 
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="LIFESTYLE", ETV ABHIRUCHI
-http://xtv.ooo:8080/MansoorWapda/258741/244444
+http://103.178.58.10:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="https://i.imgur.com/FSkhFIP.png" group-title="LIFESTYLE", ETV LIFE
 http://watchindia.net:8880/live/94580/11406/938.ts
@@ -25,7 +25,7 @@ http://mixbix.xyz:8080/uH5cBpMpDK6w/7DqCJ3CvYRzX/236390
 http://startv365.com:80/9794783213/6955630461/400162500
 
 #EXTINF:-1 tvg-id="MaaMusic.in" tvg-name="STAR MAA MUSIC"  tvg-logo="https://i.imgur.com/bfqRfB4.png" group-title="MUSIC", STAR MAA MUSIC
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=281969&extension=ts
+http://103.178.58.10:8000/play/a050/index.m3u8
 
 #EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="GEMINI TV " tvg-logo="https://i.imgur.com/RQB9jek.jpg" group-title="ENTERTAINMENT", GEMINI TV 
 http://mixbix.xyz:8080/uH5cBpMpDK6w/7DqCJ3CvYRzX/236379
@@ -37,10 +37,10 @@ http://mixbix.xyz:8080/uH5cBpMpDK6w/7DqCJ3CvYRzX/236377
 http://xtv.ooo:8080/MansoorWapda/258741/244436
 
 #EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="GEMINI COMEDY" tvg-logo="https://i.imgur.com/xsXx4Qr.png" group-title="ENTERTAINMENT", GEMINI COMEDY
-http://xtv.ooo:8080/MansoorWapda/258741/244435
+http://103.178.58.10:8000/play/a048/index.m3u8
 
 #EXTINF:-1 tvg-id="geminimusic.in" tvg-name="GEMINI MUSIC"  tvg-logo="https://i.imgur.com/z6USUEc.png" group-title="MUSIC", GEMINI MUSIC 
-http://xtv.ooo:8080/MansoorWapda/258741/244434
+http://103.178.58.10:8000/play/a04m/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU" tvg-logo="https://i.imgur.com/uHOJMKY.jpg" group-title="ENTERTAINMENT", ZEE TELUGU
 http://mixbix.xyz:8080/uH5cBpMpDK6w/7DqCJ3CvYRzX/236388
@@ -298,34 +298,34 @@ http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281792&extensio
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/279953
 
 #EXTINF:-1  tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="KIDS", CARTOON NETWORK 
-http://xtv.ooo:8080/MansoorWapda/258741/150478
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/279421
 
 #EXTINF:-1  tvg-id="Nick.in" tvg-name="NICK" tvg-logo="https://i.imgur.com/rTNr36r.png" group-title="KIDS", NICK 
-http://xtv.ooo:8080/MansoorWapda/258741/150482
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/279373
 
 #EXTINF:-1  tvg-id="SonyYAY.in" tvg-name="SONY YAY" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="KIDS", SONY YAY 
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/279889
 
 #EXTINF:-1  tvg-id="Hungama.in" tvg-name="HUNGAMA"  tvg-logo="https://i.imgur.com/cYVExRI.png" group-title="KIDS", HUNGAMA
-http://xtv.ooo:8080/MansoorWapda/258741/150480
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/246766
 
 #EXTINF:-1  tvg-id="" tvg-name="BABY TV" tvg-logo="https://i.imgur.com/bFtkF5H.jpg" group-title=" KIDS", BABY TV
 http://rdns.tv:80/live/walderez119/oliveira98209/25370.m3u8
 
 #EXTINF:-1  tvg-id="DisneyChannel.in" tvg-name="DISNEY CHANNEL"tvg-logo="https://i.imgur.com/aOkXvqg.png" group-title="KIDS", DISNEY CHANNEL
-http://xtv.ooo:8080/MansoorWapda/258741/167551
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/246763
 
 #EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.imgur.com/XkTwaby.png" group-title=" KIDS", DISNEY JUNIOR
-http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/182140
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/246769
 
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" tvg-logo="https://i.imgur.com/UE7TW2L.png" group-title="KIDS",DISNEY XD
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" tvg-logo="https://i.imgur.com/UE7TW2L.png" group-title="KIDS", DISNEY XD
 http://ipro.webvps.de:25443/live/223300444/3216548777/9286.ts
 
 #EXTINF:-1  tvg-id="NickJr.in" tvg-name="NICK JUNIOR" tvg-logo="https://i.imgur.com/SIPeyn0.png" group-title="KIDS", NICK JUNIOR
 http://xtv.ooo:8080/MansoorWapda/258741/153156
 
 #EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="NICKELODEON" tvg-logo="https://i.imgur.com/T0dFpxB.png" group-title="KIDS", NICKELODEON
-http://voz.one:80/alexfnt/vTFBGKdUYq/13907
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/242179
 
 #EXTINF:-1  tvg-id="" tvg-name="NICKTOONS" tvg-logo="https://i.imgur.com/xyY6OlN.png group-title="KIDS", NICKTOONS
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2064.ts
@@ -334,13 +334,13 @@ http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2064.ts
 http://pro.boxdigital.org:8080/FPf7G48pFB/jdL3dJtRfD/210339
 
 #EXTINF:-1  tvg-id="DiscoveryKids.in" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/F6tDTGk.jpg" group-title=" KIDS", DISCOVERY KIDS
-http://xtv.ooo:8080/MansoorWapda/258741/76723
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/246765
 
 #EXTINF:-1  tvg-id="NickHDPlus.in" tvg-name="NICK HD+" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="KIDS", NICK HD+ 
 http://xtv.ooo:8080/MansoorWapda/258741/76722
 
 #EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="CARTOON NETWORK HD+" tvg-logo="https://i.imgur.com/9spEdvT.png" group-title="KIDS", CARTOON NETWORK HD+ 
-http://xtv.ooo:8080/MansoorWapda/258741/153154
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/279393
 
 
 =============================DOCUMENTARY====================================================================
@@ -474,10 +474,10 @@ http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/247160
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/178637
 
 #EXTINF:-1 tvg-id="StarSports1Tamil.in" tvg-name="STAR SPORTS 1 TAMIL HD" tvg-logo="https://i.imgur.com/5GVdQZV.jpg" group-title="SPORTS", STAR SPORTS 1 TAMIL HD
-https://bq32.short.gy/offline_vaathala?channelId=275&uid=4944&deviceMac=00:1A:79:94:98:FE
+http://103.178.58.10:8000/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-id="288" tvg-name="STAR SPORTS 1 TELUGU HD" tvg-logo="https://i.imgur.com/K3AYCiN.jpg" group-title="SPORTS", STAR SPORTS 1 TELUGU HD
-https://bq32.short.gy/offline_vaathala?channelId=288&uid=4944&deviceMac=00:1A:79:94:98:FE
+http://103.178.58.10:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="SONY SPORTS 1 HD"  tvg-logo="https://i.imgur.com/X7ZOQg6.jpg" group-title="SPORTS", SONY SPORTS 1 HD
 http://abcnew.site:8880/3ca05263n18/ds23er23/55284
@@ -522,10 +522,10 @@ http://sonyiptv.net:8080/95814pq/10869nm/259898
 http://vo01.mohdtv.com:8880/ALLChannelsf224f11eca7c/81777197/2662
 
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& FLIX HD" tvg-logo="https://i.imgur.com/UocrKIz.png" group-title="ENTERTAINMENT", & FLIX HD
-http://watchindia.net:8880/live/24787/85016/2088.ts
+http://103.178.58.10:8000/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="& PRIVE HD" tvg-logo="https://i.imgur.com/qyK4ceT.png" group-title="ENTERTAINMENT", & PRIVE HD
-http://watchindia.net:8880/live/24787/85016/2103.ts
+http://103.178.58.10:8000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="MOVIES NOW HD" tvg-logo="https://i.imgur.com/EgeA30s.png" group-title="ENTERTAINMENT", MOVIES NOW HD
 http://watchindia.net:8880/live/24787/85016/2102.ts
@@ -534,49 +534,49 @@ http://watchindia.net:8880/live/24787/85016/2102.ts
 http://emuligl.info:8080/tviritv/td6522SNAtHt/30675
 
 _____________________________________________________HINDI __________________________________________________________
-#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures HD" tvg-logo="https://i.imgur.com/6NgLppo.png" group-title="ENTERTAINMENT",& Pictures HD
-http://watchindia.net:8880/live/24787/85016/783.ts
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures HD" tvg-logo="https://i.imgur.com/6NgLppo.png" group-title="ENTERTAINMENT", & Pictures HD
+http://103.178.58.10:8000/play/a02m/index.m3u8
 
-#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="& TV HD" tvg-logo="https://i.imgur.com/BoIFSpT.png" group-title="ENTERTAINMENT",& TV HD
-http://watchindia.net:8880/live/24787/85016/782.ts
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="& TV HD" tvg-logo="https://i.imgur.com/BoIFSpT.png" group-title="ENTERTAINMENT", & TV HD
+http://103.178.58.10:8000/play/a022/index.m3u8
 
-#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors TV HD 1" tvg-logo="https://i.imgur.com/kvyZM5c.png" group-title="ENTERTAINMENT",Colors TV HD 1
-http://watchindia.net:8880/live/24787/85016/801.ts
+#EXTINF:-1 tvg-id="colors.in" tvg-name="COLORS" tvg-logo="https://i.imgur.com/kvyZM5c.png" group-title="ENTERTAINMENT", COLORS 
+http://103.178.58.10:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony.in" tvg-name="Sony" tvg-logo="https://i.imgur.com/12orxdQ.png" group-title="ENTERTAINMENT", Sony 
 http://fast.bounceme.net:8080/live/rGaKpjvGha/AVSnwJZ2db/7077.ts
 
 #EXTINF:-1 tvg-id="SonyMax.in" tvg-name="" tvg-logo="https://i.imgur.com/oVWxvG6.png" group-title="ENTERTAINMENT", Sony Max 
-http://watchindia.net:8880/live/24787/85016/788.ts
+http://103.178.58.10:8000/play/a01m/index.m3u8
 
-#EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal" tvg-logo="https://i.imgur.com/had6YWl.png" group-title="ENTERTAINMENT",Sony Pal
+#EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal" tvg-logo="https://i.imgur.com/had6YWl.png" group-title="ENTERTAINMENT", Sony Pal
 http://watchindia.net:8880/live/24787/85016/812.ts
 
 #EXTINF:-1 tvg-id="sonywah.in" tvg-name="SONY WAH" tvg-logo="https://i.imgur.com/K8CHnFO.png" group-title="ENTERTAINMENT", SONY WAH
 http://watchindia.net:8880/live/24787/85016/814.ts
 
-#EXTINF:-1 tvg-id="SonyMax2.in" tvg-name=""tvg-logo="https://i.imgur.com/mJP4StX.jpg" group-title="ENTERTAINMENT",Sony Max 2 Ind
+#EXTINF:-1 tvg-id="SonyMax2.in" tvg-name=""tvg-logo="https://i.imgur.com/mJP4StX.jpg" group-title="ENTERTAINMENT", Sony Max 2 Ind
 http://fast.bounceme.net:8080/live/rGaKpjvGha/AVSnwJZ2db/8455.ts
 
-#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="" tvg-logo="https://i.imgur.com/KaKc1Q4.png"tvg-name="SONY SAB" group-title=""ENTERTAINMENT", SONY SAB
-http://watchindia.net:8880/live/24787/85016/2323.ts
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="SONY SAB" tvg-logo="https://i.imgur.com/KaKc1Q4.png" group-title=""ENTERTAINMENT", SONY SAB
+http://103.178.58.10:8000/play/a04w/index.m3u8
 
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat HD" tvg-logo="https://i.imgur.com/941FzL1.png" group-title="ENTERTAINMENT",Star Bharat HD
-http://watchindia.net:8880/live/24787/85016/780.ts
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat HD" tvg-logo="https://i.imgur.com/941FzL1.png" group-title="ENTERTAINMENT", Star Bharat HD
+http://103.178.58.10:8000/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD 1" tvg-logo="https://i.imgur.com/gIWNqTS.png" group-title="ENTERTAINMENT",Star Plus HD 1
-http://watchindia.net:8880/live/24787/85016/1924.ts
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://i.imgur.com/gIWNqTS.png" group-title="ENTERTAINMENT", Star Plus HD 
+http://103.178.58.10:8000/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-id="StarGold.in" tvg-name="STAR GOLD" tvg-logo="https://i.imgur.com/QgP64Zf.png" group-title="ENTERTAINMENT", STAR GOLD HD 
-http://watchindia.net:8880/live/24787/85016/785.ts
+http://103.178.58.10:8000/play/a04x/index.m3u8
 
-#EXTINF:-1 tvg-id="starutsav.in" tvg-name="Star Utsav" tvg-logo="https://i.imgur.com/xJvKDRE.png" group-title="ENTERTAINMENT",Star Utsav
+#EXTINF:-1 tvg-id="starutsav.in" tvg-name="Star Utsav" tvg-logo="https://i.imgur.com/xJvKDRE.png" group-title="ENTERTAINMENT", Star Utsav
 http://watchindia.net:8880/live/24787/85016/2493.ts
 
-#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="" tvg-logo="https://i.imgur.com/89RaSLE.jpg" group-title="ENTERTAINMENT",Star Gold Select
+#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="" tvg-logo="https://i.imgur.com/89RaSLE.jpg" group-title="ENTERTAINMENT", Star Gold Select
 http://195.26.87.217/live.ts?channelId=197&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0OwSLvo.png" group-title="ENTERTAINMENT",Star Gold Thrills
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0OwSLvo.png" group-title="ENTERTAINMENT", Star Gold Thrills
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/189473
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QqMl075.png" group-title="ENTERTAINMENT",Star Gold 
