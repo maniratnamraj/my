@@ -289,13 +289,13 @@ http://103.139.171.5:5001/live.php?c=Nipuna&q=800&e=junk.m3u8
 ====================================KIDS=============================================================================
 
 #EXTINF:-1  tvg-id="Pogo.in" tvg-name="POGO" tvg-logo="https://i.imgur.com/96BYKkZ.jpg" group-title="KIDS", POGO 
-http://xtv.ooo:8080/MansoorWapda/258741/150483
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/280221
 
 #EXTINF:-1  tvg-id="" tvg-name="KUSHI TV" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="KIDS", KUSHI TV
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281792&extension=ts
 
 #EXTINF:-1  tvg-id="Sonic.in" tvg-name="NICK SONIC" tvg-logo="https://i.imgur.com/zy2LrKp.jpg" group-title="KIDS", NICK SONIC
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/279953
 
 #EXTINF:-1  tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/RWWEcb1.png" group-title="KIDS", CARTOON NETWORK 
 http://xtv.ooo:8080/MansoorWapda/258741/150478
@@ -304,7 +304,7 @@ http://xtv.ooo:8080/MansoorWapda/258741/150478
 http://xtv.ooo:8080/MansoorWapda/258741/150482
 
 #EXTINF:-1  tvg-id="SonyYAY.in" tvg-name="SONY YAY" tvg-logo="https://i.imgur.com/BD26Hey.png" group-title="KIDS", SONY YAY 
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/279889
 
 #EXTINF:-1  tvg-id="Hungama.in" tvg-name="HUNGAMA"  tvg-logo="https://i.imgur.com/cYVExRI.png" group-title="KIDS", HUNGAMA
 http://xtv.ooo:8080/MansoorWapda/258741/150480
