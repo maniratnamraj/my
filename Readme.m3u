@@ -399,7 +399,7 @@ https://ythls.armelin.one/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8
 #EXTINF:-1 tvg-id="sakshitv.in" tvg-name="SAKSHI TV" tvg-logo="https://i.imgur.com/rR434zM.jpg" group-title="NEWS", SAKSHI TV
 https://ythls.armelin.one/channel/UCQ_FATLW83q-4xJ2fsi8qAw.m3u8
 
-#EXTINF:-1 tvg-id="ABNTeluguNews.in" tvg-name="ABN NEWS" tvg-logo="https://i.imgur.com/aB5o7cE.png" group-title="NEWS",ABN NEWS
+#EXTINF:-1 tvg-id="ABNTeluguNews.in" tvg-name="ABN NEWS" tvg-logo="https://i.imgur.com/aB5o7cE.png" group-title="NEWS", ABN NEWS
 https://ythls.armelin.one/channel/UC_2irx_BQR7RsBKmUV9fePQ.m3u8
 
 #EXTINF:-1 tvg-id="4tvnews.in" tvg-name="NTV NEWS" tvg-logo="https://i.imgur.com/S4eV49a.png" group-title="NEWS", NTV NEWS
@@ -449,29 +449,29 @@ https://ythls.armelin.one/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8
 
 ------------------------------SPORTS------------------------------------------------
 
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="SPORTS 18 HD" tvg-logo="https://i.imgur.com/KthSX8T.png" group-title="SPORTS",Sports 18 HD
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="SPORTS 18 HD" tvg-logo="https://i.imgur.com/KthSX8T.png" group-title="SPORTS", SPORTS 18 HD
 http://watchindia.net:8880/live/98697/23119/2423.ts
 
 #EXTINF:-1 tvg-id="" tvg-name=" EUROPSPORT HD" tvg-logo="https://i.imgur.com/qFgMB9I.png" group-title="SPORTS", EUROPSPORT 
 http://xtv.ooo:8080/MansoorWapda/258741/206324
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.imgur.com/NambWyO.png" group-title="SPORTS", STAR SPORTS 1
-http://218304654706651825.ofdt0409.xyz:80/play/ja1108676/AjjbFJwYTH5/651825.ts
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/141872
 
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://i.imgur.com/yfslQep.png" group-title="SPORTS", STAR SPORTS 2 
-http://218304654706789706.ofdt0409.xyz:80/play/ja1108676/AjjbFJwYTH5/789706.ts
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/247160
 
 #EXTINF:-1 tvg-id="StarSports3.in" tvg-name="STAR SPORTS 3 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", STAR SPORTS 3 
-http://218304654706802778.ofdt0409.xyz:80/play/ja1108676/AjjbFJwYTH5/802778.ts
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/141723
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="STAR SPORTS SELCT 1 HD" tvg-logo="https://i.imgur.com/uzspvbf.png" group-title="SPORTS", STAR SPORTS SELECT 1 
-http://218304654706812397.ofdt0409.xyz:80/play/ja1108676/AjjbFJwYTH5/812397.ts
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/247161
 
 #EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="STAR SPORTS SELCT 2 HD" tvg-logo="https://i.imgur.com/FZtlTVZ.png" group-title="SPORTS", STAR SPORTS SELCT 2 
-http://218304654706815708.ofdt0409.xyz:80/play/ja1108676/AjjbFJwYTH5/815708.ts
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/247160
 
 #EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="STAR SPORTS HINDI" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", STAR SPORTS HINDI
-http://176467422900795782.ofd0310ax.xyz:80/play/vi1111087/xjEAwVq7SQU/795782.ts
+http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/178637
 
 #EXTINF:-1 tvg-id="StarSports1Tamil.in" tvg-name="STAR SPORTS 1 TAMIL HD" tvg-logo="https://i.imgur.com/5GVdQZV.jpg" group-title="SPORTS", STAR SPORTS 1 TAMIL HD
 https://bq32.short.gy/offline_vaathala?channelId=275&uid=4944&deviceMac=00:1A:79:94:98:FE
@@ -657,7 +657,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/0a
 #EXTINF:-1 tvg-id="" tvg-name="SHOW BOX MUSIC" tvg-logo="https://i.imgur.com/CH3LUtM.png" group-title="",SHOW BOX MUSIC
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HdVHhYY.jpg" group-title="",Hits MUSIC 
+#EXTINF:-1 tvg-id="" tvg-name="HITS MUSIC" tvg-logo="https://i.imgur.com/HdVHhYY.jpg" group-title="",Hits MUSIC 
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://see.lokshahi.live/poster.jpg" group-title="News",Lokshahi News
