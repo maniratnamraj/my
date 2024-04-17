@@ -4,10 +4,10 @@
 http://watchindia.net:8880/live/94580/11406/936.ts
 
 #EXTINF:-1 tvg-id="etvcinema.in" tvg-name="ETV CINEMA" tvg-logo="https://i.imgur.com/7uq92lt.jpg" group-title="ENTERTAINMENT", ETV CINEMA
-http://103.178.58.10:8000/play/a049/index.m3u8
+http://xtv.ooo:8080/MansoorWapda/258741/244441
 
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="LIFESTYLE", ETV ABHIRUCHI
-http://103.178.58.10:8000/play/a01z/index.m3u8
+http://xtv.ooo:8080/MansoorWapda/258741/244444
 
 #EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="https://i.imgur.com/FSkhFIP.png" group-title="LIFESTYLE", ETV LIFE
 http://watchindia.net:8880/live/94580/11406/938.ts
