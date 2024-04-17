@@ -4,7 +4,7 @@
 http://watchindia.net:8880/live/94580/11406/936.ts
 
 #EXTINF:-1 tvg-id="etvcinema.in" tvg-name="ETV CINEMA" tvg-logo="https://i.imgur.com/7uq92lt.jpg" group-title="ENTERTAINMENT", ETV CINEMA
-http://xtv.ooo:8080/MansoorWapda/258741/244441
+http://tr.redatvgold.com:80/0b14WRvtZckx/oW40Zf4h4t/155853
 
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/La5D3WC.png" group-title="LIFESTYLE", ETV ABHIRUCHI
 http://xtv.ooo:8080/MansoorWapda/258741/244444
@@ -25,7 +25,7 @@ http://mixbix.xyz:8080/uH5cBpMpDK6w/7DqCJ3CvYRzX/236390
 http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/236394
 
 #EXTINF:-1 tvg-id="MaaMusic.in" tvg-name="STAR MAA MUSIC"  tvg-logo="https://i.imgur.com/bfqRfB4.png" group-title="MUSIC", STAR MAA MUSIC
-http://103.178.58.10:8000/play/a050/index.m3u8
+http://tr.redatvgold.com:80/0b14WRvtZckx/oW40Zf4h4t/281969
 
 #EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="GEMINI TV " tvg-logo="https://i.imgur.com/RQB9jek.jpg" group-title="ENTERTAINMENT", GEMINI TV 
 http://67288675027820143.napgoto413.xyz:80/play/vi608634/Tgn9Cjfe5y/820143.ts
@@ -54,14 +54,14 @@ http://xtv.ooo:8080/MansoorWapda/258741/244446
 #EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-name="RAJ MUSIC TELUGU"  tvg-logo="https://i.imgur.com/LiXGhkK.png?1" group-title="MUSIC", RAJ MUSIC TELUGU
 http://mixbix.xyz:8080/uH5cBpMpDK6w/7DqCJ3CvYRzX/236386 
 
-#EXTINF:-1 tvg-id="VanithaTV.in" tvg-name="VANITHA TV" tvg-logo="https://i.imgur.com/Hxh9Qxf.png" group-title="LIFESTYLE", VANITHA TV
-https://ythls.armelin.one/channel/UCTcH-GOkexQHWKBWSfOjhPQ.m3u8
+#EXTINF:-1 tvg-id="VanithaTV.in" tvg-name="VANITHA TV" tvg-logo="http://logo.protv.cc/picons/logos/VANITHA-TV.jpg" group-title="LIFESTYLE",TELUGU| VANITHA TV
+http://tr.redatvgold.com:80/0b14WRvtZckx/oW40Zf4h4t/155871
 
 #EXTINF:-1 tvg-id="" tvg-name="SAREGAMA TELUGU" tvg-logo="http://103.184.192.164:5001/jtvimage/Saregama_Telugu.png" group-title="ENTERTAINMENT", SAREGAMA TELUGU
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/280656
 
 #EXTINF:-1 tvg-id="CVR HEALTH" tvg-name="CVR HEALTH" tvg-logo="https://i.imgur.com/n3MRq4N.png" group-title="LIFESTYLE", CVR HEALTH
-http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834495&extension=ts
+http://tr.redatvgold.com:80/0b14WRvtZckx/oW40Zf4h4t/1097617
 
 #EXTINF:-1 tvg-id="studio one" tvg-name="STUDIO ONE" tvg-logo="https://i.imgur.com/o4TszHe.jpg" group-title="ENTERTAINMENT", STUDIO ONE
 http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834504&extension=ts
@@ -90,6 +90,9 @@ http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/280731
 
 #EXTINF: -1 tvg-id="955" tvg-name=HINDU DHARMAM" tvg-logo="https://i.imgur.com/CqzVI8u.png group-title=" RELIGIOUS", HINDU DHARMAM
 https://ythls.armelin.one/channel/UCMg2yY8OzHhw6mOvgIkaXYg.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CV OM TELUGU" tvg-logo="http://logo.protv.cc/picons/logos/CVROM.jpg" group-title="RELIGIOUS"", CV OM TELUGU
+http://tr.redatvgold.com:80/0b14WRvtZckx/oW40Zf4h4t/1097619
 
 #EXTINF:-1 tvg-id="Sai TV" tvg-name="SAI TV" tvg-logo="https://i.imgur.com/IfBCZFB.png" group-title="RELIGIOUS", SAI TV
 http://decode.streamplay.in:1935/srisai/srisai/playlist.m3u8
@@ -291,8 +294,8 @@ http://103.139.171.5:5001/live.php?c=Nipuna&q=800&e=junk.m3u8
 #EXTINF:-1  tvg-id="Pogo.in" tvg-name="POGO" tvg-logo="https://i.imgur.com/96BYKkZ.jpg" group-title="KIDS", POGO 
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/280221
 
-#EXTINF:-1  tvg-id="" tvg-name="KUSHI TV" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="KIDS", KUSHI TV
-http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=281792&extension=ts
+#EXTINF:-1  tvg-id="KushiTV.in" tvg-name="KUSHI TV" tvg-logo="https://i.imgur.com/phI8yQS.png" group-title="KIDS", KUSHI TV
+http://tr.redatvgold.com:80/0b14WRvtZckx/oW40Zf4h4t/155868
 
 #EXTINF:-1  tvg-id="Sonic.in" tvg-name="NICK SONIC" tvg-logo="https://i.imgur.com/zy2LrKp.jpg" group-title="KIDS", NICK SONIC
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/279953
@@ -452,6 +455,9 @@ http://watchindia.net:8880/live/98697/23119/2423.ts
 #EXTINF:-1 tvg-id="" tvg-name=" EUROPSPORT HD" tvg-logo="https://i.imgur.com/qFgMB9I.png" group-title="SPORTS", EUROPSPORT 
 http://xtv.ooo:8080/MansoorWapda/258741/206324
 
+#EXTINF:-1 tvg-id="" tvg-name="JIOCINEMA CRICKET 1" tvg-logo="https://watchindia.net/images/channels/sports/Tata_IPL.png" group-title="Sports", JIOCINEMA CRICKET 1
+http://watchindia.net:8880/live/34289/68307/2492.ts
+
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.imgur.com/NambWyO.png" group-title="SPORTS", STAR SPORTS 1
 http://67288675027763057.napgoto413.xyz:80/play/vi608634/Tgn9Cjfe5y/763057.ts
 
@@ -465,7 +471,7 @@ http://67288675027800285.napgoto413.xyz:80/play/vi608634/Tgn9Cjfe5y/800285.ts
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/247161
 
 #EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="STAR SPORTS SELCT 2 HD" tvg-logo="https://i.imgur.com/FZtlTVZ.png" group-title="SPORTS", STAR SPORTS SELCT 2 
-http://67288675027785042.napgoto413.xyz:80/play/vi608634/Tgn9Cjfe5y/785042.ts
+http://watchindia.net:8880/live/34289/68307/1071.ts
 
 #EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="STAR SPORTS HINDI" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", STAR SPORTS HINDI
 http://67288675027795782.napgoto413.xyz:80/play/vi608634/Tgn9Cjfe5y/795782.ts
@@ -510,16 +516,16 @@ http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/75
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275053
 
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL" tvg-logo="https://i.imgur.com/gPgGnkC.png" group-title="ENTERTAINMENT", WARNER CHANNEL 
-http://sonyiptv.net:8080/95814pq/10869nm/189238
+http://67288675027312839.napgoto413.xyz:80/play/vi608634/Tgn9Cjfe5y/312839.ts
 
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN " tvg-logo="https://i.imgur.com/RSaVuX8.png" group-title="ENTERTAINMENT", AXN SD
-http://sonyiptv.net:8080/95814pq/10869nm/259898
+http://67288675027321119.napgoto413.xyz:80/play/vi608634/Tgn9Cjfe5y/321119.ts
 
 #EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.imgur.com/w9mEsuu.png" group-title="ENTERTAINMENT", COMEDY CENTRAL 
-http://vo01.mohdtv.com:8880/ALLChannelsf224f11eca7c/81777197/2662
+http://67288675027812160.napgoto413.xyz:80/play/vi608634/Tgn9Cjfe5y/812160.ts
 
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& FLIX HD" tvg-logo="https://i.imgur.com/UocrKIz.png" group-title="ENTERTAINMENT", & FLIX HD
-http://103.178.58.10:8000/play/a005/index.m3u8
+http://67288675027817111.napgoto413.xyz:80/play/vi608634/Tgn9Cjfe5y/817111.ts
 
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="& PRIVE HD" tvg-logo="https://i.imgur.com/qyK4ceT.png" group-title="ENTERTAINMENT", & PRIVE HD
 http://103.178.58.10:8000/play/a02m/index.m3u8
