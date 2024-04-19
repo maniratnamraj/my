@@ -515,6 +515,9 @@ http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/75
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="STAR MOVIES" tvg-logo="https://i.imgur.com/uStd85l.png" group-title="ENTERTAINMENT", STAR MOVIES
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/275053
 
+#EXTINF:-1  tvg-id="139" tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg" tvg-chno="74" group-title="ENTERTAINMENT",HBO
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/152373.ts
+
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL" tvg-logo="https://i.imgur.com/gPgGnkC.png" group-title="ENTERTAINMENT", WARNER CHANNEL 
 http://67288675027312839.napgoto413.xyz:80/play/vi608634/Tgn9Cjfe5y/312839.ts
 
@@ -528,7 +531,7 @@ http://67288675027812160.napgoto413.xyz:80/play/vi608634/Tgn9Cjfe5y/812160.ts
 http://67288675027817111.napgoto413.xyz:80/play/vi608634/Tgn9Cjfe5y/817111.ts
 
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="& PRIVE HD" tvg-logo="https://i.imgur.com/qyK4ceT.png" group-title="ENTERTAINMENT", & PRIVE HD
-http://103.178.58.10:8000/play/a02m/index.m3u8
+http://watchindia.net:8880/live/14045/34798/2103.ts
 
 #EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="MOVIES NOW HD" tvg-logo="https://i.imgur.com/EgeA30s.png" group-title="ENTERTAINMENT", MOVIES NOW HD
 http://watchindia.net:8880/live/24787/85016/2102.ts
