@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IPL In Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2024/03/IPL24.png" group-title="SPORTS", IPL In Telugu
-http://b1g.ooo:80/Alfie/Alfie/4
-
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="http://103.184.192.164:5001/jtvimage/ETV_Telugu.png" group-title="ENTERTAINMENT", ETV HD
 http://mixbix.xyz:8080/mLW2nMkArKNs/zMgjNRWVAzC6/236392
 
@@ -458,6 +455,9 @@ http://watchindia.net:8880/live/24787/85016/981.ts
 https://ythls.armelin.one/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8
 
 ------------------------------SPORTS------------------------------------------------
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IPL In Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2024/03/IPL24.png" group-title="SPORTS", IPL In Telugu
+http://b1g.ooo:80/Alfie/Alfie/4
 
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="SPORTS 18 HD" tvg-logo="https://i.imgur.com/KthSX8T.png" group-title="SPORTS", SPORTS 18 HD
 http://watchindia.net:8880/live/98697/23119/2423.ts
