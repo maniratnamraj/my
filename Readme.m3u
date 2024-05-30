@@ -68,6 +68,10 @@ http://sidflix.com:80/play/live.php?mac=00:1a:79:b8:68:a8&stream=834504&extensio
 
 #EXTINF:-1 tvg-id="Studio Yuva" tvg-name="STUDIO YUVA" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="ENTERTAINMENT", STUDIO YUVA
 http://b1g.ooo:80/Alfie/Alfie/20688
+
+#EXTINF:-1 tvg-id="MANA TV AP" tvg-name=" MANA TV AP" tvg-logo="https://i.imgur.com/OHmDE9p.png" group-title="NEWS",  MANA TV AP
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717057849/ei/2eRXZv6qFa_lsfIP_a2FiAE/ip/52.157.4.129/id/s9BWiRMaMQM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f63wVR1iymT8M4fxTnuWoLMzjqSu_tDG_Jj6l27BSIJsKtjOwmir0FOExls/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgBrAZllD7dJjo52--XTResxxZG3oED7EsY0YtMO4q4p0CIQD5ScTkcmUfzt8mrmBdpHjv4wmpenJ3O1D0pZeDicNfzA%3D%3D/file/index.m3u8
+
 =========================================Devotional=====================================================================
 
 #EXTINF:-1 tvg-id="SVBC2.in" tvg-name="SVBC 2 " tvg-logo="https://i.imgur.com/NtmRt1A.png" group-title="RELIGIOUS", SVBC 2 
