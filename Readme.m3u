@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="ETV HD" tvg-logo="http://103.184.192.164:5001/jtvimage/ETV_Telugu.png" group-title="ENTERTAINMENT", ETV HD
-http://mixbix.xyz:8080/9308861139/6204212992/236392
+http://starshare.live:8080/live/sDouR8ee0j/vJfJGRgmSs/9017.ts
 
 #EXTINF:-1 tvg-id="etvcinema.in" tvg-name="ETV CINEMA" tvg-logo="https://i.imgur.com/zqsI929.png" group-title="ENTERTAINMENT", ETV CINEMA
 http://filex.tv:8080/zubair168188/pak023/288592
 
 #EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="ETV ABHIRUCHI" tvg-logo="https://i.imgur.com/J7UcNO3.png" group-title="LIFESTYLE", ETV ABHIRUCHI
-http://mixbix.xyz:8080/mLW2nMkArKNs/zMgjNRWVAzC6/236403
+http://starshare.live:8080/live/sDouR8ee0j/vJfJGRgmSs/9053.ts
 
 #EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="https://i.imgur.com/FSkhFIP.png" group-title="LIFESTYLE", ETV LIFE
 http://filex.tv:8080/zubair168188/pak023/288594
@@ -16,13 +16,13 @@ http://filex.tv:8080/zubair168188/pak023/288594
 http://filex.tv:8080/zubair168188/pak023/288595
 
 #EXTINF:-1 tvg-id="starmaahd.in" tvg-name="STAR MAA HD" tvg-logo="https://i.imgur.com/CmiuOI9.png" group-title="ENTERTAINMENT", STAR MAA HD
-http://mixbix.xyz:8080/mLW2nMkArKNs/zMgjNRWVAzC6/236375
+http://starshare.live:8080/live/sDouR8ee0j/vJfJGRgmSs/168.ts
 
 #EXTINF:-1 tvg-id="starmaamovieshd.in" tvg-name="STAR MAA MOVIES" tvg-logo="https://i.imgur.com/UcGbJuw.jpg" group-title="ENTERTAINMENT", STAR MAA MOVIES 
-http://mixbix.xyz:8080/uH5cBpMpDK6w/7DqCJ3CvYRzX/236390
+http://starshare.live:8080/live/sDouR8ee0j/vJfJGRgmSs/9015.ts
 
 #EXTINF:-1 tvg-id="maagold.in" tvg-name="STAR MAA GOLD "  tvg-logo="https://i.imgur.com/rPVIPyW.jpg" group-title="ENTERTAINMENT", STAR MAA GOLD 
-http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/236394
+http://starshare.live:8080/live/sDouR8ee0j/vJfJGRgmSs/9043.ts
 
 #EXTINF:-1 tvg-id="MaaMusic.in" tvg-name="STAR MAA MUSIC"  tvg-logo="https://i.imgur.com/q5QX43C.jpg" group-title="MUSIC", STAR MAA MUSIC
 http://mixbix.xyz:8080/9308861139/6204212992/236413
